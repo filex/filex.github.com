@@ -1,0 +1,133 @@
+
+body {
+	background-image: url(tile.gif);
+
+    padding: 10px 0px 10px 0px;
+	font-family: Arial, Sans-serif;
+	font-size: small;
+	color: rgb(100, 100, 100);
+}
+
+
+
+h2, h3 {
+	font-size: small;
+}
+
+.nav {
+  text-align: right;
+  padding-top: 12px;
+}
+
+.nav * {
+  padding-left: 10px;
+}
+.nav a {
+  color: lightgrey;
+  text-decoration: none;
+}
+
+a:hover {
+	color: black;
+}
+
+.nav .sel {
+  color: darkgrey;
+}
+
+#container {
+	margin: 10px auto 10px auto;
+	width: 750px;
+	background: white;
+}
+
+.header, .date {
+	/* color: black; */
+}
+
+.header h1 {
+	display: none;
+}
+
+.header {
+  margin-top: 12px !important;
+  background-image: url(head.jpg);
+  height: 134px;
+}
+
+.map {
+   text-align: left;
+   padding-bottom: 20px;
+}
+
+
+.date {
+  width: 160px;
+  float: left;
+  margin: 0px;
+}
+
+.title {
+  float: left;
+  margin: 0px;
+}
+
+.text {
+  clear: both;
+  padding: 10px 0px 10px 160px;
+  text-align: justify;
+  width: 532px;
+}
+
+.footer, .entry, .map, .header, .nav {
+  width: 694px;
+  margin: 0px auto 0px auto;
+}
+
+.entry {
+  margin-top: 10px;
+}
+
+.footer {
+  padding-top: 30px;
+}
+
+.content {
+	margin-top: 20px;
+}
+
+#copy {
+  font-size: smaller;
+  
+}
+
+.photos {
+  margin-left: 160px;
+  padding: 0px 0px 10px 0px;
+}
+
+.photos img {
+  border: none;
+/*
+  margin-right: 2px;
+  margin-bottom: 2px;
+*/
+}
+
+#zoom {
+  display: none;
+  cursor: pointer;
+  margin: 0px auto;
+}
+
+#zoomdiv {
+  display: none;
+  text-align: center;
+  border-bottom: 1px solid lightgrey;
+  margin: 10px 0px 10px 0px;
+}
+
+#zoomcap {
+  height: 1pc;
+  padding: 2px;
+}

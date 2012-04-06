@@ -1,0 +1,141 @@
+.nav {
+  text-transform: uppercase;
+  float: right;
+  position: relative;
+  margin-top: -30px;
+font-weight: bold;
+}
+
+p {
+	hyphens: auto;
+	-webkit-hyphens: auto;
+	-moz-hyphens: auto;
+}
+
+#worldlink {
+  color: white;
+  padding-right: 20px;
+  text-decoration: none;
+}
+
+#navselected {
+  color: rgb(244, 0, 92);
+}
+
+body {
+  font-family: "Arial Narrow", Sans-serif;
+  font-size: 11pt;
+
+  color: black;
+  margin: 0;
+  background: black url(tile.gif);
+}
+
+
+
+#container:before{
+  content:url(box.png);
+  position: absolute;
+  margin-top: -35px;
+  margin-left: -60px;
+  z-index: 1;
+}
+
+#container {
+        margin: 50px auto 50px auto;
+        padding: 0 0 3px 0;
+        width: 751px;
+        background: white;
+    z-index: -1;
+}
+
+
+.header {
+  height: 231px;
+  margin: 26px 2px 0 0;
+  padding-bottom: 0px;
+}
+
+h1 {
+  background: url(head.gif) no-repeat;
+  height: 80px;
+  width: 307px;
+  color: transparent;
+  float: right;
+  padding-right: 30px;
+  margin-top: 59px;
+}
+
+
+#map {
+        position: relative;
+        left: 130px;
+        z-index: 0;
+}
+
+.content {
+        padding: 20px 20px 40px 45px;
+}
+
+
+h2.date {
+  width: 160px;
+  float: left;
+  margin: 0px;
+  clear: left;
+  color: rgb(244, 0, 92);
+}
+
+h3:before {
+  content: url(orchid.jpg);
+  position: relative;
+  top: -15px;
+  left: -20px;
+  width: 45px;
+  float: left;
+  height: 1px;
+}
+
+h2, h3, .nav {
+  text-transform: uppercase;
+  font-size: small;
+}
+
+
+.text {
+  padding: 0px 20px 0px 160px;
+/*  text-align: justify;*/
+}
+
+.footer {
+  margin-top: -30px;
+  margin-left: 45px;
+  width: 100%;
+}
+
+#copy {
+  font-size: smaller;
+}
+
+
+#mail > a {
+ background: url(mail.png);
+ position: absolute;
+ width: 83px;
+ height: 104px;
+ margin-left: 696px;
+ margin-top: -3px;
+ z-index: 1; /* damit es auch ueber dem content clickbar ist */
+ color: transparent;
+ display: block;
+}
+
+.fotos {
+  margin-left: 160px;
+  padding: 0px 0px 30px 0px;
+}
+
+.fotos img {
+  border: none;
+}
+

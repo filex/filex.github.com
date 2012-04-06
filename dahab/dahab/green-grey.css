@@ -1,0 +1,172 @@
+
+body {
+	background-color: rgb(235,235,235);
+	margin: 0px;
+	font-size: small;
+	font-family: sans-serif;
+	color: lightgrey;
+}
+
+div {
+	margin: 0px;
+}
+
+#xcontainer {
+	margin: 0 auto;
+	width: 1000;
+}
+
+
+#mainNavi {
+	background-color: white;
+	padding-right: 36px;
+	text-align: right;
+	padding-top: 15px;
+	padding-bottom: 8px;
+	text-align: right;
+}
+
+.navigation a:hover {
+	color: darkgrey;
+}
+.navigation a.selected {
+	color: darkgrey;
+}
+
+#content .navigation a:hover,
+#content .navigation a.selected {
+	color: #bbc832;
+}
+
+.navigation a {
+	text-decoration: none;
+	color: lightgrey;
+}
+#content .navigation a {
+	color: darkgrey;
+}
+
+#mainNavi span {
+	padding-left: 5px;
+	padding-right: 5px;
+	height: 100%;
+}
+
+#mainNavi span + span {
+	border-left: 1px solid lightgrey;
+}
+
+#subNavi {
+	width: 272px;
+	text-align: right;
+	float: left;
+}
+#subNavi li {
+	margin-bottom: 5px;
+}
+
+#relNavi {
+	position: absolute;
+	left: 952px;
+/*	top: 718px; */
+}
+
+#relNavi .arrow {
+	float: left;
+	display: block;
+	height: 29px;
+	width: 29px;
+	background-position: -4px -4px;
+	background-repeat: no-repeat;
+	background-color: lightgrey;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+/* for mozilla/khtml */
+#relNavi .arrow[href] {
+	background-color: #bbc832;
+}
+/* for ie */
+#relNavi .arrow:link {
+	background-color: #bbc832;
+}
+#relNavi .arrow:visited {
+	background-color: #bbc832;
+}
+
+#relNavi span {
+	display: none;
+}
+
+#prev {
+	background-image: url(arrow_left.gif);
+}
+#up {
+	background-image: url(arrow_up.gif);
+}
+#next {
+	background-image: url(arrow_right.gif);
+}
+
+
+
+
+/* page header */
+
+#header {
+	margin: 0px;
+	padding: 0px;
+    width: 100%;
+	background-color: #bbc832;
+    height: 230px;
+	background-image: url(head.jpg);
+	background-position: right;
+	background-repeat: no-repeat;
+	margin-bottom: 45px;
+}
+
+#header h1 {
+	margin: 0px;
+	margin-left: 40px;
+	background-image: url(karte_dahab.gif);
+	background-repeat: no-repeat;
+    height: 230px;
+}
+
+#header span {
+	display: none;
+}
+
+
+/* content area */
+
+.pictures {
+	width: 650px;
+	position: absolute;
+	left: 330px;
+}
+
+
+ul {
+	list-style-position: inside;
+	list-style-type: none;
+	padding: 0px;
+	margin: 0px;
+}
+
+#thumbs ul {
+	line-height: 35px;
+}
+#thumbs li {
+	display: inline;
+	margin-right: 10px;
+}
+
+img {
+	border: none;
+}
+
+#xhtml {
+	display: none;
+}

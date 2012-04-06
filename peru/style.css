@@ -1,0 +1,144 @@
+body {
+  padding: 10px 0px 10px 0px;
+  font-family: Arial, Sans-serif;
+  font-size: small;
+  color: rgb(100, 100, 100);
+  margin: 0;
+  background-color: white;
+}
+
+h3, h2 {
+	font-size: small;
+}
+
+
+#worldlink {
+  background: url(logo_s.jpg);
+display:block;
+height:52px;
+left:68px;
+margin-bottom:-60px;
+position:relative;
+width:168px;
+}
+
+.nav span {
+  display: none;
+}
+
+
+a:hover {
+	color: #D3C289;
+}
+
+.nav .sel {
+display: none;
+}
+
+
+#container {
+ margin: 10px auto 10px auto;
+ width: 941px;
+ background: white url(border_right.png) no-repeat;
+ background-position: 816px 681px;
+}
+
+
+.header h1 {
+	display: none;
+}
+
+.header {
+  height: 231px;
+  background: white url(head.jpg) no-repeat;
+  margin: 12px 0 0 0;
+  padding-bottom: 0px;
+}
+
+.map {
+	padding: 0;
+	margin: 0;
+	height: 450px;
+}
+
+
+.content {
+	width: 751px;
+	padding: 40px 0 0 65px;
+	margin: 0;
+	background: white url(border_left.png) no-repeat;
+}
+
+.entry {
+position: relative;
+top: -40px;
+background: black;
+	color: white;
+ 	padding: 60px 45px 0px 45px;
+}
+
+.entry + .entry {
+	padding-top: 20px;
+}
+
+
+
+.date {
+  width: 160px;
+  float: left;
+  margin: 0px;
+  clear: left;
+}
+
+.title {
+  margin: 0px;
+}
+
+.text {
+  padding: 0px 0px 20px 160px;
+  text-align: justify;
+}
+
+
+.footer {
+  margin-top: -30px;
+  margin-left: 65px;
+  width: 100%;
+}
+
+#copy {
+  font-size: smaller;  
+}
+
+
+#mail a {
+ background: url(mail2.gif);
+ position: absolute;
+ width: 84px;
+ height: 105px;
+ margin-left: 766px;
+ margin-top: -40px;
+ z-index: 1;
+ color: transparent;
+ display: block;
+}
+
+a {
+ color: white;
+}
+
+#zoom {
+  display: none;
+
+  cursor: pointer;
+  margin: 0px auto;
+}
+
+.fotos {
+  margin-left: 160px;
+  padding: 0px 0px 10px 0px;
+}
+
+.fotos img {
+  border: none;
+}
