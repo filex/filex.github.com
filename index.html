@@ -8,7 +8,9 @@
 <title>ferndrang</title>
 <link rel="alternate" media="handheld" href="http://m.ferndrang.de/" />
 <link rel="shortcut icon" href="world/icon.png" type="image/x-icon">
-<script src="http://m.ferndrang.de/;rp=script/m/redir.js.xml"></script>
+<script>
+if (('ontouchstart' in window) || (window.innerWidth / (window.devicePixelRatio || 1)) < 400) document.location.href="http://m.ferndrang.de/?src=js-mobile-redirect";
+</script>
 <style>
 body {
 	font-size: 11px;
@@ -116,7 +118,7 @@ top: -130px;
 #mobilelink {
 display: block;
 position: absolute;
-top: 70px;
+top: 60px;
 left: -45px;
 -webkit-transform: rotate(-35deg);
 -moz-transform: rotate(-30deg);
