@@ -8,5 +8,6 @@
 	<journey href="bali/">Taipeh, Bali, Lombok</journey>
 	<journey href="namibia/">Namibia</journey>
 	<journey href="vietnam/">Vietnam</journey>
-	<journey class="current" href="http://live.ferndrang.de/kuba">Kuba</journey>
+	<journey href="http://live.ferndrang.de/kuba">Kuba</journey>
+	<journey class="current" href="http://live.ferndrang.de/thailand">Thailand</journey>
 </index>
