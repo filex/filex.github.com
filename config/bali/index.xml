@@ -1,215 +1,380 @@
 <?xml version="1.0"?>
-<journey><settings><journey><title>Taipeh, Bali, Lombok</title><year>2009</year></journey></settings><blog><entry path="e1" name=""><date>28. August 2009</date><headline>Taipeh: Jadesalat und Ehrenmal</headline><text>Nach 13 Stunden Flug sind wir passend zum Frühstück in Taipeh gelandet. Wir konnten also sofort damit beginnen, uns die Füße platt zu laufen. Wir sind Ewigkeiten durch die irre Hitze und die verwirrenden Straßen Taipehs gelaufen, die überall gleich aussehen und praktischer Weise auch oft genug gleich heißen. Auf den ersten Blick typisch chinesisch. Die Menschen sind aber im Gegensatz zum Festland sehr aufgeschlossen und freundlich. Das überbrückt aber leider die Sprachbarriere nicht. Keinem Taxi-Fahrer konnten wir klar machen, wohin wir wollten, auch Stadtpläne haben nicht geholfen.
+<journey>
+  <settings>
+    <journey>
+      <title>Taipeh, Bali, Lombok</title>
+      <year>2009</year>
+    </journey>
+  </settings>
+  <blog>
+    <entry path="e1" name="">
+      <date>28. August 2009</date>
+      <headline>Taipeh: Jadesalat und Ehrenmal</headline>
+      <text>
+	  Nach 13 Stunden Flug sind wir passend zum Fr&#xFC;hst&#xFC;ck in Taipeh
+	  gelandet. Wir konnten also sofort damit beginnen, uns die F&#xFC;&#xDF;e
+	  platt zu laufen. Wir sind Ewigkeiten durch die irre Hitze und die
+	  verwirrenden Stra&#xDF;en Taipehs gelaufen, die &#xFC;berall gleich
+	  aussehen und praktischer Weise auch oft genug gleich hei&#xDF;en. Auf den
+	  ersten Blick typisch chinesisch. Die Menschen sind aber im Gegensatz zum
+	  Festland sehr aufgeschlossen und freundlich. Das &#xFC;berbr&#xFC;ckt
+	  aber leider die Sprachbarriere nicht. Keinem Taxi-Fahrer konnten wir klar
+	  machen, wohin wir wollten, auch Stadtpl&#xE4;ne haben nicht geholfen.
 
-Von einer Unmenge kleiner Buden abgesehen, die Dinge zubereiten und verkaufen, die als Nahrungsmittel im weitesten Sinn durchgehen könnten, hat Teipeh auch einige Sehenswürdigkeiten zu bieten. Allen voran das Palastmuseum, das unglaubliche 600.000 Kostbarkeiten aus dem alten China zu bieten hat, die beim großen Formosa-Umzug irgendwie im Gepäck gelandet sind. Das absolute Highlight der Sammlung ist der Jadesalat - ein Salatkopf, der so kunstfertig aus einem grün-weißen Stück Jade gefertigt wurde, dass man hineinbeißen würde, wenn er nicht in der Vitrine steckte. Architektonisch beeindruckt das Ehrenmal für Chiang Kei-Scheck. Die Anlage ist vollkommen überdimensioniert, aber sehr schön gemacht.
+Von einer Unmenge kleiner Buden abgesehen, die Dinge zubereiten und verkaufen,
+die als Nahrungsmittel im weitesten Sinn durchgehen k&#xF6;nnten, hat Teipeh
+auch einige Sehensw&#xFC;rdigkeiten zu bieten. Allen voran das Palastmuseum,
+das unglaubliche 600.000 Kostbarkeiten aus dem alten China zu bieten hat, die
+beim gro&#xDF;en Formosa-Umzug irgendwie im Gep&#xE4;ck gelandet sind. Das
+absolute Highlight der Sammlung ist der Jadesalat - ein Salatkopf, der so
+kunstfertig aus einem gr&#xFC;n-wei&#xDF;en St&#xFC;ck Jade gefertigt wurde,
+dass man hineinbei&#xDF;en w&#xFC;rde, wenn er nicht in der Vitrine steckte.
+Architektonisch beeindruckt das Ehrenmal f&#xFC;r Chiang Kei-Scheck. Die Anlage
+ist vollkommen &#xFC;berdimensioniert, aber sehr sch&#xF6;n gemacht.
 
-Jetzt sind wir in wenigen Tagen mindestens eine Marathonstrecke durch Taipeh gelaufen und freuen uns nach der schwülen Hitze auf "Abkühlung" in Bali.
+Jetzt sind wir in wenigen Tagen mindestens eine Marathonstrecke durch Taipeh
+gelaufen und freuen uns nach der schw&#xFC;len Hitze auf "Abk&#xFC;hlung" in
+Bali.
+
+            <div>
+			  Nach 13 Stunden Flug sind wir passend zum Fr&#xFC;hst&#xFC;ck in
+			  Taipeh gelandet. Wir konnten also sofort damit beginnen, uns die
+			  F&#xFC;&#xDF;e platt zu laufen. Wir sind Ewigkeiten durch die
+			  irre Hitze und die verwirrenden Stra&#xDF;en Taipehs gelaufen,
+			  die &#xFC;berall gleich aussehen und praktischer Weise auch oft
+			  genug gleich hei&#xDF;en. Auf den ersten Blick typisch
+			  chinesisch. Die Menschen sind aber im Gegensatz zum Festland sehr
+			  aufgeschlossen und freundlich. Das &#xFC;berbr&#xFC;ckt aber
+			  leider die Sprachbarriere nicht. Keinem Taxi-Fahrer konnten wir
+			  klar machen, wohin wir wollten, auch Stadtpl&#xE4;ne haben nicht
+			  geholfen.
+
+
+			  Von einer Unmenge kleiner Buden abgesehen, die Dinge zubereiten
+			  und verkaufen, die als Nahrungsmittel im weitesten Sinn
+			  durchgehen k&#xF6;nnten, hat Teipeh auch einige
+			  Sehensw&#xFC;rdigkeiten zu bieten. Allen voran das Palastmuseum,
+			  das unglaubliche 600.000 Kostbarkeiten aus dem alten China zu
+			  bieten hat, die beim gro&#xDF;en Formosa-Umzug irgendwie im
+			  Gep&#xE4;ck gelandet sind. Das absolute Highlight der Sammlung
+			  ist der Jadesalat - ein Salatkopf, der so kunstfertig aus einem
+			  gr&#xFC;n-wei&#xDF;en St&#xFC;ck Jade gefertigt wurde, dass man
+			  hineinbei&#xDF;en w&#xFC;rde, wenn er nicht in der Vitrine
+			  steckte. Architektonisch beeindruckt das Ehrenmal f&#xFC;r Chiang
+			  Kei-Scheck. Die Anlage ist vollkommen &#xFC;berdimensioniert,
+			  aber sehr sch&#xF6;n gemacht.
+
+
+			  Jetzt sind wir in wenigen Tagen mindestens eine Marathonstrecke
+			  durch Taipeh gelaufen und freuen uns nach der schw&#xFC;len Hitze
+			  auf "Abk&#xFC;hlung" in Bali.
+            </div>
+          </text>
+      <photo width="640" height="425" src="http://ferndrang.de/bali/fotos/DSC_4741.jpg"/>
+      <photo width="425" height="640"  src="http://ferndrang.de/bali/fotos/DSC_4773.jpg"/>
+      <photo width="640" height="425"  src="http://ferndrang.de/bali/fotos/DSC_4782.jpg"/>
+      <photo width="640" height="425"  src="http://ferndrang.de/bali/fotos/DSC_4853.jpg"/>
+      <photo width="640" height="425"  src="http://ferndrang.de/bali/fotos/DSC_4855.jpg"/>
+      <photo width="640" height="425"  src="http://ferndrang.de/bali/fotos/DSC_4869.jpg"/>
+      <photo width="640" height="425"  src="http://ferndrang.de/bali/fotos/DSC_4873.jpg"/>
+      <photo width="640" height="425"  src="http://ferndrang.de/bali/fotos/DSC_4897.jpg"/>
+      <photo width="640" height="425"  src="http://ferndrang.de/bali/fotos/DSC_4933.jpg"/>
+      <photo width="640" height="425"  src="http://ferndrang.de/bali/fotos/DSC_5053.jpg"/>
+      <photo width="640" height="425"  src="http://ferndrang.de/bali/fotos/DSC_4981.jpg"/>
+      <photo width="640" height="425"  src="http://ferndrang.de/bali/fotos/DSC_5079.jpg"/>
+    </entry>
+    <entry path="e2" name="">
+      <date>2. September 2009</date>
+      <headline>Nach Bali</headline>
+      <text>Mitten in der Nacht sind wir endlich in Bali angekommen. Trotz sp&#xE4;ter Stunde stand jemand von unserem Hotel, der "Villa Kresna" in Seminyak, bereit. In keiner halben Stunde konnten wir unsere "Kawi Suite" beziehen. F&#xFC;r den Start haben wir uns eine echt luxuri&#xF6;se Bleibe gesucht: Eigene kleine Terrasse, Bad im Freien, gigantisches Bett und eine extra Etage mit einem winzigen Tischlein zum Tagebuchschreiben. Der einen oder anderen d&#xFC;rfte das bekannt vor kommen :)
+
+Nachdem wir endlich mal ausschlafen konnten, haben wir das Fr&#xFC;hst&#xFC;ck auf unserer Terrasse eingenommen und anschlie&#xDF;end den Strand in Augenschein genommen. Wie Holland - nur in hei&#xDF;. Allerdings nicht so hei&#xDF; wie Taipeh, die ersehnte Abk&#xFC;hlung! Wir haben auch direkt etwas Regen abbekommen. Aber sp&#xE4;ter war noch genug Sonne f&#xFC;r den ersten Brand &#xFC;brig.
 
 
             <div>
-              Nach 13 Stunden Flug sind wir passend zum Frühstück in Taipeh gelandet. Wir konnten also sofort damit beginnen, uns die Füße platt zu laufen. Wir sind Ewigkeiten durch die irre Hitze und die verwirrenden Straßen Taipehs gelaufen, die überall gleich aussehen und praktischer Weise auch oft genug gleich heißen. Auf den ersten Blick typisch chinesisch. Die Menschen sind aber im Gegensatz zum Festland sehr aufgeschlossen und freundlich. Das überbrückt aber leider die Sprachbarriere nicht. Keinem Taxi-Fahrer konnten wir klar machen, wohin wir wollten, auch Stadtpläne haben nicht geholfen.
+              Mitten in der Nacht sind wir endlich in Bali angekommen. Trotz sp&#xE4;ter Stunde stand jemand von unserem Hotel, der "Villa Kresna" in Seminyak, bereit. In keiner halben Stunde konnten wir unsere "Kawi Suite" beziehen. F&#xFC;r den Start haben wir uns eine echt luxuri&#xF6;se Bleibe gesucht: Eigene kleine Terrasse, Bad im Freien, gigantisches Bett und eine extra Etage mit einem winzigen Tischlein zum Tagebuchschreiben. Der einen oder anderen d&#xFC;rfte das bekannt vor kommen :)
 
 
-              Von einer Unmenge kleiner Buden abgesehen, die Dinge zubereiten und verkaufen, die als Nahrungsmittel im weitesten Sinn durchgehen könnten, hat Teipeh auch einige Sehenswürdigkeiten zu bieten. Allen voran das Palastmuseum, das unglaubliche 600.000 Kostbarkeiten aus dem alten China zu bieten hat, die beim großen Formosa-Umzug irgendwie im Gepäck gelandet sind. Das absolute Highlight der Sammlung ist der Jadesalat - ein Salatkopf, der so kunstfertig aus einem grün-weißen Stück Jade gefertigt wurde, dass man hineinbeißen würde, wenn er nicht in der Vitrine steckte. Architektonisch beeindruckt das Ehrenmal für Chiang Kei-Scheck. Die Anlage ist vollkommen überdimensioniert, aber sehr schön gemacht.
-
-
-              Jetzt sind wir in wenigen Tagen mindestens eine Marathonstrecke durch Taipeh gelaufen und freuen uns nach der schwülen Hitze auf "Abkühlung" in Bali.
+              Nachdem wir endlich mal ausschlafen konnten, haben wir das Fr&#xFC;hst&#xFC;ck auf unserer Terrasse eingenommen und anschlie&#xDF;end den Strand in Augenschein genommen. Wie Holland - nur in hei&#xDF;. Allerdings nicht so hei&#xDF; wie Taipeh, die ersehnte Abk&#xFC;hlung! Wir haben auch direkt etwas Regen abbekommen. Aber sp&#xE4;ter war noch genug Sonne f&#xFC;r den ersten Brand &#xFC;brig.
 
 
             </div>
-          </text><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_4741.jpg"/><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_4773.jpg"/><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_4782.jpg"/><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_4853.jpg"/><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_4855.jpg"/><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_4869.jpg"/><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_4873.jpg"/><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_4897.jpg"/><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_4933.jpg"/><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_5053.jpg"/><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_4981.jpg"/><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_5079.jpg"/></entry><entry path="e2" name=""><date>2. September 2009</date><headline>Nach Bali</headline><text>Mitten in der Nacht sind wir endlich in Bali angekommen. Trotz später Stunde stand jemand von unserem Hotel, der "Villa Kresna" in Seminyak, bereit. In keiner halben Stunde konnten wir unsere "Kawi Suite" beziehen. Für den Start haben wir uns eine echt luxuriöse Bleibe gesucht: Eigene kleine Terrasse, Bad im Freien, gigantisches Bett und eine extra Etage mit einem winzigen Tischlein zum Tagebuchschreiben. Der einen oder anderen dürfte das bekannt vor kommen :)
+          </text>
+      <photo width="640" height="425" src="http://ferndrang.de/bali/fotos/DSC_5100.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/bali/fotos/DSC_5113.jpg"/>
+      <photo width="425" height="640" src="http://ferndrang.de/bali/fotos/DSC_5125.jpg"/>
+      <photo width="425" height="640" src="http://ferndrang.de/bali/fotos/DSC_5263.jpg"/>
+    </entry>
+    <entry path="e3" name="">
+      <date>3. September 2009</date>
+      <headline>Seminyak, Pura Tanah Lot</headline>
+      <text>Um einen Ausflug zum Tempel Tanah Lot zu machen, haben wir uns einen Roller gemietet. Auf der Karte sah das ganz nah aus. Tats&#xE4;chlich sind wir Ewigkeiten durch die Gegend ged&#xFC;st und haben vermutlich jeden Umweg mitgenommen. Der Verkehr ist f&#xFC;r Rollerfahrer super: Autos stehen im Stau, Roller quetschen sich trotzdem &#xFC;berall durch. Links- oder Rechtsverkehr ist dann auch nicht mehr so wichtig.
 
-Nachdem wir endlich mal ausschlafen konnten, haben wir das Frühstück auf unserer Terrasse eingenommen und anschließend den Strand in Augenschein genommen. Wie Holland - nur in heiß. Allerdings nicht so heiß wie Taipeh, die ersehnte Abkühlung! Wir haben auch direkt etwas Regen abbekommen. Aber später war noch genug Sonne für den ersten Brand übrig.
+Der Tempel liegt malerisch auf einem kleinen Felsen im Meer. Wir waren bei Ebbe dort und konnten hin&#xFC;ber gehen. Ohne Rock und rechten Glauben durften wir aber nur von au&#xDF;en gucken. Leider hat das Wetter nicht mitgespielt und uns Regen und grauen Himmel beschert. Auf dem R&#xFC;ckweg haben wir uns anders verfahren, dabei aber noch einen h&#xFC;bschen Tempel ganz in der N&#xE4;he von Seminyak entdeckt.
+
+F&#xFC;r die anstrengende Tour haben wir uns mit einem fantastischen Essen im "Sate Bali" belohnt. Dort gab es so genannte "Rijstafeln" (na, wer hat hier wohl kolonisiert?), mit einem guten Dutzend balinesischer Gerichte in Probiergr&#xF6;&#xDF;e - eins k&#xF6;stlicher als das andere.
 
 
             <div>
-              Mitten in der Nacht sind wir endlich in Bali angekommen. Trotz später Stunde stand jemand von unserem Hotel, der "Villa Kresna" in Seminyak, bereit. In keiner halben Stunde konnten wir unsere "Kawi Suite" beziehen. Für den Start haben wir uns eine echt luxuriöse Bleibe gesucht: Eigene kleine Terrasse, Bad im Freien, gigantisches Bett und eine extra Etage mit einem winzigen Tischlein zum Tagebuchschreiben. Der einen oder anderen dürfte das bekannt vor kommen :)
+              Um einen Ausflug zum Tempel Tanah Lot zu machen, haben wir uns einen Roller gemietet. Auf der Karte sah das ganz nah aus. Tats&#xE4;chlich sind wir Ewigkeiten durch die Gegend ged&#xFC;st und haben vermutlich jeden Umweg mitgenommen. Der Verkehr ist f&#xFC;r Rollerfahrer super: Autos stehen im Stau, Roller quetschen sich trotzdem &#xFC;berall durch. Links- oder Rechtsverkehr ist dann auch nicht mehr so wichtig.
 
 
-              Nachdem wir endlich mal ausschlafen konnten, haben wir das Frühstück auf unserer Terrasse eingenommen und anschließend den Strand in Augenschein genommen. Wie Holland - nur in heiß. Allerdings nicht so heiß wie Taipeh, die ersehnte Abkühlung! Wir haben auch direkt etwas Regen abbekommen. Aber später war noch genug Sonne für den ersten Brand übrig.
+              Der Tempel liegt malerisch auf einem kleinen Felsen im Meer. Wir waren bei Ebbe dort und konnten hin&#xFC;ber gehen. Ohne Rock und rechten Glauben durften wir aber nur von au&#xDF;en gucken. Leider hat das Wetter nicht mitgespielt und uns Regen und grauen Himmel beschert. Auf dem R&#xFC;ckweg haben wir uns anders verfahren, dabei aber noch einen h&#xFC;bschen Tempel ganz in der N&#xE4;he von Seminyak entdeckt.
+
+
+              F&#xFC;r die anstrengende Tour haben wir uns mit einem fantastischen Essen im "Sate Bali" belohnt. Dort gab es so genannte "Rijstafeln" (na, wer hat hier wohl kolonisiert?), mit einem guten Dutzend balinesischer Gerichte in Probiergr&#xF6;&#xDF;e - eins k&#xF6;stlicher als das andere.
 
 
             </div>
-          </text><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_5100.jpg"/><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_5113.jpg"/><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_5125.jpg"/><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_5263.jpg"/></entry><entry path="e3" name=""><date>3. September 2009</date><headline>Seminyak, Pura Tanah Lot</headline><text>Um einen Ausflug zum Tempel Tanah Lot zu machen, haben wir uns einen Roller gemietet. Auf der Karte sah das ganz nah aus. Tatsächlich sind wir Ewigkeiten durch die Gegend gedüst und haben vermutlich jeden Umweg mitgenommen. Der Verkehr ist für Rollerfahrer super: Autos stehen im Stau, Roller quetschen sich trotzdem überall durch. Links- oder Rechtsverkehr ist dann auch nicht mehr so wichtig.
+          </text>
+      <photo width="640" height="425" src="http://ferndrang.de/bali/fotos/DSC_5148.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/bali/fotos/DSC_5181.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/bali/fotos/DSC_5203.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/bali/fotos/DSC_5212.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/bali/fotos/DSC_5215.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/bali/fotos/DSC_5216.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/bali/fotos/DSC_5219.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/bali/fotos/DSC_5226.jpg"/>
+    </entry>
+    <entry path="e4" name="">
+      <date>4. September 2009</date>
+      <headline>Nach Ubud</headline>
+      <text>Den letzten Tag in Seminyak haben wir noch ganz faul am Strand verbracht. Wir konnten uns zwar nicht aufraffen einen Surfkurs zu machen, der Wellengang schien aber durchaus daf&#xFC;r geeignet. Nach soviel Faulenzen haben wir die Fahrt nach Ubud total gestresst im Taxi im Stau begonnen. Gl&#xFC;cklicherweise hat der Bus nach telefonischer Not-Ank&#xFC;ndigung noch auf uns gewartet.
 
-Der Tempel liegt malerisch auf einem kleinen Felsen im Meer. Wir waren bei Ebbe dort und konnten hinüber gehen. Ohne Rock und rechten Glauben durften wir aber nur von außen gucken. Leider hat das Wetter nicht mitgespielt und uns Regen und grauen Himmel beschert. Auf dem Rückweg haben wir uns anders verfahren, dabei aber noch einen hübschen Tempel ganz in der Nähe von Seminyak entdeckt.
+In Ubud, das mitten in Reisterrassen und gr&#xFC;n bewaldeten H&#xFC;geln liegt, sind wir im kleinen Hotel "Pramesti" gelandet. Vor unserer H&#xFC;tte ist eine kleine Terrasse, von der aus wir die hoteleigene Kanienchenfamilie durch den Garten hoppeln sehen k&#xF6;nnen. Davon abgesehen k&#xF6;nnte die Bleibe etwas unschimmeliger sein.
 
-Für die anstrengende Tour haben wir uns mit einem fantastischen Essen im "Sate Bali" belohnt. Dort gab es so genannte "Rijstafeln" (na, wer hat hier wohl kolonisiert?), mit einem guten Dutzend balinesischer Gerichte in Probiergröße - eins köstlicher als das andere.
+Der Ort besteht haupts&#xE4;chlich aus zwei Stra&#xDF;en, die ges&#xE4;umt sind von Hotels, Restaurants und Shops. Die k&#xFC;nstlerische Ausbeute, mit der der Ort prahlt, ersch&#xF6;pft sich in knallbunten Urwalbildern und abgemalten "Originalen". Die meisten Restaurants und Hotels sind aber sehr h&#xFC;bsch und liebevoll gestaltet. Zwischen soviel balinesischer Wohnkunst fallen die vielen Tempelchen kaum auf.
 
 
             <div>
-              Um einen Ausflug zum Tempel Tanah Lot zu machen, haben wir uns einen Roller gemietet. Auf der Karte sah das ganz nah aus. Tatsächlich sind wir Ewigkeiten durch die Gegend gedüst und haben vermutlich jeden Umweg mitgenommen. Der Verkehr ist für Rollerfahrer super: Autos stehen im Stau, Roller quetschen sich trotzdem überall durch. Links- oder Rechtsverkehr ist dann auch nicht mehr so wichtig.
+              Den letzten Tag in Seminyak haben wir noch ganz faul am Strand verbracht. Wir konnten uns zwar nicht aufraffen einen Surfkurs zu machen, der Wellengang schien aber durchaus daf&#xFC;r geeignet. Nach soviel Faulenzen haben wir die Fahrt nach Ubud total gestresst im Taxi im Stau begonnen. Gl&#xFC;cklicherweise hat der Bus nach telefonischer Not-Ank&#xFC;ndigung noch auf uns gewartet.
 
 
-              Der Tempel liegt malerisch auf einem kleinen Felsen im Meer. Wir waren bei Ebbe dort und konnten hinüber gehen. Ohne Rock und rechten Glauben durften wir aber nur von außen gucken. Leider hat das Wetter nicht mitgespielt und uns Regen und grauen Himmel beschert. Auf dem Rückweg haben wir uns anders verfahren, dabei aber noch einen hübschen Tempel ganz in der Nähe von Seminyak entdeckt.
+              In Ubud, das mitten in Reisterrassen und gr&#xFC;n bewaldeten H&#xFC;geln liegt, sind wir im kleinen Hotel "Pramesti" gelandet. Vor unserer H&#xFC;tte ist eine kleine Terrasse, von der aus wir die hoteleigene Kanienchenfamilie durch den Garten hoppeln sehen k&#xF6;nnen. Davon abgesehen k&#xF6;nnte die Bleibe etwas unschimmeliger sein.
 
 
-              Für die anstrengende Tour haben wir uns mit einem fantastischen Essen im "Sate Bali" belohnt. Dort gab es so genannte "Rijstafeln" (na, wer hat hier wohl kolonisiert?), mit einem guten Dutzend balinesischer Gerichte in Probiergröße - eins köstlicher als das andere.
+              Der Ort besteht haupts&#xE4;chlich aus zwei Stra&#xDF;en, die ges&#xE4;umt sind von Hotels, Restaurants und Shops. Die k&#xFC;nstlerische Ausbeute, mit der der Ort prahlt, ersch&#xF6;pft sich in knallbunten Urwalbildern und abgemalten "Originalen". Die meisten Restaurants und Hotels sind aber sehr h&#xFC;bsch und liebevoll gestaltet. Zwischen soviel balinesischer Wohnkunst fallen die vielen Tempelchen kaum auf.
 
 
             </div>
-          </text><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_5148.jpg"/><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_5181.jpg"/><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_5203.jpg"/><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_5212.jpg"/><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_5215.jpg"/><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_5216.jpg"/><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_5219.jpg"/><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_5226.jpg"/></entry><entry path="e4" name=""><date>4. September 2009</date><headline>Nach Ubud</headline><text>Den letzten Tag in Seminyak haben wir noch ganz faul am Strand verbracht. Wir konnten uns zwar nicht aufraffen einen Surfkurs zu machen, der Wellengang schien aber durchaus dafür geeignet. Nach soviel Faulenzen haben wir die Fahrt nach Ubud total gestresst im Taxi im Stau begonnen. Glücklicherweise hat der Bus nach telefonischer Not-Ankündigung noch auf uns gewartet.
+          </text>
+      <photo width="640" height="425" src="http://ferndrang.de/bali/fotos/DSC_5300.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/bali/fotos/DSC_5304.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/bali/fotos/DSC_5378.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/bali/fotos/DSC_5379.jpg"/>
+    </entry>
+    <entry path="e5" name="">
+      <date>5. September 2009</date>
+      <headline>Ubud und Umgebung</headline>
+      <text>Es ist mal wieder Zeit, sich die F&#xFC;&#xDF;e platt zu laufen. Der erste Abstecher ging in das Affenw&#xE4;ldchen am Ende der Stra&#xDF;e. Der Park ist zwar winzig, beherbergt aber neben einer Unzahl kleiner Affen einen sehr sch&#xF6;nen Tempel. Der Mini-Urwald greift mit langen Baumwurzeln nach den Gem&#xE4;uern, die sich unter dicken Moosschichten verstecken.
 
-In Ubud, das mitten in Reisterrassen und grün bewaldeten Hügeln liegt, sind wir im kleinen Hotel "Pramesti" gelandet. Vor unserer Hütte ist eine kleine Terrasse, von der aus wir die hoteleigene Kanienchenfamilie durch den Garten hoppeln sehen können. Davon abgesehen könnte die Bleibe etwas unschimmeliger sein.
-
-Der Ort besteht hauptsächlich aus zwei Straßen, die gesäumt sind von Hotels, Restaurants und Shops. Die künstlerische Ausbeute, mit der der Ort prahlt, erschöpft sich in knallbunten Urwalbildern und abgemalten "Originalen". Die meisten Restaurants und Hotels sind aber sehr hübsch und liebevoll gestaltet. Zwischen soviel balinesischer Wohnkunst fallen die vielen Tempelchen kaum auf.
+Anschlie&#xDF;end haben wir Ubud Richtung Westen f&#xFC;r eine Wanderung in die Reisterrassen verlassen. Dank der schlechten Karten haben wir uns schon an der zweiten Kurve verlaufen. Irgendwann hat uns ein alter Balinese aufgelesen und uns &#xFC;ber Reisfelder zur&#xFC;ck zum Weg gef&#xFC;hrt. Der Umweg &#xFC;ber die d&#xFC;nnen Trampelpfade zwischen den Reisbecken hat sich aber sehr gelohnt. Sp&#xE4;ter sind wir einem Flusslauf gefolgt, der tolle Blicke in die Terrassen freigab. Mit m&#xFC;den Kn&#xF6;cheln und nach viel zu vielen Stunden waren wir gerade zum Abendessen wieder zuhause.
 
 
             <div>
-              Den letzten Tag in Seminyak haben wir noch ganz faul am Strand verbracht. Wir konnten uns zwar nicht aufraffen einen Surfkurs zu machen, der Wellengang schien aber durchaus dafür geeignet. Nach soviel Faulenzen haben wir die Fahrt nach Ubud total gestresst im Taxi im Stau begonnen. Glücklicherweise hat der Bus nach telefonischer Not-Ankündigung noch auf uns gewartet.
+              Es ist mal wieder Zeit, sich die F&#xFC;&#xDF;e platt zu laufen. Der erste Abstecher ging in das Affenw&#xE4;ldchen am Ende der Stra&#xDF;e. Der Park ist zwar winzig, beherbergt aber neben einer Unzahl kleiner Affen einen sehr sch&#xF6;nen Tempel. Der Mini-Urwald greift mit langen Baumwurzeln nach den Gem&#xE4;uern, die sich unter dicken Moosschichten verstecken.
 
 
-              In Ubud, das mitten in Reisterrassen und grün bewaldeten Hügeln liegt, sind wir im kleinen Hotel "Pramesti" gelandet. Vor unserer Hütte ist eine kleine Terrasse, von der aus wir die hoteleigene Kanienchenfamilie durch den Garten hoppeln sehen können. Davon abgesehen könnte die Bleibe etwas unschimmeliger sein.
-
-
-              Der Ort besteht hauptsächlich aus zwei Straßen, die gesäumt sind von Hotels, Restaurants und Shops. Die künstlerische Ausbeute, mit der der Ort prahlt, erschöpft sich in knallbunten Urwalbildern und abgemalten "Originalen". Die meisten Restaurants und Hotels sind aber sehr hübsch und liebevoll gestaltet. Zwischen soviel balinesischer Wohnkunst fallen die vielen Tempelchen kaum auf.
+              Anschlie&#xDF;end haben wir Ubud Richtung Westen f&#xFC;r eine Wanderung in die Reisterrassen verlassen. Dank der schlechten Karten haben wir uns schon an der zweiten Kurve verlaufen. Irgendwann hat uns ein alter Balinese aufgelesen und uns &#xFC;ber Reisfelder zur&#xFC;ck zum Weg gef&#xFC;hrt. Der Umweg &#xFC;ber die d&#xFC;nnen Trampelpfade zwischen den Reisbecken hat sich aber sehr gelohnt. Sp&#xE4;ter sind wir einem Flusslauf gefolgt, der tolle Blicke in die Terrassen freigab. Mit m&#xFC;den Kn&#xF6;cheln und nach viel zu vielen Stunden waren wir gerade zum Abendessen wieder zuhause.
 
 
             </div>
-          </text><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_5300.jpg"/><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_5304.jpg"/><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_5378.jpg"/><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_5379.jpg"/></entry><entry path="e5" name=""><date>5. September 2009</date><headline>Ubud und Umgebung</headline><text>Es ist mal wieder Zeit, sich die Füße platt zu laufen. Der erste Abstecher ging in das Affenwäldchen am Ende der Straße. Der Park ist zwar winzig, beherbergt aber neben einer Unzahl kleiner Affen einen sehr schönen Tempel. Der Mini-Urwald greift mit langen Baumwurzeln nach den Gemäuern, die sich unter dicken Moosschichten verstecken.
+          </text>
+      <photo width="640" height="425" src="http://ferndrang.de/bali/fotos/DSC_5324.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/bali/fotos/DSC_5349.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/bali/fotos/DSC_5410.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/bali/fotos/DSC_5419.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/bali/fotos/DSC_5444.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/bali/fotos/DSC_5465.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/bali/fotos/DSC_5522.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/bali/fotos/DSC_5528.jpg"/>
+    </entry>
+    <entry path="e6" name="">
+      <date>6. September 2009</date>
+      <headline>Traditionen in Ubud</headline>
+      <text>Heute haben wir uns wieder einen Roller gemietet. Wir wollten um jeden Preis verhindern, zu viel zu wandern. Ein paar Kilometer n&#xF6;rdilch von Ubud sind wir aber auf einen gesch&#xE4;ftigen Tempel gesto&#xDF;en. Immer mehr Frauen haben auf den K&#xF6;pfen Obstgestecke herangeschafft, und immer mehr Leute sind in Kost&#xFC;men eingetroffen. Das ganze Dorf hat sich auf eine gro&#xDF;e Prozession vorbereitet. Es hat zwar ein paar St&#xFC;ndchen gedauert, bis alle fertig waren, dann war der Zug aber umso pr&#xE4;chtiger. Die Schirmchentr&#xE4;ger voran, gefolgt von kleinen, aufgebrezelten M&#xE4;dchen, den kleinen Jungs, dicken M&#xE4;nnern in D&#xE4;monen- oder wahlweise Seer&#xE4;uberkost&#xFC;men. Sp&#xE4;ter kamen noch die Frauen des Dorfs nach Alter sortiert und zum Schluss die Kapelle mit tragbarem Gong. Wir haben das Spektakel genossen und sind auf Einladung auch ein St&#xFC;ck mitgelaufen.
 
-Anschließend haben wir Ubud Richtung Westen für eine Wanderung in die Reisterrassen verlassen. Dank der schlechten Karten haben wir uns schon an der zweiten Kurve verlaufen. Irgendwann hat uns ein alter Balinese aufgelesen und uns über Reisfelder zurück zum Weg geführt. Der Umweg über die dünnen Trampelpfade zwischen den Reisbecken hat sich aber sehr gelohnt. Später sind wir einem Flusslauf gefolgt, der tolle Blicke in die Terrassen freigab. Mit müden Knöcheln und nach viel zu vielen Stunden waren wir gerade zum Abendessen wieder zuhause.
+Beim Warten ist an einem Essensstand am Strassenrand eine neue Leidenschaft entfacht: Gado-Gado! Dieses k&#xF6;stliche indonesische Gericht wird hier in einem M&#xF6;rser zurecht gemahlen und kalt serviert.
+
+Sp&#xE4;ter haben wir uns den Botanischen Garten angesehen. Das gro&#xDF;e Gel&#xE4;nde ist h&#xFC;bsch in viele kleine Motto-G&#xE4;rten eingeteilt. Insgesamt wirkt der Garten aber etwas verwildert. Wir sind nach Petulu weitergefahren, wo angeblich alle Reiher der Umgebung wohnen. Wir haben keinen einzigen gesehen, daf&#xFC;r eine unspektakul&#xE4;re Stunde an einer unspektakul&#xE4;ren Landstra&#xDF;e verbracht. Die V&#xF6;gel sollen um halb sechs von ihren t&#xE4;glichen Beutezuegen von den Reisfeldern zur&#xFC;ck kommen. Leider hatten wir keine Zeit zu warten. Trotzdem hat sich allein die Fahrt durch die sch&#xF6;nen Reisterrassen gelohnt.
+
+Nach Prozession, Gado-Gado und Reisterrassen haben wir unseren balinesischen Tradtitions-Tag mit einem Legong-Tanz komplettiert. Das Gamelan-Orchester klingt anf&#xE4;nglich wie ein Windspiel im Taifun. Die ausgefeilte Motorik der T&#xE4;nzer erg&#xE4;nzt das Spektakel aber zu einem stimmigen Ganzen. Jede Handbewegung oder Drehung, jedes Schielen und Glotzen findet sich in der Musik wieder. Oder ist es umgekehrt? Die geschwungenen H&#xE4;mmer der Metallophone scheinen direkt auf den Tanznerv zu schlagen.
 
 
             <div>
-              Es ist mal wieder Zeit, sich die Füße platt zu laufen. Der erste Abstecher ging in das Affenwäldchen am Ende der Straße. Der Park ist zwar winzig, beherbergt aber neben einer Unzahl kleiner Affen einen sehr schönen Tempel. Der Mini-Urwald greift mit langen Baumwurzeln nach den Gemäuern, die sich unter dicken Moosschichten verstecken.
+              Heute haben wir uns wieder einen Roller gemietet. Wir wollten um jeden Preis verhindern, zu viel zu wandern. Ein paar Kilometer n&#xF6;rdilch von Ubud sind wir aber auf einen gesch&#xE4;ftigen Tempel gesto&#xDF;en. Immer mehr Frauen haben auf den K&#xF6;pfen Obstgestecke herangeschafft, und immer mehr Leute sind in Kost&#xFC;men eingetroffen. Das ganze Dorf hat sich auf eine gro&#xDF;e Prozession vorbereitet. Es hat zwar ein paar St&#xFC;ndchen gedauert, bis alle fertig waren, dann war der Zug aber umso pr&#xE4;chtiger. Die Schirmchentr&#xE4;ger voran, gefolgt von kleinen, aufgebrezelten M&#xE4;dchen, den kleinen Jungs, dicken M&#xE4;nnern in D&#xE4;monen- oder wahlweise Seer&#xE4;uberkost&#xFC;men. Sp&#xE4;ter kamen noch die Frauen des Dorfs nach Alter sortiert und zum Schluss die Kapelle mit tragbarem Gong. Wir haben das Spektakel genossen und sind auf Einladung auch ein St&#xFC;ck mitgelaufen.
 
 
-              Anschließend haben wir Ubud Richtung Westen für eine Wanderung in die Reisterrassen verlassen. Dank der schlechten Karten haben wir uns schon an der zweiten Kurve verlaufen. Irgendwann hat uns ein alter Balinese aufgelesen und uns über Reisfelder zurück zum Weg geführt. Der Umweg über die dünnen Trampelpfade zwischen den Reisbecken hat sich aber sehr gelohnt. Später sind wir einem Flusslauf gefolgt, der tolle Blicke in die Terrassen freigab. Mit müden Knöcheln und nach viel zu vielen Stunden waren wir gerade zum Abendessen wieder zuhause.
+              Beim Warten ist an einem Essensstand am Strassenrand eine neue Leidenschaft entfacht: Gado-Gado! Dieses k&#xF6;stliche indonesische Gericht wird hier in einem M&#xF6;rser zurecht gemahlen und kalt serviert.
+
+
+              Sp&#xE4;ter haben wir uns den Botanischen Garten angesehen. Das gro&#xDF;e Gel&#xE4;nde ist h&#xFC;bsch in viele kleine Motto-G&#xE4;rten eingeteilt. Insgesamt wirkt der Garten aber etwas verwildert. Wir sind nach Petulu weitergefahren, wo angeblich alle Reiher der Umgebung wohnen. Wir haben keinen einzigen gesehen, daf&#xFC;r eine unspektakul&#xE4;re Stunde an einer unspektakul&#xE4;ren Landstra&#xDF;e verbracht. Die V&#xF6;gel sollen um halb sechs von ihren t&#xE4;glichen Beutezuegen von den Reisfeldern zur&#xFC;ck kommen. Leider hatten wir keine Zeit zu warten. Trotzdem hat sich allein die Fahrt durch die sch&#xF6;nen Reisterrassen gelohnt.
+
+
+              Nach Prozession, Gado-Gado und Reisterrassen haben wir unseren balinesischen Tradtitions-Tag mit einem Legong-Tanz komplettiert. Das Gamelan-Orchester klingt anf&#xE4;nglich wie ein Windspiel im Taifun. Die ausgefeilte Motorik der T&#xE4;nzer erg&#xE4;nzt das Spektakel aber zu einem stimmigen Ganzen. Jede Handbewegung oder Drehung, jedes Schielen und Glotzen findet sich in der Musik wieder. Oder ist es umgekehrt? Die geschwungenen H&#xE4;mmer der Metallophone scheinen direkt auf den Tanznerv zu schlagen.
 
 
             </div>
-          </text><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_5324.jpg"/><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_5349.jpg"/><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_5410.jpg"/><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_5419.jpg"/><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_5444.jpg"/><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_5465.jpg"/><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_5522.jpg"/><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_5528.jpg"/></entry><entry path="e6" name=""><date>6. September 2009</date><headline>Traditionen in Ubud</headline><text>Heute haben wir uns wieder einen Roller gemietet. Wir wollten um jeden Preis verhindern, zu viel zu wandern. Ein paar Kilometer nördilch von Ubud sind wir aber auf einen geschäftigen Tempel gestoßen. Immer mehr Frauen haben auf den Köpfen Obstgestecke herangeschafft, und immer mehr Leute sind in Kostümen eingetroffen. Das ganze Dorf hat sich auf eine große Prozession vorbereitet. Es hat zwar ein paar Stündchen gedauert, bis alle fertig waren, dann war der Zug aber umso prächtiger. Die Schirmchenträger voran, gefolgt von kleinen, aufgebrezelten Mädchen, den kleinen Jungs, dicken Männern in Dämonen- oder wahlweise Seeräuberkostümen. Später kamen noch die Frauen des Dorfs nach Alter sortiert und zum Schluss die Kapelle mit tragbarem Gong. Wir haben das Spektakel genossen und sind auf Einladung auch ein Stück mitgelaufen.
+          </text>
+      <photo width="640" height="425" src="http://ferndrang.de/bali/fotos/DSC_5546.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/bali/fotos/DSC_5595.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/bali/fotos/DSC_5621.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/bali/fotos/DSC_5682.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/bali/fotos/DSC_5689.jpg"/>
+      <photo width="425" height="640" src="http://ferndrang.de/bali/fotos/DSC_5723.jpg"/>
+      <photo width="425" height="640" src="http://ferndrang.de/bali/fotos/DSC_5732.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/bali/fotos/DSC_5791.jpg"/>
+    </entry>
+    <entry path="e7" name="">
+      <date>7. September 2009</date>
+      <headline>Nach Gili Trawangan</headline>
+      <text>In aller Fr&#xFC;he sind wir von Ubud aus zu den Gilis aufgebrochen. Mit einem Bus gings zum Hafen in Padang Bai. Von dort aus direkt aufs Boot und nach Gili Trawangan. Das Boot hat keine zwei Stunden gebraucht. Den Preis daf&#xFC;r mussten die zahlen, die sich hinten hingesetzt und eine Welle nach der anderen abgekriegt haben. (Super Tipp, Kalle!)
 
-Beim Warten ist an einem Essensstand am Strassenrand eine neue Leidenschaft entfacht: Gado-Gado! Dieses köstliche indonesische Gericht wird hier in einem Mörser zurecht gemahlen und kalt serviert.
-
-Später haben wir uns den Botanischen Garten angesehen. Das große Gelände ist hübsch in viele kleine Motto-Gärten eingeteilt. Insgesamt wirkt der Garten aber etwas verwildert. Wir sind nach Petulu weitergefahren, wo angeblich alle Reiher der Umgebung wohnen. Wir haben keinen einzigen gesehen, dafür eine unspektakuläre Stunde an einer unspektakulären Landstraße verbracht. Die Vögel sollen um halb sechs von ihren täglichen Beutezuegen von den Reisfeldern zurück kommen. Leider hatten wir keine Zeit zu warten. Trotzdem hat sich allein die Fahrt durch die schönen Reisterrassen gelohnt.
-
-Nach Prozession, Gado-Gado und Reisterrassen haben wir unseren balinesischen Tradtitions-Tag mit einem Legong-Tanz komplettiert. Das Gamelan-Orchester klingt anfänglich wie ein Windspiel im Taifun. Die ausgefeilte Motorik der Tänzer ergänzt das Spektakel aber zu einem stimmigen Ganzen. Jede Handbewegung oder Drehung, jedes Schielen und Glotzen findet sich in der Musik wieder. Oder ist es umgekehrt? Die geschwungenen Hämmer der Metallophone scheinen direkt auf den Tanznerv zu schlagen.
+Die Insel selber hat einen sch&#xF6;nen Strand und t&#xFC;rkis-blaues Wasser. Eigentlich haben wir den ersten Tag komplett am Strand verschlafen. Aber das geh&#xF6;rt hier vermutlich zu den typischen T&#xE4;tigkeiten.
 
 
             <div>
-              Heute haben wir uns wieder einen Roller gemietet. Wir wollten um jeden Preis verhindern, zu viel zu wandern. Ein paar Kilometer nördilch von Ubud sind wir aber auf einen geschäftigen Tempel gestoßen. Immer mehr Frauen haben auf den Köpfen Obstgestecke herangeschafft, und immer mehr Leute sind in Kostümen eingetroffen. Das ganze Dorf hat sich auf eine große Prozession vorbereitet. Es hat zwar ein paar Stündchen gedauert, bis alle fertig waren, dann war der Zug aber umso prächtiger. Die Schirmchenträger voran, gefolgt von kleinen, aufgebrezelten Mädchen, den kleinen Jungs, dicken Männern in Dämonen- oder wahlweise Seeräuberkostümen. Später kamen noch die Frauen des Dorfs nach Alter sortiert und zum Schluss die Kapelle mit tragbarem Gong. Wir haben das Spektakel genossen und sind auf Einladung auch ein Stück mitgelaufen.
+              In aller Fr&#xFC;he sind wir von Ubud aus zu den Gilis aufgebrochen. Mit einem Bus gings zum Hafen in Padang Bai. Von dort aus direkt aufs Boot und nach Gili Trawangan. Das Boot hat keine zwei Stunden gebraucht. Den Preis daf&#xFC;r mussten die zahlen, die sich hinten hingesetzt und eine Welle nach der anderen abgekriegt haben. (Super Tipp, Kalle!)
 
 
-              Beim Warten ist an einem Essensstand am Strassenrand eine neue Leidenschaft entfacht: Gado-Gado! Dieses köstliche indonesische Gericht wird hier in einem Mörser zurecht gemahlen und kalt serviert.
-
-
-              Später haben wir uns den Botanischen Garten angesehen. Das große Gelände ist hübsch in viele kleine Motto-Gärten eingeteilt. Insgesamt wirkt der Garten aber etwas verwildert. Wir sind nach Petulu weitergefahren, wo angeblich alle Reiher der Umgebung wohnen. Wir haben keinen einzigen gesehen, dafür eine unspektakuläre Stunde an einer unspektakulären Landstraße verbracht. Die Vögel sollen um halb sechs von ihren täglichen Beutezuegen von den Reisfeldern zurück kommen. Leider hatten wir keine Zeit zu warten. Trotzdem hat sich allein die Fahrt durch die schönen Reisterrassen gelohnt.
-
-
-              Nach Prozession, Gado-Gado und Reisterrassen haben wir unseren balinesischen Tradtitions-Tag mit einem Legong-Tanz komplettiert. Das Gamelan-Orchester klingt anfänglich wie ein Windspiel im Taifun. Die ausgefeilte Motorik der Tänzer ergänzt das Spektakel aber zu einem stimmigen Ganzen. Jede Handbewegung oder Drehung, jedes Schielen und Glotzen findet sich in der Musik wieder. Oder ist es umgekehrt? Die geschwungenen Hämmer der Metallophone scheinen direkt auf den Tanznerv zu schlagen.
+              Die Insel selber hat einen sch&#xF6;nen Strand und t&#xFC;rkis-blaues Wasser. Eigentlich haben wir den ersten Tag komplett am Strand verschlafen. Aber das geh&#xF6;rt hier vermutlich zu den typischen T&#xE4;tigkeiten.
 
 
             </div>
-          </text><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_5546.jpg"/><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_5595.jpg"/><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_5621.jpg"/><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_5682.jpg"/><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_5689.jpg"/><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_5723.jpg"/><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_5732.jpg"/><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_5791.jpg"/></entry><entry path="e7" name=""><date>7. September 2009</date><headline>Nach Gili Trawangan</headline><text>In aller Frühe sind wir von Ubud aus zu den Gilis aufgebrochen. Mit einem Bus gings zum Hafen in Padang Bai. Von dort aus direkt aufs Boot und nach Gili Trawangan. Das Boot hat keine zwei Stunden gebraucht. Den Preis dafür mussten die zahlen, die sich hinten hingesetzt und eine Welle nach der anderen abgekriegt haben. (Super Tipp, Kalle!)
+          </text>
+    </entry>
+    <entry path="e8" name="">
+      <date>10.September 2009</date>
+      <headline>Gili Trawangan</headline>
+      <text>In der Zwischenzeit hatten wir etwas Gelegenheit die Insel zu erkunden. Der Strand ist super hier. Wenn man &#xFC;ber die Korallen springt, kann man in perfektem T&#xFC;rkis w&#xE4;ssern, bevor das Meer in dunkles Blau umschl&#xE4;gt. F&#xFC;r leicht Entz&#xFC;ndliche, wie mich, gibt es auch Schatten spendende B&#xE4;ume. Keine W&#xFC;nsche offen.
 
-Die Insel selber hat einen schönen Strand und türkis-blaues Wasser. Eigentlich haben wir den ersten Tag komplett am Strand verschlafen. Aber das gehört hier vermutlich zu den typischen Tätigkeiten.
+Der Blick unter die Wellen hat sich beim Schnorcheln allerdings &#xFC;berhaupt nicht gelohnt. Auch die Tauchg&#xE4;nge konnten nicht &#xFC;berzeugen. Da f&#xE4;hrt man besser nach Sulawesi!
+
+Als Ersatzprogramm bietet sich eine Inselumrundung an. In zwei Stunden kann man Gili Trawangan gem&#xE4;chlich umschreiten. Auch an den abgelegensten Stellen verstecken sich noch kleine Resorts. Auf der sonnigen Westseite schrumpft man nachmittags Schritt f&#xFC;r Schritt zu D&#xF6;rrobst. Aber der Blick auf das offene Meer lohnt sich allemal.
+
+Abends schlagen wir uns hier regelm&#xE4;&#xDF;ig die B&#xE4;uche mit indonesischen K&#xF6;stlichkeiten voll. Da gerade Ramadan ist, bleiben wir vom Partyleben verschont. W&#xE4;hrend des Fastenmonats f&#xE4;hrt die Insel einen Gang zur&#xFC;ck. Stattdessen erfreut uns der Muezzin, dessen Lautsprecher gef&#xFC;hlt in unserem Zimmer aufgehangen ist, besonders h&#xE4;ufig und ausf&#xFC;hrlich mit seinen Durchsagen.
+
+Ein Geheimnis hat die Insel aber noch: Die schwanzlosen Katzen. Obwohl es hier von Katzen wimmelt, trifft man keine einzige mit vollst&#xE4;ndigem Schwanz. Lokale Gepflogenheiten? Delikatesse?
 
 
             <div>
-              In aller Frühe sind wir von Ubud aus zu den Gilis aufgebrochen. Mit einem Bus gings zum Hafen in Padang Bai. Von dort aus direkt aufs Boot und nach Gili Trawangan. Das Boot hat keine zwei Stunden gebraucht. Den Preis dafür mussten die zahlen, die sich hinten hingesetzt und eine Welle nach der anderen abgekriegt haben. (Super Tipp, Kalle!)
+              In der Zwischenzeit hatten wir etwas Gelegenheit die Insel zu erkunden. Der Strand ist super hier. Wenn man &#xFC;ber die Korallen springt, kann man in perfektem T&#xFC;rkis w&#xE4;ssern, bevor das Meer in dunkles Blau umschl&#xE4;gt. F&#xFC;r leicht Entz&#xFC;ndliche, wie mich, gibt es auch Schatten spendende B&#xE4;ume. Keine W&#xFC;nsche offen.
 
 
-              Die Insel selber hat einen schönen Strand und türkis-blaues Wasser. Eigentlich haben wir den ersten Tag komplett am Strand verschlafen. Aber das gehört hier vermutlich zu den typischen Tätigkeiten.
+              Der Blick unter die Wellen hat sich beim Schnorcheln allerdings &#xFC;berhaupt nicht gelohnt. Auch die Tauchg&#xE4;nge konnten nicht &#xFC;berzeugen. Da f&#xE4;hrt man besser nach Sulawesi!
+
+
+              Als Ersatzprogramm bietet sich eine Inselumrundung an. In zwei Stunden kann man Gili Trawangan gem&#xE4;chlich umschreiten. Auch an den abgelegensten Stellen verstecken sich noch kleine Resorts. Auf der sonnigen Westseite schrumpft man nachmittags Schritt f&#xFC;r Schritt zu D&#xF6;rrobst. Aber der Blick auf das offene Meer lohnt sich allemal.
+
+
+              Abends schlagen wir uns hier regelm&#xE4;&#xDF;ig die B&#xE4;uche mit indonesischen K&#xF6;stlichkeiten voll. Da gerade Ramadan ist, bleiben wir vom Partyleben verschont. W&#xE4;hrend des Fastenmonats f&#xE4;hrt die Insel einen Gang zur&#xFC;ck. Stattdessen erfreut uns der Muezzin, dessen Lautsprecher gef&#xFC;hlt in unserem Zimmer aufgehangen ist, besonders h&#xE4;ufig und ausf&#xFC;hrlich mit seinen Durchsagen.
+
+
+              Ein Geheimnis hat die Insel aber noch: Die schwanzlosen Katzen. Obwohl es hier von Katzen wimmelt, trifft man keine einzige mit vollst&#xE4;ndigem Schwanz. Lokale Gepflogenheiten? Delikatesse?
 
 
             </div>
-          </text></entry><entry path="e8" name=""><date>10.September 2009</date><headline>Gili Trawangan</headline><text>In der Zwischenzeit hatten wir etwas Gelegenheit die Insel zu erkunden. Der Strand ist super hier. Wenn man über die Korallen springt, kann man in perfektem Türkis wässern, bevor das Meer in dunkles Blau umschlägt. Für leicht Entzündliche, wie mich, gibt es auch Schatten spendende Bäume. Keine Wünsche offen.
+          </text>
+      <photo width="640" height="425" src="http://ferndrang.de/bali/fotos/DSC_5970.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/bali/fotos/DSC_5854.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/bali/fotos/DSC_5931.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/bali/fotos/DSC_5903.jpg"/>
+    </entry>
+    <entry path="e9" name="">
+      <date>15. September 2009</date>
+      <headline>Noch mehr Gili Trawangan</headline>
+      <text>In den vergangenen Tagen hatte ich (nun ohne Felix) ganz viel Zeit in der Sonne zu schmoren, mich regelm&#xE4;&#xDF;ig zu wenden und mit &#xD6;l zu &#xFC;bergie&#xDF;en. Der finale Br&#xE4;unungsgrad ist fast erreicht, die B&#xFC;cher neigen sich dem Ende zu, die Sudokus sind gel&#xF6;st. 
 
-Der Blick unter die Wellen hat sich beim Schnorcheln allerdings überhaupt nicht gelohnt. Auch die Tauchgänge konnten nicht überzeugen. Da fährt man besser nach Sulawesi!
+Um die aufkommende Langeweile zu bek&#xE4;mpfen habe ich den einzigen H&#xFC;gel dieser Insel querfeldein erklommen, um oben feststellen zu m&#xFC;ssen, dass es auch eine Treppe gibt. Von hier oben hat man einen h&#xFC;bschen Rundblick &#xFC;ber die Insel und kann das Dorf mit seinen Wellblechd&#xE4;chern von oben bestaunen.
 
-Als Ersatzprogramm bietet sich eine Inselumrundung an. In zwei Stunden kann man Gili Trawangan gemächlich umschreiten. Auch an den abgelegensten Stellen verstecken sich noch kleine Resorts. Auf der sonnigen Westseite schrumpft man nachmittags Schritt für Schritt zu Dörrobst. Aber der Blick auf das offene Meer lohnt sich allemal.
+Auf der Suche nach original indonesischem Essen habe ich im Dorf einige Warungs gefunden, die f&#xFC;r umgerechnet 30 Cent tolle Gerichte anbieten. Auch die indonesischen Snacks in Form von gr&#xFC;nen Cr&#xEA;pes mit Kokosf&#xFC;llung, gebackenen Bananen oder vegetarische R&#xF6;sti sind sehr verlockend.
 
-Abends schlagen wir uns hier regelmäßig die Bäuche mit indonesischen Köstlichkeiten voll. Da gerade Ramadan ist, bleiben wir vom Partyleben verschont. Während des Fastenmonats fährt die Insel einen Gang zurück. Stattdessen erfreut uns der Muezzin, dessen Lautsprecher gefühlt in unserem Zimmer aufgehangen ist, besonders häufig und ausführlich mit seinen Durchsagen.
-
-Ein Geheimnis hat die Insel aber noch: Die schwanzlosen Katzen. Obwohl es hier von Katzen wimmelt, trifft man keine einzige mit vollständigem Schwanz. Lokale Gepflogenheiten? Delikatesse?
+Morgen geht es nun weiter mit der F&#xE4;hre nach Nusa Lembongan, einer Insel bei Nusa Penida, die zu Bali geh&#xF6;rt. Ein wichtiges Detail, da es dort hoffentlich keinen Muezzin geben wird, der einem die Nacht zum Tage macht.
 
 
             <div>
-              In der Zwischenzeit hatten wir etwas Gelegenheit die Insel zu erkunden. Der Strand ist super hier. Wenn man über die Korallen springt, kann man in perfektem Türkis wässern, bevor das Meer in dunkles Blau umschlägt. Für leicht Entzündliche, wie mich, gibt es auch Schatten spendende Bäume. Keine Wünsche offen.
+              In den vergangenen Tagen hatte ich (nun ohne Felix) ganz viel Zeit in der Sonne zu schmoren, mich regelm&#xE4;&#xDF;ig zu wenden und mit &#xD6;l zu &#xFC;bergie&#xDF;en. Der finale Br&#xE4;unungsgrad ist fast erreicht, die B&#xFC;cher neigen sich dem Ende zu, die Sudokus sind gel&#xF6;st. 
 
 
-              Der Blick unter die Wellen hat sich beim Schnorcheln allerdings überhaupt nicht gelohnt. Auch die Tauchgänge konnten nicht überzeugen. Da fährt man besser nach Sulawesi!
+              Um die aufkommende Langeweile zu bek&#xE4;mpfen habe ich den einzigen H&#xFC;gel dieser Insel querfeldein erklommen, um oben feststellen zu m&#xFC;ssen, dass es auch eine Treppe gibt. Von hier oben hat man einen h&#xFC;bschen Rundblick &#xFC;ber die Insel und kann das Dorf mit seinen Wellblechd&#xE4;chern von oben bestaunen.
 
 
-              Als Ersatzprogramm bietet sich eine Inselumrundung an. In zwei Stunden kann man Gili Trawangan gemächlich umschreiten. Auch an den abgelegensten Stellen verstecken sich noch kleine Resorts. Auf der sonnigen Westseite schrumpft man nachmittags Schritt für Schritt zu Dörrobst. Aber der Blick auf das offene Meer lohnt sich allemal.
+              Auf der Suche nach original indonesischem Essen habe ich im Dorf einige Warungs gefunden, die f&#xFC;r umgerechnet 30 Cent tolle Gerichte anbieten. Auch die indonesischen Snacks in Form von gr&#xFC;nen Cr&#xEA;pes mit Kokosf&#xFC;llung, gebackenen Bananen oder vegetarische R&#xF6;sti sind sehr verlockend.
 
 
-              Abends schlagen wir uns hier regelmäßig die Bäuche mit indonesischen Köstlichkeiten voll. Da gerade Ramadan ist, bleiben wir vom Partyleben verschont. Während des Fastenmonats fährt die Insel einen Gang zurück. Stattdessen erfreut uns der Muezzin, dessen Lautsprecher gefühlt in unserem Zimmer aufgehangen ist, besonders häufig und ausführlich mit seinen Durchsagen.
-
-
-              Ein Geheimnis hat die Insel aber noch: Die schwanzlosen Katzen. Obwohl es hier von Katzen wimmelt, trifft man keine einzige mit vollständigem Schwanz. Lokale Gepflogenheiten? Delikatesse?
+              Morgen geht es nun weiter mit der F&#xE4;hre nach Nusa Lembongan, einer Insel bei Nusa Penida, die zu Bali geh&#xF6;rt. Ein wichtiges Detail, da es dort hoffentlich keinen Muezzin geben wird, der einem die Nacht zum Tage macht.
 
 
             </div>
-          </text><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_5970.jpg"/><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_5854.jpg"/><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_5931.jpg"/><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_5903.jpg"/></entry><entry path="e9" name=""><date>15. September 2009</date><headline>Noch mehr Gili Trawangan</headline><text>In den vergangenen Tagen hatte ich (nun ohne Felix) ganz viel Zeit in der Sonne zu schmoren, mich regelmäßig zu wenden und mit Öl zu übergießen. Der finale Bräunungsgrad ist fast erreicht, die Bücher neigen sich dem Ende zu, die Sudokus sind gelöst. 
+          </text>
+      <photo width="640" height="425" src="http://ferndrang.de/bali/fotos/DSC_5864.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/bali/fotos/DSC_5949.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/bali/fotos/DSC_5966.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/bali/fotos/DSC_5867.jpg"/>
+    </entry>
+    <entry path="e10" name="">
+      <date>17. September 2009</date>
+      <headline>Nusa Lembongan</headline>
+      <text>Nach einer spektakul&#xE4;ren zweist&#xFC;ndigen Bootsfahrt mehr durch als &#xFC;ber die Wellen hinweg hat die F&#xE4;hre vor Nusa Lembongan halt gemacht. Alle Passagiere, die auf die Insel wollten, wurden in ein kleineres Boot umgetopft und sp&#xE4;ter per Sammeltaxi weiterverfrachtet. 
 
-Um die aufkommende Langeweile zu bekämpfen habe ich den einzigen Hügel dieser Insel querfeldein erklommen, um oben feststellen zu müssen, dass es auch eine Treppe gibt. Von hier oben hat man einen hübschen Rundblick über die Insel und kann das Dorf mit seinen Wellblechdächern von oben bestaunen.
+Ich habe auch direkt ein h&#xFC;bsches, balinesisch eingerichtetes Zimmer f&#xFC;r wenig Geld gefunden. Das Hotel Bungalo No. 7 liegt direkt am Strand mit Blick &#xFC;ber die ganze Bucht von Jungutbatu. Schon von hier aus kann man die riesigen Algenfelder bestaunen. Diese werden hier n&#xE4;mlich in gro&#xDF;em Stil angebaut und getrocknet.
 
-Auf der Suche nach original indonesischem Essen habe ich im Dorf einige Warungs gefunden, die für umgerechnet 30 Cent tolle Gerichte anbieten. Auch die indonesischen Snacks in Form von grünen Crêpes mit Kokosfüllung, gebackenen Bananen oder vegetarische Rösti sind sehr verlockend.
+Das kleine Dorf ist noch recht urspr&#xFC;nglich und von gro&#xDF;en Touristenscharen unber&#xFC;hrt. Ab 10 Uhr abends werden hier die B&#xFC;rgersteige hochgeklappt und alle gehen schlafen. 
 
-Morgen geht es nun weiter mit der Fähre nach Nusa Lembongan, einer Insel bei Nusa Penida, die zu Bali gehört. Ein wichtiges Detail, da es dort hoffentlich keinen Muezzin geben wird, der einem die Nacht zum Tage macht.
+Heute habe ich zusammen mit Gerd, einem Holl&#xE4;nder, den ich auf der F&#xE4;hre kennen gelernt habe, die Insel erkundet. Den Empfehlungen aller Einheimischer zum Trotz sind wir die Sache zu Fu&#xDF; angegangen. Die Insel ist an der Nord- und Ostseite von einem dichten Mangrovenwald umgeben und von nur wenigen Wegen durchzogen. An der S&#xFC;dspitze befindet sich eine lange H&#xE4;ngebr&#xFC;cke zur Nachbarinsel Nusa Ceningan. Der Ort Lembongan selber, der der Insel seinen Namen gibt, ist recht unspektakul&#xE4;r. Die Westseite hat sch&#xF6;ne wei&#xDF;e Sandstr&#xE4;nde, wie zum Beispiel den Mushroom Beach, an dem wir uns nach stundenlangem Laufen endlich niedergelassen haben. 
+
+Morgen fr&#xFC;h werde ich die letzte Etappe meiner Reise antreten und mit der F&#xE4;hre nach Sanur &#xFC;bersetzen.
 
 
             <div>
-              In den vergangenen Tagen hatte ich (nun ohne Felix) ganz viel Zeit in der Sonne zu schmoren, mich regelmäßig zu wenden und mit Öl zu übergießen. Der finale Bräunungsgrad ist fast erreicht, die Bücher neigen sich dem Ende zu, die Sudokus sind gelöst. 
+              Nach einer spektakul&#xE4;ren zweist&#xFC;ndigen Bootsfahrt mehr durch als &#xFC;ber die Wellen hinweg hat die F&#xE4;hre vor Nusa Lembongan halt gemacht. Alle Passagiere, die auf die Insel wollten, wurden in ein kleineres Boot umgetopft und sp&#xE4;ter per Sammeltaxi weiterverfrachtet. 
 
 
-              Um die aufkommende Langeweile zu bekämpfen habe ich den einzigen Hügel dieser Insel querfeldein erklommen, um oben feststellen zu müssen, dass es auch eine Treppe gibt. Von hier oben hat man einen hübschen Rundblick über die Insel und kann das Dorf mit seinen Wellblechdächern von oben bestaunen.
+              Ich habe auch direkt ein h&#xFC;bsches, balinesisch eingerichtetes Zimmer f&#xFC;r wenig Geld gefunden. Das Hotel Bungalo No. 7 liegt direkt am Strand mit Blick &#xFC;ber die ganze Bucht von Jungutbatu. Schon von hier aus kann man die riesigen Algenfelder bestaunen. Diese werden hier n&#xE4;mlich in gro&#xDF;em Stil angebaut und getrocknet.
 
 
-              Auf der Suche nach original indonesischem Essen habe ich im Dorf einige Warungs gefunden, die für umgerechnet 30 Cent tolle Gerichte anbieten. Auch die indonesischen Snacks in Form von grünen Crêpes mit Kokosfüllung, gebackenen Bananen oder vegetarische Rösti sind sehr verlockend.
+              Das kleine Dorf ist noch recht urspr&#xFC;nglich und von gro&#xDF;en Touristenscharen unber&#xFC;hrt. Ab 10 Uhr abends werden hier die B&#xFC;rgersteige hochgeklappt und alle gehen schlafen. 
 
 
-              Morgen geht es nun weiter mit der Fähre nach Nusa Lembongan, einer Insel bei Nusa Penida, die zu Bali gehört. Ein wichtiges Detail, da es dort hoffentlich keinen Muezzin geben wird, der einem die Nacht zum Tage macht.
+              Heute habe ich zusammen mit Gerd, einem Holl&#xE4;nder, den ich auf der F&#xE4;hre kennen gelernt habe, die Insel erkundet. Den Empfehlungen aller Einheimischer zum Trotz sind wir die Sache zu Fu&#xDF; angegangen. Die Insel ist an der Nord- und Ostseite von einem dichten Mangrovenwald umgeben und von nur wenigen Wegen durchzogen. An der S&#xFC;dspitze befindet sich eine lange H&#xE4;ngebr&#xFC;cke zur Nachbarinsel Nusa Ceningan. Der Ort Lembongan selber, der der Insel seinen Namen gibt, ist recht unspektakul&#xE4;r. Die Westseite hat sch&#xF6;ne wei&#xDF;e Sandstr&#xE4;nde, wie zum Beispiel den Mushroom Beach, an dem wir uns nach stundenlangem Laufen endlich niedergelassen haben. 
+
+
+              Morgen fr&#xFC;h werde ich die letzte Etappe meiner Reise antreten und mit der F&#xE4;hre nach Sanur &#xFC;bersetzen.
 
 
             </div>
-          </text><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_5864.jpg"/><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_5949.jpg"/><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_5966.jpg"/><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_5867.jpg"/></entry><entry path="e10" name=""><date>17. September 2009</date><headline>Nusa Lembongan</headline><text>Nach einer spektakulären zweistündigen Bootsfahrt mehr durch als über die Wellen hinweg hat die Fähre vor Nusa Lembongan halt gemacht. Alle Passagiere, die auf die Insel wollten, wurden in ein kleineres Boot umgetopft und später per Sammeltaxi weiterverfrachtet. 
+          </text>
+      <photo width="640" height="425" src="http://ferndrang.de/bali/fotos/DSC_6001.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/bali/fotos/DSC_6088.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/bali/fotos/DSC_6042.jpg"/>
+      <photo width="425" height="640" src="http://ferndrang.de/bali/fotos/DSC_6019.jpg"/>
+    </entry>
+    <entry path="e11" name="">
+      <date>18. September 2009</date>
+      <headline>Sanur, Pura Uluwatu</headline>
+      <text>Heute morgen habe ich mit der erste F&#xE4;hre nach Sanur &#xFC;bergesetzt. Auch diesmal hatte ich bei der Hotelsuche groe&#xDF;es Gl&#xFC;ck und bin direkt f&#xFC;ndig geworden. Das Ananda Beach Hotel liegt tats&#xE4;chlich direkt am Strand und hat sehr einfache Zimmer. Die Preise sind mal wieder ohne mein Zutun spontan gefallen.
 
-Ich habe auch direkt ein hübsches, balinesisch eingerichtetes Zimmer für wenig Geld gefunden. Das Hotel Bungalo No. 7 liegt direkt am Strand mit Blick über die ganze Bucht von Jungutbatu. Schon von hier aus kann man die riesigen Algenfelder bestaunen. Diese werden hier nämlich in großem Stil angebaut und getrocknet.
+Die erste H&#xE4;lfte des Tages habe ich faul am Strand gelegen und meine noch vom Vortag geschundenen F&#xFC;&#xDF;e entspannt. 
 
-Das kleine Dorf ist noch recht ursprünglich und von großen Touristenscharen unberührt. Ab 10 Uhr abends werden hier die Bürgersteige hochgeklappt und alle gehen schlafen. 
-
-Heute habe ich zusammen mit Gerd, einem Holländer, den ich auf der Fähre kennen gelernt habe, die Insel erkundet. Den Empfehlungen aller Einheimischer zum Trotz sind wir die Sache zu Fuß angegangen. Die Insel ist an der Nord- und Ostseite von einem dichten Mangrovenwald umgeben und von nur wenigen Wegen durchzogen. An der Südspitze befindet sich eine lange Hängebrücke zur Nachbarinsel Nusa Ceningan. Der Ort Lembongan selber, der der Insel seinen Namen gibt, ist recht unspektakulär. Die Westseite hat schöne weiße Sandstrände, wie zum Beispiel den Mushroom Beach, an dem wir uns nach stundenlangem Laufen endlich niedergelassen haben. 
-
-Morgen früh werde ich die letzte Etappe meiner Reise antreten und mit der Fähre nach Sanur übersetzen.
+Nachmittags bin ich ganz in den S&#xFC;den Balis, auf die Bukit-Halbinsel gefahren um dort den Tempel Uluwatu zu besichtigen. Er thront einsam auf einer &#xFC;ber 100 Meter hohen Klippe &#xFC;ber dem t&#xFC;rkisfarbenem Ozean. Ein atemberaubender Anblick! &#xDC;ber viele Pfade entlang der Klippe kann man den Tempel auch aus gr&#xF6;&#xDF;erem Abstand bewundern. Denn eigentlich ist haupts&#xE4;chlich die Lage etwas Besonderes, das Tempelinnere &#xFC;berrascht nicht. Die Affen, die den Tempelbezirk bev&#xF6;lkern, werden von den Touristenhorden reichlich gef&#xFC;ttert und sind entsprechend aggressiv, wenn es mal nichts gibt. Gerne klauen sie Haarreifen, Wasserflaschen und scheuen auch nicht davor zur&#xFC;ck Ohrringe aus den Ohren zu ziehen.
 
 
             <div>
-              Nach einer spektakulären zweistündigen Bootsfahrt mehr durch als über die Wellen hinweg hat die Fähre vor Nusa Lembongan halt gemacht. Alle Passagiere, die auf die Insel wollten, wurden in ein kleineres Boot umgetopft und später per Sammeltaxi weiterverfrachtet. 
+              Heute morgen habe ich mit der erste F&#xE4;hre nach Sanur &#xFC;bergesetzt. Auch diesmal hatte ich bei der Hotelsuche groe&#xDF;es Gl&#xFC;ck und bin direkt f&#xFC;ndig geworden. Das Ananda Beach Hotel liegt tats&#xE4;chlich direkt am Strand und hat sehr einfache Zimmer. Die Preise sind mal wieder ohne mein Zutun spontan gefallen.
 
 
-              Ich habe auch direkt ein hübsches, balinesisch eingerichtetes Zimmer für wenig Geld gefunden. Das Hotel Bungalo No. 7 liegt direkt am Strand mit Blick über die ganze Bucht von Jungutbatu. Schon von hier aus kann man die riesigen Algenfelder bestaunen. Diese werden hier nämlich in großem Stil angebaut und getrocknet.
+              Die erste H&#xE4;lfte des Tages habe ich faul am Strand gelegen und meine noch vom Vortag geschundenen F&#xFC;&#xDF;e entspannt. 
 
 
-              Das kleine Dorf ist noch recht ursprünglich und von großen Touristenscharen unberührt. Ab 10 Uhr abends werden hier die Bürgersteige hochgeklappt und alle gehen schlafen. 
-
-
-              Heute habe ich zusammen mit Gerd, einem Holländer, den ich auf der Fähre kennen gelernt habe, die Insel erkundet. Den Empfehlungen aller Einheimischer zum Trotz sind wir die Sache zu Fuß angegangen. Die Insel ist an der Nord- und Ostseite von einem dichten Mangrovenwald umgeben und von nur wenigen Wegen durchzogen. An der Südspitze befindet sich eine lange Hängebrücke zur Nachbarinsel Nusa Ceningan. Der Ort Lembongan selber, der der Insel seinen Namen gibt, ist recht unspektakulär. Die Westseite hat schöne weiße Sandstrände, wie zum Beispiel den Mushroom Beach, an dem wir uns nach stundenlangem Laufen endlich niedergelassen haben. 
-
-
-              Morgen früh werde ich die letzte Etappe meiner Reise antreten und mit der Fähre nach Sanur übersetzen.
+              Nachmittags bin ich ganz in den S&#xFC;den Balis, auf die Bukit-Halbinsel gefahren um dort den Tempel Uluwatu zu besichtigen. Er thront einsam auf einer &#xFC;ber 100 Meter hohen Klippe &#xFC;ber dem t&#xFC;rkisfarbenem Ozean. Ein atemberaubender Anblick! &#xDC;ber viele Pfade entlang der Klippe kann man den Tempel auch aus gr&#xF6;&#xDF;erem Abstand bewundern. Denn eigentlich ist haupts&#xE4;chlich die Lage etwas Besonderes, das Tempelinnere &#xFC;berrascht nicht. Die Affen, die den Tempelbezirk bev&#xF6;lkern, werden von den Touristenhorden reichlich gef&#xFC;ttert und sind entsprechend aggressiv, wenn es mal nichts gibt. Gerne klauen sie Haarreifen, Wasserflaschen und scheuen auch nicht davor zur&#xFC;ck Ohrringe aus den Ohren zu ziehen.
 
 
             </div>
-          </text><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_6001.jpg"/><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_6088.jpg"/><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_6042.jpg"/><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_6019.jpg"/></entry><entry path="e11" name=""><date>18. September 2009</date><headline>Sanur, Pura Uluwatu</headline><text>Heute morgen habe ich mit der erste Fähre nach Sanur übergesetzt. Auch diesmal hatte ich bei der Hotelsuche groeßes Glück und bin direkt fündig geworden. Das Ananda Beach Hotel liegt tatsächlich direkt am Strand und hat sehr einfache Zimmer. Die Preise sind mal wieder ohne mein Zutun spontan gefallen.
-
-Die erste Hälfte des Tages habe ich faul am Strand gelegen und meine noch vom Vortag geschundenen Füße entspannt. 
-
-Nachmittags bin ich ganz in den Süden Balis, auf die Bukit-Halbinsel gefahren um dort den Tempel Uluwatu zu besichtigen. Er thront einsam auf einer über 100 Meter hohen Klippe über dem türkisfarbenem Ozean. Ein atemberaubender Anblick! Über viele Pfade entlang der Klippe kann man den Tempel auch aus größerem Abstand bewundern. Denn eigentlich ist hauptsächlich die Lage etwas Besonderes, das Tempelinnere überrascht nicht. Die Affen, die den Tempelbezirk bevölkern, werden von den Touristenhorden reichlich gefüttert und sind entsprechend aggressiv, wenn es mal nichts gibt. Gerne klauen sie Haarreifen, Wasserflaschen und scheuen auch nicht davor zurück Ohrringe aus den Ohren zu ziehen.
-
-
-            <div>
-              Heute morgen habe ich mit der erste Fähre nach Sanur übergesetzt. Auch diesmal hatte ich bei der Hotelsuche groeßes Glück und bin direkt fündig geworden. Das Ananda Beach Hotel liegt tatsächlich direkt am Strand und hat sehr einfache Zimmer. Die Preise sind mal wieder ohne mein Zutun spontan gefallen.
-
-
-              Die erste Hälfte des Tages habe ich faul am Strand gelegen und meine noch vom Vortag geschundenen Füße entspannt. 
-
-
-              Nachmittags bin ich ganz in den Süden Balis, auf die Bukit-Halbinsel gefahren um dort den Tempel Uluwatu zu besichtigen. Er thront einsam auf einer über 100 Meter hohen Klippe über dem türkisfarbenem Ozean. Ein atemberaubender Anblick! Über viele Pfade entlang der Klippe kann man den Tempel auch aus größerem Abstand bewundern. Denn eigentlich ist hauptsächlich die Lage etwas Besonderes, das Tempelinnere überrascht nicht. Die Affen, die den Tempelbezirk bevölkern, werden von den Touristenhorden reichlich gefüttert und sind entsprechend aggressiv, wenn es mal nichts gibt. Gerne klauen sie Haarreifen, Wasserflaschen und scheuen auch nicht davor zurück Ohrringe aus den Ohren zu ziehen.
-
-
-            </div>
-          </text><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_6147.jpg"/><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_6163.jpg"/><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_6173.jpg"/><photo preload="true" src="http://ferndrang.de/bali/fotos/DSC_6210.jpg"/></entry></blog></journey>
+          </text>
+      <photo width="640" height="425" src="http://ferndrang.de/bali/fotos/DSC_6147.jpg"/>
+      <photo width="425" height="640" src="http://ferndrang.de/bali/fotos/DSC_6163.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/bali/fotos/DSC_6173.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/bali/fotos/DSC_6210.jpg"/>
+    </entry>
+  </blog>
+</journey>
