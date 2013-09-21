@@ -1,13 +1,16 @@
 <?xml version="1.0"?>
 <journey>
-<settings>
-<journey>
-<title>Tibet</title>
-<year>2007</title>
-</journey>
-</settings>
-
-<blog><entry path="e1" name=""><date>17. Juni 2007</date><headline>Shanghai</headline><text>Unser
+  <settings>
+    <journey>
+      <title>Tibet</title>
+      <year>2007</year>
+    </journey>
+  </settings>
+  <blog>
+    <entry path="e1" name="">
+      <date>17. Juni 2007</date>
+      <headline>Shanghai</headline>
+      <text>Unser
 Aufenthalt in Shanghai hat mit der Fahrt vom Flughafen ins Zentrum
 begonnen. Die 32 km hat der (ex-)Transrapid in etwas weniger als 8
 Minuten zurueckgelegt. Das war beeindruckend.
@@ -19,7 +22,7 @@ Minuten zurueckgelegt. Das war beeindruckend.
 In Shanghai wurden wir dann sofort von unserer Reiseleitung mit
 einem Haufen reisender Rentner in einen Kleinbus gepackt und ins Hotel
 gefahren. Dabei konnten wir einen ersten Eindruck der Stadt gewinnen,
-die eine seltsame Mischung aus chinesischer Großstadt, chinesischem
+die eine seltsame Mischung aus chinesischer Gro&#xDF;stadt, chinesischem
 Dorf und Autobahnen zu sein scheint.
 
 
@@ -30,9 +33,9 @@ Das Hotel war voll mit Gold-Kitsch. Die Zimmer waren aber sehr
 ordentlich. Wir haben uns die ganze Zeit gewundert, dass der
 Altersdurchschnitt unserer Mitreisenden deutlich ueber dem
 angekuendigten Korridor lag, was aber auch seinen Unterhaltungswert
-hatte. Die leichten Gebrechen und Gehbehinderungen ließen uns
+hatte. Die leichten Gebrechen und Gehbehinderungen lie&#xDF;en uns
 erwartungsvoll an den Besuch des Mt. Everests denken. Es hat sich
-allerdings herausgestellt, dass alle außer uns nur einen kurzen
+allerdings herausgestellt, dass alle au&#xDF;er uns nur einen kurzen
 Lhasa-Aufenthalt gebucht hatten. Wir verbrachten also nur den ersten
 Tag und den Flug nach Lhasa zusammen.
 
@@ -56,7 +59,16 @@ Stadt" sein soll. Die vielen verwinkelten Bereiche mit unzaehligen
 Teichen, Tuempeln, Brueckchen und anderem Inventar, das man von alten,
 chinesischen Gaerten erwartet, werden dem Ruf gerecht.
 <div style="clear:both; padding-bottom:0.25em"/>
-</text><photo preload="true" src="http://ferndrang.de/tibet/fotos/1.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/2.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/3.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/4.jpg"/></entry><entry path="e2" name=""><date>18. Juni 2007</date><headline>Shanghai - Tsedang</headline><text>Heute
+</text>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/1.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/2.jpg"/>
+      <photo preload="true" src="http://ferndrang.de/tibet/fotos/3.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/4.jpg"/>
+    </entry>
+    <entry path="e2" name="">
+      <date>18. Juni 2007</date>
+      <headline>Shanghai - Tsedang</headline>
+      <text>Heute
 stand der eigentliche Weg nach Tibet auf dem Programm. Mit einem
 Zwischenstopp in Xi'an hat sich die Reise sehr gezogen. Wir wurden von
 fuenf Stunden reiner Flugzeit ueberrascht. Wir haetten also wieder halb
@@ -68,7 +80,7 @@ mit etwas Verspaetung von unserem "Reiseleiter" abgeholt wurden.
 
 
 Die gute Nachricht dabei war, dass wir die Einzigen waren. Unsere
-Gruppengroeße belaeuft sich also auf zwei, was unsere Erwartungen
+Gruppengroe&#xDF;e belaeuft sich also auf zwei, was unsere Erwartungen
 deutlich uebertraf. Die schlechte Nachricht war, dass unser Guide nicht
 nur nicht deutschsprachig war, wie versprochen, sondern so schlecht
 englisch spricht, dass wir versuchen Kommunikation mit ihm gaenzlich zu
@@ -89,12 +101,21 @@ sehr kahl und teilweise so sandig, dass sich Ecken mit Duenen bilden.
 
 
 Unser Hotel in Tsedan ist noch goldener und noch kitschiger. Und es
-hat in seinen zwei verrueckten Aufzuegen selstame Fuß-Matten, auf denen
+hat in seinen zwei verrueckten Aufzuegen selstame Fu&#xDF;-Matten, auf denen
 "Monday" steht. Leider hatte das Hotel auch Gesinde, das sich die Nacht
 mit Tuerenschlagen vertreibt, so dass uns der erste
 Akklimatisierungsschlaf verdorben wurde.
 <div style="clear:both; padding-bottom:0.25em"/>
-</text><photo preload="true" src="http://ferndrang.de/tibet/fotos/5.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/6.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/7.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/8.jpg"/></entry><entry path="e3" name=""><date>19. Juni 2007</date><headline>Samye, Jambulokhang, Tandrok</headline><text>Heute
+</text>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/5.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/6.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/7.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/8.jpg"/>
+    </entry>
+    <entry path="e3" name="">
+      <date>19. Juni 2007</date>
+      <headline>Samye, Jambulokhang, Tandrok</headline>
+      <text>Heute
 war Kloster-Tag. Zuerst haben wir uns auf den Weg zum Samye-Kloster
 gemacht. Dazu sind wir den Tsangpo wieder ein Stueckchen flussaufwaerts
 bis zu einem Bootsanleger gefahren; oder besser einem Stueck Ufer an
@@ -102,7 +123,7 @@ dem die Boote anlegen. Die Ueberfahrt fand in einem alten, flach, breit
 und eckig gebauten Holzkahn statt. Wir hatten es uns schon mit einer
 Gruppe tibetischer Moenche auf dem Boot gemuetlich gemacht. Doch
 tibetische Planung ist nicht so einfach. Also mussten alle wieder raus
-und zuerst ein großer Stapel Holz und Waren verladen werden. Nachher
+und zuerst ein gro&#xDF;er Stapel Holz und Waren verladen werden. Nachher
 war fuer die Moenche kein Platz mehr...
 
 
@@ -160,7 +181,18 @@ Klosterinventar noch besonders riesige Gebetsmuehlen, die man kaum
 alleine bewegen kann. Highlight im Dachgeschoss ist ein Bildnis einer
 Luxus-Goettin, das aus zigtausenden von Perlen hergestellt wurde.
 <div style="clear:both; padding-bottom:0.25em"/>
-</text><photo preload="true" src="http://ferndrang.de/tibet/fotos/9.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/10.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/11.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/13.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/15.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/16.jpg"/></entry><entry path="e4" name=""><date>20. Juni 2007</date><headline>Tsedang - Gyantse</headline><text>Heute
+</text>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/9.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/10.jpg"/>
+      <photo preload="true" src="http://ferndrang.de/tibet/fotos/11.jpg"/>
+      <photo preload="true" src="http://ferndrang.de/tibet/fotos/13.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/15.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/16.jpg"/>
+    </entry>
+    <entry path="e4" name="">
+      <date>20. Juni 2007</date>
+      <headline>Tsedang - Gyantse</headline>
+      <text>Heute
 stand ein kompletter Reisetag auf dem Programm. Wenn zu Hause sieben
 Stunden Autofahren als langweilig gelten, so ist das in Tibet anders.
 
@@ -173,7 +205,7 @@ Flughafen gefahren, sind dann aber noch weiter nach Westen gefahren.
 Ein hart erkaempfter Abstecher zum 4700m hohen Kambha-La-Pass bot uns
 einen unglaublichen Blick auf den Yamdrok-See. Er gehoert zu den
 heiligen Seen Tibets und wird seiner verzweigten Form wegen auch
-Skorpion-See genannt. Die Passstraße schlaengelte sich in endlosen
+Skorpion-See genannt. Die Passstra&#xDF;e schlaengelte sich in endlosen
 Kurven bis zur Kuppe, hinter der der See (hinter einem Duzend
 Reisebussen) erhaben und tuerkis in der sandigen Oednis schimmerte. Am
 Horizont konnten wir die ersten Siebentausender sehen, die ihre
@@ -183,7 +215,7 @@ schneebedeckten Spitzen in Wolken versteckten.
 
 
 
-Wegen Straßenarbeiten konnten wir nicht hinunter zum See fahren,
+Wegen Stra&#xDF;enarbeiten konnten wir nicht hinunter zum See fahren,
 sondern mussten wieder umkehren. Weiter ging es den Tsangpo entlang,
 der sich hier durch steinigere Berge mehr wie ein Gebirgsfluss
 ausmachte. Im weiteren Verlauf oeffnete sich das Tal zu einer breiten
@@ -205,7 +237,7 @@ alt winkten uns zu bis der Wagen verschwand.
 
 Nachdem der Fahrer am Steuer mehrfach fast eingeschlafen war, haben
 wir endlich Gyantse erreicht, das uns schon von weitem mit seinem
-Kloster und seiner Burg begrueßte, die auf hohen Felsen den Ort
+Kloster und seiner Burg begrue&#xDF;te, die auf hohen Felsen den Ort
 ueberragen.
 
 
@@ -227,7 +259,16 @@ hundert Jahre vor den Chinesen aussah. Die Haeuser werden von Mauern
 aus Jakmist umgeben und haben wunderschoene Verzierungen um Tueren und
 Fenster.
 <div style="clear:both; padding-bottom:0.25em"/>
- </text><photo preload="true" src="http://ferndrang.de/tibet/fotos/17.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/18.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/19.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/20.jpg"/></entry><entry path="e5" name=""><date>21. Juni 2007</date><headline>Pelkor Choede, Kumbum, Tashinlhunpo</headline><text>Nach dem Reisetag war heute wieder ein Klostertag dran.
+ </text>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/17.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/18.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/19.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/20.jpg"/>
+    </entry>
+    <entry path="e5" name="">
+      <date>21. Juni 2007</date>
+      <headline>Pelkor Choede, Kumbum, Tashinlhunpo</headline>
+      <text>Nach dem Reisetag war heute wieder ein Klostertag dran.
 
 
 
@@ -245,8 +286,8 @@ schoenen Blick auf die Altstadt von Gyantse und das umliegende Land.
 
 
 
-Anschließend fuhren wir nach Shigatse, das noerdlich von Gyantse
-liegt und ueber eine schnurgerade Straße erreichbar ist. Dort wurden
+Anschlie&#xDF;end fuhren wir nach Shigatse, das noerdlich von Gyantse
+liegt und ueber eine schnurgerade Stra&#xDF;e erreichbar ist. Dort wurden
 wir sehr angenehm ueberrascht: Ein neuer Reiseleiter stand bereit, den
 alten abzuloesen. Da wir in den letzten Tagen auf jede Frage nur "yes"
 als Antwort bekamen (was auch direkt im Anschluss mit einer
@@ -269,7 +310,7 @@ durch das Tashilhunpo-Kloster ging.
 
 Das Kloster ist der Sitz der Panchen Lamas, der zweitwichtigsten
 Linie religioeser Fuehrer Tibets, und gehoert zur Gelugpa-Schule. Es
-hat die Groeße eines Dorfes und hat zu seinen besten Zeiten ueber 3.000
+hat die Groe&#xDF;e eines Dorfes und hat zu seinen besten Zeiten ueber 3.000
 Moenche beherbergt. Durch geschicktes Taktieren des 10. Panchen Lama
 ist das Kloster fast gaenzlich dem Sturm der Kulturrevolution entgangen
 und hat daher unglaubliche Kostbarkeiten zu bieten.
@@ -302,9 +343,20 @@ Wind geschlagen und ein indisches Restaurant besucht.
 
 Morgen werden wir den Weg nach Tingri antreten, von wo aus wir einen Ausflug zum Mt. Everest unternehmen werden.
 <div style="clear:both; padding-bottom:0.25em"/>
-</text><photo preload="true" src="http://ferndrang.de/tibet/fotos/21.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/22.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/23.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/26.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/28.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/29.jpg"/></entry><entry path="e6" name=""><date>23. Juni 2007</date><headline>Mt. Everest</headline><text>Letztendlich
+</text>
+      <photo preload="true" src="http://ferndrang.de/tibet/fotos/21.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/22.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/23.jpg"/>
+      <photo preload="true" src="http://ferndrang.de/tibet/fotos/26.jpg"/>
+      <photo preload="true" src="http://ferndrang.de/tibet/fotos/28.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/29.jpg"/>
+    </entry>
+    <entry path="e6" name="">
+      <date>23. Juni 2007</date>
+      <headline>Mt. Everest</headline>
+      <text>Letztendlich
 sind wir nicht in Tingri gelandet, sondern in Shegar. Der Ort ist
-immerhin in derselben Gegend und heißt verwirrenderweise auch New
+immerhin in derselben Gegend und hei&#xDF;t verwirrenderweise auch New
 Tingri. Der Weg dorthin fuehrte den Friendship-Highway entlang ueber
 mehrere Paesse, teils ueber 5000m.
 
@@ -315,7 +367,7 @@ mehrere Paesse, teils ueber 5000m.
 Shegar ist ein langweiliges Kaff, das nichts zu bieten hat, als die
 Naehe zum Himalaya. Das Hotel, das als einfache Unterkunft angekuendigt
 wurde, war bitterkalt und von mehr Maeusen als Menschen bewohnt. Als
-Trostpflaster gab es eine Bahnewanne, meistens heißes Wasser und Strom
+Trostpflaster gab es eine Bahnewanne, meistens hei&#xDF;es Wasser und Strom
 ab halb acht.
 
 
@@ -325,9 +377,9 @@ ab halb acht.
 Am naechsten Morgen und nach einer verfrorenen Nacht sind wir
 endlich Richtung Mt. Everest aufgebrochen. Schon in der Nacht hatte es
 passenderweise angefangen zu regnen. So fuhren wir unter einer
-undurchdringlich weißen Wolkendecke her, die man nur als typisch
+undurchdringlich wei&#xDF;en Wolkendecke her, die man nur als typisch
 deutsch bezeichnen kann. Nach einem chinesischen Checkpoint bogen wir
-von der guten Straße ab.
+von der guten Stra&#xDF;e ab.
 
 
 
@@ -356,8 +408,8 @@ eine deutsche Kuckucksuhr haengen.
 Ein paar Kilometer weiter erreichten wir die Huettenstatt, die
 urspruenglich zum Basislager gehoerte. In Zelten mit schoenen Namen wie
 Holiday Inn Mt. Everest konnte man Yak-Tee trinken und uebernachten.
-Leider war an der Stelle, wo eigentlich der groeßte Berg sein sollte,
-nur ein großes, weißes Stueck Himmel.
+Leider war an der Stelle, wo eigentlich der groe&#xDF;te Berg sein sollte,
+nur ein gro&#xDF;es, wei&#xDF;es Stueck Himmel.
 
 
 
@@ -366,7 +418,7 @@ nur ein großes, weißes Stueck Himmel.
 Wir haben uns natuerlich trotzdem auf den Weg zum Basislager
 gemacht, das in 4km Entfernung auf 5200m Hoehe liegt. Der Weg zog sich
 und die Wolken verzogen sich auch langsam. Nur ging es nach einer Weile
-nicht mehr weiter, weil wir an einen Fluß gelangten. Nach einer Rast
+nicht mehr weiter, weil wir an einen Flu&#xDF; gelangten. Nach einer Rast
 gesellte sich ein weiterer verwirrter Wanderer zu uns. Nachdem wir
 keinen Uebergang finden konnten, kehrten wir um, da wir ein Stueckchen
 weiter hinten ein paar militaerische Gebaeude passiert hatten.
@@ -386,7 +438,7 @@ reichlich unspektakulaer.
 
 
 Auf dem Rueckweg hatten sich die Wolken aber endlich so weit
-verzogen, dass wir Mutmaßen anstellten, welcher der Bergruempfe, die
+verzogen, dass wir Mutma&#xDF;en anstellten, welcher der Bergruempfe, die
 links und rechts des Tals sichtbar wurden, zum Everest gehoerte. Wir
 hatten uns schon fuer den linken entschieden, als ploetzlich die Wolken
 in der Mitte aufrissen und die Spitze des Everest freilegten; und zwar
@@ -397,7 +449,7 @@ mussten.
 
 
 
-Dann mussten wir aber leider weiter gehen, da unser Plan, zu Fuß
+Dann mussten wir aber leider weiter gehen, da unser Plan, zu Fu&#xDF;
 hoch und mit Pferdewagen wieder runterzukommen, nicht aufging. Die
 Pferdewagen warten nur unten. Daher wurde aus unserem Spaziergang ein
 vierstuendiger Marsch.
@@ -407,14 +459,25 @@ vierstuendiger Marsch.
 
 
 Auf der Rueckfahrt nach Shegar hatte sich das Wetter so weit
-gebessert, dass die Landschaft, obwohl wir dieselbe Straße nahmen,
+gebessert, dass die Landschaft, obwohl wir dieselbe Stra&#xDF;e nahmen,
 nicht mehr wiederzuerkennen war. Eine gewaltige Szenerie zeigte sich
 uns bei der Durchquerung fruchbarer Taeler und dem nochmaligen
 Erklettern der Serpentinen. Vom Pass aus konnten wir ein endloses Feld
 nackter, brauner Berge sehen, die am Horizont von den schneebedeckten
 Gipfeln des Himalaya und einigen Achttausender ueberragt wurden.
 <div style="clear:both; padding-bottom:0.25em"/>
-</text><photo preload="true" src="http://ferndrang.de/tibet/fotos/31.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/32.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/33.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/34.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/35.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/36.jpg"/></entry><entry path="e7" name=""><date>24. Juni 2007</date><headline>Sakya, Shigatse</headline><text>Auf
+</text>
+      <photo preload="true" src="http://ferndrang.de/tibet/fotos/31.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/32.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/33.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/34.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/35.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/36.jpg"/>
+    </entry>
+    <entry path="e7" name="">
+      <date>24. Juni 2007</date>
+      <headline>Sakya, Shigatse</headline>
+      <text>Auf
 dem Rueckweg von Shegar nach Shigatse haben wir einen Abstecher nach
 Sakya gemacht. Die Stadt ist der Stammsitz der Sakya-Sekte, die eine
 der buddhistischen Schulen Tibets ist.
@@ -425,19 +488,19 @@ der buddhistischen Schulen Tibets ist.
 
 Das Kloster hat eine sehr lange Geschichte, die wir auf keinen Fall
 wiedergeben koennen. Aber rein optisch unterscheidet sich das Kloster
-und der ganze Ort vom Rest Tibets, weil die Haeuser hier nicht weiß
-getuencht sind, sondern aschgrau mit roten und weißen Streifen. Man
+und der ganze Ort vom Rest Tibets, weil die Haeuser hier nicht wei&#xDF;
+getuencht sind, sondern aschgrau mit roten und wei&#xDF;en Streifen. Man
 wollte sich offenbar deutlich abheben.
 
 
 
 
 
-Das Kloster aehnelt groeßtenteils einer Baustelle, weil
+Das Kloster aehnelt groe&#xDF;tenteils einer Baustelle, weil
 umfangreiche Renovierungsarbeiten im Gange sind. Bei der Besichtigung
 hatten wir das Glueck, die Gebetshalle in Aktion zu erleben. Voll von
 Moenchen, die sich auf den langen, gepolsterten Baenken
-gegenuebersaßen, wurden wir von einem unglaublichen Gemurmel umhuellt.
+gegenuebersa&#xDF;en, wurden wir von einem unglaublichen Gemurmel umhuellt.
 Eine Trommel gab den Takt, in dem die Moenche ihre Gebete sangen.
 Einige Moenchen haben sich die Zeit aber auch mit Quatschen oder
 Opferschaelchen-Jonglieren vertrieben.
@@ -460,12 +523,21 @@ erahnen. Auch die Waende waren mit schoenen Mandalas bemalt.
 Bei einem Zwischenstopp an einer Art vorsintflutlichen Raststaette,
 haben wir bei von dort lebenden Farmern ein tibetisches Gericht zum
 Mittagessen bekommen. Wir waren angenehm ueberrascht, von dem
-grauenhaften chinesischen Fraß verschont geblieben zu sein. Es gab Reis
-mit Kartoffeln und Yak-Fleisch in einer scharfen curryartigen Soße.
+grauenhaften chinesischen Fra&#xDF; verschont geblieben zu sein. Es gab Reis
+mit Kartoffeln und Yak-Fleisch in einer scharfen curryartigen So&#xDF;e.
 Abends haben wir in Shigatse wieder unseren Inder besucht, der uns
 schon vor drei Tagen ein china-freies Abendessen bescherte.
 <div style="clear:both; padding-bottom:0.25em"/>
-</text><photo preload="true" src="http://ferndrang.de/tibet/fotos/38.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/39.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/41.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/42.jpg"/></entry><entry path="e8" name=""><date>25. Juni 2007</date><headline>Shigatse - Damshung</headline><text>Von
+</text>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/38.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/39.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/41.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/42.jpg"/>
+    </entry>
+    <entry path="e8" name="">
+      <date>25. Juni 2007</date>
+      <headline>Shigatse - Damshung</headline>
+      <text>Von
 Shigatse aus sind wir nach Damshung gefahren, was einen ganzen Tag in
 Anspruch nahm, aber dafuer sehr nah am Namtso-See liegt, der als
 naechstes auf dem Programm steht.
@@ -480,7 +552,7 @@ Zur Abwechslung waren die Berge hier aber nicht kahl und braun sondern
 allesamt mit einer gruenen Schicht ueberzogen, die aus Moosen und
 anderen niederen Gewaechsen bestand. Die Taeler werden von Nomaden
 bewohnt, die ihre Yak-, Schaf- oder Ziegenherden hier grasen lassen. Ab
-und zu sieht man ihre großen, schwarzen Zelte aus Yakhaar.
+und zu sieht man ihre gro&#xDF;en, schwarzen Zelte aus Yakhaar.
 
 
 
@@ -513,14 +585,22 @@ auf Lasershow oder Disko-Beleuchtung geschaltet.
 
 
 Damshung selbst scheint gerade im Bau zu sein. Denn ueberall werden
-gleichzeitig Straßen, Buergersteige und Haeuser gebaut. Der Ort hat
-außer seiner Naehe zum Nam-Tso nichts zu bieten. Unser Hotel war aber
+gleichzeitig Stra&#xDF;en, Buergersteige und Haeuser gebaut. Der Ort hat
+au&#xDF;er seiner Naehe zum Nam-Tso nichts zu bieten. Unser Hotel war aber
 deutlich besser als die angekuendigte einfache Unterkunft. Wir hatten
 mal wieder einen Tibetan Style Room. Die Betten sind viel gemuetlicher
 als die normalen Hotelbetten. Die Kombination aus superweichem
 Schaumstoff und hartem Teppich darueber hat sich bewaehrt.
 <div style="clear:both; padding-bottom:0.25em"/>
-</text><photo preload="true" src="http://ferndrang.de/tibet/fotos/43.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/44.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/45.jpg"/></entry><entry path="e9" name=""><date>26. Juni 2007</date><headline>Nam-Tso, Lhasa</headline><text>Nach
+</text>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/43.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/44.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/45.jpg"/>
+    </entry>
+    <entry path="e9" name="">
+      <date>26. Juni 2007</date>
+      <headline>Nam-Tso, Lhasa</headline>
+      <text>Nach
 einer kurzen Fahrt und einen weiteren Pass, der uns schon einen
 Vorgeschmack aus der Ferne lieferte, haben wir den 4700m hoch gelegenen
 Namtso-See erreicht. Der See ist ueber 70km lang und sieht aus wie ein
@@ -532,7 +612,7 @@ handelt.
 
 
 Der See gehoert zu den drei (sehr) heiligen Seen Tibets. Daher wird
-der See auch nicht von Schiffen befahren oder gar zum Fueßewaschen
+der See auch nicht von Schiffen befahren oder gar zum Fue&#xDF;ewaschen
 benutzt. Wir sind eine Weile das Ufer entlang gefahren, bis wir an
 einen Huegel kamen, der steil aus der flachen Ebene aufragte.
 Natuerlich gibt es dort ein kleines Kloster, ein paar Stupas und jede
@@ -552,7 +632,7 @@ gebraten.
 
 
 Auf dem Rueckweg war das idyllische Ufer allerdings von einer
-großen Menschenmenge in Beschlag genommen. Beim Naeherkommen konnten
+gro&#xDF;en Menschenmenge in Beschlag genommen. Beim Naeherkommen konnten
 wir erkennen, dass Menschen auf Yaks einige Schritte ins Wasser ritten,
 um direkt wieder umzukehren. Als wir uns das Spektakel von Nahem
 angesehen haben, befanden wir uns in einer Unmenge chinesischer
@@ -583,7 +663,7 @@ Das haetten wir uns letztendlich aber auch sparen koennen. Unser
 Fahrer hatte sich naemlich dazu entschlossen, einfach nicht mehr bei
 den Checkpoints anzuhalten. Er ist bei jedem Checkpoint auf dem Weg
 nach Lhasa einfach auf der Gegenspur daran vorbei gefahren und hat sich
-anschließend totgelacht. So geht es also auch.
+anschlie&#xDF;end totgelacht. So geht es also auch.
 
 
 
@@ -608,7 +688,18 @@ wird. Er wird vollstaendig von kleinen Verkaufsstaenden gesaeumt, die
 tibetischen Schnickschnack und auch Nuetzliches wie Ersatzschnuere fuer
 Gebetsketten anbieten.
 <div style="clear:both; padding-bottom:0.25em"/>
-</text><photo preload="true" src="http://ferndrang.de/tibet/fotos/46.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/47.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/48.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/49.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/50.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/51.jpg"/></entry><entry path="e10" name=""><date>27. Juni 2007</date><headline>Norbulinka, Potala</headline><text>Den
+</text>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/46.jpg"/>
+      <photo preload="true" src="http://ferndrang.de/tibet/fotos/47.jpg"/>
+      <photo preload="true" src="http://ferndrang.de/tibet/fotos/48.jpg"/>
+      <photo preload="true" src="http://ferndrang.de/tibet/fotos/49.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/50.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/51.jpg"/>
+    </entry>
+    <entry path="e10" name="">
+      <date>27. Juni 2007</date>
+      <headline>Norbulinka, Potala</headline>
+      <text>Den
 Morgen haben wir mit einer Besichtigung der Sommerresidenz des Dalai
 Lama begonnen. Norbulinka, der Juwelengarten, liegt mittlerweile
 innerhalb von Lhasa. In einer schoenen Parkanlage befinden sich die
@@ -620,7 +711,7 @@ konnten wir nur die des achten und des 14. besichtigen.
 
 
 
-Das Haus des aktuellen Dalai Lamas ist eines der groeßten Bauwerke
+Das Haus des aktuellen Dalai Lamas ist eines der groe&#xDF;ten Bauwerke
 im Garten. Neben vielen Kammern mit Schreinen und Heiligenfiguren, gibt
 es einen geschaeftlichen Teil, in dem politische Delegationen empfangen
 wurden. Ein Besuchszimmer fuer seine Mutter und eine fuenfziger Jahre
@@ -645,7 +736,7 @@ Beschusses des Gartens durch die Chinesen im Jahr 1959 sehr lebendig
 schildern koennen. Sein Vater, ein Moench des Sera-Klosters, war damals
 wie viele tausend Andere auch dort, um den Dalai Lama zu beschuetzen.
 Wie soviele tibetische Kultstaetten, wurde auch Norbulinka erst
-zerstoert und dann wieder aufgebaut. Jetzt huepfen weiße Hasen durch
+zerstoert und dann wieder aufgebaut. Jetzt huepfen wei&#xDF;e Hasen durch
 die Beete, die weiterhin hingebungsvoll gepflegt werden, da dem Dalai
 Lama eine Liebe zu Blumen nachgesagt wird.
 
@@ -659,7 +750,7 @@ die Umstaende leider stark beschattet: Um dem hauptsaechlich
 chinesischen Besucherandrang Herr zu werden, werden Gruppen
 zusammengelegt, um Fuehrer zu sparen, was wirklich unsinnig ist.
 Darueber hinaus bekommt man beim Eingang wieder einen Zeitstempel; nach
-einer Stunde muss man wieder draußen sein. Das fuehrt dazu, dass sich
+einer Stunde muss man wieder drau&#xDF;en sein. Das fuehrt dazu, dass sich
 die Chinesen wie human waves durch den Palast schieben, so dass man
 kaum anhalten kann. Man wird von rueckwaerts gehenden Fuehrern
 ueberrannt, bekommt Faehnchen ins Gesicht und von lautstarken
@@ -670,7 +761,7 @@ chinesischen Vorttraegen einen Gehoersturz.
 
 
 Das ist gerade bei diesem fantastischen Palast besonders
-aergerlich. Denn hier enthaelt jeder Raum maßlose Schaetze. Neben
+aergerlich. Denn hier enthaelt jeder Raum ma&#xDF;lose Schaetze. Neben
 unendlichen Reihen von Buddhas, Lamas und anderen verehrungswuerdigen
 Statuen sticht vor allem das Grabmal des fuenften Dalai Lamas hervor.
 Die gigantische Stupa ist unermesslich reich geschmueckt. Als Erbauer
@@ -680,7 +771,17 @@ haben, um dem arbeitenden Volk nicht die Lust am Palastbau zu nehmen.
 Waehrenddessen wurde ein aehnlich aussehender Moench fuer offizielle
 Anlaesse verwendet.
 <div style="clear:both; padding-bottom:0.25em"/>
-</text><photo preload="true" src="http://ferndrang.de/tibet/fotos/52.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/53.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/55.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/56.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/57.jpg"/></entry><entry path="e11" name=""><date>28. Juni 2007</date><headline>Jokhang, Sera</headline><text>Nur
+</text>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/52.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/53.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/55.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/56.jpg"/>
+      <photo preload="true" src="http://ferndrang.de/tibet/fotos/57.jpg"/>
+    </entry>
+    <entry path="e11" name="">
+      <date>28. Juni 2007</date>
+      <headline>Jokhang, Sera</headline>
+      <text>Nur
 ein paar Meter von unserem empfehlenswerten Hotel (Dhood Gu) liegt der
 Jokhang-Tempel. Im siebten Jahrhundert erbaut gilt er als der aelteste
 und heiligste buddhistische Tempel in Tibet. Um seine Entstehung ranken
@@ -694,7 +795,7 @@ Auch hier war leider sehr viel Betrieb. Wobei es hier weniger
 chinesischen Touristen waren, als die tibetischen Pilger, die sich in
 einer ununterbrochenen Kette durch alle Kapellen des Tempels schieben.
 Alle Tibeter muessen mal hier hin gepilgert sein. Fromme messen dabei
-zuersten den Barkhor, eine Ringstraße, die um den Tempel herumfuehrt,
+zuersten den Barkhor, eine Ringstra&#xDF;e, die um den Tempel herumfuehrt,
 mit ihrem Koerper der Laenge nach aus. Noch Frommere verneigen sich
 dabei zum Tempel hin, so dass sie den Weg ihrer Breite nach vermessen.
 Wir konnten beide Varianten bewundern.
@@ -705,7 +806,7 @@ Wir konnten beide Varianten bewundern.
 
 Der Eingang des Tempels ist dann auch von sich Niederwerfenden
 belagert. Im Inneren gibt es unzaehlige Kapellen mit Figuren von den
-zahlreichen Formen Buddhas und Lamas. Als Hoehepunkt gilt eine große
+zahlreichen Formen Buddhas und Lamas. Als Hoehepunkt gilt eine gro&#xDF;e
 Statue Sakyamunis, von der es eine chinesische und eine nepalesische
 Variante gab, um die sich eine endlose Verwechslungsgeschichte rankt.
 
@@ -730,7 +831,7 @@ werden muss, befindet sich die Buddha-Statue, der ein Pferdekopf mit
 einem froehlichen Grinsen aus dem Kopf waechst. Darunter lagert ein
 Haufen Gebetsschals, in die die Pilger ihren Kopf stecken. Einigen
 konnte es dabei nicht schnell genug gehen, so dass in dem engen Gang
-großes Gedraenge herrschte.
+gro&#xDF;es Gedraenge herrschte.
 
 
 
@@ -740,8 +841,8 @@ An die Klosterschule angeschlossen ist ein huebscher, schattiger
 Hof, auf dem die Moenche nachmittags ueber philosophische Themen
 debattieren. Dabei halten sie sich an einen seltsamen Ritus. In einem
 Kreis sitzender Moenche stehen ein oder mehrere Moenche und schreien
-Fragen oder Antworten (wer weiß) heraus. Dabei machen sie ausladende
-Bewegungen, als wollte sie sich pruegeln, reißen an ihren Gebetsketten
+Fragen oder Antworten (wer wei&#xDF;) heraus. Dabei machen sie ausladende
+Bewegungen, als wollte sie sich pruegeln, rei&#xDF;en an ihren Gebetsketten
 und Beenden ihre Saetze mit lautstarkem Haendeklatschen. Gerade bei den
 juengeren Moenchen arten die Debatten oft in froehliches Geschubse und
 Handgemenge aus. Ob sie in diesem Geschrei und Gepolter wirklich ihre
@@ -762,7 +863,18 @@ man zwischen Genuss und Schmerz hin und hergerissen ist. Dazu haben wir
 das beruehmte tibetische Gerstenbier Tschang in der dritten Braustufe
 vorgesetzt bekommen. Die ersten beiden seien zu stark.
 <div style="clear:both; padding-bottom:0.25em"/>
-</text><photo preload="true" src="http://ferndrang.de/tibet/fotos/59.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/61.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/62.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/63.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/64.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/65.jpg"/></entry><entry path="e12" name=""><date>29. Juni 2007</date><headline>Lhasa</headline><text>Unseren
+</text>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/59.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/61.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/62.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/63.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/64.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/65.jpg"/>
+    </entry>
+    <entry path="e12" name="">
+      <date>29. Juni 2007</date>
+      <headline>Lhasa</headline>
+      <text>Unseren
 freien Tag haben wir in der tibetischen Altstadt von Lhasa verbracht.
 Da wir uns staendig in den kleinen, verwinkelten Gassen verlaufen
 haben, sind wir auch staendig wieder beim Jokhang in der Mitte des
@@ -774,13 +886,13 @@ Gewirrs gelandet.
 
 Nach ewigen Spaziergaengen haben wir letztendlich auch das
 muslimische Viertel gefunden. Da Freitag war, wurde die Moschee von
-einer großen Menge Herren mit Strohhueten und langen Baerten belagert.
+einer gro&#xDF;en Menge Herren mit Strohhueten und langen Baerten belagert.
 
 
 
 
 
-In den Straeßchen gibt es unzaehlige kleine Laedchen und Staende,
+In den Strae&#xDF;chen gibt es unzaehlige kleine Laedchen und Staende,
 bei denen man von Jakfleisch am Knochen (und mit Haaren) ueber alles,
 was aus Plastik gemacht werden kann, bis zu roten Moenchskutten alles
 kaufen kann. Die Haeuser sind alle im traditionell tibetischen Stil
@@ -793,7 +905,7 @@ jeder Ecke sitz ein Bettler, der murmelnd seine Handgebetsmuehle dreht.
 
 Da das Wetter sehr sonnig und warm war, haben wir es uns zur
 Mittagszeit im einzigen Rooftop-Restaurant, das zu finden war,
-gemuetlich gemacht und mal wieder Momos gegessen und sueßen
+gemuetlich gemacht und mal wieder Momos gegessen und sue&#xDF;en
 Yakmilch-Tee getrunken. Die Kartoffel-Momos haben sich
 erstaunlicherweise als Kroketten mit Yak-Fuellung entpuppt.
 
@@ -803,7 +915,15 @@ erstaunlicherweise als Kroketten mit Yak-Fuellung entpuppt.
 
 Und so haben wir auch den Rest des Tages Momos essend und Barkhor umrundend verbracht.
 <div style="clear:both; padding-bottom:0.25em"/>
-</text><photo preload="true" src="http://ferndrang.de/tibet/fotos/66.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/67.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/68.jpg"/></entry><entry path="e13" name=""><date>30. Juni 2007</date><headline>Lhasa - Xining</headline><text>Wehmuetig
+</text>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/66.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/67.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/68.jpg"/>
+    </entry>
+    <entry path="e13" name="">
+      <date>30. Juni 2007</date>
+      <headline>Lhasa - Xining</headline>
+      <text>Wehmuetig
 mussten wir Lhasa verlassen. Die Stadt und auch ganz Tibet hat uns so
 gut gefallen, dass wir unserem Zwischenstopp in Xining gar nicht
 gebuehrend entgegen eiferten.
@@ -815,9 +935,9 @@ gebuehrend entgegen eiferten.
 Unser Fahrer und Fuehrer haben uns zum neuen Bahnhof von Lhasa
 gebracht. Dabei haette es der Fahrer fast noch geschafft, einen Unfall
 zu provozieren. Anders kann man es nicht nennen. Sowohl Verkehrsregeln,
-als auch Straßenbemalungen scheinen in Tibet wenig Eindruck auf
+als auch Stra&#xDF;enbemalungen scheinen in Tibet wenig Eindruck auf
 Autofahrer zu machen. Daher ist Linksabbiegen hier genauso einfach wie
-Rechtsabbiegen — vorrausgesetzt, alle anderen weichen aus.
+Rechtsabbiegen &#x2014; vorrausgesetzt, alle anderen weichen aus.
 
 
 
@@ -873,12 +993,22 @@ zieht.
 
 
 Die Nacht wurde vom Vollmond beleuchtet, so dass die grandiose
-Landschaft unter einem bleiernen Himmel nochmal in Schwarzweiß an uns
+Landschaft unter einem bleiernen Himmel nochmal in Schwarzwei&#xDF; an uns
 vorbei zog. Das beruhigende Klappern der Schwellen hat der kranke
 Chinese mit ungeheurem Schnarchen untermalt, bis er bei Sonnenaufgang
 die Dreharbeiten fuer sein Daumenkino fortsetzte.
 <div style="clear:both; padding-bottom:0.25em"/>
-</text><photo preload="true" src="http://ferndrang.de/tibet/fotos/69.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/70.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/72.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/73.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/74.jpg"/></entry><entry path="e14" name=""><date>01. Juli 2007</date><headline>Xining</headline><text>Am
+</text>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/69.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/70.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/72.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/73.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/74.jpg"/>
+    </entry>
+    <entry path="e14" name="">
+      <date>01. Juli 2007</date>
+      <headline>Xining</headline>
+      <text>Am
 Morgen hatten wir das tibetische Plataeu endgueltig verlassen. Die
 Gegend um uns herum war gruen bewaldet und wolkenverhangen. Der
 pfeifende Sauerstoffauslass hatte aufgegeben, was die Ankunft in
@@ -903,7 +1033,7 @@ Schuhen.
 
 Vom Bahnhof sind wir direkt zum Kumbum-Kloster gefahren, das der
 Hoehepunkt unseres Aufenthalts hier sein sollte. Es liegt etwas
-außerhalb, so dass wir eine halbe Stunde lang Gelegenheit hatten, uns
+au&#xDF;erhalb, so dass wir eine halbe Stunde lang Gelegenheit hatten, uns
 von der Haesslichkeit Xinings und seiner Vorstaedte zu ueberzeugen. In
 dieser unbekannten Millionenstadt produzieren die unzaehligen
 Baustellen und Abbruchgelaende so viel Staub, dass man sich Regen
@@ -931,7 +1061,7 @@ Neben einer 11m hohen Silber-Stupa, die natuerlich dem Gruender
 gewidmet ist, sind prachtvolle Jakbutter-Schaustuecke der Blickfang des
 Klosters. In einer klimatisierten Vitrine stehen die mannshohen
 Buddha-Skulpturen in einem Meer von Blumen, umgeben von umfangreichem
-Zierwerk — alles aus Butter und huebsch bemalt. Damit die Moenche sich
+Zierwerk &#x2014; alles aus Butter und huebsch bemalt. Damit die Moenche sich
 nicht langweilen, wird das Werk jaehrlich erneuert.
 
 
@@ -945,11 +1075,21 @@ von Xining etwas zu revidieren. Mit einem immerhin zweisprachigen
 Stadtplan ausgeruestet haben wir die Stadt dem ueblichen Ritual
 unterzogen, einen Supermarkt zu finden. Tatsaechlich sind wir nach
 einer Weile in ein belebtes Viertel gekommen, das nicht nur
-Supermaerkte, sondern auch einen schoenen Straßenmarkt zu bieten hatte.
+Supermaerkte, sondern auch einen schoenen Stra&#xDF;enmarkt zu bieten hatte.
 Zwischen den vielen kleinen Geschaeften machten sich Baustaub und
 Ruinenstaub weniger bemerkbar.
 <div style="clear:both; padding-bottom:0.25em"/>
-</text><photo preload="true" src="http://ferndrang.de/tibet/fotos/77.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/78.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/79.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/80.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/81.jpg"/></entry><entry path="e15" name=""><date>02. Juli 2007</date><headline>Xining - Shanghai</headline><text>Leider
+</text>
+      <photo preload="true" src="http://ferndrang.de/tibet/fotos/77.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/78.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/79.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/80.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/81.jpg"/>
+    </entry>
+    <entry path="e15" name="">
+      <date>02. Juli 2007</date>
+      <headline>Xining - Shanghai</headline>
+      <text>Leider
 lag unsere Weiterreise nach Shanghai zeitlich etwas unguenstig. Da wir
 erst Mittags abfliegen sollten, und ein Zwischenstopp in Xi'an anstand,
 konnten wir erst mit einer fruehabendlichen Ankunft rechnen. Leider
@@ -968,10 +1108,10 @@ Die unzaehligen Hochhaeuser sind wild beleuchtet und blinken allesamt.
 Besonders die Prachtbauten von Pudong und im Zentrum wirken sehr
 futuristisch. Dazu tragen noch die unglaublichen Autobahnen bei, die
 nicht nur in die Breite gehen, sondern an Knotenpunkten drei- oder
-vierstoeckig verlaufen. Der Straßenhoehepunkt ist die Auffahrt der
+vierstoeckig verlaufen. Der Stra&#xDF;enhoehepunkt ist die Auffahrt der
 Nanpu-Bruecke im Sueden vom Bund. Dort muss man sich mehrere Windungen
 einer riesigen Spirale herunterkaempfen, bis man wieder festen Boden
-unter den Fueßen hat.
+unter den Fue&#xDF;en hat.
 
 
 
@@ -991,10 +1131,10 @@ ein leuchtendes und glitzerndes Meer von Wolkenkratzern.
 
 So gestaerkt haben wir uns auf Erkundungstour begeben. Hinter
 unserem Hotel gelangt man ueber eine kleine Bruecke ueber den Wusong
-Fluss zu den Hinterstraßen des Bunds. Noch um 22 Uhr ist die Promenade
-so voller Menschen, dass man mehr auf seine Fueße als auf die Aussicht
+Fluss zu den Hinterstra&#xDF;en des Bunds. Noch um 22 Uhr ist die Promenade
+so voller Menschen, dass man mehr auf seine Fue&#xDF;e als auf die Aussicht
 achten muss. Von dort aus zweigt die beruehmte Nanjing Road ab, eine
-gewaltige Einkaufsstraße. In dieser Straßenschlucht reiht sich ein
+gewaltige Einkaufsstra&#xDF;e. In dieser Stra&#xDF;enschlucht reiht sich ein
 Geschaeft an das naechste. Noch zahlreicher als die Geschaefte sind die
 Deppen, die falsche Rolex verkaufen wollen.
 
@@ -1004,7 +1144,7 @@ Deppen, die falsche Rolex verkaufen wollen.
 
 Nach einigen Stellen, die mit dem Londoner Piccadilly konkurrieren
 koennen, muendet die Nanjing Road in den Volksplatz. Dort gibt es ein
-großes Museum, ein Theater, einen Park, ein Hochhas auf dem ein Ufo
+gro&#xDF;es Museum, ein Theater, einen Park, ein Hochhas auf dem ein Ufo
 gelandet zu sein scheint und Platz fuer Paraden und andere chinesische
 Hobbies.
 
@@ -1019,9 +1159,17 @@ aufgegeben. Zu unserer Ueberraschung mussten wir feststellen, dass das
 allgemeine Leuchtspektakel bereits vor Mitternacht sein Ende findet.
 Von Pudong sahen wir nur noch die Positionsleuchten.
 <div style="clear:both; padding-bottom:0.25em"/>
-</text><photo preload="true" src="http://ferndrang.de/tibet/fotos/82.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/83.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/84.jpg"/></entry><entry path="e16" name=""><date>03. Juli 2007</date><headline>Shanghai</headline><text>Bis
+</text>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/82.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/83.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/84.jpg"/>
+    </entry>
+    <entry path="e16" name="">
+      <date>03. Juli 2007</date>
+      <headline>Shanghai</headline>
+      <text>Bis
 zu unserer Abreise kurz vor Mitternacht blieb uns noch ein ganzer Tag,
-um Shanghai bei Licht zu erkunden. Wie ueblich haben wir uns zu Fuß auf
+um Shanghai bei Licht zu erkunden. Wie ueblich haben wir uns zu Fu&#xDF; auf
 den Weg gemacht. Vom Bund aus wollten wir durch einen Tunnel nach
 Pudong gelangen.
 
@@ -1048,7 +1196,7 @@ Auf der anderen Seite des immerhin gut klimatisierten
 Terror-Tunnels erwartete uns in voller Hitze die ueberdimensionierte
 Spielzeugstadt Pudong. Zuerst haben wir das Aquarium besucht, das eine
 Vielzahl toller Fische in kindgerechter Aufmachung zur Schau stellt.
-Ein langer Tunnel fuehrt durch große Aquarien mit fiesen, Zaehne
+Ein langer Tunnel fuehrt durch gro&#xDF;e Aquarien mit fiesen, Zaehne
 fletschenden Tigerhaien. Die geheimen Stars sind aber eine Hand voll
 Quallen in einem kleinen, huebsch beleuchteten Becken. Zum Leid aller
 Eltern muendet der Weg durch das Aquarium in einem Verkaufsbereich fuer
@@ -1077,10 +1225,10 @@ return tickets gekauft), sind wir in Richtung Altstadt marschiert. Dort
 erliegt man dem besonderen Reiz Shanghais: Man steht zwischen
 supermodernen Hochhaeusern, geht um eine Ecke und findet sich in den
 kleinen, verwinkelten Gassen des vorrevolutionaeren Chinas wieder.
-Abseits der neu gebauten und polierten Touristenstraßen gibt es in der
+Abseits der neu gebauten und polierten Touristenstra&#xDF;en gibt es in der
 Altstadt ein Gewirr winziger Gaesschen. Hier gibt es noch huebsche alte
 Haeuser, denen Buesche in den Regenrinnen wachsen. Bei gutem Wetter
-schneidet der Barbier die Haare auf der Straße, den Spiegel an eine
+schneidet der Barbier die Haare auf der Stra&#xDF;e, den Spiegel an eine
 Laterne gelehnt.
 
 
@@ -1088,8 +1236,8 @@ Laterne gelehnt.
 
 
 Den Rueckweg nordwaerts antretend sind wir durch weitere belebte
-Viertel gelangt. Kaum ein Auto faehrt in diesen Straßen. Dafuer werden
-sie minuetlich im Takt der umliegenden, groeßeren Kreuzungen mit
+Viertel gelangt. Kaum ein Auto faehrt in diesen Stra&#xDF;en. Dafuer werden
+sie minuetlich im Takt der umliegenden, groe&#xDF;eren Kreuzungen mit
 Fahrraedern und Rollern ueberschwemmt.
 
 
@@ -1098,20 +1246,20 @@ Fahrraedern und Rollern ueberschwemmt.
 
 Jenseits des Wusong gelangten wir in ein ziemlich
 heruntergekommenes Viertel. Zwischen den typischen flacheren Haeusern
-liegen wilde Muellkippen. Hier findet das Leben auf der Straße statt,
+liegen wilde Muellkippen. Hier findet das Leben auf der Stra&#xDF;e statt,
 und die Hauptdarsteller nehmen schon in den fruehen Abendstunden im
 Schlafanzug daran teil. Die starken Kontraste Shanghais zeigen sich
 besonders deutlich, wenn sich die armen Leute dieser Gegend selbst mit
 Seilen vor ihre Holzkarren spannen waehrend im Hintergrund die Lichter
 der Hochhaeuser pulsieren. Wer hier nicht schleppt oder kocht, sitzt
 moeglichst unbekleidet auf Campingstuehlen und versucht die Hitze
-zwischen den Katarakten der Außengeraete der Klimaanlagen zu ertragen.
+zwischen den Katarakten der Au&#xDF;engeraete der Klimaanlagen zu ertragen.
 
 
 
 
 
-Nach knapp acht Stunden Fußmarsch konnten wir unmoeglich ins
+Nach knapp acht Stunden Fu&#xDF;marsch konnten wir unmoeglich ins
 Flugzeug steigen. Da wir schon morgens auschecken mussten, haben wir
 uns im Hotel wenigstens einen Schwimmbadbesuch erbeten, den wir zum
 Duschen und Umziehen missbrauchten.
@@ -1122,9 +1270,18 @@ Duschen und Umziehen missbrauchten.
 
 Auf dem Weg zum Flughafen konnten wir noch einmal die wilden
 Brueckenkonstruktionen der Autobahnlandschaften und deren unwirklichen
-Blick auf das naechtliche Shanghai genießen. Der Fahrer hat dabei noch
+Blick auf das naechtliche Shanghai genie&#xDF;en. Der Fahrer hat dabei noch
 einmal eindrucksvoll demonstriert, was Chinesen von Verkehrsregeln
 halten, indem er von einer Spur zur anderen springend am liebsten
 rechts ueberholt hat.
 <div style="clear:both; padding-bottom:0.25em"/>
-</text><photo preload="true" src="http://ferndrang.de/tibet/fotos/85.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/86.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/87.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/88.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/89.jpg"/><photo preload="true" src="http://ferndrang.de/tibet/fotos/90.jpg"/></entry></blog></journey>
+</text>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/85.jpg"/>
+      <photo preload="true" src="http://ferndrang.de/tibet/fotos/86.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/87.jpg"/>
+      <photo preload="true" src="http://ferndrang.de/tibet/fotos/88.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/89.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/tibet/fotos/90.jpg"/>
+    </entry>
+  </blog>
+</journey>

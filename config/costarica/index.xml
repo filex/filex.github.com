@@ -1,58 +1,80 @@
 <?xml version="1.0"?>
-<journey><settings><journey><title>Costa Rica</title><year>2006</year></journey></settings><blog><entry path="e1" name=""><date>04. Dezember 2006</date><headline>Laguna de Lagarto</headline><text>
+<journey>
+  <settings>
+    <journey>
+      <title>Costa Rica</title>
+      <year>2006</year>
+    </journey>
+  </settings>
+  <blog>
+    <entry path="e1" name="">
+      <date>04. Dezember 2006</date>
+      <headline>Laguna de Lagarto</headline>
+      <text>
 	  Der erste Stop unserer Reise war die Laguna de Lagarto Lodge im
-	  Norden des Landes in der Nähe der Grenze zu Nicaragua. Wir wurden
-	  direkt am Flughafen abgeholt und konnten in der dreistündigen Fahrt
-	  auf immer kleiner und schlechter werdenden Straßen schon einige der
+	  Norden des Landes in der N&#xE4;he der Grenze zu Nicaragua. Wir wurden
+	  direkt am Flughafen abgeholt und konnten in der dreist&#xFC;ndigen Fahrt
+	  auf immer kleiner und schlechter werdenden Stra&#xDF;en schon einige der
 	  vielen unterschiedlichen Landschaften Costa Ricas in Augenschein
 	  nehmen. Auf das warme Valle Central, in dem auch die Hauptstadt San
-	  Jose liegt, folgte ein Stück durch die nebligen Berge rund um den
-	  Vulkan Poas. Später haben wir uns unserem eigentlichen Ziel, dem
-	  regnerischen und schwülen Flachland im Norden genähert.
+	  Jose liegt, folgte ein St&#xFC;ck durch die nebligen Berge rund um den
+	  Vulkan Poas. Sp&#xE4;ter haben wir uns unserem eigentlichen Ziel, dem
+	  regnerischen und schw&#xFC;len Flachland im Norden gen&#xE4;hert.
 
 
 
 
 	  
-	  Das Hotel selbst liegt auf einem kleinen Hügel in einer großen
+	  Das Hotel selbst liegt auf einem kleinen H&#xFC;gel in einer gro&#xDF;en
 	  Lagune. Von den Terassen aus hat man einen wunderbaren Blick in den
-	  umliegenden Urwald, in dem es ständig klingt, als würde es regnen.
-	  Nachdem wir auf dem Hinweg endlich echte Ananas in ihrem natürlichen
+	  umliegenden Urwald, in dem es st&#xE4;ndig klingt, als w&#xFC;rde es regnen.
+	  Nachdem wir auf dem Hinweg endlich echte Ananas in ihrem nat&#xFC;rlichen
 	  Habitat bewundern durften, hat sich auch unsere Hoffnung, Tucane in
-	  freier Natur zu sehen, prompt erfüllt. Neben dem einen Wunsch-Tucan
+	  freier Natur zu sehen, prompt erf&#xFC;llt. Neben dem einen Wunsch-Tucan
 	  hockten gleich noch zehn weitere im selben Baum. Darunter wuselten
-	  Nasenbären in den Fruchtabfällen, die die gierigen Tucane fallen
-	  gelassen haben. Kolibris, Papageien, Geier und auch ein Vielfraß
-	  dürfen in der Aufzählung der Terassensichtungen nicht
+	  Nasenb&#xE4;ren in den Fruchtabf&#xE4;llen, die die gierigen Tucane fallen
+	  gelassen haben. Kolibris, Papageien, Geier und auch ein Vielfra&#xDF;
+	  d&#xFC;rfen in der Aufz&#xE4;hlung der Terassensichtungen nicht
 	  fehlen.
 
 
 
 
 	  
-	  Die Hotelmannschaft hat sich allerdings redlich bemüht, uns vom
+	  Die Hotelmannschaft hat sich allerdings redlich bem&#xFC;ht, uns vom
 	  Terassenhocken abzuhalten und uns mit einem vollen Ausflugsprogramm
-	  unterhalten. Eine längere Bootsfahrt auf dem benachbarten Rio San
-	  Carlos führte uns, vorbei an Krokodilen, Aras, Teak-Holz in Baumform
-	  und vielen exotischen Gewächsen durch die dampfende Silhouette des
-	  Urwalds bis zur Mündung in den Rio San Juan.  Dieser wiederum mündet
-	  im späteren Verlauf in den Nicaragua-See. Zur Urwaldwanderung sind
+	  unterhalten. Eine l&#xE4;ngere Bootsfahrt auf dem benachbarten Rio San
+	  Carlos f&#xFC;hrte uns, vorbei an Krokodilen, Aras, Teak-Holz in Baumform
+	  und vielen exotischen Gew&#xE4;chsen durch die dampfende Silhouette des
+	  Urwalds bis zur M&#xFC;ndung in den Rio San Juan.  Dieser wiederum m&#xFC;ndet
+	  im sp&#xE4;teren Verlauf in den Nicaragua-See. Zur Urwaldwanderung sind
 	  wir auf Anraten der Crew in geliehenen Gummistiefeln erschienen.
-	  Damit waren wir gerade mal fast richtig gekleidet, denn später
+	  Damit waren wir gerade mal fast richtig gekleidet, denn sp&#xE4;ter
 	  sollten wir tief im Schlamm versinken. Der Regenwald hat seinem Namen
 	  zumindest alle Ehre gemacht und alles was wir hineingetragen haben so
-	  durchnässt, dass wir einen Trockner suchen mussten.
+	  durchn&#xE4;sst, dass wir einen Trockner suchen mussten.
 	  
 	  <div style="clear:both; padding-bottom:0.25em"/>
-	  </text><photo preload="true" src="http://ferndrang.de/costarica/fotos/lagarto/004.jpg"/><photo preload="true" src="http://ferndrang.de/costarica/fotos/lagarto/021.jpg"/><photo preload="true" src="http://ferndrang.de/costarica/fotos/lagarto/064.jpg"/><photo preload="true" src="http://ferndrang.de/costarica/fotos/lagarto/067.jpg"/><photo preload="true" src="http://ferndrang.de/costarica/fotos/lagarto/087.jpg"/><photo preload="true" src="http://ferndrang.de/costarica/fotos/lagarto/092.jpg"/></entry><entry path="e2" name=""><date>08. Dezember 2006</date><headline>La Fortuna / Volcan Arenal</headline><text>
+	  </text>
+      <photo width="640" height="425" src="http://ferndrang.de/costarica/fotos/lagarto/004.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/costarica/fotos/lagarto/021.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/costarica/fotos/lagarto/064.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/costarica/fotos/lagarto/067.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/costarica/fotos/lagarto/087.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/costarica/fotos/lagarto/092.jpg"/>
+    </entry>
+    <entry path="e2" name="">
+      <date>08. Dezember 2006</date>
+      <headline>La Fortuna / Volcan Arenal</headline>
+      <text>
 	  Da unser Aufenthalt in der Lagarto Lodge praktischerweise Transfers
-	  direkt beinhaltete, war die gestrige Weiterreise zu unserem nächsten
-	  Stop sehr komfortabel. Wir wurden direkt vor Gringo Pete´s in dem
-	  kleinen Städtchen La Fortuna abgesetzt. Mit 4$ pro Kopf und Nacht
-	  sind wir wahrscheinlich in unserer günstigsten Unterkunft gelandet.
-	  Dennoch hat sie alles, was man braucht. Denn Ausflüge ins Umland kann
+	  direkt beinhaltete, war die gestrige Weiterreise zu unserem n&#xE4;chsten
+	  Stop sehr komfortabel. Wir wurden direkt vor Gringo Pete&#xB4;s in dem
+	  kleinen St&#xE4;dtchen La Fortuna abgesetzt. Mit 4$ pro Kopf und Nacht
+	  sind wir wahrscheinlich in unserer g&#xFC;nstigsten Unterkunft gelandet.
+	  Dennoch hat sie alles, was man braucht. Denn Ausfl&#xFC;ge ins Umland kann
 	  man hier sehr preiswert organisieren. Die Zimmer sind zudem nicht nur
-	  sauber, sondern rein. Die Haushilfe hat nämlich eine Leidenschaft für
+	  sauber, sondern rein. Die Haushilfe hat n&#xE4;mlich eine Leidenschaft f&#xFC;r
 	  scharfe Chemikalien, die den Boden selbst nur knapp davon kommen
 	  lassen.
 
@@ -60,19 +82,19 @@
 
 
 	  
-	  Das besagte Umland wird maßgeblich vom Vulkan Arenal geprägt. Dennoch
+	  Das besagte Umland wird ma&#xDF;geblich vom Vulkan Arenal gepr&#xE4;gt. Dennoch
 	  konnten wir ihn bei unserer Ankunft nicht finden, da er sich
-	  standesgemäß gerne in Wolken hüllt und zu dieser Jahreszeit ohnehin
-	  selten zu sehen ist. Dennoch hatten wir Glück. Ein Lüftchen hat ihn
-	  kurzzeitig enthüllt, und zum Vorschein kam ein perfekt geformter,
-	  grün bewachsener Kegel. Was wir allerdings nicht sehen konnten, war
+	  standesgem&#xE4;&#xDF; gerne in Wolken h&#xFC;llt und zu dieser Jahreszeit ohnehin
+	  selten zu sehen ist. Dennoch hatten wir Gl&#xFC;ck. Ein L&#xFC;ftchen hat ihn
+	  kurzzeitig enth&#xFC;llt, und zum Vorschein kam ein perfekt geformter,
+	  gr&#xFC;n bewachsener Kegel. Was wir allerdings nicht sehen konnten, war
 	  die Lava, die permanent aus einem seiner Krater sickert, seit der
-	  Vulkan 1968 mit einem großen Knall wieder erwachte.  Während die
+	  Vulkan 1968 mit einem gro&#xDF;en Knall wieder erwachte.  W&#xE4;hrend die
 	  Anwohner damals gar nicht wussten, dass es sich um einen Vulkan
 	  handelt, haben sie sich inzwischen alle darauf spezialisiert.  So
-	  konnten wir unseren ersten Nachmittag mit einer Führung durch den
-	  Regenwald verbringen. Anschließend wurden wir in eine der Thermen
-	  geführt, die sich die heißen Quellen zu Nutze machen. Die
+	  konnten wir unseren ersten Nachmittag mit einer F&#xFC;hrung durch den
+	  Regenwald verbringen. Anschlie&#xDF;end wurden wir in eine der Thermen
+	  gef&#xFC;hrt, die sich die hei&#xDF;en Quellen zu Nutze machen. Die
 	  Unterschiede zum Aqualand belaufen sich darauf, dass es kein Dach
 	  gibt, die Palmen am Rand echt sind und das Wasser nicht beheizt
 	  werden muss.
@@ -81,13 +103,13 @@
 
 
 	  
-	  Heute haben wir den obligatorischen Nationalparkbesuch am Fuße des
-	  Vulkans gemacht. Und wieder hatten wir Glück und konnten einige
+	  Heute haben wir den obligatorischen Nationalparkbesuch am Fu&#xDF;e des
+	  Vulkans gemacht. Und wieder hatten wir Gl&#xFC;ck und konnten einige
 	  Blicke auf seine Nordseite werfen. Die Vegetation in diesem Bereich
 	  des Bergs ist noch sehr jung und wird von einer langen Zunge
-	  erstarrter Lava durchtrennt. Während wir um unsere Knöchel bangend
-	  über die Brocken gestolpert sind, konnten wir die Eruptionen hören,
-	  die mit Donnergrollen über die Hänge hallten.  Außer einigen
+	  erstarrter Lava durchtrennt. W&#xE4;hrend wir um unsere Kn&#xF6;chel bangend
+	  &#xFC;ber die Brocken gestolpert sind, konnten wir die Eruptionen h&#xF6;ren,
+	  die mit Donnergrollen &#xFC;ber die H&#xE4;nge hallten.  Au&#xDF;er einigen
 	  dampfenden Ritzen im Hang kann man davon aber nichts sehen. Auch
 	  unser Versuch, nachts einen Blick auf den aktiven Lavastrom zu
 	  werfen, ist leider von einer dichten Wolkenfront vereitelt
@@ -100,18 +122,28 @@
 	  Morgen werden wir nach Sta. Elena bei Monteverde weiterfahren, wo wir
 	  uns im Nebelwald verirren wollen...
 	  <div style="clear:both; padding-bottom:0.25em"/>
-	  </text><photo preload="true" src="http://ferndrang.de/costarica/fotos/arenal/125.jpg"/><photo preload="true" src="http://ferndrang.de/costarica/fotos/arenal/138.jpg"/><photo preload="true" src="http://ferndrang.de/costarica/fotos/arenal/143.jpg"/><photo preload="true" src="http://ferndrang.de/costarica/fotos/arenal/153.jpg"/><photo preload="true" src="http://ferndrang.de/costarica/fotos/arenal/160.jpg"/></entry><entry path="e3" name=""><date>10. Dezember 2006</date><headline>Sta. Elena</headline><text>
+	  </text>
+      <photo width="640" height="425" src="http://ferndrang.de/costarica/fotos/arenal/125.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/costarica/fotos/arenal/138.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/costarica/fotos/arenal/143.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/costarica/fotos/arenal/153.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/costarica/fotos/arenal/160.jpg"/>
+    </entry>
+    <entry path="e3" name="">
+      <date>10. Dezember 2006</date>
+      <headline>Sta. Elena</headline>
+      <text>
 	  Die Fahrt von La Fortuna nach Sta. Elena war sehr abwechslungsreich.
 	  Von einem Bus wurden wir zum Ufer des Arenal-Sees gebracht. Dort ging
-	  es mit einem Boot im Tretboottempo weiter; die "Abkürzung" über den
+	  es mit einem Boot im Tretboottempo weiter; die "Abk&#xFC;rzung" &#xFC;ber den
 	  See. Auf der anderen Seite hat uns das Boot an einem unbewohnten Ufer
-	  rausgelassen. Wir mussten dann nur noch über einen Stacheldrahtzaun
-	  klettern, um zu den weiterführenden Bussen zu kommen. Die folgende
-	  Strecke nach Sta. Elena führte uns mitten in die Cordillera de
+	  rausgelassen. Wir mussten dann nur noch &#xFC;ber einen Stacheldrahtzaun
+	  klettern, um zu den weiterf&#xFC;hrenden Bussen zu kommen. Die folgende
+	  Strecke nach Sta. Elena f&#xFC;hrte uns mitten in die Cordillera de
 	  Tileran. Die Strecke war sehr bergig und sehr schlammig. Nachdem der
-	  Wagen vor uns auch nach vier Anläufen eine steile Stelle nicht
+	  Wagen vor uns auch nach vier Anl&#xE4;ufen eine steile Stelle nicht
 	  erklimmen konnte, mussten wir alle aussteigen. Dann ging es aber
-	  glückericherweise.
+	  gl&#xFC;ckericherweise.
 
 
 
@@ -120,36 +152,47 @@
 	  Sta. Elena selbst ist ein kleines Kaff in den Bergen, das mehr Hotels
 	  als Einwohner hat. Die Anziehungskraft geht von den Nationalparks
 	  Sta. Elena und Monteverde aus, die sich hier befinden. Beides sind
-	  sehr schöne Nebelwälder.
+	  sehr sch&#xF6;ne Nebelw&#xE4;lder.
 
 
 
 
 	  
 	  Heute haben wir uns den ersten vorgenommen und sind dabei wieder
-	  ordentlich durchnässt worden. Gut, dass man auch hier Gummistiefel
+	  ordentlich durchn&#xE4;sst worden. Gut, dass man auch hier Gummistiefel
 	  leihen kann!  Eine weitere Strecke im Wald des Unternehmens Salvatura
-	  führte über acht große Hängebrücken durch den Urwald. Von dort aus
-	  konnten wir auch die höher gelegenen Baumschichten ansehen. Die
-	  endlosen von Baumkronen vollständig bedeckten Hügel boten ein
+	  f&#xFC;hrte &#xFC;ber acht gro&#xDF;e H&#xE4;ngebr&#xFC;cken durch den Urwald. Von dort aus
+	  konnten wir auch die h&#xF6;her gelegenen Baumschichten ansehen. Die
+	  endlosen von Baumkronen vollst&#xE4;ndig bedeckten H&#xFC;gel boten ein
 	  fantastisches Bild.
 
 
 
 
 	  
-	  Morgen müssen wir unsere Unterkunft Arco Iris leider verlassen, weil
+	  Morgen m&#xFC;ssen wir unsere Unterkunft Arco Iris leider verlassen, weil
 	  sie sich bei der Reservierung vertan haben. Das Zimmer war sehr
-	  geräumig und sogar mit Kühlschrank ausgestattet, so dass wir uns
+	  ger&#xE4;umig und sogar mit K&#xFC;hlschrank ausgestattet, so dass wir uns
 	  teilweise selbst verpflegen konnten. Wir bleiben aber noch einen
 	  weiteren Tag hier, um auch den anderen Park im benachbarten
 	  Monteverde zu bewandern.
 	  
 	  <div style="clear:both; padding-bottom:0.25em"/>
-	  </text><photo preload="true" src="http://ferndrang.de/costarica/fotos/elena/169.jpg"/><photo preload="true" src="http://ferndrang.de/costarica/fotos/elena/186.jpg"/><photo preload="true" src="http://ferndrang.de/costarica/fotos/elena/189.jpg"/><photo preload="true" src="http://ferndrang.de/costarica/fotos/elena/195.jpg"/><photo preload="true" src="http://ferndrang.de/costarica/fotos/elena/202.jpg"/><photo preload="true" src="http://ferndrang.de/costarica/fotos/elena/206.jpg"/></entry><entry path="e4" name=""><date>12. Dezember 2006</date><headline>Matapalo</headline><text>
+	  </text>
+      <photo width="640" height="425" src="http://ferndrang.de/costarica/fotos/elena/169.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/costarica/fotos/elena/186.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/costarica/fotos/elena/189.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/costarica/fotos/elena/195.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/costarica/fotos/elena/202.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/costarica/fotos/elena/206.jpg"/>
+    </entry>
+    <entry path="e4" name="">
+      <date>12. Dezember 2006</date>
+      <headline>Matapalo</headline>
+      <text>
 	  Nach so viel Wandern und Regen haben wir uns eine Sommerpause im
-	  winzigen Ort Matapalo gegönnt. Obwohl im Reiseführer von
-	  touristischer Infrastruktur die Rede war, gibt es hier nichts außer
+	  winzigen Ort Matapalo geg&#xF6;nnt. Obwohl im Reisef&#xFC;hrer von
+	  touristischer Infrastruktur die Rede war, gibt es hier nichts au&#xDF;er
 	  einer Hand voll Hotels und einem traumhaften, schwarzen Strand, der
 	  in beide Richtungen erst am Horizont endet. Genausoweit muss man auch
 	  gucken, um andere Leute zu sehen. Sehr entspannt hier.
@@ -158,24 +201,33 @@
 
 
 	  
-	  Die Albergua Suiza hat zwar den Preis für das schlechteste Essen im
-	  Land verdient, dafür ist unser Zimmer sehr geräumig und mit
-	  Hängematte und Bodyboards ausgestattet. Letztere sind hier beim Baden
-	  mitzuführen, da sich der Pazifik hier als kraftvoller Ozean gebärdet;
-	  die Unterströmung reißt einem leicht die Füße weg.
+	  Die Albergua Suiza hat zwar den Preis f&#xFC;r das schlechteste Essen im
+	  Land verdient, daf&#xFC;r ist unser Zimmer sehr ger&#xE4;umig und mit
+	  H&#xE4;ngematte und Bodyboards ausgestattet. Letztere sind hier beim Baden
+	  mitzuf&#xFC;hren, da sich der Pazifik hier als kraftvoller Ozean geb&#xE4;rdet;
+	  die Unterstr&#xF6;mung rei&#xDF;t einem leicht die F&#xFC;&#xDF;e weg.
 
 
 
 
 	  
-	  Glücklicherweise geht der Preis für das beste Essen im Land an unsere
+	  Gl&#xFC;cklicherweise geht der Preis f&#xFC;r das beste Essen im Land an unsere
 	  Nachbarn, das Hotel El Coquito. Das werden wir noch vermissen.
 	  
 	  <div style="clear:both; padding-bottom:0.25em"/>
-	  </text><photo preload="true" src="http://ferndrang.de/costarica/fotos/matapalo/219.jpg"/><photo preload="true" src="http://ferndrang.de/costarica/fotos/matapalo/225.jpg"/><photo preload="true" src="http://ferndrang.de/costarica/fotos/matapalo/227.jpg"/><photo preload="true" src="http://ferndrang.de/costarica/fotos/matapalo/231.jpg"/></entry><entry path="e5" name=""><date>16. Dezember 2006</date><headline>Corcovado</headline><text>
+	  </text>
+      <photo width="640" height="425" src="http://ferndrang.de/costarica/fotos/matapalo/219.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/costarica/fotos/matapalo/225.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/costarica/fotos/matapalo/227.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/costarica/fotos/matapalo/231.jpg"/>
+    </entry>
+    <entry path="e5" name="">
+      <date>16. Dezember 2006</date>
+      <headline>Corcovado</headline>
+      <text>
 	  Wir wollen uns ja nicht zu lange auf die faule Haut legen. Daher
-	  haben wir uns in die Nähe des dieserorts berühmten Nationalparks
-	  Corcovado begeben. Da jedes Land Rekorde braucht, gibt es hierfür den
+	  haben wir uns in die N&#xE4;he des dieserorts ber&#xFC;hmten Nationalparks
+	  Corcovado begeben. Da jedes Land Rekorde braucht, gibt es hierf&#xFC;r den
 	  Weltrekord in Artenvielfalt.
 
 
@@ -183,11 +235,11 @@
 
 	  
 	  Um in das halbwegs entlegene Gebiet zu kommen, mussten wir nach
-	  Sierpe fahren, wo unser Hotel, das Poor Man´s Paradise, einen kleinen
+	  Sierpe fahren, wo unser Hotel, das Poor Man&#xB4;s Paradise, einen kleinen
 	  Anleger hat. Von dort aus sind wir mit einem kleinen Motorboot den
-	  Rio Sierpe bis zum Meer hinuntergefahren und dann ein Stück die Küste
-	  entlang bis Bahia Drake. Die schönen Mangroven an den Ufern des
-	  Flusses konnten wir nur bedingt genießen, da uns der Fahrtwind die
+	  Rio Sierpe bis zum Meer hinuntergefahren und dann ein St&#xFC;ck die K&#xFC;ste
+	  entlang bis Bahia Drake. Die sch&#xF6;nen Mangroven an den Ufern des
+	  Flusses konnten wir nur bedingt genie&#xDF;en, da uns der Fahrtwind die
 	  Lider von den Augen wehte.
 
 
@@ -195,10 +247,10 @@
 
 	  
 	  Das Hotel selbst liegt ziemlich abgeschieden direkt am Meer. Da es
-	  hier keinen Landungssteg gibt und die Brandung noch stärker als in
-	  Matapalo ist, rasen die Bootsführer einfach mit vollem Tempo auf den
+	  hier keinen Landungssteg gibt und die Brandung noch st&#xE4;rker als in
+	  Matapalo ist, rasen die Bootsf&#xFC;hrer einfach mit vollem Tempo auf den
 	  Strand zu und schliddern ins Trockene. Auf dem Weg in Richtung Meer
-	  klappt das leider nicht so gut, so dass wir bei Ausflügen regelmäßig
+	  klappt das leider nicht so gut, so dass wir bei Ausfl&#xFC;gen regelm&#xE4;&#xDF;ig
 	  mit Meerduschen starten.
 
 
@@ -206,9 +258,9 @@
 
 	  
 	  Davon abgesehen ist der Strand aber auch sehr ruhig. Wenn man sich im
-	  Schatten eines Meermandelbaums niederläßst, bekommt man schnell
+	  Schatten eines Meermandelbaums niederl&#xE4;&#xDF;st, bekommt man schnell
 	  Besuch von einem der Zahlreichen Roten Aras, die hier herumflattern.
-	  Mit Vorliebe knabbern sie exakt über unseren Köpfen.
+	  Mit Vorliebe knabbern sie exakt &#xFC;ber unseren K&#xF6;pfen.
 
 
 
@@ -218,18 +270,28 @@
 	  Dorthin haben wir einen Tagesausflug unternommen. Nach zwei
 	  unglaublich sonnigen Tagen, fing dieser seltsamerweise mal wieder mit
 	  Regen an. Der hatte sich zwar verzogen, bevor wir losgegangen sind,
-	  einen Großteil der Artenvielfalt hat er allerdings gleich
-	  mitgenommen. Dennoch ist der Regenwald hier sehr schön. Die
-	  Wanderwege sind mit einem kleinen Wasserfall und dem zugehörigen
-	  Flüsschen auch recht abwechslungsreich. Als Vertreter für den Rest,
-	  der sich versteckt hat, haben sich Brüllaffen und Spider-Monkeys
+	  einen Gro&#xDF;teil der Artenvielfalt hat er allerdings gleich
+	  mitgenommen. Dennoch ist der Regenwald hier sehr sch&#xF6;n. Die
+	  Wanderwege sind mit einem kleinen Wasserfall und dem zugeh&#xF6;rigen
+	  Fl&#xFC;sschen auch recht abwechslungsreich. Als Vertreter f&#xFC;r den Rest,
+	  der sich versteckt hat, haben sich Br&#xFC;llaffen und Spider-Monkeys
 	  gezeigt.
 	  
 	  <div style="clear:both; padding-bottom:0.25em"/>
-	  </text><photo preload="true" src="http://ferndrang.de/costarica/fotos/corcovado/246.jpg"/><photo preload="true" src="http://ferndrang.de/costarica/fotos/corcovado/267.jpg"/><photo preload="true" src="http://ferndrang.de/costarica/fotos/corcovado/272.jpg"/><photo preload="true" src="http://ferndrang.de/costarica/fotos/corcovado/286.jpg"/><photo preload="true" src="http://ferndrang.de/costarica/fotos/corcovado/293.jpg"/></entry><entry path="e6" name=""><date>20. Dezember 2006</date><headline>Nach Bocas del Toro</headline><text>
-	  Unser nächstes Ziel lautet Bocas del Toro, eine Inselgruppe in der
+	  </text>
+      <photo width="640" height="425" src="http://ferndrang.de/costarica/fotos/corcovado/246.jpg"/>
+      <photo width="425" height="640" src="http://ferndrang.de/costarica/fotos/corcovado/267.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/costarica/fotos/corcovado/272.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/costarica/fotos/corcovado/286.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/costarica/fotos/corcovado/293.jpg"/>
+    </entry>
+    <entry path="e6" name="">
+      <date>20. Dezember 2006</date>
+      <headline>Nach Bocas del Toro</headline>
+      <text>
+	  Unser n&#xE4;chstes Ziel lautet Bocas del Toro, eine Inselgruppe in der
 	  nord-westlichen Ecke Panamas. Bei so viel Tropen darf die Karibik
-	  natürlich nicht fehlen. Bis dahin ist es von Bahia Drake aus
+	  nat&#xFC;rlich nicht fehlen. Bis dahin ist es von Bahia Drake aus
 	  allerdings ein weiter Weg. Zu weit, wie wir feststellen
 	  mussten.
 
@@ -245,9 +307,9 @@
 
 
 	  
-	  Der Grenzübergang zu Panama ist ein besonders schöner Ort. Statt den
-	  üblichen einsamen Brücken, die zwei Grenzstationen trennen, gibt es
-	  hier ein Gewimmel von Dreck und Geschäften. Wer bis dahin noch nicht
+	  Der Grenz&#xFC;bergang zu Panama ist ein besonders sch&#xF6;ner Ort. Statt den
+	  &#xFC;blichen einsamen Br&#xFC;cken, die zwei Grenzstationen trennen, gibt es
+	  hier ein Gewimmel von Dreck und Gesch&#xE4;ften. Wer bis dahin noch nicht
 	  abgeschreckt ist, bekommt von den panamaischen Grenzbeamten oder vor
 	  allem deren Vorschriften den Rest.
 
@@ -255,27 +317,27 @@
 
 
 	  
-	  Die Panameños finden ihr Land nämlich so toll, dass ihr Leben von der
-	  Angst geprägt ist, dass es Gästen genauso ergehen wird und sie daher
-	  nur ungern wieder verschwinden werden.  Gleichzeitig möchten sie die
-	  Gäste natürlich an den Füßen packen und ausschütteln. Daher die zwei
-	  Zutaten für die erfolgreiche Einreise: Ein Rückreiseticket und 500 $
+	  Die Paname&#xF1;os finden ihr Land n&#xE4;mlich so toll, dass ihr Leben von der
+	  Angst gepr&#xE4;gt ist, dass es G&#xE4;sten genauso ergehen wird und sie daher
+	  nur ungern wieder verschwinden werden.  Gleichzeitig m&#xF6;chten sie die
+	  G&#xE4;ste nat&#xFC;rlich an den F&#xFC;&#xDF;en packen und aussch&#xFC;tteln. Daher die zwei
+	  Zutaten f&#xFC;r die erfolgreiche Einreise: Ein R&#xFC;ckreiseticket und 500 $
 	  in bar.
 
 
 
 
 	  
-	  Natürlich hatten wir beides nicht. Und der Grenzbeamte war trotz
-	  unseres Rückflugtickets von San Jose nach Frankfurt nicht überzeugt,
+	  Nat&#xFC;rlich hatten wir beides nicht. Und der Grenzbeamte war trotz
+	  unseres R&#xFC;ckflugtickets von San Jose nach Frankfurt nicht &#xFC;berzeugt,
 	  dass wir nicht doch vielleicht bleiben wollten. Um unseren Guten
 	  Willen zu beweisen brauchten wir noch ein Busticket von Panama nach
-	  San Jose, das auf unseren Namen ausgestellt ist und auch noch über
-	  denselben Grenzübergang führt. Unglaublich! Schließlich wollen wir
-	  das Land im Norden wieder verlassen und nicht hier im Süden.
-	  Erklärungen halfen nicht, der Beweis musste her. Also haben wir uns
-	  ein verdammtes Busticket gekauft und präsentiert. Nach unseren
-	  Bargeldbeständen haben sie glücklicherweise nicht gefragt.
+	  San Jose, das auf unseren Namen ausgestellt ist und auch noch &#xFC;ber
+	  denselben Grenz&#xFC;bergang f&#xFC;hrt. Unglaublich! Schlie&#xDF;lich wollen wir
+	  das Land im Norden wieder verlassen und nicht hier im S&#xFC;den.
+	  Erkl&#xE4;rungen halfen nicht, der Beweis musste her. Also haben wir uns
+	  ein verdammtes Busticket gekauft und pr&#xE4;sentiert. Nach unseren
+	  Bargeldbest&#xE4;nden haben sie gl&#xFC;cklicherweise nicht gefragt.
 
 
 
@@ -290,9 +352,9 @@
 
 	  
 	  Die letzte Fahrt hat leider sechs Stunden gedauert, so dass wir gar
-	  kein Boot nach Bocas del Toro mehr bekommen konnten. Dafür durften
+	  kein Boot nach Bocas del Toro mehr bekommen konnten. Daf&#xFC;r durften
 	  wir das menschenleere, bergige und vor allem endlose Inland Panamas
-	  durchfahren. Da der Fahrer sich bei Tempo 30 am sichersten fühlte ist
+	  durchfahren. Da der Fahrer sich bei Tempo 30 am sichersten f&#xFC;hlte ist
 	  die Sonne so bald untergegangen, dass wir davon gar nicht mitbekommen
 	  haben.
 
@@ -300,16 +362,24 @@
 
 
 	  
-	  Changinola war um 22 Uhr glücklicherweise noch auf den Beinen. Ein
-	  Hotel war schnell gefunden. Dann konnten wir endlich Frühstück,
+	  Changinola war um 22 Uhr gl&#xFC;cklicherweise noch auf den Beinen. Ein
+	  Hotel war schnell gefunden. Dann konnten wir endlich Fr&#xFC;hst&#xFC;ck,
 	  Mittagessen und Abendessen nachholen.
 	  
 	  <div style="clear:both; padding-bottom:0.25em"/>
-	  </text><photo preload="true" src="http://ferndrang.de/costarica/fotos/bocas1/296.jpg"/><photo preload="true" src="http://ferndrang.de/costarica/fotos/bocas1/300.jpg"/><photo preload="true" src="http://ferndrang.de/costarica/fotos/bocas1/302.jpg"/></entry><entry path="e7" name=""><date>21. Dezember 2006</date><headline>Bocas del Toro</headline><text>
-	  Nachdem wir uns gestern so durch die Lande gekämpft haben, war es
+	  </text>
+      <photo width="640" height="425" src="http://ferndrang.de/costarica/fotos/bocas1/296.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/costarica/fotos/bocas1/300.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/costarica/fotos/bocas1/302.jpg"/>
+    </entry>
+    <entry path="e7" name="">
+      <date>21. Dezember 2006</date>
+      <headline>Bocas del Toro</headline>
+      <text>
+	  Nachdem wir uns gestern so durch die Lande gek&#xE4;mpft haben, war es
 	  heute nur noch ein Katzensprung. Mit einem kleinen Boot, das vom
-	  Gelände der Chiquita Plantagen (Finca 60) abfährt, sind wir durch
-	  einen sehr hübschen Kanal zum Meer gelangt. Die Landschaft erinnerte
+	  Gel&#xE4;nde der Chiquita Plantagen (Finca 60) abf&#xE4;hrt, sind wir durch
+	  einen sehr h&#xFC;bschen Kanal zum Meer gelangt. Die Landschaft erinnerte
 	  mit ihren Wasserhyazinthen an das Orinoco-Delta in
 	  Venezuela.
 
@@ -317,30 +387,37 @@
 
 
 	  
-	  Bocas del Toro selbst ist ein kleiner Ort, der durchaus über
-	  touristische Infrastruktur verfügt. Hotels und Restaurants wechseln
+	  Bocas del Toro selbst ist ein kleiner Ort, der durchaus &#xFC;ber
+	  touristische Infrastruktur verf&#xFC;gt. Hotels und Restaurants wechseln
 	  sich ab und zwischendurch gibt es sogar Internet-Cafes, so dass wir
-	  unsere Einträge mal nachholen können.
+	  unsere Eintr&#xE4;ge mal nachholen k&#xF6;nnen.
 
 
 
 
 	  
 	  Unsere Unterkunft ist auf der kleinen Nachbarinsel Caranero, die mit
-	  den kleinen Wassertaxis zu erreichen ist, die hier überall durch die
-	  Gegend fahren. Davon werden wir in den nächsten Tagen noch viel
-	  Gebrauch machen, da es hier einige schöne Strände gibt. Tauchen
-	  können soll man hier auch.
+	  den kleinen Wassertaxis zu erreichen ist, die hier &#xFC;berall durch die
+	  Gegend fahren. Davon werden wir in den n&#xE4;chsten Tagen noch viel
+	  Gebrauch machen, da es hier einige sch&#xF6;ne Str&#xE4;nde gibt. Tauchen
+	  k&#xF6;nnen soll man hier auch.
 
 
 
 
 	  
-	  Bevor es zu spät ist, wünschen wir Euch noch frohe Weihnachten.
+	  Bevor es zu sp&#xE4;t ist, w&#xFC;nschen wir Euch noch frohe Weihnachten.
 	  <div style="clear:both; padding-bottom:0.25em"/>
-	  </text><photo preload="true" src="http://ferndrang.de/costarica/fotos/bocas2/313.jpg"/><photo preload="true" src="http://ferndrang.de/costarica/fotos/bocas2/323.jpg"/></entry><entry path="e8" name=""><date>26. Dezember 2006</date><headline>Cahuita</headline><text>
-	  Nachdem wir völlig unweihnachtliche Weihnachten in Bocas verbracht
-	  haben, wo im übrigen alle Strände seit einem ominösen Sturm
+	  </text>
+      <photo width="640" height="425" src="http://ferndrang.de/costarica/fotos/bocas2/313.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/costarica/fotos/bocas2/323.jpg"/>
+    </entry>
+    <entry path="e8" name="">
+      <date>26. Dezember 2006</date>
+      <headline>Cahuita</headline>
+      <text>
+	  Nachdem wir v&#xF6;llig unweihnachtliche Weihnachten in Bocas verbracht
+	  haben, wo im &#xFC;brigen alle Str&#xE4;nde seit einem omin&#xF6;sen Sturm
 	  verschwunden sind, haben wir genug von Panama und seinen wortkargen
 	  Bewohnern und sind wieder in Costa Rica.
 
@@ -348,21 +425,21 @@
 
 
 	  
-	  Highlight der Strecke hierhin war mal wieder der Grenzübergang.
+	  Highlight der Strecke hierhin war mal wieder der Grenz&#xFC;bergang.
 	  Diesmal aber nicht wegen bescheuerter Beamter, sondern wegen der
-	  alten, klapprigen Brücke über den Rio Sierpe, die die beiden Länder
+	  alten, klapprigen Br&#xFC;cke &#xFC;ber den Rio Sierpe, die die beiden L&#xE4;nder
 	  miteinander verbindet. Eigentlich handelt es sich um eine alte
-	  Eisenbahnbrücke.  Damit der Weg über die kaputten Schwellen ohne
+	  Eisenbahnbr&#xFC;cke.  Damit der Weg &#xFC;ber die kaputten Schwellen ohne
 	  Boden darunter nicht ganz so abenteuerlich ist, haben sie zwei
-	  Streifen Bretter darübergelegt. So können (angeblich) auch Autos
+	  Streifen Bretter dar&#xFC;bergelegt. So k&#xF6;nnen (angeblich) auch Autos
 	  passieren.
 
 
 
 
 	  
-	  In Cahuita haben sich die Warnungen der Reiseführer, dass man
-	  reservieren sollte, schließlich bewahrheitet. Unsere Traumresidenz
+	  In Cahuita haben sich die Warnungen der Reisef&#xFC;hrer, dass man
+	  reservieren sollte, schlie&#xDF;lich bewahrheitet. Unsere Traumresidenz
 	  war nicht mehr zu haben. Da das Kaff aber nur aus Restaurants und
 	  Hotels besteht, hat es nicht allzu lange gedauert, Ersatz zu
 	  finden.
@@ -371,75 +448,93 @@
 
 
 	  
-	  In Cahuita gibt es einen schwarzen und einen weißen Strand. Der
-	  schwarze ist sogar noch viel schwärzer als der in Matapalo. Leider
+	  In Cahuita gibt es einen schwarzen und einen wei&#xDF;en Strand. Der
+	  schwarze ist sogar noch viel schw&#xE4;rzer als der in Matapalo. Leider
 	  kommt das Meer aber auch hier so hoch, dass man sich nicht hinlegen
 	  kann. Der andere Strand ist Teil eines Nationalparks, der direkt
-	  hinter unserer Unterkunft, den Cabinas Riverside, anfängt.
+	  hinter unserer Unterkunft, den Cabinas Riverside, anf&#xE4;ngt.
 	  <div style="clear:both; padding-bottom:0.25em"/>
-	  </text><photo preload="true" src="http://ferndrang.de/costarica/fotos/cahuita1/326.jpg"/><photo preload="true" src="http://ferndrang.de/costarica/fotos/cahuita1/340.jpg"/><photo preload="true" src="http://ferndrang.de/costarica/fotos/cahuita1/358.jpg"/><photo preload="true" src="http://ferndrang.de/costarica/fotos/cahuita1/371.jpg"/></entry><entry path="e9" name=""><date>30. Dezember 2006</date><headline>Mehr Cahuita</headline><text>
-	  Mittlerweile sind unsere Tage in Cahuita wieder gezählt. In der
+	  </text>
+      <photo width="640" height="425" src="http://ferndrang.de/costarica/fotos/cahuita1/326.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/costarica/fotos/cahuita1/340.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/costarica/fotos/cahuita1/358.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/costarica/fotos/cahuita1/371.jpg"/>
+    </entry>
+    <entry path="e9" name="">
+      <date>30. Dezember 2006</date>
+      <headline>Mehr Cahuita</headline>
+      <text>
+	  Mittlerweile sind unsere Tage in Cahuita wieder gez&#xE4;hlt. In der
 	  Zwischenzeit haben wir uns voll und ganz der einzigen Attraktion
 	  gewidmet und haben den Nationalpark Cahuita dreimal besucht. Der
 	  erste Versuch ist von einem komplett verregneten Tag vereitelt
-	  worden. Anschließend wurden wir aber fürs Warten belohnt.
+	  worden. Anschlie&#xDF;end wurden wir aber f&#xFC;rs Warten belohnt.
 
 
 
 
 	  
-	  Durch den Park, den man mit einer Spende beliebiger Höhe betreten
-	  kann, führt nur ein Wanderweg. Er läuft entlang der Küste durch ein
-	  wild bewaldetes Stück Land im Süden Cahuitas. Am Südende wartet ein
-	  langer, schöner und wieder schwarzer Strand.
+	  Durch den Park, den man mit einer Spende beliebiger H&#xF6;he betreten
+	  kann, f&#xFC;hrt nur ein Wanderweg. Er l&#xE4;uft entlang der K&#xFC;ste durch ein
+	  wild bewaldetes St&#xFC;ck Land im S&#xFC;den Cahuitas. Am S&#xFC;dende wartet ein
+	  langer, sch&#xF6;ner und wieder schwarzer Strand.
 
 
 
 
 	  
-	  Dazwischen haben wir erstaunlich viele Tiere beobachten können. Allen
-	  voran die Brüllaffen, deren seltsames Geheul über unsere Köpfe
-	  hallte. Ein späteres Stück Weg wird von Kapuzieneräffchen belagert.
+	  Dazwischen haben wir erstaunlich viele Tiere beobachten k&#xF6;nnen. Allen
+	  voran die Br&#xFC;llaffen, deren seltsames Geheul &#xFC;ber unsere K&#xF6;pfe
+	  hallte. Ein sp&#xE4;teres St&#xFC;ck Weg wird von Kapuziener&#xE4;ffchen belagert.
 	  Die faulen Faultiere hielten jeweils nur einen Baum unter Beschlag.
 	  Rastlos zwischen den Stationen flatterte Morpho Azul, ein blau
-	  schimmernder Schmetterling in Handgröße.
+	  schimmernder Schmetterling in Handgr&#xF6;&#xDF;e.
 
 
 
 
 	  
-	  Klein aber fein ist die Königin des Parks, der winzige Nachwuchs der
+	  Klein aber fein ist die K&#xF6;nigin des Parks, der winzige Nachwuchs der
 	  giftigen Eyelash Viper (Bothriechis schlegelii). Die Schlange ist
 	  knallgelb und sehr giftig.  Dieses Exemplar hatte die beruhigende
-	  Größe eines Regenwurms. König der Herzen ist der rotäugige
+	  Gr&#xF6;&#xDF;e eines Regenwurms. K&#xF6;nig der Herzen ist der rot&#xE4;ugige
 	  Laubfrosch, den wir schlafend auf einem Blatt erwischt haben. Wieder
 	  im Hotel angekommen mussten wir aber feststellen, dass der Wald
-	  letztendlich doch den Mosquitos gehört.
+	  letztendlich doch den Mosquitos geh&#xF6;rt.
 
 
 
 
 	  
-	  Daneben hat der Park noch ein paar sehr schöne Strände zu bieten.
-	  Leider haben wir den größten erst am letzten Tag entdeckt.  Doch da
+	  Daneben hat der Park noch ein paar sehr sch&#xF6;ne Str&#xE4;nde zu bieten.
+	  Leider haben wir den gr&#xF6;&#xDF;ten erst am letzten Tag entdeckt.  Doch da
 	  hat es auch schon wieder angefangen zu regnen.
 	  
 	  <div style="clear:both; padding-bottom:0.25em"/>
-	  </text><photo preload="true" src="http://ferndrang.de/costarica/fotos/cahuita2/351.jpg"/><photo preload="true" src="http://ferndrang.de/costarica/fotos/cahuita2/354.jpg"/><photo preload="true" src="http://ferndrang.de/costarica/fotos/cahuita2/364.jpg"/><photo preload="true" src="http://ferndrang.de/costarica/fotos/cahuita2/386.jpg"/></entry><entry path="e10" name=""><date>31. Dezember 2006</date><headline>Alajuela</headline><text>
-	  Für den Rückzug haben wir uns Alajuela als Basislager ausgesucht. Die
-	  Stadt ist die zweitgrößte des Landes, aber dennoch sehr beschaulich
-	  und nur 20 km nördlich von San Jose gelegen. Da der Flughafen von
-	  hier aus sogar näher ist, können wir morgen ein paar Minuten länger
+	  </text>
+      <photo width="425" height="640" src="http://ferndrang.de/costarica/fotos/cahuita2/351.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/costarica/fotos/cahuita2/354.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/costarica/fotos/cahuita2/364.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/costarica/fotos/cahuita2/386.jpg"/>
+    </entry>
+    <entry path="e10" name="">
+      <date>31. Dezember 2006</date>
+      <headline>Alajuela</headline>
+      <text>
+	  F&#xFC;r den R&#xFC;ckzug haben wir uns Alajuela als Basislager ausgesucht. Die
+	  Stadt ist die zweitgr&#xF6;&#xDF;te des Landes, aber dennoch sehr beschaulich
+	  und nur 20 km n&#xF6;rdlich von San Jose gelegen. Da der Flughafen von
+	  hier aus sogar n&#xE4;her ist, k&#xF6;nnen wir morgen ein paar Minuten l&#xE4;nger
 	  schlafen.
 
 
 
 
 	  
-	  Die Sehenswürdigkeiten der Stadt haben wir heute Nachmittag in
+	  Die Sehensw&#xFC;rdigkeiten der Stadt haben wir heute Nachmittag in
 	  wenigen Metern abgehakt. Einen Block von unserem Hostel Mango Verde,
-	  das einen sehr hübschen Innenhof hat, liegt der obligatorische Parque
-	  Central. Hier kann man unter hohen Mangobäumen den Sonntag an sich
+	  das einen sehr h&#xFC;bschen Innenhof hat, liegt der obligatorische Parque
+	  Central. Hier kann man unter hohen Mangob&#xE4;umen den Sonntag an sich
 	  vorbei treiben lassen.
 
 
@@ -447,9 +542,9 @@
 
 	  
 	  An der Stirnseite des Platzes liegt die Kathedrale von Alajuela,
-	  deren Hauptmerkmal die Kuppel ist, die im Erdbeben von 1991 zerstört
+	  deren Hauptmerkmal die Kuppel ist, die im Erdbeben von 1991 zerst&#xF6;rt
 	  wurde.  Die Renovierung wurde besonders mittelamerikanisch
-	  durchgeführt: Jetzt ziert eine rostrote Wellblechkuppel die
+	  durchgef&#xFC;hrt: Jetzt ziert eine rostrote Wellblechkuppel die
 	  Vierung.
 
 
@@ -458,7 +553,13 @@
 	  
 	  Wir bleiben gespannt auf die hiesigen Silvester-Feierlichkeiten. Die
 	  Stadt wirkt wie leer gefegt; angeblich sind alle an den Strand
-	  gefahren. Daher haben auch die meisten Geschäfte geschlossen. Wir
+	  gefahren. Daher haben auch die meisten Gesch&#xE4;fte geschlossen. Wir
 	  haben uns vorsorglich mit Spirituosen eingedeckt, um notfalls auch
-	  allein anstoßen zu können. In diesem Sinne: Prost Neujahr!
-	  <div style="clear:both; padding-bottom:0.25em"/> </text><photo preload="true" src="http://ferndrang.de/costarica/fotos/alajuela/388.jpg"/><photo preload="true" src="http://ferndrang.de/costarica/fotos/alajuela/391.jpg"/><photo preload="true" src="http://ferndrang.de/costarica/fotos/alajuela/392.jpg"/></entry></blog></journey>
+	  allein ansto&#xDF;en zu k&#xF6;nnen. In diesem Sinne: Prost Neujahr!
+	  <div style="clear:both; padding-bottom:0.25em"/> </text>
+      <photo width="640" height="425" src="http://ferndrang.de/costarica/fotos/alajuela/388.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/costarica/fotos/alajuela/391.jpg"/>
+      <photo width="640" height="425" src="http://ferndrang.de/costarica/fotos/alajuela/392.jpg"/>
+    </entry>
+  </blog>
+</journey>
