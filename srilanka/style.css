@@ -18,6 +18,18 @@ body {
   background: url(bg.jpg);
 }
 
+body::before {
+  background: url(rose.svg);
+  width: 146.5px;
+  height: 139px;
+  content: "";
+  display: block;
+  background-size: 146.5px 139px;
+  position: absolute;
+  top: 650px;
+  right: 100px;
+}
+
 
 #container {
   position: relative;
