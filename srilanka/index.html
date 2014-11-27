@@ -10,6 +10,10 @@
 <style media="print">
 .nav,#mail{display:none}
 </style>
+<script>
+function b(){return'@';}
+function a(){u = document.location; return "mailto:felix"+b()+u.host+",az"+ (9-1) +b()+"gmx."+u.host.split('.', 2)[1];}
+</script>
 </head>
 
 <body>
@@ -36,7 +40,7 @@
  </div></div></div>
 </div>
 
-<a id="mail" href="./mail/#mail"><span>Mail</span></a>
+<a id="mail" href="javascript:window.location.href=a();"><span>Mail</span></a>
 
 </div>
 
