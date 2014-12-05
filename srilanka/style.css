@@ -7,7 +7,6 @@ blau rgb(20,50,88)
 a {
  text-decoration: none;
  color: rgb(255,189,32);
-
 }
 
 body {
@@ -66,6 +65,22 @@ h1 {
 }
 
 
+.map::before {
+  background: url(pin.svg);
+  width: 25px;
+  height: 25px;
+  content: "";
+  display: block;
+  background-size: 25px 25px;
+  float: left;
+  position: relative;
+  left: 52px; top: 74px;
+  margin-right: 5px;
+}
+
+#locator {
+	display: none;
+}
 
 .map {
   margin: 0;

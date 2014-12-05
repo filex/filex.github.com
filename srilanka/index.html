@@ -23,8 +23,10 @@ function a(){u = document.location; return "mailto:felix"+b()+u.host+",az"+ (9-1
 <div class="header">
 	<h1>Sri Lanka 2014/2015</h1>
 
+	<form action="#locate">
 	<div class="map"> 
 	<img width="950px" id="map" src="map-home.svg" alt="Karte von Sri Lanka" usemap="#mapmap">
+	<input type="image" disabled width="950px" id="locator">
 	<map name="mapmap"><area shape="rect" coords="10,30,70,110" href="../" alt="Home" title="ferndrang.de"></map>
 	</div>
 </div>
@@ -44,5 +46,30 @@ function a(){u = document.location; return "mailto:felix"+b()+u.host+",az"+ (9-1
 
 </div>
 
+<script>
+if (document.location.hash == '#locate') {
+	var map = document.getElementById('map');
+	var elem = document.getElementById('locator');
+	elem.setAttribute('src', map.getAttribute('src'));
+	elem.disabled = false;
+	elem.style.display = "block";
+	map.style.display = "none";
+}
+if (res = document.location.search.match(/x=(\d+)&y=(\d+)/)) {
+	x = res[1];
+	y = res[2];
+
+	var mysheet=document.styleSheets[0];
+	var myrules=mysheet.cssRules? mysheet.cssRules: mysheet.rules;
+	for (i=0; i<myrules.length; i++){
+		if (myrules[i].selectorText.toLowerCase()==".map::before") {
+			myrules[i].style.top = y + 'px';
+			myrules[i].style.left = x -12 + 'px';
+			break;
+		}
+	}
+	document.write('<code>left: '+(x-12) +'px; top: '+y+'px;');
+}
+</script>
 
 </body></html>
