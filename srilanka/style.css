@@ -11,7 +11,7 @@ body {
   background: url(bg.jpg);
 }
 
-body::before {
+.map::after {
   background: url(rose.png);
   width: 146px;
   height: 139px;
@@ -19,8 +19,8 @@ body::before {
   display: block;
   background-size: 146px 139px;
   position: absolute;
-  top: 650px;
-  right: 100px;
+  top: 731px;
+  right: 50px;
 }
 
 
