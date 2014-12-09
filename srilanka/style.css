@@ -12,12 +12,12 @@ body {
 }
 
 body::before {
-  background: url(rose.svg);
-  width: 146.5px;
+  background: url(rose.png);
+  width: 146px;
   height: 139px;
   content: "";
   display: block;
-  background-size: 146.5px 139px;
+  background-size: 146px 139px;
   position: absolute;
   top: 650px;
   right: 100px;
@@ -33,7 +33,7 @@ body::before {
 }
 
 .header {
-  background: url(head.svg) no-repeat;
+  background: url(head.png) no-repeat;
   background-size: 300px 300px;
   background-position: 50px 200px;
 }
@@ -60,12 +60,12 @@ h1 {
 
 
 .map::before {
-  background: url(pin.svg);
+  background: url(pin.png);
   width: 25px;
-  height: 25px;
+  height: 28px;
   content: "";
   display: block;
-  background-size: 25px 25px;
+  background-size: 25px 28px;
   float: left;
   position: relative;
   left: 52px; top: 74px;
@@ -107,15 +107,15 @@ h2.date {
 }
 
 .date::before {
-  background: url(pin.svg);
+  background: url(pin.png);
   width: 25px;
-  height: 25px;
+  height: 28px;
   content: "";
   display: block;
-  background-size: 25px 25px;
+  background-size: 25px 28px;
   float: left;
   position: relative;
-  top: -5pt;
+  top: -6pt;
   margin-right: 5px;
 }
 
