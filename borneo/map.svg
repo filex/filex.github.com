@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="1024px" height="558px"><style type="text/css">
+#pin path {
+    stroke: black;
+    fill: black;
+}   
+
+path { fill: none; stroke: black; stroke-width: 2px; stroke-linecap: round;}
+.land {  }
+.air { stroke-dasharray: 4 6;}
+</style><path class="air" d="M133,256L658,364"/><path class="land" d="M658,364L663,351"/><path class="air" d="M658,364L827,208"/><path class="air" d="M827,208L863,227"/><path class="air" d="M863,227L914,143"/><path class="air" d="M914,143L591,39"/><path class="air" d="M591,39L191,72"/><path class="land" d="M191,72L211,93"/><path class="air" d="M211,93L228,83" marker-end="url(#pin)"/></svg>

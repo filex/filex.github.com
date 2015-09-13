@@ -1,0 +1,195 @@
+@import url(http://fonts.googleapis.com/css?family=Montserrat:700);
+
+a {
+ text-decoration: none;
+ color: black;
+}
+
+body {
+  margin: 0;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 13pt;
+  color: black;
+  min-width: 1034px;
+}
+
+#printhead {
+  display: none;
+}
+
+.header {
+  border: 0 solid black;
+  border-bottom-width: 20px; 
+  padding-bottom: 20px;
+  width: 100%;
+  height: 558px;
+  background: url(head2.jpg) no-repeat;
+  background-size: 100%;
+}
+.headpanel {
+  width: 1024px;
+  height: 100%;
+  margin: 0 auto;
+  position: relative;
+}
+
+#map {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: 10;
+}
+
+#banner {
+  display: block;
+  width: 392px;
+  height: 165px;
+  top: 50px;
+  left: 300px;
+  position: absolute;
+  float: left;
+  background: url(banner.png) no-repeat;
+  background-size: 392px 165px;
+  z-index: 10;
+  color: transparent;
+  z-index: 20;
+}
+
+
+#peninsula {
+  width: 300px;
+  height: 375px;
+  position: absolute;
+  margin: 20px 0 0 10px;
+  background: url(peninsula.svg) no-repeat;
+  background-size: 100%;
+  z-index: 0;
+}
+
+#borneo {
+  width: 455px;
+  height: 527px;
+  position: absolute;
+  top: 40px;
+  left: 600px;
+  background: url(borneo.svg) no-repeat;
+  background-size: 100%;
+  z-index: 0;
+}
+
+#rose {
+  display: block;
+  width: 130px;
+  height: 130px;
+  position: absolute;
+  left: 40px;
+  top: 430px;
+  background: url(rose.svg) no-repeat;
+  background-size: 100%;
+  z-index: 10;
+}
+
+.header::after {
+  display: block;
+  content: "";
+  background: url(arrow.svg) no-repeat;
+  background-size: 100%;
+  margin: 0 auto;
+  position: relative;
+  top: 40px;
+  width: 40px;
+  height: 20px;
+}
+
+
+
+#container {
+  position: relative;
+  margin: 0 auto 0 auto ;
+  width: 600px;
+}
+
+
+.map {
+  margin: 0;
+  padding-top: 0px;
+}
+
+
+.entry {
+	margin: 5em 0 5em 0;
+}
+
+
+
+.date {
+  display: block;
+  margin: 0;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 1em;
+  font-style: italic;
+  letter-spacing: 1.0pt;
+}
+
+.title {
+  display: block;
+  margin: 10px 0 30px 0;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 1900;
+  font-size: 2.5em;
+  letter-spacing: 0.2em;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+.text {
+  font-family: "Times New Roman", Times, serif;
+  margin: 0;
+  font-size: 0.9em;
+  text-align: justify;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+}
+
+
+#copy {
+  font-size: smaller;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+
+.nav {
+  position: relative;
+  width: 600px;
+  margin: 0 auto 0 auto;
+}
+
+#mail {
+    display: block;
+    width: 94px;
+    height: 25px;
+    position: absolute;
+    right: 0px;
+    background: url(mail.png) no-repeat;
+}
+#mail > span {
+    display: none;
+}
+
+#home {
+    display: block;
+    width: 81px;
+    height: 32px;
+    position: relative;
+    top: 30px;
+    left: 0px;
+    background: url(home.png) no-repeat;
+}
+#home > span {
+    display: none;
+}
+
