@@ -146,8 +146,9 @@ h1 {
   width: 100%;
 }
 
-#copy {
+#copy a {
   font-size: smaller;
+  color: inherit;
 }
 
 
