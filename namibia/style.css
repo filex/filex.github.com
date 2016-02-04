@@ -1,0 +1,136 @@
+/*
+braun: rgb(60,25,8)
+hellbraun: rgb(125,54,16)
+karamell: rgb(230,144,40)
+
+ */
+.nav {
+  text-transform: uppercase;
+  float: right;
+  position: relative;
+  margin-top: -22px;
+}
+
+#worldlink {
+  color: rgb(125,54,16);
+  padding-right: 20px;
+  text-decoration: none;
+}
+
+#navselected {
+  color: rgb(125,54,16);
+  font-weight: bold;
+}
+
+body {
+  font-family: "Arial Narrow", Sans-serif;
+  font-size: 10pt;
+
+  color: rgb(125,54,16);
+  margin: 0;
+  background: black url(tile.gif);
+}
+
+
+/*#container:before{
+  content:url(box.png);
+  position: absolute;
+  margin-top: -35px;
+  margin-left: -60px;
+  z-index: 1;
+}*/
+
+#container {
+  margin: 38px auto 50px auto;
+  padding: 0 0 3px 0;
+  width: 751px;
+  background: white;
+  z-index: -1;
+}
+
+
+.header {
+  height: 231px;
+  padding-bottom: 0px;
+  margin: 0;
+}
+
+h1 {
+  background: url(head.jpg) no-repeat;
+  width: 691px;
+  height: 235px;
+  color: transparent;
+  float: right;
+  padding-right: 30px;
+  margin: 10px 0 0 0;
+}
+
+
+#map {
+  position: relative;
+  left: 91px;
+  z-index: 0;
+  margin-bottom: 20px;
+}
+
+.content {
+  padding: 20px 20px 40px 45px;
+}
+
+
+h2.date {
+  width: 160px;
+  float: left;
+  margin: 0px;
+  clear: left;
+  color: rgb(230,144,40);
+}
+
+h3:before {
+  content: url(elephant.gif);
+  position: relative;
+  top: -13px;
+  width: 48px;
+  float: left;
+  height: 1px;
+}
+
+h2, h3 {
+  text-transform: uppercase;
+  font-size: 10pt;
+}
+
+
+.text {
+  padding: 0px 20px 20px 160px;
+/*  text-align: justify;*/
+}
+
+.footer {
+  margin-top: -30px;
+  margin-left: 45px;
+  width: 100%;
+}
+
+#copy {
+  font-size: smaller;
+}
+
+
+#mail > a {
+ background: url(mail2.png);
+ position: absolute;
+ top: 572px;
+ width: 81px;
+ height: 103px;
+ margin-left: 701px;
+ margin-top: -3px;
+ z-index: 1; /* damit es auch ueber dem content clickbar ist */
+ color: transparent;
+ display: block;
+}
+
+.fotos {
+margin-left: 160px;
+padding: 0px 0px 30px;
+}
