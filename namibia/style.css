@@ -80,9 +80,6 @@ h1 {
 
 h2.date {
   width: 160px;
-  float: left;
-  margin: 0px;
-  clear: left;
   color: rgb(230,144,40);
 }
 
@@ -95,17 +92,21 @@ h3:before {
   height: 1px;
 }
 
+
 h2, h3 {
+  float: left;
   text-transform: uppercase;
   font-size: 13pt;
+  margin: 0;
 }
 
 
 .text {
+  clear: left;
   font-size: 12pt;
   font-family: "Georgia", "Times New Roman", serif;
   letter-spacing: 0.1px;
-  padding: 0px 20px 20px 160px;
+  padding: 20px 20px 20px 0px;
   text-align: justify;
 }
 
@@ -114,6 +115,18 @@ h2, h3 {
   -moz-hyphens: auto;
   hyphens: auto;
 }
+
+.entry {
+  margin: 40px 0 0 0;
+  padding: 20px 0 0 0;
+}
+
+.fotos img {
+  display: block;
+  padding: 10px 0;
+  max-width: 666px;
+}
+
 
 .footer {
   margin-top: -30px;
@@ -126,20 +139,3 @@ h2, h3 {
 }
 
 
-#mail > a {
- background: url(mail2.png);
- position: absolute;
- top: 572px;
- width: 81px;
- height: 103px;
- margin-left: 701px;
- margin-top: -3px;
- z-index: 1; /* damit es auch ueber dem content clickbar ist */
- color: transparent;
- display: block;
-}
-
-.fotos {
-margin-left: 160px;
-padding: 0px 0px 30px;
-}
