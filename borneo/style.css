@@ -179,6 +179,7 @@ body {
     position: absolute;
     right: 0px;
     background: url(mail.png) no-repeat;
+    z-index: 1;
 }
 #mail > span {
     display: none;
@@ -192,6 +193,7 @@ body {
     top: 30px;
     left: 0px;
     background: url(home.png) no-repeat;
+    z-index: 1;
 }
 #home > span {
     display: none;
