@@ -70,23 +70,19 @@ h1 {
   position: relative;
   left: 91px;
   z-index: 0;
-  margin-bottom: 20px;
 }
 
 .content {
-  padding: 20px 20px 40px 45px;
+  padding: 0 20px 40px 45px;
 }
 
 
-h2.date {
-  width: 160px;
-  float: left;
-  margin: 0px;
-  clear: left;
+.date.date {
+  width: 170px;
   color: rgb(230,144,40);
 }
 
-h3:before {
+.title:before {
   content: url(elephant.gif);
   position: relative;
   top: -11px;
@@ -95,17 +91,22 @@ h3:before {
   height: 1px;
 }
 
-h2, h3 {
+
+.date, .title {
+  float: left;
   text-transform: uppercase;
   font-size: 13pt;
+  margin: 0;
 }
 
 
 .text {
+  clear: left;
   font-size: 12pt;
   font-family: "Georgia", "Times New Roman", serif;
   letter-spacing: 0.1px;
-  padding: 0px 20px 20px 160px;
+  line-height: 1.4em;
+  padding: 20px 20px 0 0;
   text-align: justify;
 }
 
@@ -115,31 +116,40 @@ h2, h3 {
   hyphens: auto;
 }
 
+.entry {
+  margin: 40px 0 0 0;
+  padding: 20px 0 0 0;
+}
+
+.title a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.title a:hover {
+  text-decoration: underline;
+}
+
+.fotos img {
+  display: block;
+  padding: 10px 0 0px 0;
+  max-width: 666px;
+}
+
+.fotos {
+  margin-bottom: 50px;
+}
+
+
 .footer {
-  margin-top: -30px;
+  margin-top: 30px;
   margin-left: 45px;
   width: 100%;
 }
 
-#copy {
+#copy a {
   font-size: smaller;
+  color: inherit;
 }
 
 
-#mail > a {
- background: url(mail2.png);
- position: absolute;
- top: 572px;
- width: 81px;
- height: 103px;
- margin-left: 701px;
- margin-top: -3px;
- z-index: 1; /* damit es auch ueber dem content clickbar ist */
- color: transparent;
- display: block;
-}
-
-.fotos {
-margin-left: 160px;
-padding: 0px 0px 30px;
-}
