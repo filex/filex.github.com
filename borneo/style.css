@@ -145,7 +145,7 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
-.title a {
+.title a:hover {
   border-bottom: 1px solid black;
 }
 
