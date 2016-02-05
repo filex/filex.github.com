@@ -147,6 +147,12 @@ h3.title {
   -moz-hyphens: auto;
 }
 
+.text img {
+  width: 640px;
+  display: block;
+  padding-bottom: 15px;
+}
+
 
 .footer {
   margin-top: 30px;
