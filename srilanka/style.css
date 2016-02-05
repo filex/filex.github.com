@@ -7,7 +7,9 @@ body {
   font-family: "Arial Narrow", sans-serif;
   font-size: 13pt;
   color: rgb(20,50,88);
-  background: url(bg.jpg);
+  /* paper tile from http://lostandtaken.com/blog/2012/1/4/30-free-seamless-background-textures.html
+   * $ convert seamlesstexture18_1200.jpg -quality 75 -resize 600x600 paper.jpg */
+  background: url(paper.jpg);
 }
 
 .map::after {
