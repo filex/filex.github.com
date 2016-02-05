@@ -1,6 +1,11 @@
 a {
- text-decoration: none;
+  text-decoration: none;
+  color: inherit;
 }
+a:hover {
+  text-decoration: underline;
+}
+
 
 body {
   margin: 0;
@@ -142,6 +147,12 @@ h3.title {
   -moz-hyphens: auto;
 }
 
+.text img {
+  width: 640px;
+  display: block;
+  padding-bottom: 15px;
+}
+
 
 .footer {
   margin-top: 30px;
@@ -151,7 +162,6 @@ h3.title {
 }
 #copy a {
   font-size: smaller;
-  color: inherit;
 }
 
 h2, h3, .nav {
