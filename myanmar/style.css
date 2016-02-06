@@ -97,9 +97,9 @@ h1 {
 }
 
 
-.content {
-	position: relative;
-	width: 667px;
+#main {
+  position: relative;
+  width: 667px;
   padding: 1px 20px 10px 45px;
 }
 
