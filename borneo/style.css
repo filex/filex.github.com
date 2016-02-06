@@ -1,5 +1,14 @@
 @import url(http://fonts.googleapis.com/css?family=Montserrat:700);
 
+@media print {
+  .nav,#mail, .header, .entry {display:none}
+  #printhead{display:block}
+  img { max-width: 45%; }
+  #main { display: block; }
+}
+
+@media screen {
+
 a {
  text-decoration: none;
  color: black;
@@ -210,3 +219,4 @@ body {
 	margin: 0 0 20px 0;
 }
 
+}
