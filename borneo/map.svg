@@ -6,7 +6,21 @@
     fill: black;
 }   
 
-path { fill: none; stroke: black; stroke-width: 2px; stroke-linecap: round;}
+path { fill: none; stroke: none; stroke-width: 2px; stroke-linecap: round;}
 .land {  }
 .air { stroke-dasharray: 4 6;}
-</style><path class="air" d="M133,256L658,364"/><path class="land" d="M658,364L663,351"/><path class="air" d="M658,364L827,208"/><path class="air" d="M827,208L863,227"/><path class="air" d="M863,227L914,143"/><path class="air" d="M914,143L591,39"/><path class="air" d="M591,39L191,72"/><path class="land" d="M191,72L211,93"/><path class="air" d="M211,93L228,83" marker-end="url(#pin)"/></svg>
+</style>
+
+<marker id="pin" markerWidth="13px" markerHeight="13px" refX="200" refY="520" viewBox="0 0 466.583 466.582">
+<circle cx="250" cy="160" r="100" fill="white" />
+<path d="M233.292,0c-85.1,0-154.334,69.234-154.334,154.333c0,34.275,21.887,90.155,66.908,170.834         c31.846,57.063,63.168,104.643,64.484,106.64l22.942,34.775l22.941-34.774c1.317-1.998,32.641-49.577,64.483-106.64         c45.023-80.68,66.908-136.559,66.908-170.834C387.625,69.234,318.391,0,233.292,0z M233.292,233.291c-44.182,0-80-35.817-80-80         s35.818-80,80-80c44.182,0,80,35.817,80,80S277.473,233.291,233.292,233.291z"/>
+</marker>
+
+
+<path class="air" d="M133,256L658,364" marker-end="url(#pin)" />
+<path class="land" d="M658,364L663,351" marker-end="url(#pin)"/>
+<path class="air" d="M827,208L863,227" marker-end="url(#pin)"/>
+<path class="air" d="M863,227L914,143" marker-end="url(#pin)"/>
+<path class="air" d="M211,93L228,83" marker-end="url(#pin)"/>
+
+</svg>
