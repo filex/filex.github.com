@@ -45,6 +45,10 @@ body {
   letter-spacing: 0.3pt;
 }
 
+#subnav a.cur {
+  color: white;
+}
+
 
 h1 {
   display: none;
