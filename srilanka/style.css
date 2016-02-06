@@ -104,7 +104,7 @@ h1 {
 
 h2.date {
   float: left;
-  margin: 0 15px 0 0;
+  margin: 0 5px 0 0;
   clear: left;
   text-transform: uppercase;
   font-weight: normal;
@@ -140,6 +140,7 @@ h3.title {
   hyphens: auto;
   -webkit-hyphens: auto;
   -moz-hyphens: auto;
+  text-align: justify;
 }
 
 .text img {
