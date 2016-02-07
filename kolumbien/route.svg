@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="539px" height="601px"><style type="text/css">
+#pin path {
+    stroke: black;
+    fill: black;
+}   
+
+path { fill: none; stroke: black; stroke-width: 2px; stroke-linecap: round;}
+.land {  }
+.air { stroke-dasharray: 4 6;}
+</style><defs>
+<marker id="pin" markerWidth="13px" markerHeight="13px" refX="200" refY="520" viewBox="0 0 466.583 466.582">
+    <path d="M233.292,0c-85.1,0-154.334,69.234-154.334,154.333c0,34.275,21.887,90.155,66.908,170.834         c31.846,57.063,63.168,104.643,64.484,106.64l22.942,34.775l22.941-34.774c1.317-1.998,32.641-49.577,64.483-106.64         c45.023-80.68,66.908-136.559,66.908-170.834C387.625,69.234,318.391,0,233.292,0z M233.292,233.291c-44.182,0-80-35.817-80-80         s35.818-80,80-80c44.182,0,80,35.817,80,80S277.473,233.291,233.292,233.291z"/>
+</marker>
+</defs><path class="air" d="M243,265L380,556"/><path class="land" d="M380,556L332,574"/><path class="land" d="M243,265L263,231"/><path class="land" d="M263,231L312,212"/><path class="land" d="M312,212L361,215"/><path class="air" d="M243,265L196,68"/><path class="land" d="M196,68L216,51"/><path class="land" d="M216,51L242,41"/><path class="land" d="M242,41L263,39" marker-end="url(#pin)"/></svg>
