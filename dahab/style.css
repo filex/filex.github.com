@@ -13,11 +13,10 @@ div {
 
 #mainNavi {
 	background-color: white;
-	padding-right: 36px;
-	text-align: right;
+	padding-left: 36px;
+	text-align: left;
 	padding-top: 15px;
 	padding-bottom: 8px;
-	text-align: right;
 }
 
 .navigation a:hover {
