@@ -1,0 +1,183 @@
+@import url(https://fonts.googleapis.com/css?family=Fjalla+One);
+@import url(https://fonts.googleapis.com/css?family=Copse);
+
+a {
+ text-decoration: none;
+ color: black;
+}
+
+body {
+  margin: 0;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 13pt;
+  color: black;
+}
+
+#printhead {
+  display: none;
+}
+
+.header {
+  border: 0 solid black;
+  border-bottom-width: 20px; 
+  width: 100%;
+  max-width: 1600px;
+  min-width: 800px;
+  margin: 0 auto;
+  height: 601px;
+  background: url(head.jpg) no-repeat;
+  background-size: 1600px 601px;
+  position: relative;
+}
+
+.header::after {
+  display: block;
+  content: "";
+  background: url(arrow.svg) no-repeat;
+  background-size: 100%;
+  margin: 0 auto;
+  position: relative;
+  top: 621px;
+  width: 40px;
+  height: 20px;
+}
+
+
+#map-container {
+  background: linear-gradient(
+	287deg,
+	rgba(255,255,255,1) 0%,
+	rgba(255,255,255,0.6) 45%,
+	rgba(255,255,255,0) 70%
+  );
+  width: 639px;
+  height: 100%;
+  text-align: right;
+  position: absolute;
+  right: 0;
+}
+#mapbg {
+  display: block;
+  height: 601px;
+  width: 539px;
+  float: right;
+}
+
+/* live svg map */
+#map {
+  position: absolute;
+  z-index: 10;
+  width: 539px;
+  height: 601px;
+}
+
+#banner {
+  display: block;
+  width: 500px;
+  height: 300px;
+  left: 50px;
+  position: absolute;
+  background: url(banner.svg) no-repeat;
+  color: transparent;
+  z-index: 20;
+}
+
+
+#rose {
+  display: block;
+  width: 130px;
+  height: 130px;
+  position: absolute;
+  left: 40px;
+  top: 430px;
+  background: url(rose.svg) no-repeat;
+  background-size: 100%;
+  z-index: 10;
+}
+
+#container {
+  position: relative;
+  margin: 0 auto 0 auto ;
+  width: 600px;
+}
+
+
+.entry {
+	width: 100%;
+	margin: 5em 0 5em 0;
+	display: table;
+}
+
+
+
+.date {
+  margin: 0;
+  text-align: center;
+  font-size: 0.9em;
+  line-height: 2em;
+  letter-spacing: 1.0pt;
+  font-family: 'Copse', serif;
+  padding-bottom: 1em;
+}
+
+.title {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 2.5em;
+  letter-spacing: 0.1em;
+  font-family: 'Fjalla One', sans-serif;
+  display:table-header-group;
+}
+
+
+.text {
+  font-family: "Copse", "Times New Roman", Times, serif;
+  margin: 0;
+  font-size: 0.9em;
+  line-height: 1.5em;
+  text-align: justify;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  display:table-footer-group;
+}
+
+
+#copy {
+  font-size: smaller;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+
+.nav {
+  position: relative;
+  width: 600px;
+  margin: 0 auto 0 auto;
+}
+
+#mail {
+    display: block;
+    width: 94px;
+    height: 25px;
+    position: absolute;
+    right: 0px;
+    background: url(mail.png) no-repeat;
+}
+#mail > span {
+    display: none;
+}
+
+#home {
+    display: block;
+    width: 81px;
+    height: 32px;
+    position: relative;
+    top: 30px;
+    left: 0px;
+    background: url(home.png) no-repeat;
+}
+#home > span {
+    display: none;
+}
