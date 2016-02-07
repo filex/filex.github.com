@@ -125,7 +125,7 @@ h1 {
 
 h2.date {
   float: left;
-  margin: 0px;
+  margin: 0 10px 0 0;
   clear: left;
   color: rgb(255,189,32);
   text-transform: uppercase;
@@ -134,9 +134,6 @@ h2.date {
   letter-spacing: 1.0pt;
 }
 
-.title::before {
-  content: " , ";
-}
 h3.title {
   text-transform: uppercase;
   color: rgb(255,189,32);
