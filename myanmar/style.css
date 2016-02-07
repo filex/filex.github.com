@@ -153,8 +153,14 @@ h3.title {
   hyphens: auto;
   -webkit-hyphens: auto;
   -moz-hyphens: auto;
+  text-align: justify;
 }
 
+.text img {
+	max-width: 640px;
+	margin: 0 0 20px 0;
+	border-radius: 2px;
+}
 
 #copy {
   font-size: smaller;
