@@ -1,0 +1,215 @@
+/*
+bg-grün #079634
+schlamm #9CC55B
+
+grün #41a62a
+
+dunkelrot #B62700
+orange dunkel #EC7000
+orange hell #F38900
+gelb #FFAE1B
+
+*/
+
+body {
+  font-family: "Arial Narrow", sans-serif;
+  font-size: 11pt;
+  color: white;
+  position: relative;
+
+  background: white;
+
+/*
+  background: #079634;
+
+  background: -moz-radial-gradient(center left, ellipse cover, rgba(245,249,237,1) 13%, rgba(156,197,91,1) 49%, rgba(7,150,52,1) 81%);
+  background: -webkit-radial-gradient(center left, ellipse cover, rgba(245,249,237,1) 13%, rgba(156,197,91,1) 49%, rgba(7,150,52,1) 81%);
+  background: radial-gradient(ellipse at center left, rgba(245,249,237,1) 13%,rgba(156,197,91,1) 49%,rgba(7,150,52,1) 81%);
+  background-attachment: fixed;
+*/
+  margin-bottom: -250px;
+}
+
+
+.header {
+  z-index: 10;
+  position: absolute;
+  left: 521px;
+  top: 237px;
+  /* 232x88 */
+  background-image: url(title.png);
+  width: 232px;
+  height: 88px;
+}
+h1 {
+  display: none;
+}
+
+#worldlink {
+  position: absolute;
+  top: 00px;
+  right: 110px;
+  margin-top: -30px;
+  font-weight: bold;
+  z-index: 5;
+  color: black;
+  text-decoration: none;
+  width: 100px;
+  height: 30px;
+  padding: 20px 20px 0 0;
+  display: block;
+  text-transform: uppercase;
+}
+
+
+
+#container {
+  position: relative;
+  top: 40px;
+  margin: 0 auto 40px auto ;
+  padding-top: 280px;
+  padding-left: 75px;
+  width: 905px;
+  /* 853x283 */
+  background: Url(header.png) no-repeat;
+}
+
+
+.map {
+	width: 752px;
+	height: 596px;
+	background: black;
+	margin: 0;
+	padding: 0;
+        border-top-left-radius: 10px;
+
+}
+#map {
+	position: relative;
+	left: 35px;
+	top: 3px;
+	/*
+	left: 311px;
+	*/
+	z-index: 1;
+	display: block;
+}
+
+
+
+#ornamentsRight {
+	position: absolute;
+	display: block;
+	top: 234px;
+	left: 755px;
+	/* 184x368 */
+	width: 184px;
+	height: 368px;
+	background: Url(palms_right.png) no-repeat;
+ z-index: -1;
+}
+#ornamentsLeft {
+	position: absolute;
+	display: block;
+	top: 226px;
+	left: -16px;
+	/* 184x368 */
+	width: 184px;
+	height: 368px;
+	background: Url(palms_left.png) no-repeat;
+ z-index: -1;
+}
+#ornamentsCenter {
+	position: absolute;
+	display: block;
+	top: 220px;
+	left: 350px;
+	z-index: 10;
+	/* 195x218  */
+	width: 195px;
+	height: 218px;
+	background: Url(leafs.png) no-repeat;
+}
+
+
+.content {
+	background: black;
+	position: relative;
+	/*
+	top: 307px; 
+	left: 81px;
+	*/
+	width: 687px;
+	padding: 1px 20px 10px 45px;
+	border-top: 1px;
+}
+
+.mail {
+ padding-top: 120px;
+}
+
+.entry {
+	padding-bottom: 20px;
+}
+
+h2.date {
+  width: 160px;
+  float: left;
+  margin: 0px;
+  clear: left;
+  color: #41a62a;
+  text-transform: uppercase;
+  letter-spacing: 0.2pt;
+}
+
+h3.title {
+  text-transform: uppercase;
+  letter-spacing: 0.2pt;
+}
+
+.title::before {
+	content: Url(bullet.png);
+	width: 22px;
+	height: 14px;
+	padding: 0 10px 0 0;
+}
+
+
+.text {
+  padding: 0px 20px 0px 160px;
+  letter-spacing: 0.1pt;
+  text-align: justify;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+}
+
+.fotos {
+margin-left: 160px;
+padding: 0px 0px 30px;
+}
+
+
+
+#copy {
+  font-size: smaller;
+}
+
+h2, h3, .nav {
+  font-size: small;
+}
+
+
+#mail {
+    z-index: 1;
+    position: absolute;
+    top: 460px;
+    right: 86px;
+    background: Url(mail.png);
+    width: 145px;
+    height: 140px;
+}
+#mail > span {
+    display: none;
+}
+
