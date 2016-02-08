@@ -15,27 +15,44 @@ body {
   font-size: 13pt;
   color: white;
   position: relative;
-
   background: rgb(88,25,101) url(gfx/tile.png) fixed;
+}
 
-  margin-bottom: -250px;
+
+
+#container {
+  position: relative;
+  top: 40px;
+  margin: 0 auto 40px auto ;
+  padding-top: 0px;
+  width: 950px;
+  background: #741568;
+
+  background: -moz-linear-gradient(top,  #af0e6a, #741568, #581965 1000px);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#af0e6a), color-stop(500px,#741568), color-stop(1000px,#581965));
+  background: -webkit-linear-gradient(top,  #af0e6a ,#741568,#581965 1000px);
+  background: -o-linear-gradient(top,  #af0e6a ,#741568 ,#581965 1000px);
+  background: -ms-linear-gradient(top,  #af0e6a ,#741568,#581965 1000px);
+  background: linear-gradient(to bottom,  #af0e6a,#741568 ,#581965 1000px);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#af0e6a', endColorstr='#581965',GradientType=0 );
+
+/*  background: linear-gradient( to bottom, rgb(175,14,106), rgb(116,21,104), rgb(88,25,101) 1000px); */
+
 }
 
 
 .header {
   position: fixed;
-  background-image: url(gfx/header.png);
+  background: url(gfx/header.png) no-repeat;
   width: 214px;
-  height: 134px;
-  margin-top: 80px;
+  padding-top: 134px;
+  margin-top: -680px;
   margin-left: 700px;
 }
 
-
 #subnav {
-  margin-top: 170px;
+  margin-top: 35px;
 }
-
 
 #subnav a {
   display: block;
@@ -49,6 +66,18 @@ body {
   color: white;
 }
 
+
+/* single colon layout for smaller screens */
+@media screen and (max-width: 900px) {
+  .header {
+    position: static;
+    margin: 50px 0 50px 270px;
+  }
+  #container {
+    width: 730px;
+  }
+
+}
 
 h1 {
   display: none;
@@ -72,25 +101,6 @@ h1 {
 }
 
 
-#container {
-  position: relative;
-  top: 40px;
-  margin: 0 auto 40px auto ;
-  padding-top: 0px;
-  width: 950px;
-  background: #741568;
-
-  background: -moz-linear-gradient(top,  #af0e6a, #741568, #581965 1000px);
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#af0e6a), color-stop(500px,#741568), color-stop(1000px,#581965));
-  background: -webkit-linear-gradient(top,  #af0e6a ,#741568,#581965 1000px);
-  background: -o-linear-gradient(top,  #af0e6a ,#741568 ,#581965 1000px);
-  background: -ms-linear-gradient(top,  #af0e6a ,#741568,#581965 1000px);
-  background: linear-gradient(to bottom,  #af0e6a,#741568 ,#581965 1000px);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#af0e6a', endColorstr='#581965',GradientType=0 );
-
-/*  background: linear-gradient( to bottom, rgb(175,14,106), rgb(116,21,104), rgb(88,25,101) 1000px); */
-
-}
 
 .map {
   padding-top: 1px;
