@@ -98,7 +98,7 @@ body {
 #container {
   position: relative;
   margin: 0 auto 0 auto ;
-  width: 600px;
+  width: 700px;
 }
 
 
@@ -141,11 +141,21 @@ body {
   font-family: "Copse", "Times New Roman", Times, serif;
   margin: 0;
   font-size: 0.9em;
+  letter-spacing: 0.4px;
   line-height: 1.5em;
   text-align: justify;
   -webkit-hyphens: auto;
   -moz-hyphens: auto;
   display:table-footer-group;
+}
+
+.text img {
+  max-width:  700px;
+	margin: 0px 0 20px 0;
+}
+
+.text p {
+  margin: 0 0 20px 0;
 }
 
 
@@ -158,7 +168,7 @@ body {
 
 .nav {
   position: relative;
-  width: 600px;
+  width: 700px;
   margin: 0 auto 0 auto;
 }
 
