@@ -1,0 +1,300 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:700);
+
+@media print {
+  .nav, #mail, .header, #datebox, .footer, #map {display:none}
+  #printhead{display:block}
+  img { max-width: 45%; }
+  #main { display: block; }
+}
+
+@media screen { 
+
+#printhead {
+  display: none;
+}
+
+h2, h1, div, body {
+  margin: 0;
+}
+
+a {
+ text-decoration: none;
+ color: inherit;
+}
+html {
+  font-size: 90%;
+}
+
+body {
+  margin: 0;
+
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.0em;
+  font-weight: normal;
+  color: black;
+}
+
+/* navi */
+.nav {
+  width: 100%;
+  height: 70px;
+  background: black;
+}
+
+
+#home {
+  display: block;
+  width: 52px;
+  height: 38px;
+  float: left;
+  margin: 14px;
+  background: url(home.svg) no-repeat;
+  background-size: cover;
+}
+#home > span {
+  display: none;
+}
+
+
+#mail {
+  display: block;
+  height: 1rem;
+  width: 50px;
+  margin: 27px 10px;
+  float: right;
+
+  color: white;
+  text-transform: uppercase;
+  font-weight: normal;
+  letter-spacing: 0.1rem;
+}
+
+
+/* header & map */
+
+.header {
+  position: relative;
+  border: 0 solid black;
+  border-bottom-width: 15px; 
+  padding-bottom: 15px;
+  height: 300px;
+  background: url(hero.jpg) no-repeat;
+  background-size: cover;
+  background-position: center bottom;
+  margin-bottom: 40px;
+}
+
+.headpanel {
+  margin: 0 auto;
+}
+
+#titlebox {
+  position: relative;
+  height: 300px;
+  margin: 0 auto;
+  text-align: center;
+  color: white;
+  border: 0;
+}
+
+h1 {
+  width: 100%;
+
+  letter-spacing: 0.4rem;
+  font-size: 3rem;
+  text-transform: uppercase;
+}
+
+#titlebox h1 {
+  padding-top: 160px;
+  margin-bottom: 20px;
+  background: url(camel.svg) no-repeat;
+  background-position: center 80px;
+  background-size: 5rem;
+}
+
+#titlebox #spruechle {
+  font-size: 1.0rem;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: lighter;
+  line-height: 1.6rem;
+}
+
+#titlebox #wir {
+  font-size: 1.0rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1rem;
+}
+
+#rose {
+  display: block;
+  width: 100px;
+  height: 100px;
+  float: right;
+  position: relative;
+  top: -90px;
+  right: 30px;
+  background: url(rose.svg) no-repeat;
+  background-size: 100%;
+  z-index: 10;
+}
+
+.header::after {
+  display: block;
+  content: "";
+  background: url(arrow.svg) no-repeat;
+  background-size: 100%;
+  margin: 0 auto;
+  position: relative;
+  top: 30px;
+  width: 32px;
+  height: 16px;
+}
+
+#datebox {
+  position: absolute;
+  width: 200px;
+  z-index: 20;
+}
+
+.datelabel {
+  line-height: 2.2rem;
+  background: black;
+  color: white;
+  margin: 0 0 4px 0;
+  padding: 5px 20px;
+  white-space: nowrap;
+  letter-spacing: 0.1rem;
+}
+
+
+.datelabel, .date {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.1rem;
+}
+
+#map {
+  display: block;
+  z-index: 10;
+  background: url(map.png) no-repeat;
+  background-size: 100%;
+
+  width: 600px;
+  max-width: 100%;
+  max-height: 534px;
+  margin: 30px auto;
+  position: relative;
+}
+
+
+
+#container {
+  position: relative;
+  margin: 0 auto 0 auto ;
+  width: 90%;
+  max-width: 800px;
+  padding: 10px;
+}
+
+
+.map {
+  margin: 0;
+  padding-top: 0px;
+}
+
+
+
+.title::after {
+  display: block;
+  content: "";
+  background: black;
+  width: 2rem;
+  height: 2px;
+  border: 1px solid black;
+  margin: 10px auto;
+}
+
+.entry {
+  margin-bottom: 40px;
+}
+
+.link {
+	margin: 20px 0 ;
+}
+
+
+.date {
+  display: block;
+  margin: 0;
+  text-align: center;
+  text-transform: uppercase;
+  font-style: italic;
+  letter-spacing: 1.0pt;
+}
+
+.title {
+  display: block;
+  margin: 0 0 1rem 0;
+  padding-bottom: 1rem;
+
+  text-align: center;
+
+  text-transform: uppercase;
+  font-size: 2.5rem;
+  font-weight: bold;
+  letter-spacing: 0.5rem;
+}
+
+.title a.active,
+.title a:hover {
+  border-bottom: 3px solid black;
+}
+
+
+.text p {
+  text-align: justify;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  hyphens: auto;
+
+  line-height: 1.9rem;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.4rem;
+}
+
+
+.footer {
+  background: black;
+  height: 20px;
+  padding: 27px ;
+
+  color: white;
+  text-transform: uppercase;
+  font-size: 0.9rem;
+  letter-spacing: 0.12rem;
+}
+
+#footerhome {
+  float: left;
+}
+
+#copy {
+  float: right;
+}
+
+
+}
+
+@media screen and (max-width: 800px) {
+  html {
+    font-size: 80%;
+  }
+
+  #rose, .datelabel, #map {
+    display: none;
+  }
+  #copy {
+    float: left;
+  }
+}
+
