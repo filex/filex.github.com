@@ -1,0 +1,133 @@
+body {
+
+  font-family: "Arial Narrow", Sans-serif;
+  font-size: 14px;
+  letter-spacing: 0.2px;
+
+  color: black;
+
+  margin: 0;
+
+  background-size: 1063px 1280px;
+/*  background: lightblue; */
+  background: white url(bgs.jpg) center 0px no-repeat;  /* -y;*/
+  background-attachment: fixed;
+}
+
+
+.nav {
+  top: 50px;
+  margin: 0 auto 0 auto;
+  position: relative;
+  width: 751px;
+  height: 23px;
+}
+
+#worldlink {
+  background: url(ferndrang.png);
+  width: 101px;
+  height: 23px;
+  display: block;
+  float: right;
+}
+
+.nav span {
+  display: none;
+}
+
+
+#container {
+  margin: 0 auto 88px auto;
+  padding: 0px 0 0 0;
+  width: 1063px;
+}
+
+
+
+.header {
+  position: relative;
+  top: 56px;
+
+  width: 806px;
+  height: 336px;
+  padding-bottom: 0px;
+  margin: 0 0;
+  left: 108px;
+  background: url(head.png) no-repeat;
+  z-index: 2;
+}
+
+h1 {
+  display: none;
+}
+
+.content {
+  padding: 80px 20px 0 45px;
+  width: 686px;
+  background: white;
+  margin: 0 auto;
+}
+
+
+.map {
+  width: 676px;
+  padding: 0 0 30px 0;
+}
+
+
+h2.date {
+  width: 160px;
+  float: left;
+  margin: 0px;
+  clear: left;
+  color: #c00;
+}
+
+h3:before {
+  content: url(bullet.png);
+  position: relative;
+  margin-right: 3px;
+  top: -3px;
+  width: 20px;
+  float: left;
+  height: 20px;
+  display: block;
+}
+
+h2, h3 {
+  text-transform: uppercase;
+  font-size: 10pt;
+}
+
+
+.text {
+  padding: 0px 20px 20px 160px;
+  -moz-hyphens: auto;
+}
+
+.footer {
+  width: 751px;
+  margin: 0 auto;
+  text-align: left;
+  margin-top: 10px;
+  font-size: smaller;
+}
+
+
+#mail a {
+  display: none;
+}
+
+#msg {
+ margin-top: 60px;
+}
+
+.fotos {
+margin-left: 160px;
+padding: 0px 0px 30px;
+}
+
+a {
+ color: inherit;
+}
+
