@@ -1,0 +1,138 @@
+/*
+
+dunkelrot #B62700
+
+orange dunkel #EC7000
+
+orange hell #F38900
+
+gelb #FFAE1B
+
+*/
+
+h2, h3, .nav {
+  font-size: small;
+}
+
+
+#worldlink {
+  position: absolute;
+  top: 75px;
+  right: 50px;
+  margin-top: -30px;
+  font-weight: bold;
+  z-index: 5;
+  color: white;
+  text-decoration: none;
+  width: 100px;
+  height: 30px;
+  padding: 20px 20px 0 0;
+  display: block;
+  text-transform: uppercase;
+}
+
+
+
+.header {
+  position: absolute;
+  left: 139px;
+  top: 370px;
+  background-image: url(header.png);
+  width: 269px;
+  height: 64px;
+}
+
+
+h1 {
+  display: none;
+}
+
+
+
+body {
+  font-family: "Arial Narrow", sans-serif;
+  font-size: 11pt;
+  color: black;
+  margin: 0;
+  background-attachment: fixed;
+  position: relative;
+  top: -5px;
+
+  background: #EC7000;
+  background-image: linear-gradient(bottom, rgb(182,39,0) 74%, rgb(243,138,0) 100%);
+  background-image: -o-linear-gradient(bottom, rgb(182,39,0) 74%, rgb(243,138,0) 100%);
+  background-image: -moz-linear-gradient(bottom, rgb(182,39,0) 74%, rgb(243,138,0) 100%);
+  background-image: -webkit-linear-gradient(bottom, rgb(182,39,0) 74%, rgb(243,138,0) 100%);
+  background-image: -ms-linear-gradient(bottom, rgb(182,39,0) 74%, rgb(243,138,0) 100%);
+  background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0.74, rgb(182,39,0)), color-stop(1, rgb(243,138,0)));
+}
+
+
+#container {
+  position: relative;
+  top: 0;
+  margin: 0 auto 340px auto ;
+  padding-top: 300px;
+  width: 905px;
+  background: Url(containerbg.png) no-repeat;
+}
+
+
+.content {
+	background: white;
+	position: relative;
+	top: 307px;
+	width: 687px;
+	left: 81px;
+	padding: 170px 20px 40px 45px;
+}
+
+
+#map {
+	position: absolute;
+	top: 64px;
+	left: 311px;
+	z-index: 1;
+	display: block;
+}
+
+
+
+
+h2.date {
+  width: 160px;
+  float: left;
+  margin: 0px;
+  clear: left;
+  color: #EC7000;
+}
+
+h3.title {
+  color: #EC7000;
+  text-transform: uppercase;
+}
+
+
+
+.text {
+  padding: 0px 20px 0px 160px;
+  text-align: justify;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+}
+.fotos {
+margin-left: 160px;
+padding: 0px 0px 30px;
+}
+
+.footer {
+  position: relative;
+  top: 310px;
+  left: 90px;
+}
+
+#copy {
+  font-size: smaller;
+}
+
