@@ -103,6 +103,9 @@ h2, h3 {
 .text {
   padding: 0px 20px 20px 160px;
   -moz-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+  text-align: justify;
 }
 
 .footer {
