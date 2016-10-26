@@ -263,6 +263,11 @@ h1 {
 }
 
 
+.entry img {
+  width: 100%;
+  margin: 1rem 0 1rem 0;
+  display: block
+}
 .footer {
   background: black;
   height: 20px;
