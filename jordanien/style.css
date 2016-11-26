@@ -265,8 +265,18 @@ h1 {
 
 .entry img {
   width: 100%;
-  margin: 1rem 0 1rem 0;
+  margin: 10px 0 0 0;
   display: block
+}
+@media (min-width: 800px) {
+  .entry img.portrait {
+    width: 49%;
+    display: inline;
+	margin-right: 10px;
+  }
+  img.portrait + img.portrait {
+	margin-right: 0;
+  }
 }
 .footer {
   background: black;
@@ -287,10 +297,7 @@ h1 {
   float: right;
 }
 
-
-}
-
-@media screen and (max-width: 800px) {
+@media (max-width: 800px) {
   html {
     font-size: 80%;
   }
@@ -302,4 +309,7 @@ h1 {
     float: left;
   }
 }
+
+}
+
 
