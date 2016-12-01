@@ -25,7 +25,7 @@ body {
   margin: 0 auto;
   height: 601px;
   background: url(head.jpg) no-repeat;
-  background-size: 1600px 601px;
+  background-size: cover;
   position: relative;
 }
 
@@ -44,10 +44,10 @@ body {
 
 #map-container {
   background: linear-gradient(
-	287deg,
-	rgba(255,255,255,1) 0%,
-	rgba(255,255,255,0.6) 45%,
-	rgba(255,255,255,0) 70%
+    287deg,
+    rgba(255,255,255,1) 0%,
+    rgba(255,255,255,0.6) 45%,
+    rgba(255,255,255,0) 70%
   );
   width: 639px;
   height: 100%;
@@ -102,9 +102,9 @@ body {
 
 
 .entry {
-	width: 100%;
-	margin: 5em 0 5em 0;
-	display: table;
+  width: 100%;
+  margin: 5em 0 5em 0;
+  display: table;
 }
 
 
@@ -150,7 +150,7 @@ body {
 
 .text img {
   max-width:  700px;
-	margin: 0px 0 20px 0;
+  margin: 0px 0 20px 0;
 }
 
 .text p {
@@ -194,4 +194,38 @@ body {
 }
 #home > span {
     display: none;
+}
+
+@media (max-width: 800px) {
+  html {
+    font-size: 80%;
+  }
+
+  #rose, #map-container {
+    display: none;
+  }
+  .header {
+    min-width: 0;
+    height: 400px;
+    background-position: 0 0;
+  }
+  .header::after {
+    top: 420px;
+  }
+  #banner {
+    left: 5%;
+    width: 90%;
+  }
+  .nav, #container {
+    width: 95%;
+  }
+  .entry {
+  }
+  #copy {
+    float: left;
+  }
+  .text img {
+    max-width:  100%;
+    margin: 0px 0 20px 0;
+  }
 }
