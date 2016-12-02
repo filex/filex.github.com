@@ -15,7 +15,6 @@ body {
   font-family: "Arial Narrow", sans-serif;
   font-size: 13pt;
   color: white;
-  position: relative;
   background: rgb(88,25,101) url(gfx/tile.png) fixed;
 }
 
@@ -107,11 +106,6 @@ h1 {
 }
 
 
-.entry {
-	padding-bottom: 20px;
-}
-
-
 .date::before {
   content: " ";
   position: relative;
@@ -144,7 +138,7 @@ h3.title {
 .text {
   font-family: "Times New Roman", Times, serif;
   width: 640px;
-  padding: 0px 0px 20px 0px;
+  padding: 0px 0px 0px 0px;
   line-height: 1.5pc;
   hyphens: auto;
   -webkit-hyphens: auto;
@@ -158,41 +152,59 @@ h3.title {
 	border-radius: 2px;
 }
 
-#copy {
-  font-size: smaller;
-}
 
 .footer {
-  margin-left: 45px;
   width: 100%;
+  margin-left: 45px;
   padding-bottom: 20px;
+  font-size: smaller;
 }
 
 }
 
 /* single colon layout for smaller screens */
 @media screen and (max-width: 900px) {
+  body,html {
+    margin: 0;
+    background: none;
+  }
   .header {
     position: relative;
-    margin: 50px auto;
+    margin: 20px auto 50px auto;
   }
-  #container, #main {
-    width: 98%;
-	padding: 5px;
+  #container {
+    position: initial;
+    width: 100%;
+  }
+  #main {
+    width: 96%;
+    margin: 0;
+    padding: 0 2%;
+  }
+  .entry {
+    width: 100%;
   }
   .text {
-  	width: 100%;
-	padding: 0px;
+    width: 100%;
   }
   .text img {
-	max-width: 100%;
+    max-width: 100%;
   }
   #subnav a {
     font-size: 18pt;
     line-height: 35px;
   }
-  #map {
+  .nav {
+    position: initial;
+  }
+  .map {
   	display: none;
+  }
+  .footer {
+    width: 90%;
+    margin: 0;
+    padding: 10px;
+	  font-size: inherit;
   }
 
 }
@@ -200,18 +212,16 @@ h3.title {
 
 @media print {
   .nav, #subnav, #mail {
-	display:none
+    display:none
   }
   #container, #main {
   	width: 100%;
   }
   .entry img {
   	max-width: 45%;
-	vertical-align: top;
+    vertical-align: top;
 	}
   .text {
-	text-align: left;
+    text-align: left;
   }
 }
-
-
