@@ -63,11 +63,6 @@ body {
   position: absolute;
   float: left;
   max-width: 98%;
-  /*
-  background: url(banner.png) no-repeat;
-  background-size: 392px 165px;
-  color: transparent;
-  */
   z-index: 20;
 }
 
