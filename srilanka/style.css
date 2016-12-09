@@ -1,3 +1,5 @@
+@media screen { 
+
 a {
   text-decoration: none;
   color: inherit;
@@ -39,9 +41,10 @@ body {
 }
 
 .header {
-  background: url(head.png) no-repeat;
-  background-size: 300px 300px;
+  background: url(head.svg) no-repeat;
   background-position: 50px 200px;
+  min-height: 300px;
+  min-width: 300px;
 }
 
 
@@ -91,8 +94,8 @@ h1 {
 
 
 .content {
-	width: 667px;
-    padding: 1px 20px 10px 45px;
+	max-width: 640px;
+  padding: 1px 20px 10px 45px;
 }
 
 
@@ -129,12 +132,14 @@ h3.title {
   text-transform: uppercase;
   font-size: 12pt;
   letter-spacing: 1.5pt;
+  word-wrap: break-word;
+  padding-left: 32px;
 }
 
 
 .text {
   font-family: "Times New Roman", Times, serif;
-  width: 640px;
+  max-width: 640px;
   padding: 0px 0px 20px 0px;
   line-height: 1.5pc;
   hyphens: auto;
@@ -144,17 +149,16 @@ h3.title {
 }
 
 .text img {
-  width: 640px;
+  max-width: 640px;
+  width: 100%;
   display: block;
   padding-bottom: 15px;
 }
 
 
 .footer {
-  margin-top: 30px;
-  margin-left: 45px;
-  width: 100%;
-  padding-bottom: 20px;
+  width: 200px;
+  margin: 30px 45px;
 }
 #copy a {
   font-size: smaller;
@@ -180,3 +184,54 @@ h2, h3, .nav {
     display: none;
 }
 
+#home {
+  display: none;
+}
+
+@media (max-width: 800px) {
+
+  .map::after, #mail {
+    display: none;
+  }
+  .map {
+    display: none;
+  }
+  #container {
+    width: 100%;
+    max-width: 950px;
+    padding-top: 0px;
+  }
+  .header {
+    width: 300px;
+    margin: 0 auto 0 auto;
+    background-position: 0 0;
+  }
+  .content {
+    width: 94%;
+    padding: 20px 3%;
+    margin: 0 auto;
+  }
+  .footer {
+    width: 94%;
+    margin: 20px 3%;
+  }
+  h2.date {
+    float: none;
+  }
+  #nav {
+    width: 94%;
+    padding: 1px 3%;
+    margin: 0 auto;
+  }
+  #home {
+    display: block;
+    width: 94%;
+    background: url(../myanmar/gfx/ferndrang.png) no-repeat;
+    height: 21px;
+    margin: 20px auto 0 auto;
+    color: transparent;
+  }
+}
+
+
+}
