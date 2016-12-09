@@ -52,22 +52,6 @@ h1 {
   display: none;
 }
 
-
-#worldlink {
-  display: block;
-  position: absolute;
-  top: 30px;
-  left: 30px;
-  width: 107px;
-  height: 19px;
-  background: url(ferndrang.png);
-}
-
-#worldlink > span {
-  display: none;
-}
-
-
 .map::before {
   background: url(pin.png);
   width: 25px;
@@ -226,11 +210,12 @@ h2, h3, .nav {
   #home {
     display: block;
     width: 94%;
-    background: url(../myanmar/gfx/ferndrang.png) no-repeat;
+    background: url(ferndrang.png) no-repeat;
     height: 21px;
     margin: 20px auto 0 auto;
     color: transparent;
   }
+
 }
 
 
