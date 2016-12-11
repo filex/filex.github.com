@@ -23,9 +23,10 @@ body {
   max-width: 1600px;
   min-width: 800px;
   margin: 0 auto;
-  height: 601px;
-  background: url(head.jpg) no-repeat;
+  height: 501px;
+  background: url(mountain.jpg) no-repeat;
   background-size: cover;
+  background-position: center top;
   position: relative;
 }
 
@@ -36,7 +37,7 @@ body {
   background-size: 100%;
   margin: 0 auto;
   position: relative;
-  top: 621px;
+  top: 521px;
   width: 40px;
   height: 20px;
 }
@@ -46,19 +47,19 @@ body {
   background: linear-gradient(
     287deg,
     rgba(255,255,255,1) 0%,
-    rgba(255,255,255,0.6) 45%,
+    rgba(255,255,255,0.6) 35%,
     rgba(255,255,255,0) 70%
   );
   width: 639px;
   height: 100%;
   text-align: right;
   position: absolute;
-  right: 0;
+  right: -50px;
 }
 #mapbg {
   display: block;
-  height: 601px;
   width: 539px;
+  height: 501px;
   float: right;
 }
 
@@ -182,16 +183,15 @@ body {
     font-size: 80%;
   }
 
-  #rose, #map-container {
+  #map-container {
     display: none;
   }
   .header {
     min-width: 0;
-    height: 400px;
-    background-position: 0 0;
+    height: 350px;
   }
   .header::after {
-    top: 420px;
+    top: 370px;
   }
   #banner {
     left: 5%;
@@ -208,5 +208,14 @@ body {
   .text img {
     max-width:  100%;
     margin: 0px 0 20px 0;
+  }
+}
+
+@media (max-width: 400px) {
+  .header {
+    height: 300px;
+  }
+  .header::after {
+    top: 320px;
   }
 }
