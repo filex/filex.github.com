@@ -62,13 +62,6 @@ body {
   float: right;
 }
 
-/* live svg map */
-#map {
-  position: absolute;
-  z-index: 10;
-  width: 539px;
-  height: 601px;
-}
 
 #banner {
   display: block;
@@ -81,18 +74,6 @@ body {
   z-index: 20;
 }
 
-
-#rose {
-  display: block;
-  width: 130px;
-  height: 130px;
-  position: absolute;
-  left: 40px;
-  top: 430px;
-  background: url(rose.svg) no-repeat;
-  background-size: 100%;
-  z-index: 10;
-}
 
 #container {
   position: relative;
