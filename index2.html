@@ -55,7 +55,7 @@ nav {
   justify-content: space-between;
 }
 
-#menue {
+#menu {
   display: block;
   height: 1rem;
   width: 50px;
@@ -162,9 +162,10 @@ main#pages {
   top: 8rem;
   margin: 0 auto 0 auto;
   width: 100%;
-
   text-align: center;
+}
 
+h2, h3, .journey h3 {
   text-transform: uppercase;
   letter-spacing: 0.6rem;
   font-weight: 600;
@@ -210,7 +211,6 @@ main#pages {
   right: 0;
   bottom: 1.7rem;
   z-index: -1;
-  border: 1px dotted pink;
   width: 10rem;
 
   margin: 0 auto;
@@ -536,6 +536,81 @@ footer {
   }
 }
 
+
+
+#index {
+  color: black;
+  padding-top: 60px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+#index h2::before {
+  content: "";
+  display: block;
+  width: 70px;
+  height: 70px;
+  margin: 10px auto;
+  background: url(jordanien/home.svg) no-repeat;
+  background-size: contain;
+  background-position: center;
+  filter: invert();
+}
+
+#index h2 {
+  width: 100%;
+  line-height: 4rem;
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+#index h3::before {
+  content: "";
+  display: block;
+  width: 40px;
+  height: 4px;
+  margin-bottom: 7px;
+  background: black;
+}
+
+#index h3 {
+  text-align: left;
+  text-transform: uppercase;
+  font-size: 1.5rem;
+  letter-spacing: 0.3rem;
+}
+
+#index div {
+  margin-bottom: 30px;
+  font-size: 1.5rem;
+  padding: 0 10px;
+}
+
+
+#index ul {
+	list-style: none;
+	list-style-position: inside;
+  padding-left: 0;
+  font-family: "Times New Roman", Times, sans-serif;
+  font-style: italic;
+}
+
+#index li {
+  text-align: left;
+  width: 100px;
+  display: block;
+  margin: 10px 0
+}
+
+
+#index a:hover {
+  text-decoration: underline;
+}
+
+
+
 }
 </style>
 <script>function b(){return'@';}function a(){u=document.location;p=u.host.split('.');return"mailto:felix"+b()+p[p.length-2]+"."+p[p.length-1]+",az"+(9-1)+b()+"gmx."+p[p.length-1];}</script>
@@ -544,8 +619,8 @@ footer {
 <body>
 
 <nav>
-  <a id="menue" href="#"><span>Reisen</span></a>
-  <span id="home" href="//ferndrang.de/"></span>
+  <a id="menu" href="#index"><span>Reisen</span></a>
+  <a id="home" href="#top"></a>
   <a id="mail" href="javascript:window.location.href=a();">Mail</a>
 </nav>
 
@@ -609,12 +684,12 @@ footer {
   </a></div>
 
   <div class="journey" id="j-namibia"><a href="namibia/">
-    <h3>Namibia</h3>
+    <h3>Namibia, Botswana</h3>
     <h4 class="date">29/08/2010 – 17/09/2010</h4>
   </a></div>
 
   <div class="journey" id="j-bali"><a href="bali/">
-    <h3>Tailpeh, Bali</h3>
+    <h3>Taipeh, Bali</h3>
     <h4 class="date">28/08/2009 – 18/09/2009</h4>
   </a></div>
 
@@ -677,6 +752,65 @@ footer {
   <div class="journey filler"></div>
   <div class="journey filler"></div>
 </main>
+
+<aside id="index">
+<h2>Reisen</h2>
+
+<div>
+<h3>Afrika</h3>
+<ul>
+  <li><a href="dahab/">Ägypten</a></li>
+  <li><a href="//live.ferndrang.de/aethiopien/">Äthiopien</a></li>
+  <li><a href="namibia/">Botswana</a></li>
+  <li><a href="namibia/">Namibia</a></li>
+  <li><a href="namibia/">Sambia</a></li>
+  <li><a href="tansania/">Tansania</a></li>
+</ul>
+</div>
+
+<div>
+<h3>Amerika</h3>
+<ul>
+  <li><a href="peru/">Bolivien</a></li>
+  <li><a href="brasilien/">Brasilien</a></li>
+  <li><a href="costarica/">Costa Rica</a></li>
+  <li><a href="guatemala/">Guatemala</a></li>
+  <li><a href="guatemala/">Honduras</a></li>
+  <li><a href="kolumbien/">Kolumbien</a></li>
+  <li><a href="kuba/">Kuba</a></li>
+  <li><a href="peru/">Peru</a></li>
+  <li><a href="venezuela/">Venezuela</a></li>
+</ul>
+</div>
+
+<div>
+<h3>Asien</h3>
+<ul>
+  <li><a href="bali/">Bali</a></li>
+  <li><a href="borneo/">Borneo</a></li>
+  <li><a href="tibet/">China</a></li>
+  <li><a href="philippinen/">Hong&nbsp;Kong</a></li>
+  <li><a href="indien/">Indien</a></li>
+  <li><a href="indonesien/">Indonesien</a></li>
+  <li><a href="jordanien/">Jordanien</a></li>
+  <li><a href="thailand/">Laos</a></li>
+  <li><a href="myanmar/">Myanmar</a></li>
+  <li><a href="philippinen/">Philippinen</a></li>
+  <li><a href="srilanka/">Sri&nbsp;Lanka</a></li>
+  <li><a href="bali/">Taipeh</a></li>
+  <li><a href="tibet/">Tibet</a></li>
+  <li><a href="thailand/">Thailand</a></li>
+  <li><a href="vietnam/">Vietnam</a></li>
+</ul>
+</div>
+
+<div>
+<h3>Europa</h3>
+<ul>
+  <li><a href="venedig/">Venedig</a></li>
+</ul>
+</div>
+</aside>
 
   
   
