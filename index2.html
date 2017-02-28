@@ -84,6 +84,7 @@ header {
   position: relative;
   margin-top: 70px;
   border: 0 solid black;
+  height: 450px;
 }
 
 header::before {
@@ -93,7 +94,7 @@ header::before {
   right: 0;
   z-index: -1;
 
-  height: 300px;
+  height: 450px;
   background: url(kolumbien/mountain.jpg) no-repeat;
   background-size: cover;
   background-position: center center;
@@ -110,13 +111,13 @@ header::before {
 
 h1 {
   width: 100%;
-  letter-spacing: 0.7rem;
-  font-size: 3.5rem;
+  letter-spacing: 1.0rem;
+  font-size: 4.0rem;
   text-transform: uppercase;
 }
 
 #titlebox h1 {
-  padding-top: 110px;
+  padding-top: 190px;
   margin-bottom: 1rem;
 }
 
@@ -471,25 +472,17 @@ footer {
   display: none;
 }
 
+/* l-view 3 column */
 @media (min-width: 1400px) {
   .journey {
     width: 32.2%;
-  }
-  header, header::before {
-    height: 450px;
-  }
-  #titlebox h1 {
-    padding-top: 190px;
-  }
-  h1 {
-    font-size: 4.0rem;
-    letter-spacing: 1.0rem;
   }
   .filler {
     display: block;
   }
 }
 
+/* xl-view 4 column */
 @media (min-width: 2000px) {
   .journey {
     width: 24.2%;
@@ -509,11 +502,15 @@ footer {
   }
 }
 
+/* s-view 1 column */
 @media (max-width: 800px) {
   html {
     font-size: 90%;
   }
 
+  header, header::before {
+    height: 300px;
+  }
   #titlebox h1 {
     padding-top: 130px;
   }
