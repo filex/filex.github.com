@@ -1,1 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 108.8 106.4" style="enable-background:new 0 0 108.8 106.4;" xml:space="preserve"> <style type="text/css">.st0{fill:#FFF}.st1{fill:#FFF;stroke:#FFF;stroke-width:.1315;stroke-miterlimit:10}</style> <g> <path class="st0" d="M67,12.1v28.5h28.5V66H67v28.5H41.7V65.9H13.2V40.5h28.5V12.1H67 M70,9.1h-3H41.7h-3v3v25.5H13.2h-3v3V66v3h3 h25.5v25.5v3h3H67h3v-3V68.9h25.5h3v-3V40.5v-3h-3H70V12.1V9.1L70,9.1z"/> </g> <g> <path class="st0" d="M77.3,3v27.3h28.5v45.8H77.3v27.3H31.5V76.1H3V30.3h28.5V3H77.3 M80.3,0h-3H31.5h-3v3v24.3H3H0v3v45.8v3h3 h25.5v24.3v3h3h45.8h3v-3V79.1h25.5h3v-3V30.3v-3h-3H80.3V3V0L80.3,0z"/> </g> <g> <rect x="33.1" y="52" class="st1" width="42.5" height="2.5"/> <rect x="53.1" y="32" class="st1" width="2.5" height="42.5"/> </g> </svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Ebene_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 108.8 106.4" style="enable-background:new 0 0 108.8 106.4;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:0.1315;stroke-miterlimit:10;}
+</style>
+<g>
+	<path class="st0" d="M67,12.1v28.5h28.5V66H67v28.5H41.7V65.9H13.2V40.5h28.5V12.1H67 M70,9.1h-3H41.7h-3v3v25.5H13.2h-3v3V66v3h3
+		h25.5v25.5v3h3H67h3v-3V68.9h25.5h3v-3V40.5v-3h-3H70V12.1V9.1L70,9.1z"/>
+</g>
+<g>
+	<path class="st0" d="M77.3,3v27.3h28.5v45.8H77.3v27.3H31.5V76.1H3V30.3h28.5V3H77.3 M80.3,0h-3H31.5h-3v3v24.3H3H0v3v45.8v3h3
+		h25.5v24.3v3h3h45.8h3v-3V79.1h25.5h3v-3V30.3v-3h-3H80.3V3V0L80.3,0z"/>
+</g>
+<g>
+	<rect x="33.1" y="52" class="st1" width="42.5" height="2.5"/>
+	<rect x="53.1" y="32" class="st1" width="2.5" height="42.5"/>
+</g>
+</svg>
