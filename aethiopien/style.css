@@ -230,11 +230,6 @@ h1 {
   letter-spacing: 0.5rem;
 }
 
-.title a.active,
-.title a:hover {
-  border-bottom: 3px solid black;
-}
-
 
 .text p {
   text-align: justify;
