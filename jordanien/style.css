@@ -88,6 +88,20 @@ body {
   margin: 0 auto;
 }
 
+.header::after {
+  display: block;
+  content: "";
+  background: url(arrow.svg) no-repeat;
+  background-size: 100%;
+  position: relative;
+  top: 30px;
+  margin: 0 auto;
+  padding: 0;
+  width: 32px;
+  height: 16px;
+}
+
+
 #titlebox {
   position: relative;
   height: 300px;
@@ -126,18 +140,6 @@ h1 {
   letter-spacing: 0.1rem;
 }
 
-.header::after {
-  display: block;
-  content: "";
-  background: url(arrow.svg) no-repeat;
-  background-size: 100%;
-  margin: 0 auto;
-  position: relative;
-  top: 30px;
-  width: 32px;
-  height: 16px;
-}
-
 #datebox {
   position: absolute;
   width: 200px;
@@ -169,7 +171,7 @@ h1 {
   width: 600px;
   max-width: 100%;
   max-height: 534px;
-  margin: 30px auto;
+  margin: 60px auto;
   position: relative;
 }
 
@@ -256,13 +258,22 @@ h1 {
   display: block
 }
 @media (min-width: 800px) {
+  #titlebox, .header {
+    height: 400px;
+  }
+  .header::after {
+    top: -20px;
+  }
+  #titlebox {
+    padding-top: 50px;
+  }
   .entry img.portrait {
     width: 49%;
     display: inline;
-	margin-right: 10px;
+    margin-right: 10px;
   }
   img.portrait + img.portrait {
-	margin-right: 0;
+    margin-right: 0;
   }
 }
 .footer {
