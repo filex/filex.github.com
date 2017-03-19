@@ -233,11 +233,13 @@ main#pages {
   left: 0;
   right: 0;
   z-index: -1;
-  width: 50px;
+  width: 55px;
   height: 50px;
 
   margin: 0 auto;
-  top: -80px;
+  /* bottom: 58px; */
+  top: -72px;
+  background-position: center bottom !important;
 }
 
 .journey#j-aethiopien::before {
@@ -245,7 +247,6 @@ main#pages {
   background-size: cover;
   background-position: center;
 }
-
 .journey#j-aethiopien h3::before {
   background: url(aethiopien/cross.svg) no-repeat;
 }
@@ -255,37 +256,9 @@ main#pages {
   background-size: cover;
   background-position: center;
 }
-
 .journey#j-jordanien h3::before {
   background: url(jordanien/camel.svg) no-repeat;
   background-size: cover;
-}
-
-.journey#j-borneo::before {
-  background: url(borneo/head2.jpg) no-repeat;
-  background-size: cover;
-  background-position: center;
-}
-.journey#j-borneo h3::before {
-  background: url(jordanien/home.svg) no-repeat;
-}
-
-.journey#j-srilanka::before {
-  background: url(srilanka/images/AF_20150104_6139.jpg) no-repeat;
-  background-size: cover;
-  background-position: center;
-}
-.journey#j-srilanka h3::before {
-  background: url(jordanien/home.svg) no-repeat;
-}
-
-.journey#j-myanmar::before {
-  background: url(myanmar/images/AF_20131219_2476.jpg) no-repeat;
-  background-size: cover;
-  background-position: center;
-}
-.journey#j-myanmar h3::before {
-  background: url(jordanien/home.svg) no-repeat;
 }
 
 .journey#j-kolumbien::before {
@@ -294,7 +267,38 @@ main#pages {
   background-position: center;
 }
 .journey#j-kolumbien h3::before {
-  background: url(jordanien/home.svg) no-repeat;
+  background: url(world/kolumbien.svg) no-repeat;
+  height: 40px;
+}
+
+.journey#j-borneo::before {
+  background: url(borneo/head2.jpg) no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.journey#j-borneo h3::before {
+  background: url(world/borneo.svg) no-repeat;
+  width: 60px;
+}
+
+.journey#j-srilanka::before {
+  background: url(srilanka/images/AF_20150104_6139.jpg) no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.journey#j-srilanka h3::before {
+  background: url(world/srilanka.svg) no-repeat;
+  width: 58px;
+}
+
+.journey#j-myanmar::before {
+  background: url(myanmar/images/AF_20131219_2476.jpg) no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.journey#j-myanmar h3::before {
+  background: url(world/myanmar.svg) no-repeat;
+  height: 65px;
 }
 
 .journey#j-brasilien::before {
@@ -303,7 +307,8 @@ main#pages {
   background-position: center;
 }
 .journey#j-brasilien h3::before {
-  background: url(jordanien/home.svg) no-repeat;
+  background: url(world/brasilien.svg) no-repeat;
+  height: 55px;
 }
 
 .journey#j-thailand::before {
@@ -312,7 +317,8 @@ main#pages {
   background-position: center;
 }
 .journey#j-thailand h3::before {
-  background: url(jordanien/home.svg) no-repeat;
+  background: url(world/thailand.svg) no-repeat;
+  width: 66px;
 }
 
 .journey#j-kuba::before {
@@ -329,7 +335,8 @@ main#pages {
   background-size: cover;
 }
 .journey#j-vietnam h3::before {
-  background: url(jordanien/home.svg) no-repeat;
+  background: url(world/vietnam.svg) no-repeat;
+  height: 55px;
 }
 
 .journey#j-namibia::before {
@@ -339,7 +346,17 @@ main#pages {
   filter: brightness(90%);
 }
 .journey#j-namibia h3::before {
-  background: url(jordanien/home.svg) no-repeat;
+  background: url(world/namibia.svg) no-repeat;
+  width: 60px;
+}
+
+.journey#j-bali::before {
+  background: url(bali/fotos/DSC_5522.jpg) no-repeat;
+  background-size: cover;
+  background-position: center 60%;
+}
+.journey#j-bali h3::before {
+  background: url(world/bali.svg) no-repeat;
 }
 
 .journey#j-venedig::before {
@@ -349,16 +366,8 @@ main#pages {
   filter: brightness(90%);
 }
 .journey#j-venedig h3::before {
-  background: url(jordanien/home.svg) no-repeat;
-}
-
-.journey#j-bali::before {
-  background: url(bali/fotos/DSC_5522.jpg) no-repeat;
-  background-size: cover;
-  background-position: center 60%;
-}
-.journey#j-bali h3::before {
-  background: url(jordanien/home.svg) no-repeat;
+  background: url(world/venedig.svg) no-repeat;
+  width: 66px;
 }
 
 .journey#j-peru::before {
@@ -368,7 +377,8 @@ main#pages {
   filter: brightness(80%);
 }
 .journey#j-peru h3::before {
-  background: url(jordanien/home.svg) no-repeat;
+  background: url(world/peru.svg) no-repeat;
+  height: 55px;
 }
 
 .journey#j-indonesien::before {
@@ -378,7 +388,8 @@ main#pages {
   filter: brightness(80%);
 }
 .journey#j-indonesien h3::before {
-  background: url(jordanien/home.svg) no-repeat;
+  background: url(world/indonesien.svg) no-repeat;
+  width: 66px;
 }
 
 .journey#j-indien::before {
@@ -387,7 +398,7 @@ main#pages {
   background-position: center top;
 }
 .journey#j-indien h3::before {
-  background: url(jordanien/home.svg) no-repeat;
+  background: url(world/indien.svg) no-repeat;
 }
 
 .journey#j-tibet::before {
@@ -396,7 +407,8 @@ main#pages {
   background-position: center 30%;
 }
 .journey#j-tibet h3::before {
-  background: url(jordanien/home.svg) no-repeat;
+  background: url(world/tibet.svg) no-repeat;
+  height: 60px;
 }
 
 .journey#j-costarica::before {
@@ -406,7 +418,8 @@ main#pages {
   filter: brightness(80%);
 }
 .journey#j-costarica h3::before {
-  background: url(jordanien/home.svg) no-repeat;
+  background: url(world/costarica.svg) no-repeat;
+  height: 55px;
 }
 
 .journey#j-philippinen::before {
@@ -416,7 +429,8 @@ main#pages {
   filter: brightness(80%);
 }
 .journey#j-philippinen h3::before {
-  background: url(jordanien/home.svg) no-repeat;
+  background: url(world/philippinen.svg) no-repeat;
+  height: 55px;
 }
 
 .journey#j-dahab::before {
@@ -426,7 +440,19 @@ main#pages {
   filter: brightness(80%);
 }
 .journey#j-dahab h3::before {
-  background: url(jordanien/home.svg) no-repeat;
+  background: url(world/aegypten.svg) no-repeat;
+  width: 60px;
+}
+
+.journey#j-tansania::before {
+  background: url(world/tansania.jpg) no-repeat;
+  background-size: cover;
+  background-position: center;
+  filter: brightness(80%);
+}
+.journey#j-tansania h3::before {
+  background: url(world/tansania.svg) no-repeat;
+  height: 60px;
 }
 
 .journey#j-guatemala::before {
@@ -435,7 +461,8 @@ main#pages {
   background-position: center;
 }
 .journey#j-guatemala h3::before {
-  background: url(jordanien/home.svg) no-repeat;
+  background: url(world/guatemala.svg) no-repeat;
+  width: 65px;
 }
 
 .journey#j-venezuela::before {
@@ -444,7 +471,8 @@ main#pages {
   background-position: center;
 }
 .journey#j-venezuela h3::before {
-  background: url(jordanien/home.svg) no-repeat;
+  background: url(world/venezuela.svg) no-repeat;
+  width: 60px;
 }
 
 footer {
@@ -469,7 +497,7 @@ footer {
 }
 
 .filler {
-  display: none;
+  display: block;
 }
 
 /* l-view 3 column */
@@ -550,13 +578,12 @@ footer {
 #index h2::before {
   content: "";
   display: block;
-  width: 70px;
-  height: 70px;
+  width: auto;
+  height: 67px;
   margin: 10px auto;
-  background: url(jordanien/home.svg) no-repeat;
+  background: url(world/reisen.svg) no-repeat;
   background-size: contain;
   background-position: center;
-  filter: invert();
 }
 
 #index h2 {
@@ -733,12 +760,10 @@ footer {
     <h4 class="date">05/2005</h4>
   </a></div>
 
-  <!--
   <div class="journey" id="j-tansania"><a href="tansania/">
     <h3>Tansania</h3>
     <h4 class="date">04/12/2004 – 31/12/2004</h4>
   </a></div>
-  -->
 
   <div class="journey" id="j-guatemala"><a href="guatemala/">
     <h3>Guatemala, Honduras</h3>
@@ -749,7 +774,6 @@ footer {
     <h3>Venezuela</h3>
     <h4 class="date">04/12/2002 – 31/12/2002</h4>
   </a></div>
-  <div class="journey filler"></div>
   <div class="journey filler"></div>
 </main>
 
