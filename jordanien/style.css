@@ -48,7 +48,7 @@ body {
   height: 38px;
   float: left;
   margin: 14px;
-  background: url(home.svg) no-repeat;
+  background: url(../world/home.svg) no-repeat;
   background-size: cover;
 }
 #home > span {
