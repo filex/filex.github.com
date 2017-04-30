@@ -1,8 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Fjalla+One|Copse);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:600);
 
-a {
- text-decoration: none;
- color: black;
+html {
+  font-size: 90%;
 }
 
 body {
@@ -11,6 +11,12 @@ body {
   font-size: 13pt;
   color: black;
 }
+
+a {
+ text-decoration: none;
+ color: black;
+}
+
 
 #printhead {
   display: none;
@@ -125,11 +131,27 @@ body {
 }
 
 
-#copy {
-  font-size: smaller;
-  text-align: center;
-  margin-bottom: 20px;
+.footer {
+  background: black;
+  height: 20px;
+  padding: 27px ;
+
+  color: white;
+  text-transform: uppercase;
+  font-family: "Montserrat";
+  font-size: 0.9rem;
+  letter-spacing: 0.12rem;
 }
+.footer a {
+  color: white;
+}
+#footerhome {
+  float: left;
+}
+#copy {
+  float: right;
+}
+
 
 
 .nav {
