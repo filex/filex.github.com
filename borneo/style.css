@@ -208,13 +208,13 @@ body {
   display: block;
   height: 1rem;
   width: 50px;
-  margin: 27px 10px;
+  margin: 27px 25px;
   float: right;
 
   color: white;
   text-transform: uppercase;
   font-weight: normal;
-  letter-spacing: 0.1rem;
+  letter-spacing: 0.2rem;
 }
 
 
