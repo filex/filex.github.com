@@ -129,7 +129,7 @@ h1 {
 .header::after {
   display: block;
   content: "";
-  background: url(arrow.svg) no-repeat;
+  background: url(../world/arrow.svg) no-repeat;
   background-size: 100%;
   margin: 0 auto;
   position: relative;

@@ -91,7 +91,7 @@ body {
 .header::after {
   display: block;
   content: "";
-  background: url(arrow.svg) no-repeat;
+  background: url(../world/arrow.svg) no-repeat;
   background-size: 100%;
   position: relative;
   top: 30px;

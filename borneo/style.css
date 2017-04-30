@@ -35,7 +35,7 @@ body {
 
 .header {
   border: 0 solid black;
-  border-bottom-width: 20px; 
+  border-bottom-width: 15px; 
   padding-bottom: 20px;
   width: 100%;
   height: 558px;
@@ -99,13 +99,13 @@ body {
 .header::after {
   display: block;
   content: "";
-  background: url(arrow.svg) no-repeat;
+  background: url(../world/arrow.svg) no-repeat;
   background-size: 100%;
   margin: 0 auto;
   position: relative;
-  top: 40px;
-  width: 40px;
-  height: 20px;
+  top: 35px;
+  width: 32px;
+  height: 16px;
 }
 
 
@@ -240,7 +240,7 @@ body {
     height: 300px;
   }
   .header::after {
-    display: none;
+    top: -15px;
   }
   .headpanel {
     max-width: 100%;
