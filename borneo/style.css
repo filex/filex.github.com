@@ -9,6 +9,10 @@
 
 @media screen {
 
+html {
+  font-size: 90%;
+}
+
 a {
  text-decoration: none;
  color: black;
@@ -17,7 +21,7 @@ a {
 
 body {
   margin: 0;
-  font-family: "Times New Roman", Times, serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 13pt;
   color: black;
   /*
@@ -117,6 +121,7 @@ body {
 
 
 .entry {
+  font-family: "Times New Roman", Times, serif;
 	margin: 3em 0 3em 0;
 }
 
@@ -149,18 +154,32 @@ body {
 
 
 .text p {
-  font-family: "Times New Roman", Times, serif;
-  font-size: 1.1em;
+  font-size: 1.4rem;
   text-align: justify;
   -webkit-hyphens: auto;
   -moz-hyphens: auto;
 }
 
+.footer {
+  background: black;
+  height: 20px;
+  padding: 27px ;
+
+  text-transform: uppercase;
+  font-size: 0.9rem;
+  letter-spacing: 0.12rem;
+}
+.footer a {
+  color: white;
+}
+
+#footerhome {
+  float: left;
+}
+
 
 #copy {
-  font-size: smaller;
-  text-align: center;
-  margin-bottom: 20px;
+  float: right;
 }
 
 
