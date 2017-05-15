@@ -242,6 +242,10 @@ h1 {
   font-size: 1.4rem;
 }
 
+.text a {
+  text-decoration: underline;
+}
+
 
 .entry img {
   width: 100%;
@@ -249,6 +253,11 @@ h1 {
   display: block
 }
 @media (min-width: 800px) {
+  .entry img.single-portrait {
+    width: 49%;
+    display: block;
+	margin: 0 auto;
+  }
   .entry img.portrait {
     width: 49%;
     display: inline;
