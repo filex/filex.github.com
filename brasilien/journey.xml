@@ -12,22 +12,22 @@
     <p>Den Sonnenuntergang am Ipanema Beach darf man sich auch nicht entgehen lassen. Hier bleibt die Sonne am längsten und taucht die Surfer in gleißendes Licht. Der Wellengang ist hier oft zu stark zum Schwimmen, was die Heerscharen am Strand aber nicht von einer kurzen Abkühlung abhält. </p>
   </div>
   <div class="fotos">
-    <a href="fotos/AF_20121209_2516.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g1'});"><img width="122" height="81" src="fotos/thumbs/AF_20121209_2516.jpg"/></a>
-    <a href="fotos/AF_20121209_2519.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g1'});"><img width="122" height="81" src="fotos/thumbs/AF_20121209_2519.jpg"/></a>
-    <a href="fotos/AF_20121209_2563.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g1'});"><img width="122" height="81" src="fotos/thumbs/AF_20121209_2563.jpg"/></a>
-    <a href="fotos/AF_20121209_2574.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g1'});"><img width="122" height="81" src="fotos/thumbs/AF_20121209_2574.jpg"/></a>
-    <a href="fotos/AF_20121210_2601.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g1'});"><img width="122" height="81" src="fotos/thumbs/AF_20121210_2601.jpg"/></a>
-    <a href="fotos/AF_20121210_2604.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g1'});"><img width="122" height="81" src="fotos/thumbs/AF_20121210_2604.jpg"/></a>
-    <a href="fotos/AF_20121210_2636.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g1'});"><img width="122" height="81" src="fotos/thumbs/AF_20121210_2636.jpg"/></a>
-    <a href="fotos/AF_20121210_2697.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g1'});"><img width="122" height="81" src="fotos/thumbs/AF_20121210_2697.jpg"/></a>
-    <a href="fotos/AF_20121210_2740.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g1'});"><img width="122" height="81" src="fotos/thumbs/AF_20121210_2740.jpg"/></a>
-    <a href="fotos/AF_20121210_2782.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g1'});"><img width="122" height="81" src="fotos/thumbs/AF_20121210_2782.jpg"/></a>
-    <a href="fotos/AF_20121211_2821.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g1'});"><img width="122" height="81" src="fotos/thumbs/AF_20121211_2821.jpg"/></a>
-    <a href="fotos/AF_20121211_2832.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g1'});"><img width="122" height="81" src="fotos/thumbs/AF_20121211_2832.jpg"/></a>
-    <a href="fotos/AF_20121211_2860.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g1'});"><img width="122" height="81" src="fotos/thumbs/AF_20121211_2860.jpg"/></a>
-    <a href="fotos/AF_20121211_2897.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g1'});"><img width="122" height="81" src="fotos/thumbs/AF_20121211_2897.jpg"/></a>
-    <a href="fotos/AF_20121211_2920.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g1'});"><img width="122" height="81" src="fotos/thumbs/AF_20121211_2920.jpg"/></a>
-    <a href="fotos/AF_20121211_2969.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g1'});"><img width="122" height="81" src="fotos/thumbs/AF_20121211_2969.jpg"/></a>
+    <img src="fotos/AF_20121209_2516.jpg"/>
+    <img src="fotos/AF_20121209_2519.jpg"/>
+    <img src="fotos/AF_20121209_2563.jpg"/>
+    <img src="fotos/AF_20121209_2574.jpg"/>
+    <img src="fotos/AF_20121210_2601.jpg"/>
+    <img src="fotos/AF_20121210_2604.jpg"/>
+    <img src="fotos/AF_20121210_2636.jpg"/>
+    <img src="fotos/AF_20121210_2697.jpg"/>
+    <img src="fotos/AF_20121210_2740.jpg"/>
+    <img src="fotos/AF_20121210_2782.jpg"/>
+    <img src="fotos/AF_20121211_2821.jpg"/>
+    <img src="fotos/AF_20121211_2832.jpg"/>
+    <img src="fotos/AF_20121211_2860.jpg"/>
+    <img src="fotos/AF_20121211_2897.jpg"/>
+    <img src="fotos/AF_20121211_2920.jpg"/>
+    <img src="fotos/AF_20121211_2969.jpg"/>
   </div>
 	  </content>
   </page>
@@ -43,14 +43,14 @@
     <p>Mit einem Bootsausflug endete unser Aufenthalt im Pantanal. Endlich Wasser! Der Fluss war sehr friedlich und von Reihern gesäumt. Auf den Weg haben wir wunderschöne Tucane und sogar ein Gürteltier gesehen. Alles in allem war es viel trockener, aber auch tierreicher als erwartet.</p>
   </div>
   <div class="fotos">
-    <a href="fotos/AF_20121213_3066.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g2'});"><img width="122" height="81" src="fotos/thumbs/AF_20121213_3066.jpg"/></a>
-    <a href="fotos/AF_20121213_3072.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g2'});"><img width="122" height="81" src="fotos/thumbs/AF_20121213_3072.jpg"/></a>
-    <a href="fotos/AF_20121213_3136.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g2'});"><img width="122" height="81" src="fotos/thumbs/AF_20121213_3136.jpg"/></a>
-    <a href="fotos/AF_20121214_3344.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g2'});"><img width="122" height="81" src="fotos/thumbs/AF_20121214_3344.jpg"/></a>
-    <a href="fotos/AF_20121214_3412.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g2'});"><img width="122" height="81" src="fotos/thumbs/AF_20121214_3412.jpg"/></a>
-    <a href="fotos/AF_20121214_3454.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g2'});"><img width="122" height="81" src="fotos/thumbs/AF_20121214_3454.jpg"/></a>
-    <a href="fotos/AF_20121215_3539.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g2'});"><img width="122" height="81" src="fotos/thumbs/AF_20121215_3539.jpg"/></a>
-    <a href="fotos/AF_20121215_3556.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g2'});"><img width="122" height="81" src="fotos/thumbs/AF_20121215_3556.jpg"/></a>
+    <img src="fotos/AF_20121213_3066.jpg"/>
+    <img src="fotos/AF_20121213_3072.jpg"/>
+    <img src="fotos/AF_20121213_3136.jpg"/>
+    <img src="fotos/AF_20121214_3344.jpg"/>
+    <img src="fotos/AF_20121214_3412.jpg"/>
+    <img src="fotos/AF_20121214_3454.jpg"/>
+    <img src="fotos/AF_20121215_3539.jpg"/>
+    <img src="fotos/AF_20121215_3556.jpg"/>
   </div>
 	  </content>
   </page>
@@ -67,14 +67,14 @@
     <p>Glücklicherweise konnten wir an unserem letzten Tag noch den Ausflug zur Gruta do Lago Azul nachholen. Bei tollstem Wetter sind wir in die über 100m tiefe Höhle herabgestiegen. Unten ist ein See, der in der Morgensonne blau strahlt wie ein Saphir. Hier macht sich die professionelle Organisation nicht nur in der Helmpflicht bemerkbar, sondern auch in der Bereitstellung von Haarnetzen, was jedes Portrait im Höhlenbereich verderben dürfte.</p>
   </div>
   <div class="fotos">
-    <a href="fotos/AF_20121216_3591.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g3'});"><img width="122" height="81" src="fotos/thumbs/AF_20121216_3591.jpg"/></a>
-    <a href="fotos/AF_20121217_3706.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g3'});"><img width="122" height="81" src="fotos/thumbs/AF_20121217_3706.jpg"/></a>
-    <a href="fotos/AF_20121217_3749.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g3'});"><img width="122" height="81" src="fotos/thumbs/AF_20121217_3749.jpg"/></a>
-    <a href="fotos/AF_20110112_00231.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g3'});"><img width="122" height="81" src="fotos/thumbs/AF_20110112_00231.jpg"/></a>
-    <a href="fotos/AF_20121217_3778.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g3'});"><img width="122" height="81" src="fotos/thumbs/AF_20121217_3778.jpg"/></a>
-    <a href="fotos/AF_20121218_3819.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g3'});"><img width="122" height="81" src="fotos/thumbs/AF_20121218_3819.jpg"/></a>
-    <a href="fotos/AF_20121218_3843.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g3'});"><img width="122" height="81" src="fotos/thumbs/AF_20121218_3843.jpg"/></a>
-    <a href="fotos/AF_20121218_3893.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g3'});"><img width="122" height="81" src="fotos/thumbs/AF_20121218_3893.jpg"/></a>
+    <img src="fotos/AF_20121216_3591.jpg" />
+    <img src="fotos/AF_20121217_3706.jpg" />
+    <img src="fotos/AF_20121217_3749.jpg" />
+    <img src="fotos/AF_20110112_00231.jpg"/>
+    <img src="fotos/AF_20121217_3778.jpg" />
+    <img src="fotos/AF_20121218_3819.jpg" />
+    <img src="fotos/AF_20121218_3843.jpg" />
+    <img src="fotos/AF_20121218_3893.jpg" />
   </div>
 	  </content>
   </page>
@@ -100,18 +100,18 @@
     <p>Die seichten Hügel zwischen den steil aufragenden Tafelbergen sind mit einer wunderschönen Heideflora bewachsen. Auf halbem Weg gibt es einen Stopp an der kleinen "Oase" Aguas Claras. Hier ist ein Riss im Boden, aus dem frisches Wasser sprudelt und sich in mehrere kleine Becken ergießt, die von Farnen gesäumt sind. Ein paradiesischer Ort für ein Bad. Mit dem Blick durch das Tal, wenn die Sonne am Nachmittag langsam sinkt, ist das einer der schönsten Ausflüge, die Lençóis bietet.</p>
   </div>
   <div class="fotos">
-    <a href="fotos/AF_20121221_4134.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g4'});"><img width="122" height="81" src="fotos/thumbs/AF_20121221_4134.jpg"/></a>
-    <a href="fotos/AF_20121221_4217.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g4'});"><img width="122" height="81" src="fotos/thumbs/AF_20121221_4217.jpg"/></a>
-    <a href="fotos/AF_20121222_4230.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g4'});"><img width="122" height="81" src="fotos/thumbs/AF_20121222_4230.jpg"/></a>
-    <a href="fotos/AF_20121222_4240.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g4'});"><img width="122" height="81" src="fotos/thumbs/AF_20121222_4240.jpg"/></a>
-    <a href="fotos/AF_20121223_4390.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g4'});"><img width="122" height="81" src="fotos/thumbs/AF_20121223_4390.jpg"/></a>
-    <a href="fotos/AF_20121223_4432.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g4'});"><img width="122" height="81" src="fotos/thumbs/AF_20121223_4432.jpg"/></a>
-    <a href="fotos/AF_20121223_4459.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g4'});"><img width="122" height="81" src="fotos/thumbs/AF_20121223_4459.jpg"/></a>
-    <a href="fotos/AF_20121223_4481.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g4'});"><img width="122" height="81" src="fotos/thumbs/AF_20121223_4481.jpg"/></a>
-    <a href="fotos/AF_20121224_4597.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g4'});"><img width="122" height="81" src="fotos/thumbs/AF_20121224_4597.jpg"/></a>
-    <a href="fotos/AF_20121224_4689.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g4'});"><img width="122" height="81" src="fotos/thumbs/AF_20121224_4689.jpg"/></a>
-    <a href="fotos/AF_20121224_4695.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g4'});"><img width="122" height="81" src="fotos/thumbs/AF_20121224_4695.jpg"/></a>
-    <a href="fotos/AF_20121224_4707.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g4'});"><img width="122" height="81" src="fotos/thumbs/AF_20121224_4707.jpg"/></a>
+    <img src="fotos/AF_20121221_4134.jpg"/>
+    <img src="fotos/AF_20121221_4217.jpg"/>
+    <img src="fotos/AF_20121222_4230.jpg"/>
+    <img src="fotos/AF_20121222_4240.jpg"/>
+    <img src="fotos/AF_20121223_4390.jpg"/>
+    <img src="fotos/AF_20121223_4432.jpg"/>
+    <img src="fotos/AF_20121223_4459.jpg"/>
+    <img src="fotos/AF_20121223_4481.jpg"/>
+    <img src="fotos/AF_20121224_4597.jpg"/>
+    <img src="fotos/AF_20121224_4689.jpg"/>
+    <img src="fotos/AF_20121224_4695.jpg"/>
+    <img src="fotos/AF_20121224_4707.jpg"/>
   </div>
 	  </content>
   </page>
@@ -124,10 +124,10 @@
     <p>Unsere Pousada Portas das Amazonia hat uns etwas besänftigt. Das Hotel ist in einem alten Kolonialbau mit 5m hohen Decken um einen schattigen Innenhof arrangiert.</p>
   </div>
   <div class="fotos">
-    <a href="fotos/AF_20121225_0758.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g5'});"><img width="122" height="81" src="fotos/thumbs/AF_20121225_0758.jpg"/></a>
-    <a href="fotos/AF_20121225_0760.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g5'});"><img width="122" height="81" src="fotos/thumbs/AF_20121225_0760.jpg"/></a>
-    <a href="fotos/AF_20121226_4749.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g5'});"><img width="122" height="81" src="fotos/thumbs/AF_20121226_4749.jpg"/></a>
-    <a href="fotos/AF_20121226_4750.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g5'});"><img width="122" height="81" src="fotos/thumbs/AF_20121226_4750.jpg"/></a>
+    <img src="fotos/AF_20121225_0758.jpg"/>
+    <img src="fotos/AF_20121225_0760.jpg"/>
+    <img src="fotos/AF_20121226_4749.jpg"/>
+    <img src="fotos/AF_20121226_4750.jpg"/>
   </div>
 	  </content>
   </page>
@@ -143,14 +143,14 @@
     <p>Nach einem halben Tag kam endlich die sandige Landspitze in Sicht, auf der Jericoacoara auf den Strand gebaut ist. Die letzten Strandabschnitte waren schon voll Kite-Surfern, die hier von der steifen Brise angelockt werden.</p>
   </div>
   <div class="fotos">
-    <a href="fotos/AF_20121226_4793.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g6'});"><img width="122" height="81" src="fotos/thumbs/AF_20121226_4793.jpg"/></a>
-    <a href="fotos/AF_20121227_4828.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g6'});"><img width="122" height="81" src="fotos/thumbs/AF_20121227_4828.jpg"/></a>
-    <a href="fotos/AF_20121227_4861.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g6'});"><img width="122" height="81" src="fotos/thumbs/AF_20121227_4861.jpg"/></a>
-    <a href="fotos/AF_20121228_4962.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g6'});"><img width="122" height="81" src="fotos/thumbs/AF_20121228_4962.jpg"/></a>
-    <a href="fotos/AF_20121228_5108.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g6'});"><img width="122" height="81" src="fotos/thumbs/AF_20121228_5108.jpg"/></a>
-    <a href="fotos/AF_20121229_5155.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g6'});"><img width="122" height="81" src="fotos/thumbs/AF_20121229_5155.jpg"/></a>
-    <a href="fotos/AF_20121229_5198.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g6'});"><img width="122" height="81" src="fotos/thumbs/AF_20121229_5198.jpg"/></a>
-    <a href="fotos/AF_20121229_5199.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g6'});"><img width="122" height="81" src="fotos/thumbs/AF_20121229_5199.jpg"/></a>
+    <img src="fotos/AF_20121226_4793.jpg"/>
+    <img src="fotos/AF_20121227_4828.jpg"/>
+    <img src="fotos/AF_20121227_4861.jpg"/>
+    <img src="fotos/AF_20121228_4962.jpg"/>
+    <img src="fotos/AF_20121228_5108.jpg"/>
+    <img src="fotos/AF_20121229_5155.jpg"/>
+    <img src="fotos/AF_20121229_5198.jpg"/>
+    <img src="fotos/AF_20121229_5199.jpg"/>
   </div>
 	  </content>
   </page>
@@ -165,10 +165,10 @@
     <p>An Silvester ging dasselbe in einer anderen Dimension vonstatten. Wie überall wird es plötzlich schwierig einfach irgendwo essen zu gehen. Wir waren aber landesuntypisch früh unterwegs und konnten noch einen Platz ergattern und haben uns (auch landesuntypisch) mit köstlichem Cebiche und Guacamole verwöhnt. Langsam haben sich die Straßen mit weißen Gestalten gefüllt. In Brasilien begrüßt man das Neue Jahr eben ganz in weiß. Vielfach wurde der Dress-Code noch mit Gold aufgepeppt, was tolle Tron-Kostüme ergeben hat. Als es auf Mitternacht zu ging war die (ziemlich große) Düne schon voll und hat aus der Ferne von den zahllosen Blitzlichtern geglitzert wie ein Diamant. Zur Stunde Null ist dann das große Wettböllern zu beiden Enden des Strandes losgegangen, um die geschätzten 10000 oder mehr Gäste zu beeindrucken. Für ein kleines Dorf haben sich die Leute mit dem Feuerwerk wirklich nicht lumpen lassen. Wir haben dazwischen auf unserem Handtuch gesessen und das Neue Jahr mit Prosecco aus Plastikflöten und Panetone (beides Silvesterpräsente unserer Wirtin) begrüßt. Im Anschluss wurde der nächste Brauch gefeiert und die Leute sind einfach zum Neujahrsschwimmen ins Wasser marschiert. Bei 30 Grad ist das vermutlich naheliegender als an der Nordsee. Wegen der Ebbe mussten die Lemminge ziemlich weit laufen, was der Szenerie von ganz in Weiß Gekleideten, die langsam im dunklen Meer verschwinden, etwas Endzeitliches verliehen hat. Der Rest des Abends hat unter dem Kirmes-Charme gelitten, den die Saufbuden und schlechten DJs zusammen mit Tausenden Torkelnden versprüht haben.</p>
   </div>
   <div class="fotos">
-    <a href="fotos/AF_20121229_5210.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g7'});"><img width="122" height="81" src="fotos/thumbs/AF_20121229_5210.jpg"/></a>
-    <a href="fotos/AF_20121229_5217.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g7'});"><img width="122" height="81" src="fotos/thumbs/AF_20121229_5217.jpg"/></a>
-    <a href="fotos/AF_20121229_5226.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g7'});"><img width="122" height="81" src="fotos/thumbs/AF_20121229_5226.jpg"/></a>
-    <a href="fotos/AF_20130103_5249.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g7'});"><img width="122" height="81" src="fotos/thumbs/AF_20130103_5249.jpg"/></a>
+    <img src="fotos/AF_20121229_5210.jpg"/>
+    <img src="fotos/AF_20121229_5217.jpg"/>
+    <img src="fotos/AF_20121229_5226.jpg"/>
+    <img src="fotos/AF_20130103_5249.jpg"/>
   </div>
 	  </content>
   </page>
@@ -180,10 +180,10 @@
     <p>Am nächsten Tag hatten wir noch viel Zeit Olinda zu erkunden, bevor wir zum Flughafen mussten. Der Stadtspaziergang hat sich wirklich gelohnt! Das Kopfsteinpflaster führt steile Straßen hinauf, die von alten Kirchen und kolonialen Häusern gesäumt sind. Von den Hügeln aus geht der Blick über Olindas Kirchen auf der einen Seite idyllisch zum Meer und auf der anderen Seite über den endlosen Hochhauswald von Recife, das ohne erkennbare Grenze anschließt. Im Gegensatz zu geleckten Kolonialstädtchen wie Trinidad (Kuba) ist Olinda, wo jede freie Mauer mit wilden Graffitis bemalt ist, eine herbere Schönheit.</p>
   </div>
   <div class="fotos">
-    <a href="fotos/AF_20130104_5292.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g8'});"><img width="122" height="81" src="fotos/thumbs/AF_20130104_5292.jpg"/></a>
-    <a href="fotos/AF_20130104_5302.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g8'});"><img width="122" height="81" src="fotos/thumbs/AF_20130104_5302.jpg"/></a>
-    <a href="fotos/AF_20130104_5343.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g8'});"><img width="122" height="81" src="fotos/thumbs/AF_20130104_5343.jpg"/></a>
-    <a href="fotos/AF_20130104_5349.jpg" onclick="return hs.expand(this, {slideshowGroup: 'g8'});"><img width="122" height="81" src="fotos/thumbs/AF_20130104_5349.jpg"/></a>
+    <img src="fotos/AF_20130104_5292.jpg"/>
+    <img src="fotos/AF_20130104_5302.jpg"/>
+    <img src="fotos/AF_20130104_5343.jpg"/>
+    <img src="fotos/AF_20130104_5349.jpg"/>
   </div>
 	  </content>
   </page>
