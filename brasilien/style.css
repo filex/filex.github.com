@@ -167,6 +167,11 @@ h3.title {
   letter-spacing: 0.2pt;
 }
 
+.entry a {
+  color: white;
+  text-decoration: none;
+}
+
 .title::before {
 	content: Url(bullet.png);
 	width: 22px;
