@@ -59,8 +59,8 @@ body {
 #mail {
   display: block;
   height: 1rem;
-  width: 50px;
-  margin: 27px 25px;
+  width: 110px;
+  margin: 27px 14px;
   float: right;
 
   color: white;
@@ -294,6 +294,10 @@ h1 {
 @media (max-width: 800px) {
   html {
     font-size: 80%;
+  }
+
+  #mail {
+	  width: 97px;
   }
 
   .datelabel, #map {
