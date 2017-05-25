@@ -252,6 +252,11 @@ h1 {
   margin: 10px 0 0 0;
   display: block
 }
+
+#disqus_thread {
+  margin: 40px auto;
+}
+
 @media (min-width: 800px) {
   .entry img.single-portrait {
     width: 49%;
