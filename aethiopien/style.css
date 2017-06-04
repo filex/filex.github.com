@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:600);
 
 @media print {
-  .nav, #mail, .header, #datebox, .footer, #map {display:none}
+  #nav, #mail, .header, #datebox, .footer, #map {display:none}
   #printhead{display:block}
   img { max-width: 45%; }
   #main { display: block; }
@@ -34,11 +34,21 @@ body {
   color: black;
 }
 
-/* navi */
-.nav {
+#nav {
+  position: fixed;
   width: 100%;
-  height: 70px;
   background: black;
+  top: 0;
+  z-index: 30;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+  letter-spacing: 0.2rem;
+  text-transform: uppercase;
+  font-weight: normal;
+  color: white;
 }
 
 
@@ -46,8 +56,7 @@ body {
   display: block;
   width: 52px;
   height: 38px;
-  float: left;
-  margin: 14px;
+  margin: 14px 58px 14px 14px;
   background: url(../world/home.svg) no-repeat;
   background-size: cover;
 }
@@ -55,18 +64,24 @@ body {
   display: none;
 }
 
+#navhead {
+  margin: auto 0;
+  display: none;
+}
+
+#navhead h1 {
+  font-size: 1rem;
+}
+
+.nav-show-link {
+  display: block !important;
+}
+
 
 #mail {
   display: block;
-  height: 1rem;
   width: 110px;
-  margin: 27px 14px;
-  float: right;
-
-  color: white;
-  text-transform: uppercase;
-  font-weight: normal;
-  letter-spacing: 0.2rem;
+  margin: 27px 14px 27px 0;
 }
 
 
@@ -82,6 +97,8 @@ body {
   background-size: cover;
   background-position: center 60%;
   margin-bottom: 40px;
+  /* gap for fixed nav */
+  margin-top: 70px;
 }
 
 .headpanel {
@@ -296,6 +313,9 @@ h1 {
     font-size: 80%;
   }
 
+  #home {
+    margin-right: 45px;
+  }
   #mail {
 	  width: 97px;
   }
