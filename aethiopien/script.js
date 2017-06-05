@@ -1,3 +1,12 @@
+/* fixed header verdeckt sprungmarke */
+function scrollShowTargetHeading() {
+	if (document.location.hash == "#main") {
+		window.scrollTo(0, window.scrollY - 90);
+	}
+	/* only once */
+	window.removeEventListener('scroll', scrollShowTargetHeading);
+}
+
 window.addEventListener('scroll', scrollShowTargetHeading);
 
 var menuOpen = false;
