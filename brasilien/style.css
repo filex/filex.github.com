@@ -11,9 +11,12 @@ gelb #FFAE1B
 
 */
 
+html {
+  font-size: 90%;
+}
+
 body {
   font-family: "Arial Narrow", sans-serif;
-  font-size: 11pt;
   color: white;
   position: relative;
 
@@ -179,11 +182,18 @@ h3.title {
 	padding: 0 10px 0 0;
 }
 
+.entry .text {
+  margin-top: 20px;
+}
 
 .text {
-  padding: 0px 20px 0px 160px;
+  padding: 0 20px 0 0;
+
   letter-spacing: 0.1pt;
   text-align: justify;
+  font-size: 1.2rem;
+  line-height: 1.7rem;
+
   hyphens: auto;
   -webkit-hyphens: auto;
   -moz-hyphens: auto;
@@ -201,7 +211,7 @@ h3.title {
 }
 
 h2, h3, .nav {
-  font-size: small;
+  font-size: 1.1rem;
 }
 
 
