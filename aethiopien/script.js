@@ -9,6 +9,13 @@ function scrollShowTargetHeading() {
 
 window.addEventListener('scroll', scrollShowTargetHeading);
 
+/* close menu after click for in-page navigation (comments) */
+window.addEventListener('click', function(e) {
+	if (e.target.parentElement.id == 'menu') {
+		toggleMenu();
+	}
+});
+
 var menuOpen = false;
 
 function toggleMenu() {
