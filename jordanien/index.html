@@ -9,18 +9,32 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <link rel="stylesheet" href="./style.css" type="text/css">
-
-<script>function b(){return'@';}
-function a(){u=document.location;p=u.host.split('.');return"mailto:felix"+b()+p[p.length-2]+"."+p[p.length-1]+",az"+(9-1)+b()+"gmx."+p[p.length-1];}</script>
+<script src="../world/script.js"></script>
 </head>
 
 <body>
 <h1 id="printhead">Jordanien 2016</h1>
 
-<div class="nav">
+<div id="nav">
   <a id="home" href="/"><span>Home</span></a>
-  <a id="mail" href="javascript:window.location.href=a();">Mail</a>
+  <a id="navhead" href="#"><span>Jordanien</span></a>
+  <a id="menubutton" class="open" href="javascript:toggleMenu();"></a>
 </div>
+
+<aside id="menu">
+  <a href="./#main">Amman</a>
+  <a href="jerash.html#main">Jerash und Ajloun</a>
+  <a href="totes-meer.html#main">Totes Meer</a>
+  <a href="wadi-mujib.html#main">Wadi Mujib</a>
+  <a href="madaba-dana.html#main">Von Madaba bis Dana</a>
+  <a href="wadi-dana.html#main">Wadi Dana</a>
+  <a href="wadi-ghuweir.html#main">Wadi Ghuweir</a>
+  <a href="petra.html#main">Petra</a>
+  <a href="wadi-rum.html#main">Wadi Rum</a>
+  <a href="akaba.html#main">Akaba-Küste</a>
+  <a href="rueckweg.html#main">Rückweg</a>
+  <a href="#footerhome">Comments</a>
+</aside>
 
 <div class="header">
   <div class="headpanel">
@@ -114,6 +128,7 @@ function a(){u=document.location;p=u.host.split('.');return"mailto:felix"+b()+p[
     <h3 class="title"><a href="rueckweg.html#main">Rückweg</a></h3>
  </div>
 
+<div id="disqus_thread"></div><script>(function() { var d = document, s = d.createElement('script'); s.src = 'https://ferndrang.disqus.com/embed.js'; s.setAttribute('data-timestamp', +new Date()); (d.head || d.body).appendChild(s); })();</script>
 </div>
 
 <div class="footer">
