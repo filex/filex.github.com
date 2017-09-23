@@ -40,7 +40,9 @@ function toggleMenu() {
 
 window.addEventListener('scroll', function(e) {
   var nav = document.getElementById("navhead");
-  if (this.scrollY > 200) {
+  var label = document.getElementById("titlebox");
+  var fold = label.offsetHeight / 2 + 50;
+  if (this.scrollY > fold) {
     nav.className = "nav-show-link"
   } else {
     nav.className = ""
