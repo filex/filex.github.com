@@ -3,7 +3,7 @@
 @import url(../world/menu.css);
 
 @media print {
-  #nav, #menu, .header, #datebox, .footer, #map {display:none}
+  #nav, #menu, #header, #datebox, .footer, #map {display:none}
   #printhead{display:block}
   img { max-width: 45%; }
   #main { display: block; }
@@ -78,7 +78,7 @@ body {
 
 /* header & map */
 
-.header {
+#header {
   position: relative;
   border: 0 solid black;
   border-bottom-width: 15px;
@@ -96,7 +96,7 @@ body {
   margin: 0 auto;
 }
 
-.header::after {
+#header::after {
   display: block;
   content: "";
   background: url(../world/arrow.svg) no-repeat;
@@ -266,10 +266,10 @@ h1 {
   display: block
 }
 @media (min-width: 800px) {
-  #titlebox, .header {
+  #titlebox, #header {
     height: 400px;
   }
-  .header::after {
+  #header::after {
     top: -20px;
   }
   #titlebox {

@@ -3,13 +3,13 @@
 @import url(../world/menu.css);
 
 @media print {
-  #nav, #menu, .header, #datebox, .footer, #map {display:none}
+  #nav, #menu, #header, #datebox, .footer, #map {display:none}
   #printhead{display:block}
   img { max-width: 45%; }
   #main { display: block; }
 }
 
-@media screen { 
+@media screen {
 
 #printhead {
   display: none;
@@ -75,7 +75,7 @@ body {
 
 /* header & map */
 
-.header {
+#header {
   position: relative;
   border: 0 solid black;
   border-bottom-width: 15px; 
@@ -131,7 +131,7 @@ h1 {
   letter-spacing: 0.1rem;
 }
 
-.header::after {
+#header::after {
   display: block;
   content: "";
   background: url(../world/arrow.svg) no-repeat;
