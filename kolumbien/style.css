@@ -1,5 +1,11 @@
 @import url(https://fonts.googleapis.com/css?family=Fjalla+One|Copse);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:600);
+@import url(../world/menu.css);
+
+@media print {
+  .nav,#mail,#header {display:none}
+  #printhead{display:block}
+}
 
 html {
   font-size: 90%;
@@ -7,14 +13,14 @@ html {
 
 body {
   margin: 0;
-  font-family: "Times New Roman", Times, serif;
+  font-family: "Montserrat";
   font-size: 1.0em;
-  color: black;
+  color: white;
 }
 
 a {
  text-decoration: none;
- color: black;
+ color: inherit;
 }
 
 
@@ -22,7 +28,7 @@ a {
   display: none;
 }
 
-.header {
+#header {
   border: 0 solid black;
   border-bottom-width: 20px; 
   width: 100%;
@@ -33,9 +39,11 @@ a {
   background-size: cover;
   background-position: center top;
   position: relative;
+  /* gap for fixed nav */
+  margin-top: 70px;
 }
 
-.header::after {
+#header::after {
   display: block;
   content: "";
   background: url(../world/arrow.svg) no-repeat;
@@ -55,7 +63,7 @@ a {
 }
 
 
-#banner {
+#headerlabel {
   display: block;
   width: 500px;
   height: 300px;
@@ -78,6 +86,7 @@ a {
   width: 100%;
   margin: 5em 0 5em 0;
   display: table;
+ color: black;
 }
 
 
@@ -136,14 +145,9 @@ a {
   height: 20px;
   padding: 27px ;
 
-  color: white;
   text-transform: uppercase;
-  font-family: "Montserrat";
   font-size: 0.9rem;
   letter-spacing: 0.12rem;
-}
-.footer a {
-  color: white;
 }
 #footerhome {
   float: left;
@@ -153,12 +157,20 @@ a {
 }
 
 
-/* navi */
-.nav {
-  font-family: "Montserrat";
+#nav {
+  position: fixed;
   width: 100%;
-  height: 70px;
   background: black;
+  top: 0;
+  z-index: 30;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+  letter-spacing: 0.2rem;
+  text-transform: uppercase;
+  font-weight: normal;
 }
 #home {
   display: block;
@@ -172,19 +184,10 @@ a {
 #home > span {
   display: none;
 }
-#mail {
-  display: block;
-  height: 1rem;
-  width: 50px;
-  margin: 27px 25px;
-  float: right;
-
-  color: white;
-  text-transform: uppercase;
-  font-weight: normal;
-  letter-spacing: 0.2rem;
+#navhead {
+  margin: auto 0;
+  display: none;
 }
-
 
 @media (max-width: 800px) {
   html {
@@ -194,14 +197,14 @@ a {
   #map-container {
     display: none;
   }
-  .header {
+  #header {
     min-width: 0;
     height: 350px;
   }
-  .header::after {
+  #header::after {
     top: 370px;
   }
-  #banner {
+  #headerlabel {
     left: 5%;
     width: 90%;
   }
@@ -220,10 +223,10 @@ a {
 }
 
 @media (max-width: 400px) {
-  .header {
+  #header {
     height: 300px;
   }
-  .header::after {
+  #header::after {
     top: 320px;
   }
 }

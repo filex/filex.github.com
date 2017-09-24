@@ -8,22 +8,35 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <link rel="stylesheet" media="screen" href="style.css" type="text/css">
-<style media="print">.nav,#mail,.header{display:none}#printhead{display:block}</style>
-
-<script>function b(){return'@';}
-function a(){u=document.location;p=u.host.split('.');return"mailto:felix"+b()+p[p.length-2]+"."+p[p.length-1]+",az"+(9-1)+b()+"gmx."+p[p.length-1];}</script>
+<script src="../world/script.js"></script>
 </head>
 
 <body>
-<h1 id="printhead">Kolumbien 2015/16</h1>
-<div class="nav">
+
+<div id="nav">
   <a id="home" href="/"><span>Home</span></a>
-  <a id="mail" href="javascript:window.location.href=a();"><span>Mail</span></a>
+  <a id="navhead" href="#"><span>Kolumbien</span></a>
+  <a id="menubutton" class="open" href="javascript:toggleMenu();"></a>
 </div>
 
-<div class="header">
-  <div class="headpanel">
-    <h1 id="banner">Kolumbien 2015/16</h1>
+<aside id="menu">
+  <a href="./#main">Bogota</a>
+  <a href="nach-palmari.html#main">Nach Palmari</a></h3>
+  <a href="palmari.html#main">Palmari</a></h3>
+  <a href="villa-de-leyva.html#main">Villa de Leyva</a></h3>
+  <a href="nach-guican.html#main">Nach Güican</a></h3>
+  <a href="el-cocuy.html#main">El Cocuy</a></h3>
+  <a href="cartagena.html#main">Cartagena</a></h3>
+  <a href="islas-des-rosarios.html#main">Islas del Rosarios</a></h3>
+  <a href="cartagena2.html#main">Cartagena</a></h3>
+  <a href="palomino.html#main">Palomino</a></h3>
+  <a href="land-und-leute.html#main">Land und Leute</a></h3>
+  <a href="#footerhome">Comments</a>
+</aside>
+
+<div id="header">
+  <div>
+    <h1 id="headerlabel">Kolumbien 2015/16</h1>
   </div>
 </div>
 
@@ -36,15 +49,15 @@ function a(){u=document.location;p=u.host.split('.');return"mailto:felix"+b()+p[
 <div>
   <div class="entry">
     <h2 class="date">22. Dezember 2015</h2>
-    <h3 class="title"><a href="index.html#content">Bogota</a></h3>
+    <h3 class="title"><a href="index.html#main">Bogota</a></h3>
   </div>
 
   <div class="entry">
     <h2 class="date">24. Dezember 2015</h2>
-    <h3 class="title"><a href="nach-palmari.html#content">Nach Palmari</a></h3>
+    <h3 class="title"><a href="nach-palmari.html#main">Nach Palmari</a></h3>
   </div>
 
-  <div class="entry" id="content">
+  <div class="entry" id="main">
     <h2 class="date">25. Dezember 2015</h2>
     <h3 class="title">Palmari</h3>
     <div class="text">
@@ -96,44 +109,45 @@ function a(){u=document.location;p=u.host.split('.');return"mailto:felix"+b()+p[
 
   <div class="entry">
     <h2 class="date">29. Dezember 2015</h2>
-    <h3 class="title"><a href="villa-de-leyva.html#content">Villa de Leyva</a></h3>
+    <h3 class="title"><a href="villa-de-leyva.html#main">Villa de Leyva</a></h3>
   </div>
 
   <div class="entry">
     <h2 class="date">02. Januar 2016</h2>
-    <h3 class="title"><a href="nach-guican.html#content">Nach Güican</a></h3>
+    <h3 class="title"><a href="nach-guican.html#main">Nach Güican</a></h3>
   </div>
 
   <div class="entry">
     <h2 class="date">03. Januar 2016</h2>
-    <h3 class="title"><a href="el-cocuy.html#content">El Cocuy</a></h3>
+    <h3 class="title"><a href="el-cocuy.html#main">El Cocuy</a></h3>
   </div>
 
   <div class="entry">
     <h2 class="date">08. Januar 2016</h2>
-    <h3 class="title"><a href="cartagena.html#content">Cartagena</a></h3>
+    <h3 class="title"><a href="cartagena.html#main">Cartagena</a></h3>
   </div>
 
   <div class="entry">
     <h2 class="date">09. Januar 2016</h2>
-    <h3 class="title"><a href="islas-des-rosarios.html#content">Islas del Rosarios</a></h3>
+    <h3 class="title"><a href="islas-des-rosarios.html#main">Islas del Rosarios</a></h3>
   </div>
 
   <div class="entry">
     <h2 class="date">10. Januar 2016</h2>
-    <h3 class="title"><a href="cartagena2.html#content">Cartagena</a></h3>
+    <h3 class="title"><a href="cartagena2.html#main">Cartagena</a></h3>
   </div>
 
   <div class="entry">
     <h2 class="date">12. Januar 2016</h2>
-    <h3 class="title"><a href="palomino.html#content">Palomino</a></h3>
+    <h3 class="title"><a href="palomino.html#main">Palomino</a></h3>
   </div>
 
   <div class="entry">
-    <h3 class="title"><a href="land-und-leute.html#content">Land und Leute</a></h3>
+    <h3 class="title"><a href="land-und-leute.html#main">Land und Leute</a></h3>
   </div>
 </div>
 
+<div id="disqus_thread"></div><script>(function() { var d = document, s = d.createElement('script'); s.src = 'https://ferndrang.disqus.com/embed.js'; s.setAttribute('data-timestamp', +new Date()); (d.head || d.body).appendChild(s); })();</script>
 </div>
 
 
