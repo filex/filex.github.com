@@ -1,7 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:700);
 
+@import url(../world/menu.css);
+
 @media print {
-  .nav, #mail, .header, #datebox, .footer, #map {display:none}
+  .nav, #menu, .header, #datebox, .footer, #map {display:none}
   #printhead{display:block}
   img { max-width: 45%; }
   #main { display: block; }
@@ -44,6 +46,10 @@ body {
   width: 100%;
   height: 70px;
   background: black;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }
 
 
@@ -60,19 +66,6 @@ body {
   display: none;
 }
 
-
-#mail {
-  display: block;
-  height: 1rem;
-  width: 50px;
-  margin: 27px 10px;
-  float: right;
-
-  color: white;
-  text-transform: uppercase;
-  font-weight: normal;
-  letter-spacing: 0.1rem;
-}
 
 
 /* header & map */
@@ -287,6 +280,10 @@ h1 {
   text-transform: uppercase;
   font-size: 0.9rem;
   letter-spacing: 0.12rem;
+}
+
+#disqus_thread {
+  margin: 40px auto;
 }
 
 #footerhome {

@@ -9,11 +9,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0" >
 
 <link rel="stylesheet" href="style.css" type="text/css" >
-
-<script>
-function b(){return'@';}
-function a(){u=document.location;p=u.host.split('.');return"mailto:felix"+b()+p[p.length-2]+"."+p[p.length-1]+",az"+(9-1)+b()+"gmx."+p[p.length-1];}
-</script>
+<script src="../world/script.js"></script>
 
 </head>
 
@@ -22,14 +18,19 @@ function a(){u=document.location;p=u.host.split('.');return"mailto:felix"+b()+p[
 
 <div class="nav">
   <a id="home" href="https://ferndrang.de/"><span>Home</span></a>
-  <a id="mail" href="javascript:window.location.href=a();">Mail</a>
+  <a id="menubutton" class="open" href="javascript:toggleMenu();"></a>
 </div>
 
-    <div id="titlebox">
-      <h1>Peking</h1>
-      <h2 id="spruechle"><i>posted by</i></h2>
-      <h2 id="wir">Ali &amp; Felix</h2>
-    </div>
+<aside id="menu">
+  <a href="./#main">Peking</a>
+  <a href="#footerhome">Comments</a>
+</aside>
+
+<div id="titlebox">
+  <h1>Peking</h1>
+  <h2 id="spruechle"><i>posted by</i></h2>
+  <h2 id="wir">Ali &amp; Felix</h2>
+</div>
 
 
 <div class="header">
@@ -92,8 +93,9 @@ abendliche Metro-Wallfahrt nach Hause angetreten sind. Wir mussten früh ins
 Bett, weil wir mitten in der Nacht schon wieder zum Flughafen mussten, um nach
 <a href="//live.ferndrang.de/japan/">Japan</a> weiter zu reisen.</p>
 
-</div></div></div>
+</div></div>
 
+<div id="disqus_thread"></div><script>(function() { var d = document, s = d.createElement('script'); s.src = 'https://ferndrang.disqus.com/embed.js'; s.setAttribute('data-timestamp', +new Date()); (d.head || d.body).appendChild(s); })();</script>
 
 </div>
 
