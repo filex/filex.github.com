@@ -3,7 +3,7 @@
 @import url(../world/menu.css);
 
 @media print {
-  .nav, #menu, .header, #datebox, .footer, #map {display:none}
+  #nav, #menu, #header, #datebox, .footer, #map {display:none}
   #printhead{display:block}
   img { max-width: 45%; }
   #main { display: block; }
@@ -41,15 +41,21 @@ body {
   color: black;
 }
 
-/* navi */
-.nav {
+#nav {
+  position: fixed;
   width: 100%;
-  height: 70px;
+  top: 0;
   background: black;
+  z-index: 30;
 
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+
+  letter-spacing: 0.2rem;
+  text-transform: uppercase;
+  font-weight: normal;
+  color: white;
 }
 
 
@@ -66,11 +72,13 @@ body {
   display: none;
 }
 
+#navhead {
+  margin: auto 0;
+  display: none;
+}
 
 
-/* header & map */
-
-.header {
+#header {
   position: relative;
   border: 0 solid black;
   border-bottom-width: 15px;
@@ -81,11 +89,8 @@ body {
   background-size: cover;
   filter: brightness(85%);
   margin-bottom: 40px;
-  z-index: 20;
-}
-
-.headpanel {
-  margin: 0 auto;
+  /* gap for fixed nav */
+  margin-top: 70px;
 }
 
 /*
@@ -107,7 +112,7 @@ body {
     text-align: center;
     color: white;
     border: 0;
-    z-index: 30;
+    z-index: 10;
 }
 
 h1 {
@@ -299,7 +304,7 @@ h1 {
     font-size: 80%;
   }
 
-  .header {
+  #header {
     position: relative;
     height: 350px;
 	background: url(hero_qs.jpg) no-repeat;
