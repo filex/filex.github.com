@@ -1,13 +1,15 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:700);
 
+@import url(../world/menu.css);
+
 @media print {
-  .nav, #mail, .header, #datebox, .footer, #map {display:none}
+  #nav, #menu, #header, #datebox, .footer, #map {display:none}
   #printhead{display:block}
   img { max-width: 45%; }
   #main { display: block; }
 }
 
-@media screen { 
+@media screen {
 
 #printhead {
   display: none;
@@ -21,6 +23,11 @@ a {
  text-decoration: none;
  color: inherit;
 }
+.text a {
+ text-decoration: underline;
+ color: inherit;
+}
+
 html {
   font-size: 90%;
 }
@@ -34,11 +41,21 @@ body {
   color: black;
 }
 
-/* navi */
-.nav {
+#nav {
+  position: fixed;
   width: 100%;
-  height: 70px;
+  top: 0;
   background: black;
+  z-index: 30;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+  letter-spacing: 0.2rem;
+  text-transform: uppercase;
+  font-weight: normal;
+  color: white;
 }
 
 
@@ -55,47 +72,35 @@ body {
   display: none;
 }
 
-
-#mail {
-  display: block;
-  height: 1rem;
-  width: 50px;
-  margin: 27px 10px;
-  float: right;
-
-  color: white;
-  text-transform: uppercase;
-  font-weight: normal;
-  letter-spacing: 0.1rem;
+#navhead {
+  margin: auto 0;
+  display: none;
 }
 
 
-/* header & map */
-
-.header {
+#header {
   position: relative;
   border: 0 solid black;
-  border-bottom-width: 15px; 
+  border-bottom-width: 15px;
   padding-bottom: 15px;
   height: 400px;
   background: url(hero.jpg) no-repeat;
-  background-size: cover;
   background-position: center 60%;
-  margin-bottom: 40px;
+  background-size: cover;
   z-index: 20;
-}
-
-.headpanel {
-  margin: 0 auto;
+  margin-bottom: 40px;
+  /* gap for fixed nav */
+  margin-top: 70px;
 }
 
 #titlebox {
-  position: relative;
-  height: 400px;
-  margin: 0 auto;
-  text-align: center;
-  color: white;
-  border: 0;
+    position: relative;
+    height: 400px;
+    margin: 0 auto -400px 0;
+    text-align: center;
+    color: white;
+    border: 0;
+    z-index: 10;
 }
 
 h1 {
@@ -141,7 +146,7 @@ h1 {
   text-align: center;
 }
 
-#japan {
+#japanlabel {
   font-size: 2.2rem;
   padding: 38px 0 29px 0;
 }
@@ -270,6 +275,10 @@ h1 {
   letter-spacing: 0.12rem;
 }
 
+#disqus_thread {
+  margin: 40px auto;
+}
+
 #footerhome {
   float: left;
 }
@@ -283,9 +292,9 @@ h1 {
     font-size: 80%;
   }
 
-  .header {
+  #header {
     position: relative;
-    height: 400px;
+    height: 350px;
     background: url(hero_s.jpg) no-repeat;
     background-size: cover;
     background-position: center 60%;
@@ -296,12 +305,12 @@ h1 {
   }
 
   #datebox {
-    top: 50px;
-    left: 25px;
+    top: 380px;
+    left: -25px;
     height: 150px;
     width: 150px;
   }
-  #japan {
+  #japanlabel {
     padding: 25px 0 15px 0;
   }
   .datelabel {
@@ -309,6 +318,14 @@ h1 {
     letter-spacing: 0.1rem;
     font-size: 1.2rem;
     line-height: 0.7rem;
+  }
+  #titlebox {
+    height: 200px;
+    margin: 0px auto -200px 0;
+    text-align: center;
+    top: -30px;
+    color: white;
+    border: 0;
   }
 
   #copy {
