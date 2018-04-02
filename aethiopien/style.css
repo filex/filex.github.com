@@ -1,147 +1,19 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:600);
-
-@import url(../world/menu.css);
-
-@media print {
-  #nav, #menu, #header, #datebox, .footer, #map {display:none}
-  #printhead{display:block}
-  img { max-width: 45%; }
-  #main { display: block; }
-}
+@import url(../world/style16.css);
 
 @media screen {
 
-#printhead {
-  display: none;
-}
-
-h2, h1, div, body {
-  margin: 0;
-}
-
-a {
- text-decoration: none;
- color: inherit;
-}
-html {
-  font-size: 90%;
-}
-
-body {
-  margin: 0;
-
-  font-family: 'Montserrat', sans-serif;
-  font-size: 1.0em;
-  font-weight: normal;
-  color: black;
-}
-
-#nav {
-  position: fixed;
-  width: 100%;
-  background: black;
-  top: 0;
-  z-index: 30;
-
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-
-  letter-spacing: 0.2rem;
-  text-transform: uppercase;
-  font-weight: normal;
-  color: white;
-}
-
-
-#home {
-  display: block;
-  width: 52px;
-  height: 38px;
-  margin: 14px 0 14px 14px;
-  background: url(../world/home.svg) no-repeat;
-  background-size: cover;
-}
-#home > span {
-  display: none;
-}
-
-#navhead {
-  margin: auto 0;
-  display: none;
-}
-
-
-
-/* header & map */
-
-#header {
-  position: relative;
-  border: 0 solid black;
-  border-bottom-width: 15px; 
-  padding-bottom: 15px;
-  height: 300px;
+.ethio #header {
   background: url(hero.jpg) no-repeat;
   background-size: cover;
   background-position: center 60%;
-  margin-bottom: 40px;
-  /* gap for fixed nav */
-  margin-top: 70px;
 }
 
-.headpanel {
-  margin: 0 auto;
-}
-
-#titlebox {
-  position: relative;
-  height: 300px;
-  margin: 0 auto;
-  text-align: center;
-  color: white;
-  border: 0;
-}
-
-h1 {
-  width: 100%;
-
-  letter-spacing: 0.4rem;
-  font-size: 3rem;
-  text-transform: uppercase;
-}
-
-#titlebox h1 {
-  padding-top: 160px;
-  margin-bottom: 20px;
+.ethio #titlebox h1 {
   background: url(cross.svg) no-repeat;
-  background-position: center 64px;
+  background-position: center 120px;
   background-size: 5rem;
 }
 
-#titlebox #spruechle {
-  font-size: 1.0rem;
-  font-family: "Times New Roman", Times, serif;
-  font-weight: lighter;
-  line-height: 1.6rem;
-}
-
-#titlebox #wir {
-  font-size: 1.0rem;
-  text-transform: uppercase;
-  letter-spacing: 0.1rem;
-}
-
-#header::after {
-  display: block;
-  content: "";
-  background: url(../world/arrow.svg) no-repeat;
-  background-size: 100%;
-  margin: 0 auto;
-  position: relative;
-  top: 30px;
-  width: 32px;
-  height: 16px;
-}
 
 #datebox {
   position: absolute;
@@ -160,152 +32,16 @@ h1 {
 }
 
 
-.datelabel, .date {
+.datelabel {
   font-family: "Times New Roman", Times, serif;
   font-size: 1.1rem;
 }
 
-#map {
-  display: block;
-  position: relative;
 
-  width: 800px;
-  max-width: 100%;
-
-  margin: 50px auto;
-  z-index: 10;
-}
-
-
-
-#container {
-  position: relative;
-  margin: 0 auto 0 auto ;
-  width: 90%;
-  max-width: 800px;
-  padding: 10px;
-}
-
-
-.map {
-  margin: 0;
-  padding-top: 0px;
-}
-
-
-
-.title::after {
-  display: block;
-  content: "";
-  background: black;
-  width: 2rem;
-  height: 2px;
-  border: 1px solid black;
-  margin: 10px auto;
-}
-
-.entry {
-  margin-bottom: 40px;
-}
-
-.link {
-	margin: 20px 0 ;
-}
-
-
-.date {
-  display: block;
-  margin: 0;
-  text-align: center;
-  text-transform: uppercase;
-  font-style: italic;
-  letter-spacing: 1.0pt;
-}
-
-.title {
-  display: block;
-  margin: 0 0 1rem 0;
-  padding-bottom: 1rem;
-
-  text-align: center;
-
-  text-transform: uppercase;
-  font-size: 2.5rem;
-  font-weight: bold;
-  letter-spacing: 0.5rem;
-}
-
-
-.text p {
-  text-align: justify;
-  -webkit-hyphens: auto;
-  -moz-hyphens: auto;
-  hyphens: auto;
-
-  line-height: 1.9rem;
-  font-family: "Times New Roman", Times, serif;
-  font-size: 1.4rem;
-}
-
-.text a {
-  text-decoration: underline;
-}
-
-
-.entry img {
-  width: 100%;
-  margin: 10px 0 0 0;
-  display: block
-}
-
-#disqus_thread {
-  margin: 40px auto;
-}
-
-@media (min-width: 800px) {
-  .entry img.single-portrait {
-    width: 49%;
-    display: block;
-	margin: 0 auto;
-  }
-  .entry img.portrait {
-    width: 49%;
-    display: inline;
-	margin-right: 10px;
-  }
-  img.portrait + img.portrait {
-	margin-right: 0;
-  }
-}
-.footer {
-  background: black;
-  height: 20px;
-  padding: 27px ;
-
-  color: white;
-  text-transform: uppercase;
-  font-size: 0.9rem;
-  letter-spacing: 0.12rem;
-}
-
-#footerhome {
-  float: left;
-}
-
-#copy {
-  float: right;
-}
 
 @media (max-width: 800px) {
-  html {
-    font-size: 80%;
-  }
-
-  .datelabel, #map {
+  .datelabel {
     display: none;
-  }
-  #copy {
-    float: left;
   }
 }
 
