@@ -9,7 +9,7 @@
 .peking #header {
   background: url(hero_ws.jpg) no-repeat;
   background-position: center top;
-  filter: brightness(85%);
+  background-size: cover;
 }
 
 .peking #titlebox h1 {
