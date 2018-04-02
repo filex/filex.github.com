@@ -5,7 +5,7 @@
 .ethio #header {
   background: url(hero.jpg) no-repeat;
   background-size: cover;
-  background-position: center 60%;
+  background-position: center center;
 }
 
 .ethio #titlebox h1 {
