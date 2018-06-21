@@ -235,6 +235,10 @@ main#pages {
   background-position: center bottom !important;
 }
 
+.journey#j-java h3::before {
+  background: url(java/icon.svg) no-repeat;
+}
+
 .journey#j-japan h3::before {
   background: url(japan/icon.svg) no-repeat;
 }
@@ -542,8 +546,14 @@ footer {
 </header>
 
 <main id="pages">
+  <div class="journey" id="j-java"><a href="//live.ferndrang.de/java/">
+    <img src="java/tile.jpg" style=" filter: brightness(90%) saturate(90%);">
+    <h3>Java</h3>
+    <h4 class="date">30/06/2018 – 22/07/2018</h4>
+  </a></div>
+
   <div class="journey" id="j-japan"><a href="japan/">
-    <img src="japan/hero.jpg" style="object-position: 45%; filter: brightness(80%) saturate(80%);">
+    <img src="japan/hero.jpg" style="object-position: 45%; filter: brightness(85%) saturate(80%);">
     <h3>Japan</h3>
     <h4 class="date">02/11/2017 – 18/11/2017</h4>
   </a></div>
@@ -691,7 +701,6 @@ footer {
     <h3>Venezuela</h3>
     <h4 class="date">04/12/2002 – 31/12/2002</h4>
   </a></div>
-  <div class="journey filler"></div>
   <div class="journey filler"></div>
 </main>
 
