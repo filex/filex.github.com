@@ -3,7 +3,7 @@
 @import url(../world/menu.css);
 
 @media print {
-  #nav, #menu, #header, #datebox, .footer, #map {display:none}
+  #nav, #menu, #header, .footer, #map {display:none}
   #printhead{display:block}
   img { max-width: 45%; }
   #main { display: block; }
