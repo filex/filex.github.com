@@ -1,136 +1,58 @@
-body {
+@import url(../world/style16.css);
 
-  font-family: "Arial Narrow", Sans-serif;
-  font-size: 14px;
-  letter-spacing: 0.2px;
-
-  color: black;
-
-  margin: 0;
-
-  background-size: 1063px 1280px;
-/*  background: lightblue; */
-  background: white url(bgs.jpg) center 0px no-repeat;  /* -y;*/
-  background-attachment: fixed;
+@media print {
+  #datebox {display:none}
 }
 
+@media screen {
 
-.nav {
-  top: 50px;
-  margin: 0 auto 0 auto;
-  position: relative;
-  width: 751px;
-  height: 23px;
+.kuba #header {
+  background: url(fotos/FH_20111214_9544.jpg) no-repeat;
+  background-position: center 90%;
+  background-size: cover;
+  z-index: 20;
 }
 
-#worldlink {
-  background: url(ferndrang.png);
-  width: 101px;
-  height: 23px;
-  display: block;
-  float: right;
+.kuba #titlebox h1 {
+  background: url(../world/kuba.svg) no-repeat;
+  background-position: center 120px;
+  background-size: 5rem;
 }
 
-.nav span {
-  display: none;
+#datebox {
+  position: absolute;
+  width: 200px;
+  z-index: 20;
 }
 
-
-#container {
-  margin: 0 auto 88px auto;
-  padding: 0px 0 0 0;
-  width: 1063px;
+.datelabel {
+  line-height: 2.2rem;
+  background: black;
+  color: white;
+  margin: 0 0 4px 0;
+  padding: 5px 20px;
+  white-space: nowrap;
+  letter-spacing: 0.1rem;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.1rem;
 }
 
 
 
-.header {
-  position: relative;
-  top: 56px;
-
-  width: 806px;
-  height: 336px;
-  padding-bottom: 0px;
-  margin: 0 0;
-  left: 108px;
-  background: url(head.png) no-repeat;
-  z-index: 2;
+@media (max-width: 800px) {
+  .datelabel {
+    display: none;
+  }
+  #titlebox {
+    height: 200px;
+    margin: 0px auto -200px 0;
+    text-align: center;
+    top: -30px;
+    color: white;
+    border: 0;
+  }
 }
 
-h1 {
-  display: none;
 }
 
-.content {
-  padding: 80px 20px 0 45px;
-  width: 686px;
-  background: white;
-  margin: 0 auto;
-}
-
-
-.map {
-  width: 676px;
-  padding: 0 0 30px 0;
-}
-
-
-h2.date {
-  width: 160px;
-  float: left;
-  margin: 0px;
-  clear: left;
-  color: #c00;
-}
-
-h3:before {
-  content: url(bullet.png);
-  position: relative;
-  margin-right: 3px;
-  top: -3px;
-  width: 20px;
-  float: left;
-  height: 20px;
-  display: block;
-}
-
-h2, h3 {
-  text-transform: uppercase;
-  font-size: 10pt;
-}
-
-
-.text {
-  padding: 0px 20px 20px 160px;
-  -moz-hyphens: auto;
-  -webkit-hyphens: auto;
-  hyphens: auto;
-  text-align: justify;
-}
-
-.footer {
-  width: 751px;
-  margin: 0 auto;
-  text-align: left;
-  margin-top: 10px;
-  font-size: smaller;
-}
-
-
-#mail a {
-  display: none;
-}
-
-#msg {
- margin-top: 60px;
-}
-
-.fotos {
-margin-left: 160px;
-padding: 0px 0px 30px;
-}
-
-a {
- color: inherit;
-}
 
