@@ -41,6 +41,7 @@ img#map {
   width: 458px;
   height: 548px;
   margin-top: -40px;
+  filter: grayscale(100%);
 }
 
 @media (max-width: 800px) {
