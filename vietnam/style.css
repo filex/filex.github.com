@@ -1,145 +1,62 @@
+@import url(../world/style16.css);
 
 @media print {
-  .nav, #mail {
-   display: none;
+  #datebox {display:none}
+}
+
+@media screen {
+
+.vietnam #header {
+  background: url(fotos/FH_20110224_4797.jpg) no-repeat;
+  background-position: center 90%;
+  background-size: cover;
+  z-index: 20;
+}
+
+.vietnam #titlebox h1 {
+  background: url(../world/vietnam.svg) no-repeat;
+  background-position: center 120px;
+  background-size: 2.8rem;
+}
+
+#datebox {
+  position: absolute;
+  width: 200px;
+  z-index: 20;
+}
+
+.datelabel {
+  line-height: 2.2rem;
+  background: black;
+  color: white;
+  margin: 0 0 4px 0;
+  padding: 5px 20px;
+  white-space: nowrap;
+  letter-spacing: 0.1rem;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.1rem;
+}
+
+img#map {
+  width: 458px;
+  height: 548px;
+  margin-top: -40px;
+}
+
+@media (max-width: 800px) {
+  .datelabel {
+    display: none;
+  }
+  #titlebox {
+    height: 200px;
+    margin: 0px auto -200px 0;
+    text-align: center;
+    top: -30px;
+    color: white;
+    border: 0;
   }
 }
 
-
-@media screen {
-a {
- color: inherit;
-}
-
-.nav {
-  text-transform: uppercase;
-  position: relative;
-  top: 53px;
-  text-align: center;
-  z-index: 1;
-}
-
-#worldlink {
-  padding-right: 20px;
-  text-decoration: none;
-}
-
-#navselected {
-  font-weight: bold;
-}
-
-body {
-  font-family: "Arial Narrow", Sans-serif;
-  font-size: 14px;
-  letter-spacing: 0.2px;
-  color: black;
-  margin: 0;
-  background: white url(tile.png);
 }
 
 
-#container {
-  margin: -5px auto 118px;
-  padding: 0 0 3px 0;
-  width: 751px;
-  background: white;
-  position: relative;
-  top: 68px;
-}
-
-
-
-.header {
-  position: relative;
-  top: -65px;
-  height: 231px;
-  padding-bottom: 0px;
-  margin: 0 auto;
-}
-
-h1 {
-  background: url(head.png) no-repeat;
-  width: 692px;
-  height: 254px;
-  color: transparent;
-  float: right;
-  padding-right: 30px;
-  margin: 10px 0 0 0;
-}
-
-
-.map {
-  width: 458px;
-  margin: 0px auto 60px auto;
-}
-
-.content {
-  position: relative;
-  top: -65px;
-  padding: 0 20px 0 45px;
-}
-
-
-h2.date {
-  width: 160px;
-  float: left;
-  margin: 0px;
-  clear: left;
-  color: #c00;
-}
-
-h3:before {
-  content: url(bullet.png);
-  position: relative;
-  top: -3px;
-  width: 20px;
-  float: left;
-  height: 1px;
-}
-
-h2, h3 {
-  text-transform: uppercase;
-  font-size: 10pt;
-}
-
-
-.text {
-  padding: 0px 20px 20px 160px;
-/*  text-align: justify;*/
-  hyphens: auto;
-  -webkit-hyphens: auto;
-  -moz-hyphens: auto;
-}
-
-.footer {
-  margin-top: -50px;
-  margin-left: 45px;
-  width: 100%;
-}
-
-#copy {
-  font-size: smaller;
-}
-
-
-
-#mail > a {
- background: url(mail.png);
- position: absolute;
- top: 480px;
- width: 123px;
- height: 113px;
- margin-left: 690px;
- color: transparent;
- display: block;
- z-index: 1;
-}
-
-#msg {
- margin-top: 60px;
-}
-.fotos {
-margin-left: 160px;
-padding: 0px 0px 30px;
-}
-}
