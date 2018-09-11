@@ -7,10 +7,9 @@
 @media screen {
 
 .vietnam #header {
-  background: url(head.jpg) no-repeat;
-  background-position: 60% 70%;
+  background: url(hero_ws.jpg) no-repeat;
+  background-position: 50% 60%;
   background-size: cover;
-  z-index: 20;
 }
 
 .vietnam #titlebox h1 {
@@ -44,6 +43,13 @@ img#map {
   filter: grayscale(100%);
 }
 
+@media (max-width: 600px) {
+  .vietnam #header {
+    background: url(hero_qs.jpg) no-repeat;
+    background-position: 50% 60%;
+    background-size: cover;
+  }
+}
 @media (max-width: 800px) {
   .datelabel {
     display: none;
