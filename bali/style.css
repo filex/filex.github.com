@@ -7,7 +7,7 @@
 @media screen {
 
 .bali #header {
-  background: url(fotos/DSC_5522.jpg) no-repeat;
+  background: url(hero_ws.jpg) no-repeat;
   background-position: 60% 70%;
   background-size: cover;
   z-index: 20;
@@ -43,6 +43,13 @@ img#map {
   filter: grayscale(100%);
 }
 
+@media (max-width: 600px) {
+  .bali #header {
+    background: url(hero_qs.jpg) no-repeat;
+    background-position: center center;
+    background-size: cover;
+  }
+}
 @media (max-width: 800px) {
   .datelabel {
     display: none;
