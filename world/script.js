@@ -15,7 +15,8 @@ window.addEventListener('scroll', scrollShowTargetHeading);
 
 /* close menu after click for in-page navigation (comments) */
 window.addEventListener('click', function(e) {
-	if (e.target.parentElement.id == 'menu') {
+	var pid = e.target.parentElement.id;
+	if (pid == 'menu' || pid == 'menuScroller') {
 		toggleMenu();
 	}
 });
