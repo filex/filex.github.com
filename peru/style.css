@@ -7,14 +7,14 @@
 @media screen {
 
 .bolivien #header {
-  background: url(fotos/DSC_0500.jpg) no-repeat;
+  background: url(img/AF_20081215_0500.jpg) no-repeat;
   background-position: 80% 70%;
   background-size: cover;
   z-index: 20;
 }
 
 .peru #header {
-  background: url(fotos/DSC_1434.jpg) no-repeat;
+  background: url(img/AF_20081223_1434.jpg) no-repeat;
   background-position: 80% 60%;
   background-size: cover;
   z-index: 20;
