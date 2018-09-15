@@ -50,7 +50,8 @@
 #map {
   top: -50px;
   clear: both;
-  display: block;
+  /* safari padding fix? */
+  margin-bottom: 100px;
 }
 
 /* override style16 */
