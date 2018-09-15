@@ -1,134 +1,97 @@
-body {
-	background-image: url(./tile.gif);
-	background-attachment: fixed;
+@import url(../world/style16.css);
 
-    padding: 10px 0px 10px 0px;
-	font-family: Arial, Sans-serif;
-	font-size: small;
-	color: rgb(100, 100, 100);
+@media print {
+  #datebox {display:none}
 }
 
+@media screen {
 
-h2, h3 {
-	font-size: small;
+.indonesien #header {
+  background: url(photos/PICT2012.JPG) no-repeat;
+  background-position: 50% 10%;
+  background-size: cover;
+  z-index: 20;
 }
 
-.nav {
-  text-align: right;
-  padding-top: 12px;
+.indonesien #titlebox h1 {
+  background: url(../world/indonesien.svg) no-repeat;
+  background-position: center 120px;
+  background-size: 4rem;
 }
 
-.nav * {
-  padding-left: 10px;
-}
-.nav a {
-  color: lightgrey;
-  text-decoration: none;
+#datebox {
+  position: absolute;
+  width: 200px;
+  z-index: 20;
 }
 
-a:hover {
-	color: #2D91AD;
+.datelabel {
+  line-height: 2.2rem;
+  background: black;
+  color: white;
+  margin: 0 0 4px 0;
+  padding: 5px 20px;
+  white-space: nowrap;
+  letter-spacing: 0.1rem;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.1rem;
 }
 
-.nav .sel {
-  color: darkgrey;
-}
-
-#container {
-	margin: 10px auto 10px auto;
-	background: white;
-	width: 850px;
-}
-
-/* pink: #C80087 */
-/* tuerkies: #2D91AD, rgb(45, 145, 173) */
-
-.header, .date {
-	color: #2D91AD;
-}
-
-.header h1 {
-	display: none;
-}
-
-.header {
-  padding-top: 12px;
-  padding-bottom: 20px;
-}
-
-.map {
-   text-align: center;
-   padding-bottom: 20px;
-}
-
-
-.date {
-  width: 160px;
+#countrymap {
+  width: 60%;
   float: left;
-  margin: 0px;
 }
 
-.title {
+#divemap {
+  width: 40%;
   float: left;
-  margin: 0px;
 }
 
-.text {
+#map {
+  top: -50px;
   clear: both;
-  padding: 10px 0px 10px 160px;
-  text-align: justify;
-  width: 632px;
+  /* safari padding fix? */
+  margin-bottom: 100px;
 }
 
-.footer, .entry, .map, .header, .nav {
-  width: 794px;
-  margin: 0px auto 0px auto;
+/* override style16 */
+@media (max-width: 800px) {
+  #map {
+    width: 100%;
+    display: block !important;
+  }
+  #countrymap {
+    display: none;
+  }
+  #divemap {
+    width: 100%;
+  }
 }
 
-.entry {
-  margin-top: 10px;
-}
 
-.footer {
-  padding-top: 30px;
-}
-
-.content {
-	margin-top: 20px;
-}
-
-#copy {
-  font-size: smaller;
-  
-}
-
-.photos {
-  margin-left: 160px;
-  padding: 0px 0px 10px 0px;
-}
-
-.photos img {
-  border: none;
 /*
-  margin-right: 2px;
-  margin-bottom: 2px;
+@media (max-width: 600px) {
+  .indonesien #header {
+    background: url(hero_qs.jpg) no-repeat;
+    background-position: center center;
+    background-size: cover;
+  }
+}
 */
+@media (max-width: 800px) {
+  .datelabel {
+    display: none;
+  }
+  #titlebox {
+    height: 200px;
+    margin: 0px auto -200px 0;
+    text-align: center;
+    top: -30px;
+    color: white;
+    border: 0;
+  }
 }
 
-#zoom {
-  display: none;
-  cursor: pointer;
-  margin: 0px auto;
 }
 
-#zoomdiv {
-  display: none;
-  text-align: center;
-  border-bottom: 1px solid lightgrey;
-  margin: 10px 0px 10px 0px;
-}
 
-#zoomcap {
-  height: 1pc;
-  padding: 2px;
-}
