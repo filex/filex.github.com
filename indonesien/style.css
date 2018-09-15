@@ -38,9 +38,20 @@
 }
 
 img#map {
-  width: 621px;
-  height: 370px;
-  filter: grayscale(100%);
+  width: 90%;
+}
+
+/* override style16 */
+@media (max-width: 800px) {
+  img#map {
+    width: 100%;
+    display: block !important;
+  }
+}
+@media (max-width: 767px) {
+  img#map {
+    display: none !important;
+  }
 }
 
 /*
