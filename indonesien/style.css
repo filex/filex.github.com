@@ -37,22 +37,36 @@
   font-size: 1.1rem;
 }
 
-img#map {
-  width: 90%;
+#countrymap {
+  width: 60%;
+  float: left;
+}
+
+#divemap {
+  width: 40%;
+  float: left;
+}
+
+#map {
+  top: -50px;
+  clear: both;
+  display: block;
 }
 
 /* override style16 */
 @media (max-width: 800px) {
-  img#map {
+  #map {
     width: 100%;
     display: block !important;
   }
-}
-@media (max-width: 767px) {
-  img#map {
-    display: none !important;
+  #countrymap {
+    display: none;
+  }
+  #divemap {
+    width: 100%;
   }
 }
+
 
 /*
 @media (max-width: 600px) {
