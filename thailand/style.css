@@ -37,6 +37,11 @@
   font-size: 1.1rem;
 }
 
+#map {
+  width: 570px;
+  top: -110px;
+  margin-bottom: -80px;
+}
 
 
 @media (max-width: 800px) {
