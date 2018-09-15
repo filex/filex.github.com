@@ -37,6 +37,9 @@
   font-size: 1.1rem;
 }
 
+img#map {
+	width: 800px;
+}
 
 @media (max-width: 600px) {
 .kuba #header {
