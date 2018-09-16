@@ -7,10 +7,17 @@
 @media screen {
 
 .indonesien #header {
-  background: url(img/AF_20080621_2012.jpg) no-repeat;
-  background-position: 50% 10%;
+  background: url(hero_ws.jpg) no-repeat;
+  background-position: 80% 30%;
   background-size: cover;
   z-index: 20;
+}
+@media (max-width: 600px) {
+  .indonesien #header {
+    background: url(hero_qs.jpg) no-repeat;
+    background-position: 20% 20%;
+    background-size: cover;
+  }
 }
 
 .indonesien #titlebox h1 {
