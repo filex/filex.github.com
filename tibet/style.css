@@ -7,15 +7,15 @@
 @media screen {
 
 .tibet #header {
-  background: url(hero_peru_ws.jpg) no-repeat;
-  background-position: 80% 55%;
+  background: url(hero_ws.jpg) no-repeat;
+  background-position: 10% 15%;
   background-size: cover;
   z-index: 20;
 }
 
 @media (max-width: 600px) {
 .tibet #header {
-  background: url(hero_peru_qs.jpg) no-repeat;
+  background: url(hero_qs.jpg) no-repeat;
   background-position: 80% 50%;
   background-size: cover;
   z-index: 20;
