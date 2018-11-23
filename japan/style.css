@@ -7,7 +7,7 @@
 @media screen {
 
 .japan #header {
-  background: url(hero.jpg) no-repeat;
+  background: url(img/AF_20171105_6009.jpg) no-repeat;
   background-position: center 60%;
   background-size: cover;
   z-index: 20;
@@ -60,7 +60,7 @@
 
 @media (max-width: 800px) {
   .japan #header {
-    background: url(hero_s.jpg) no-repeat;
+    background: url(img/AF_20171105_6009.jpg) no-repeat;
     background-size: cover;
     background-position: center 60%;
   }
