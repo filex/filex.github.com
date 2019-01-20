@@ -1,0 +1,72 @@
+@import url(../world/style16.css);
+
+@media print {
+  #datebox {display:none}
+}
+
+@media screen {
+
+.indien #header {
+  background: url(fotos/large/3003.jpg) no-repeat;
+  background-position: 80% 15%;
+  background-size: cover;
+  z-index: 20;
+}
+
+@media (max-width: 600px) {
+.indien #header {
+  background: url(fotos/large/3003.jpg) no-repeat;
+  background-position: 80% 50%;
+  background-size: cover;
+  z-index: 20;
+}
+
+}
+
+.indien #titlebox h1 {
+  background: url(../world/indien.svg) no-repeat;
+  background-position: center 120px;
+  background-size: 2.8rem;
+}
+
+#datebox {
+  position: absolute;
+  width: 200px;
+  z-index: 20;
+}
+
+.datelabel {
+  line-height: 2.2rem;
+  background: black;
+  color: white;
+  margin: 0 0 4px 0;
+  padding: 5px 20px;
+  white-space: nowrap;
+  letter-spacing: 0.1rem;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.1rem;
+}
+
+img#map {
+  filter: grayscale(100%);
+  top: -49px;
+  margin-bottom: -50px;
+}
+
+@media (max-width: 800px) {
+  .datelabel {
+    display: none;
+  }
+  #titlebox {
+    height: 200px;
+    margin: 0px auto -200px 0;
+    text-align: center;
+    top: -30px;
+    color: white;
+    border: 0;
+  }
+}
+
+}
+
+
