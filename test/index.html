@@ -2,6 +2,15 @@
 <head>
 <link rel="stylesheet" href="test.css">
 <script src=vue.js></script>
+<script>
+function removeAndInsert() {
+  var ul = document.getElementsByTagName('ul')[0];
+  var li = ul.children[0];
+  ul.removeChild(li);
+  setTimeout(function() { ul.insertBefore(li, ul.children[0]) }, 1000);
+}
+window.addEventListener('load', removeAndInsert);
+</script>
 </head>
 <h1>Test Images</h1>
 <p>font should look like this:
