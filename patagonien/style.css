@@ -21,7 +21,7 @@
 @media screen {
     .patagonien #header {
       background: url(hero_ws.jpg) no-repeat;
-      background-position: center 50%;
+      background-position: 50% 70%;
       background-size: cover;
       margin-bottom: 0;
     }
