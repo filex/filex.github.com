@@ -65,15 +65,15 @@
 
 
     @media (max-width: 800px) {
+		/*
       .madagaskar #header {
         margin-bottom: 0;
-
-            position: relative;
-            background: url(hero_qs.jpg) no-repeat;
-            background-size: cover;
-            background-position: center 60%
-
+		position: relative;
+		background: url(hero_qs.jpg) no-repeat;
+		background-size: cover;
+		background-position: center 60%
       }
+	  */
 
       .datelabel {
         display: none;
