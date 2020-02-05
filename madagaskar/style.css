@@ -21,7 +21,7 @@
 @media screen {
     .madagaskar #header {
       background: url(hero_ws.jpg) no-repeat;
-      background-position: 50% 70%;
+      background-position: 50% 45%;
       background-size: cover;
       margin-bottom: 0;
     }
@@ -29,7 +29,7 @@
     .madagaskar #titlebox h1 {
       background: url(icon.svg) no-repeat;
       background-position: center 120px;
-      background-size: 5rem;
+      background-size: 4rem;
     }
 
     #datebox {
