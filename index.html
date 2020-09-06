@@ -230,6 +230,10 @@ main#pages {
   background-position: center bottom !important;
 }
 
+.journey#j-slowenien h3::before {
+  background: url(slowenien/icon.svg) no-repeat;
+}
+
 .journey#j-karibik h3::before {
   background: url(karibik/icon.svg) no-repeat;
 }
@@ -553,6 +557,11 @@ footer {
 </header>
 
 <main id="pages">
+  <div class="journey" id="j-slowenien"><a href="slowenien/">
+    <img src="slowenien/hero_qs.jpg" style="object-position: center 30%; filter: brightness(95%);">
+    <h3>Slowenien</h3>
+    <h4 class="date">11/09/2020 – 27/09/2020</h4>
+  </a></div>
   <!--
   <div class="journey" id="j-karibik"><a href="karibik/">
     <img src="karibik/hero_qs.jpg" style="object-position: center 60%; filter: brightness(95%);">
@@ -729,7 +738,6 @@ footer {
     <h4 class="date">04/12/2002 – 31/12/2002</h4>
   </a></div>
   <div class="journey filler"></div>
-  <div class="journey filler"></div>
 </main>
 
 <aside id="index">
@@ -793,6 +801,7 @@ footer {
 <div>
 <h3>Europa</h3>
 <ul>
+  <li><a href="slowenien/">Slowenien</a></li>
   <li><a href="venedig/">Venedig</a></li>
 </ul>
 </div>
