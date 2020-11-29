@@ -21,7 +21,7 @@
 @media screen {
   .slowenien #header {
     background: url(hero_ws.jpg) no-repeat;
-    background-position: 50% 15%;
+    background-position: 50% 50%;
     background-size: cover;
     margin-bottom: 0;
   }
