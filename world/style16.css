@@ -223,12 +223,20 @@ h1 {
 }
 
 
-@media (min-width: 800px) {
+@media (min-width: 768px) {
   .entry img.alone {
     height: 800px;
     width: auto;
     display: block;
     margin: 10px auto 0 auto;
+  }
+  /* portrait oriented photos are too small for full width on x2 screens */
+  @media (min-resolution: 2dppx),(-webkit-min-device-pixel-ratio: 2) { 
+  .entry img.alone {
+    height: auto;
+    width: 60%;
+    margin: 10px auto 0 auto;
+  }
   }
   .entry img.portrait {
     width: 49%;
