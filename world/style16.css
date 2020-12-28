@@ -224,6 +224,12 @@ h1 {
 
 
 @media (min-width: 800px) {
+  .entry img.alone {
+    height: 800px;
+    width: auto;
+    display: block;
+    margin: 10px auto 0 auto;
+  }
   .entry img.portrait {
     width: 49%;
     display: inline;
