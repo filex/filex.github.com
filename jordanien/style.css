@@ -37,9 +37,7 @@
 }
 
 #map {
-  /* route auf karte montieren */
-  background: url(map.png) no-repeat;
-  width: 600px;
+  width: 800px;
   max-width: 100%;
   max-height: 534px;
 }
