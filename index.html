@@ -7,16 +7,18 @@
 <title>ferndrang</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="shortcut icon" href="world/icon.png" type="image/png">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:600" />
+<script async src="../world/script.js"></script>
 <style>
+@import url(https://fonts.googleapis.com/css?family=Montserrat:600,700);
 
 @media screen {
+
 body {
   margin: 0;
 
   font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
   font-size: 1.0em;
-  font-weight: 600;
   color: white;
 }
 h2, h1, div, body {
@@ -31,49 +33,47 @@ html {
   font-size: 90%;
 }
 
-nav {
+#nav {
   position: fixed;
-  top: 0px;
-  left: 0;
-  right: 0;
+  top: 0;
+  width: 100%;
+  height: 70px;
+  background: black;
   z-index: 1;
 
-  height: 70px;
-  padding: 0 15px;
-  margin: 0;
+  display: flex;
+  align-items: center;
 
-  background: black;
-
+  font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.2rem;
-
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
 }
 
-#menu {
+#navhead {
   display: block;
-  height: 1rem;
-  width: 50px;
-  margin: 27px 10px;
+  position: absolute;
+  left: 20px;
+  margin: 0 0;
+  max-width: 40%;
 }
 
 #home {
   display: block;
   width: 52px;
   height: 38px;
-  margin: 14px;
   background: url(world/home.svg) no-repeat;
   background-size: cover;
+  margin: 0 auto;
+}
+#home > span {
+  display: none;
 }
 
 
-#mail {
-  display: block;
-  height: 1rem;
-  width: 50px;
-  margin: 27px 10px;
+#menu {
+  position: absolute;
+  margin: 0;
+  right: 20px;
 }
 
 
@@ -426,7 +426,7 @@ footer {
 /* s-view 1 column */
 @media (max-width: 800px) {
   html {
-    font-size: 80%;
+    font-size: 90%;
   }
 
   header, header::before {
@@ -537,16 +537,15 @@ footer {
 
 }
 </style>
-<script>function b(){return'@';}function a(){u=document.location;p=u.host.split('.');return"mailto:felix"+b()+p[p.length-2]+"."+p[p.length-1]+",az"+(9-1)+b()+"gmx."+p[p.length-1];}</script>
 </head>
 
 <body>
 
-<nav>
-  <a id="menu" href="#index"><span>Reisen</span></a>
-  <a id="home" href="#top"></a>
-  <a id="mail" href="javascript:window.location.href=a();">Mail</a>
-</nav>
+<div id="nav">
+  <a id="home" href="#top"><span>Home</span></a>
+  <a id="navhead" href="#top"><span>Ferndrang</span></a>
+  <a id="menu" href="#index">Reisen</a>
+</div>
 
 <header>
   <div id="titlebox">

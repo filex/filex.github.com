@@ -2,7 +2,6 @@
   width: 32px;
   height: 32px;
   background-size: cover;
-  margin: 19px 14px 19px 20px;
 }
 
 #menubutton.open {
@@ -47,8 +46,4 @@
 #menu a {
   display: block;
   width: 100%;
-}
-
-.nav-show-link {
-  display: block !important;
 }

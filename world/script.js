@@ -37,15 +37,3 @@ function toggleMenu() {
 
   menuOpen = !menuOpen;
 }
-
-
-window.addEventListener('scroll', function(e) {
-  var nav = document.getElementById("navhead");
-  var label = document.getElementById("header");
-  var fold = label.offsetHeight / 2 + 50;
-  if (this.scrollY > fold) {
-    nav.className = "nav-show-link"
-  } else {
-    nav.className = ""
-  }
-});
