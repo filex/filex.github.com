@@ -298,6 +298,10 @@ h1 {
     display: none;
   }
 
+  .datelabel {
+    display: none;
+  }
+
   #titlebox {
     height: 200px;
     margin: 0px auto -200px 0;

@@ -1,269 +1,46 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:600);
+@import url(../world/style16.css);
 
-@import url(../world/menu.css);
-
-@media print {
-  .nav,#mail, #header, .entry {display:none}
-  #printhead{display:block}
-  img { max-width: 45%; }
-  #main { display: block; }
-}
 
 @media screen {
 
-html {
-  font-size: 90%;
-}
-
-a {
- text-decoration: none;
- color: inherit;
- word-wrap: break-word;
-}
-
-body {
-  margin: 0;
-  font-family: 'Montserrat', sans-serif;
-  font-size: 1.0em;
-  color: white;
-  /*
-  min-width: 1034px;
-  */
-}
-
-#printhead {
-  display: none;
-}
-
-#header {
-  border: 0 solid black;
-  border-bottom-width: 15px; 
-  padding-bottom: 20px;
-  width: 100%;
-  height: 558px;
-  background: url(head2.jpg) no-repeat;
-  background-size: cover;
-  zoom: 100%;
-  /* gap for fixed nav */
-  margin-top: 70px;
-}
-.headpanel {
-  width: 1024px;
-  height: 100%;
-  margin: 0 auto;
-  position: relative;
-}
-
-#banner {
-  display: block;
-  width: 392px;
-  top: 50px;
-  left: 300px;
-  position: absolute;
-  float: left;
-  max-width: 98%;
-  z-index: 20;
-}
-
-
-#peninsula {
-  width: 300px;
-  height: 375px;
-  position: absolute;
-  margin: 20px 0 0 10px;
-  background: url(peninsula.svg) no-repeat;
-  background-size: 100%;
-  z-index: 0;
-}
-
-#borneo {
-  width: 455px;
-  height: 527px;
-  position: absolute;
-  top: 40px;
-  left: 600px;
-  background: url(borneo.svg) no-repeat;
-  background-size: 100%;
-  z-index: 0;
-}
-
-#rose {
-  display: block;
-  width: 130px;
-  height: 130px;
-  position: absolute;
-  left: 40px;
-  top: 430px;
-  background: url(rose.svg) no-repeat;
-  background-size: 100%;
-  z-index: 10;
-}
-
-#header::after {
-  display: block;
-  content: "";
-  background: url(../world/arrow.svg) no-repeat;
-  background-size: 100%;
-  margin: 0 auto;
-  position: relative;
-  top: 35px;
-  width: 32px;
-  height: 16px;
-}
-
-
-
-#container {
-  margin: 0 auto;
-  width: 800px;
-  padding-top: 30px;
-}
-
-.content {
-}
-
-
-.entry {
-  font-family: "Times New Roman", Times, serif;
-  margin: 3em 0 3em 0;
-  color: black;
-}
-
-
-
-.date {
-  display: block;
-  margin: 0;
-  text-align: center;
-  text-transform: uppercase;
-  font-size: 1em;
-  font-style: italic;
-  letter-spacing: 1.0pt;
-}
-
-.title {
-  display: block;
-  margin: 0px 0 10px 0;
-  text-align: center;
-  text-transform: uppercase;
-  font-weight: 1900;
-  font-size: 2.5em;
-  letter-spacing: 0.2em;
-  font-family: 'Montserrat', sans-serif;
-}
-
-.title a:hover {
-  border-bottom: 1px solid black;
-}
-
-
-.text p {
-  font-size: 1.4rem;
-  text-align: justify;
-  -webkit-hyphens: auto;
-  -moz-hyphens: auto;
-}
-
-.footer {
-  background: black;
-  height: 20px;
-  padding: 27px ;
-
-  text-transform: uppercase;
-  font-size: 0.9rem;
-  letter-spacing: 0.12rem;
-}
-
-#footerhome {
-  float: left;
-}
-
-
-#copy {
-  float: right;
-}
-
-
-/* navi */
-#nav {
-  position: fixed;
-  width: 100%;
-  background: black;
-  top: 0;
-  z-index: 30;
-
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-
-  letter-spacing: 0.2rem;
-  text-transform: uppercase;
-  font-weight: normal;
-}
-
-
-#home {
-  display: block;
-  width: 52px;
-  height: 38px;
-  float: left;
-  margin: 14px;
-  background: url(../world/home.svg) no-repeat;
-  background-size: cover;
-}
-#home > span {
-  display: none;
-}
-
-#navhead {
-  margin: auto 0;
-  display: none;
-}
-
-
-.images {
-	height: auto;
-}
-
-.images img {
-	max-width: 800px;
-	margin: 0 0 20px 0;
-}
-@media (max-width: 1000px) {
-  #borneo, #peninsula, #rose {
-    display: none;
+  .borneo #header {
+    background: url(head2.jpg) no-repeat;
+    background-position: 50% 50%;
+    background-size: cover;
+    margin-bottom: 0;
   }
-  #banner {
-    position: initial;
-    margin: 00px auto;
-    float: none;
+  
+  .borneo #titlebox h1 {
+    background: url(icon.svg) no-repeat;
+    background-position: center 135px;
+    background-size: 5rem;
   }
-  #header {
+  
+  #datebox {
+    position: absolute;
+    top: 550px;
+    width: 200px;
+    z-index: 20;
+  }
+  
+  .datelabel {
+    line-height: 2.2rem;
+    background: black;
+    color: white;
+    margin: 0 0 4px 0;
+    padding: 5px 20px;
+    white-space: nowrap;
+    letter-spacing: 0.1rem;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 1.1rem;
+  }
+  
+  
+  img#map {
     width: 100%;
-    height: 300px;
+    max-width: 800px;
+    margin: 20px auto;
+    z-index: -10;
   }
-  #header::after {
-    top: -15px;
-  }
-  .headpanel {
-    max-width: 100%;
-    padding-top: 50px;
-  }
-  .images img {
-    max-width: 100%;
-  }
-  #container {
-    padding: 0;
-  }
-}
-@media (max-width: 860px) {
-  #container {
-    max-width: 94%;
-    margin: 0 3%;
-  }
-  .title {
-	  letter-spacing: 0.1em;
-  }
-}
-
+  
 }
