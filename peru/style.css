@@ -1,9 +1,5 @@
 @import url(../world/style16.css);
 
-@media print {
-  #datebox {display:none}
-}
-
 @media screen {
 
 .bolivien #header {

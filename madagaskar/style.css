@@ -1,23 +1,5 @@
 @import url(../world/style16.css);
 
-@media print {
-    #nav,#mail,#header,#datebox,.footer,#map {
-        display: none
-    }
-
-    #printhead {
-        display: block
-    }
-
-    img {
-        max-width: 45%
-    }
-
-    #main {
-        display: block
-    }
-}
-
 @media screen {
     .madagaskar #header {
       background: url(hero_ws.jpg) no-repeat;
