@@ -1,155 +1,71 @@
+@import url(../world/style16.css);
 
-body {
-	background-color: rgb(235,235,235);
-	margin: 0px;
-	font-size: small;
-	font-family: sans-serif;
-	color: lightgrey;
+@media screen {
+
+  .aegypten #header {
+    background: url(images/lighthouse_8.jpg) no-repeat;
+    background-position: 50% 50%;
+    background-size: cover;
+    margin-bottom: 0;
+  }
+  
+  .aegypten #titlebox h1 {
+    background: url(icon.svg) no-repeat;
+    background-position: center 135px;
+    background-size: 5rem;
+  }
+  
+  #datebox {
+    position: absolute;
+    top: 550px;
+    width: 200px;
+    z-index: 20;
+  }
+  
+  .datelabel {
+    line-height: 2.2rem;
+    background: black;
+    color: white;
+    margin: 0 0 4px 0;
+    padding: 5px 20px;
+    white-space: nowrap;
+    letter-spacing: 0.1rem;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 1.1rem;
+  }
+  
+  
+  img#map {
+    width: 90%;
+    max-width: 1000px;
+    margin: 0 auto;
+    z-index: -10;
+  }
+  
+  .aegypten #container {
+    margin-top: 40px;
+  }
+  
+  
+  @media (max-width: 800px) {
+    .aegypten #header {
+      margin-bottom: 0;
+      position: relative;
+      background: url(images/lighthouse_8.jpg) no-repeat;
+      background-size: cover;
+      background-position: center 30%
+    }
+    
+    .datelabel {
+      display: none;
+    }
+    #titlebox {
+      height: 200px;
+      margin: 0px auto -200px 0;
+      text-align: center;
+      top: -30px;
+      color: white;
+      border: 0;
+    }
+  }
 }
-
-div {
-	margin: 0px;
-}
-
-#mainNavi {
-	background-color: white;
-	padding-left: 36px;
-	text-align: left;
-	padding-top: 15px;
-	padding-bottom: 8px;
-}
-
-.navigation a:hover {
-	color: darkgrey;
-}
-.navigation a.selected {
-	color: darkgrey;
-}
-
-#content .navigation a:hover,
-#content .navigation a.selected {
-	color: #bbc832;
-}
-
-.navigation a {
-	text-decoration: none;
-	color: lightgrey;
-}
-#content .navigation a {
-	color: darkgrey;
-}
-
-#mainNavi span {
-	padding-left: 5px;
-	padding-right: 5px;
-	height: 100%;
-}
-
-#mainNavi span + span {
-	border-left: 1px solid lightgrey;
-}
-
-#subNavi {
-	width: 272px;
-	text-align: right;
-	float: left;
-}
-#subNavi li {
-	margin-bottom: 5px;
-}
-
-#relNavi {
-	position: absolute;
-	left: 952px;
-/*	top: 718px; */
-}
-
-#relNavi .arrow {
-	float: left;
-	display: block;
-	height: 29px;
-	width: 29px;
-	background-position: -4px -4px;
-	background-repeat: no-repeat;
-	background-color: lightgrey;
-	margin-right: 10px;
-	margin-bottom: 10px;
-}
-
-/* for mozilla/khtml */
-#relNavi .arrow[href] {
-	background-color: #bbc832;
-}
-/* for ie */
-#relNavi .arrow:link {
-	background-color: #bbc832;
-}
-#relNavi .arrow:visited {
-	background-color: #bbc832;
-}
-
-#relNavi span {
-	display: none;
-}
-
-#prev {
-	background-image: url(arrow_left.gif);
-}
-#up {
-	background-image: url(arrow_up.gif);
-}
-#next {
-	background-image: url(arrow_right.gif);
-}
-
-
-
-
-/* page header */
-
-#header {
-	margin: 0px;
-	padding: 0px;
-    width: 100%;
-	background-color: #bbc832;
-    height: 230px;
-	background-image: url(head.jpg);
-	background-position: right;
-	background-repeat: no-repeat;
-	margin-bottom: 45px;
-}
-
-#header h1 {
-	margin: 0px;
-	margin-left: 40px;
-	background-image: url(karte_dahab.gif);
-	background-repeat: no-repeat;
-    height: 230px;
-}
-
-#header span {
-	display: none;
-}
-
-
-/* content area */
-
-.pictures {
-	width: 650px;
-	position: absolute;
-	left: 330px;
-}
-
-
-ul {
-	list-style-position: inside;
-	list-style-type: none;
-	padding: 0px;
-	margin: 0px;
-}
-
-img {
-	border: none;
-  padding: 0 0 15px 0;
-}
-
