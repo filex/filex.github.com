@@ -1,222 +1,63 @@
-@media screen { 
+@import url(../world/style16.css);
 
-a {
-  text-decoration: none;
-  color: inherit;
-}
-a:hover {
-  text-decoration: underline;
-}
+@media screen {
 
-
-body {
-  margin: 0;
-  font-family: "Arial Narrow", sans-serif;
-  font-size: 13pt;
-  color: rgb(20,50,88);
-  /* paper tile from http://lostandtaken.com/blog/2012/1/4/30-free-seamless-background-textures.html
-   * $ convert seamlesstexture18_1200.jpg -quality 75 -resize 600x600 paper.jpg */
-  background-image: url(paper.jpg);
-  background-image: linear-gradient(180deg,rgba(255,255,255,0) 0,rgba(255,255,255,0.1) 550px, rgba(255,255,255,0.5) 1050px), url(paper.jpg);
-}
-
-.map::after {
-  background: url(rose.png);
-  width: 146px;
-  height: 139px;
-  content: "";
-  display: block;
-  background-size: 146px 139px;
-  position: absolute;
-  top: 731px;
-  right: 50px;
-}
-
-#container {
-  position: relative;
-  margin: 0 auto 0 auto ;
-  padding-top: 50px;
-  width: 950px;
-
-}
-
-.header {
-  background: url(head.svg) no-repeat;
-  background-position: 50px 200px;
-  min-height: 300px;
-  min-width: 300px;
-}
-
-
-h1 {
-  display: none;
-}
-
-.map::before {
-  background: url(pin.png);
-  width: 25px;
-  height: 28px;
-  content: "";
-  display: block;
-  background-size: 25px 28px;
-  float: left;
-  position: relative;
-  left: 52px; top: 74px;
-  margin-right: 5px;
-}
-
-#locator {
-	display: none;
-}
-
-.map {
-  margin: 0;
-  padding-top: 0px;
-}
-
-
-
-
-.content {
-	max-width: 640px;
-  padding: 1px 20px 10px 45px;
-}
-
-
-.entry {
-	padding-bottom: 20px;
-}
-
-
-
-h2.date {
-  float: left;
-  margin: 0 5px 0 0;
-  clear: left;
-  text-transform: uppercase;
-  font-weight: normal;
-  font-size: 12pt;
-  letter-spacing: 1.0pt;
-}
-
-.date::before {
-  background: url(pin.png);
-  width: 25px;
-  height: 28px;
-  content: "";
-  display: block;
-  background-size: 25px 28px;
-  float: left;
-  position: relative;
-  top: -6pt;
-  margin-right: 5px;
-}
-
-h3.title {
-  text-transform: uppercase;
-  font-size: 12pt;
-  letter-spacing: 1.5pt;
-  word-wrap: break-word;
-  padding-left: 32px;
-}
-
-
-.text {
-  font-family: "Times New Roman", Times, serif;
-  max-width: 640px;
-  padding: 0px 0px 20px 0px;
-  line-height: 1.5pc;
-  hyphens: auto;
-  -webkit-hyphens: auto;
-  -moz-hyphens: auto;
-  text-align: justify;
-}
-
-.text img {
-  max-width: 640px;
-  width: 100%;
-  display: block;
-  padding-bottom: 15px;
-}
-
-
-.footer {
-  width: 200px;
-  margin: 30px 45px;
-}
-#copy a {
-  font-size: smaller;
-}
-
-h2, h3, .nav {
-}
-
-
-
-
-#mail {
-    display: block;
-    z-index: 1;
+  .srilanka #header {
+    background: url(images/AF_20150104_6139.jpg) no-repeat;
+    background-position: 50% 50%;
+    background-size: cover;
+    margin-bottom: 0;
+  }
+  
+  .srilanka #titlebox h1 {
+    background: url(icon.svg) no-repeat;
+    background-position: center 145px;
+    background-size: 5rem;
+  }
+  
+  #datebox {
     position: absolute;
-    top: 0;
-    right: -37px;
-    background: url(mail.png);
-    width: 350px;
-    height: 227px;
-}
-#mail > span {
-    display: none;
-}
-
-#home {
-  display: none;
-}
-
-@media (max-width: 800px) {
-
-  .map::after, #mail {
-    display: none;
+    top: 550px;
+    width: 200px;
+    z-index: 20;
   }
-  .map {
-    display: none;
+  
+  .datelabel {
+    line-height: 2.2rem;
+    background: black;
+    color: white;
+    margin: 0 0 4px 0;
+    padding: 5px 20px;
+    white-space: nowrap;
+    letter-spacing: 0.1rem;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 1.1rem;
   }
-  #container {
-    width: 100%;
-    max-width: 950px;
-    padding-top: 0px;
+  
+  
+  img#map {
+    width: 90%;
+    max-width: 550px;
+    margin: 20px auto;
+    z-index: -10;
   }
-  .header {
-    width: 300px;
-    margin: 0 auto 0 auto;
-    background-position: 0 0;
+  
+  .srilanka #container {
+    margin-top: 40px;
   }
-  .content {
-    width: 94%;
-    padding: 20px 3%;
-    margin: 0 auto;
+  
+  
+  @media (max-width: 800px) {
+    .datelabel {
+      display: none;
+    }
+    #titlebox {
+      height: 200px;
+      margin: 0px auto -200px 0;
+      text-align: center;
+      top: -30px;
+      color: white;
+      border: 0;
+    }
   }
-  .footer {
-    width: 94%;
-    margin: 20px 3%;
-  }
-  h2.date {
-    float: none;
-  }
-  #nav {
-    width: 94%;
-    padding: 1px 3%;
-    margin: 0 auto;
-  }
-  #home {
-    display: block;
-    width: 94%;
-    background: url(ferndrang.png) no-repeat;
-    height: 21px;
-    margin: 20px auto 0 auto;
-    color: transparent;
-  }
-
-}
-
-
 }
