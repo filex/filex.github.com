@@ -56,19 +56,7 @@
   }
 
   #datebox {
-    top: 380px;
-    left: -25px;
-    height: 150px;
-    width: 150px;
-  }
-  #pekinglabel {
-    padding: 25px 0 15px 0;
-  }
-  .datelabel {
-    padding: 5px 20px;
-    letter-spacing: 0.1rem;
-    font-size: 1.2rem;
-    line-height: 0.7rem;
+    display: none;
   }
 }
 
