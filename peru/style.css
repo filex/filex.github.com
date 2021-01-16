@@ -58,10 +58,8 @@
 }
 
 img#map {
-  width: 458px;
-  height: 548px;
-  margin-top: -40px;
-  filter: grayscale(100%);
+  margin-top: 0px;
+  width: 900px;
 }
 
 @media (max-width: 800px) {
