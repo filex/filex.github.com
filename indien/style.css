@@ -44,9 +44,11 @@
 }
 
 img#map {
-  filter: grayscale(100%);
-  top: -49px;
-  margin-bottom: -50px;
+    top: -40px;
+    width: 90%;
+    max-width: 800px;
+    margin: 20px auto 0 auto;
+    z-index: -10;
 }
 
 @media (max-width: 800px) {
