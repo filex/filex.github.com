@@ -37,7 +37,7 @@
   
   img#map {
     width: 90%;
-    max-width: 800px;
+    max-width: 900px;
     margin: 20px auto;
     z-index: -10;
   }
