@@ -1,227 +1,58 @@
-/*
-violett 1 rgb(175,14,106)
-violett 2 rgb(88,25,101)
-orange rgb(255,189,32) #ffbd20
-*/
+@import url(/world/style16.css);
 
-@media screen { 
-a {
- text-decoration: none;
- color: rgb(255,189,32);
-
-}
-
-body {
-  font-family: "Arial Narrow", sans-serif;
-  font-size: 13pt;
-  color: white;
-  background: rgb(88,25,101) url(gfx/tile.png) fixed;
-}
-
-
-
-#container {
-  position: relative;
-  top: 40px;
-  margin: 0 auto 40px auto ;
-  padding-top: 0px;
-  width: 950px;
-  background: #741568;
-
-  background: -moz-linear-gradient(top,  #af0e6a, #741568, #581965 1000px);
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#af0e6a), color-stop(500px,#741568), color-stop(1000px,#581965));
-  background: -webkit-linear-gradient(top,  #af0e6a ,#741568,#581965 1000px);
-  background: -o-linear-gradient(top,  #af0e6a ,#741568 ,#581965 1000px);
-  background: -ms-linear-gradient(top,  #af0e6a ,#741568,#581965 1000px);
-  background: linear-gradient(to bottom,  #af0e6a,#741568 ,#581965 1000px);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#af0e6a', endColorstr='#581965',GradientType=0 );
-
-/*  background: linear-gradient( to bottom, rgb(175,14,106), rgb(116,21,104), rgb(88,25,101) 1000px); */
-
-}
-
-
-.header {
-  position: fixed;
-  background: url(gfx/header.png) no-repeat;
-  width: 214px;
-  padding-top: 134px;
-  margin-top: -680px;
-  margin-left: 700px;
-}
-
-#subnav {
-  margin-top: 35px;
-}
-
-#subnav a {
-  display: block;
-  text-align: center;
-  font-size: 14pt;
-  line-height: 25px;
-  letter-spacing: 0.3pt;
-}
-
-#subnav a.cur {
-  color: white;
-}
-
-
-h1 {
-  display: none;
-}
-
-
-.nav {
-  padding: 15px;
-  position: absolute;
-}
-
-#worldlink {
-  display: block;
-  width: 107px;
-  height: 19px;
-  background: url(gfx/ferndrang.png);
-}
-
-#worldlink > span {
-  display: none;
-}
-
-
-
-.map {
-  padding-top: 1px;
-}
-#map {
-  display: block;
-  margin: 35px auto -25px 20px;
-}
-
-
-#main {
-  position: relative;
-  width: 667px;
-  padding: 1px 20px 10px 45px;
-}
-
-
-.date::before {
-  content: " ";
-  position: relative;
-  top: -13px;
-  border-top: 2px solid rgb(255,189,32);
-  display: block;
-  width: 40px;
-  height: 1px;
-}
-
-h2.date {
-  float: left;
-  margin: 0 10px 0 0;
-  clear: left;
-  color: rgb(255,189,32);
-  text-transform: uppercase;
-  font-weight: normal;
-  font-size: 12pt;
-  letter-spacing: 1.0pt;
-}
-
-h3.title {
-  text-transform: uppercase;
-  color: rgb(255,189,32);
-  font-size: 12pt;
-  letter-spacing: 1.5pt;
-  padding-top: 3px;
-}
-
-.text {
-  font-family: "Times New Roman", Times, serif;
-  width: 640px;
-  padding: 0px 0px 0px 0px;
-  line-height: 1.5pc;
-  hyphens: auto;
-  -webkit-hyphens: auto;
-  -moz-hyphens: auto;
-  text-align: justify;
-}
-
-.text img {
-	max-width: 640px;
-	margin: 0 0 20px 0;
-	border-radius: 2px;
-}
-
-
-.footer {
-  width: 100%;
-  margin-left: 45px;
-  padding-bottom: 20px;
-  font-size: smaller;
-}
-
-}
-
-/* single colon layout for smaller screens */
-@media screen and (max-width: 900px) {
-  body,html {
-    margin: 0;
-    background: none;
+@media screen {
+  .myanmar #header {
+    background: url(images/AF_20131219_2476.jpg) no-repeat;
+    background-position: 50% 20%;
+    background-size: cover;
+    margin-bottom: 0;
   }
-  .header {
-    position: relative;
-    margin: 20px auto 50px auto;
+  
+  .myanmar #titlebox h1 {
+    background: url(icon.svg) no-repeat;
+    background-position: center 95px;
+    background-size: 2.8rem;
   }
-  #container {
-    position: initial;
-    width: 100%;
+  
+  #datebox {
+    position: absolute;
+    top: 550px;
+    width: 200px;
+    z-index: 20;
   }
-  #main {
-    width: 96%;
-    margin: 0;
-    padding: 0 2%;
+  
+  .datelabel {
+    line-height: 2.2rem;
+    background: black;
+    color: white;
+    margin: 0 0 4px 0;
+    padding: 5px 20px;
+    white-space: nowrap;
+    letter-spacing: 0.1rem;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 1.1rem;
   }
-  .entry {
-    width: 100%;
-  }
-  .text {
-    width: 100%;
-  }
-  .text img {
-    max-width: 100%;
-  }
-  #subnav a {
-    font-size: 18pt;
-    line-height: 35px;
-  }
-  .nav {
-    position: initial;
-  }
-  .map {
-  	display: none;
-  }
-  .footer {
+  
+  
+  img#map {
     width: 90%;
-    margin: 0;
-    padding: 10px;
-	  font-size: inherit;
+    max-width: 500px;
+    margin: -100px auto 40px auto;
+    z-index: -10;
   }
-
-}
-
-
-@media print {
-  .nav, #subnav, #mail {
-    display:none
-  }
-  #container, #main {
-  	width: 100%;
-  }
-  .entry img {
-  	max-width: 45%;
-    vertical-align: top;
-	}
-  .text {
-    text-align: left;
+  
+  
+  @media (max-width: 800px) {
+    .datelabel {
+      display: none;
+    }
+    #titlebox {
+      height: 200px;
+      margin: 0px auto -200px 0;
+      text-align: center;
+      top: -30px;
+      color: white;
+      border: 0;
+    }
   }
 }
