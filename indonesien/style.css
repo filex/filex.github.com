@@ -40,37 +40,9 @@
   font-size: 1.1rem;
 }
 
-#countrymap {
-  width: 60%;
-  float: left;
-}
-
-#divemap {
-  width: 40%;
-  float: left;
-}
-
 #map {
-  top: -50px;
-  clear: both;
-  /* safari padding fix? */
-  margin-bottom: 100px;
+  width: 900px;
 }
-
-/* override style16 */
-@media (max-width: 800px) {
-  #map {
-    width: 100%;
-    display: block !important;
-  }
-  #countrymap {
-    display: none;
-  }
-  #divemap {
-    width: 100%;
-  }
-}
-
 
 /*
 @media (max-width: 600px) {
