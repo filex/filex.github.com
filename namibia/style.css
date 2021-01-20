@@ -1,160 +1,58 @@
-/*
-braun: rgb(60,25,8)
-hellbraun: rgb(125,54,16)
-karamell: rgb(230,144,40)
+@import url(/world/style16.css);
 
- */
-.nav {
-  text-transform: uppercase;
-  float: right;
-  position: relative;
-  margin-top: -22px;
+@media screen {
+  .namibia #header {
+    background: url(fotos/img_20100916_2721.jpg) no-repeat;
+    background-position: 50% 50%;
+    background-size: cover;
+    margin-bottom: 0;
+  }
+  
+  .namibia #titlebox h1 {
+    background: url(icon.svg) no-repeat;
+    background-position: center 132px;
+    background-size: 5rem;
+  }
+  
+  #datebox {
+    position: absolute;
+    top: 550px;
+    width: 200px;
+    z-index: 20;
+  }
+  
+  .datelabel {
+    line-height: 2.2rem;
+    background: black;
+    color: white;
+    margin: 0 0 4px 0;
+    padding: 5px 20px;
+    white-space: nowrap;
+    letter-spacing: 0.1rem;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 1.1rem;
+  }
+  
+  
+  img#map {
+    width: 90%;
+    max-width: 500px;
+    margin: 0px auto 40px auto;
+    z-index: -10;
+  }
+  
+  
+  @media (max-width: 800px) {
+    .datelabel {
+      display: none;
+    }
+    #titlebox {
+      height: 200px;
+      margin: 0px auto -200px 0;
+      text-align: center;
+      top: -30px;
+      color: white;
+      border: 0;
+    }
+  }
 }
-
-#worldlink {
-  color: rgb(125,54,16);
-  padding-right: 20px;
-  text-decoration: none;
-}
-
-#navselected {
-  color: rgb(125,54,16);
-  font-weight: bold;
-}
-
-body {
-  font-family: "Arial Narrow", Sans-serif;
-  font-size: 10pt;
-
-  color: rgb(125,54,16);
-  margin: 0;
-  background: black url(tile.gif);
-}
-
-
-/*#container:before{
-  content:url(box.png);
-  position: absolute;
-  margin-top: -35px;
-  margin-left: -60px;
-  z-index: 1;
-}*/
-
-#container {
-  margin: 38px auto 50px auto;
-  padding: 0 0 3px 0;
-  width: 751px;
-  background: white;
-  z-index: -1;
-}
-
-
-.header {
-  height: 231px;
-  padding-bottom: 0px;
-  margin: 0;
-}
-
-h1 {
-  background: url(head.jpg) no-repeat;
-  width: 691px;
-  height: 235px;
-  color: transparent;
-  float: right;
-  padding-right: 30px;
-  margin: 10px 0 0 0;
-}
-
-
-#map {
-  width: 100%;
-  margin: 0 auto;
-}
-
-.content {
-  padding: 0 20px 40px 45px;
-}
-
-
-.date {
-  color: rgb(230,144,40);
-  font-size: 10pt !important;
-  float: right;
-  padding-right: 20px;
-}
-
-.title {
-  float: left;
-}
-
-.title:before {
-  content: url(elephant.gif);
-  position: relative;
-  top: -11px;
-  width: 48px;
-  float: left;
-  height: 1px;
-}
-
-
-.date, .title {
-  text-transform: uppercase;
-  font-size: 13pt;
-  margin: 0;
-  letter-spacing: 0.5pt;
-}
-
-
-.text {
-  clear: left;
-  font-size: 12pt;
-  font-family: "Georgia", "Times New Roman", serif;
-  letter-spacing: 0.1px;
-  line-height: 1.4em;
-  padding: 20px 20px 0 0;
-  text-align: justify;
-}
-
-.text p {
-  -webkit-hyphens: auto;
-  -moz-hyphens: auto;
-  hyphens: auto;
-}
-
-.entry {
-  margin: 40px 0 0 0;
-  padding: 20px 0 0 0;
-}
-
-.title a {
-  text-decoration: none;
-  color: inherit;
-}
-
-.title a:hover {
-  text-decoration: underline;
-}
-
-.fotos img {
-  display: block;
-  margin: 10px 0 0px 0;
-  max-width: 666px;
-}
-
-.fotos {
-  margin-bottom: 50px;
-}
-
-
-.footer {
-  margin-top: 30px;
-  margin-left: 45px;
-  width: 100%;
-}
-
-#copy a {
-  font-size: smaller;
-  color: inherit;
-}
-
-
