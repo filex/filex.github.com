@@ -46,7 +46,7 @@
 img#map {
     top: -40px;
     width: 90%;
-    max-width: 800px;
+    max-width: 650px;
     margin: 20px auto 0 auto;
     z-index: -10;
 }
