@@ -34,9 +34,9 @@
 }
 
 img#map {
-  width: 621px;
-  height: 370px;
-  filter: grayscale(100%);
+  width: 90%;
+  max-width: 850px;
+  margin: 0 auto;
 }
 
 @media (max-width: 600px) {
