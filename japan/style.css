@@ -16,8 +16,8 @@
 }
 
 .japan #map {
-  top: -425px;
-  margin-bottom: -480px;
+  width: 700px;
+  margin: -450px auto -40px auto;
   z-index: -10;
 }
 
