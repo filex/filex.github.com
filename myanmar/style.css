@@ -36,8 +36,8 @@
   
   img#map {
     width: 90%;
-    max-width: 500px;
-    margin: -100px auto 40px auto;
+    max-width: 450px;
+    margin: -120px auto 40px auto;
     z-index: -10;
   }
   
