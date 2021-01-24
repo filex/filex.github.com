@@ -183,7 +183,6 @@ h1 {
 	margin: 20px 0 ;
 }
 
-
 .date {
   display: block;
   margin: 0;
@@ -193,6 +192,10 @@ h1 {
   font-family: "Times New Roman", Times, serif;
   font-size: 1.1rem;
   letter-spacing: 1.0pt;
+}
+
+.subdate {
+  margin: 40px 0 20px 0;
 }
 
 .title {
