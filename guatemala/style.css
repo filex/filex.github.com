@@ -1,133 +1,57 @@
+@import url(/world/style16.css);
 
-body {
-	background-image: url(tile.gif);
-
-    padding: 10px 0px 10px 0px;
-	font-family: Arial, Sans-serif;
-	font-size: small;
-	color: rgb(100, 100, 100);
-}
-
-
-
-h2, h3 {
-	font-size: small;
-}
-
-.nav {
-  text-align: right;
-  padding-top: 12px;
-}
-
-.nav * {
-  padding-left: 10px;
-}
-.nav a {
-  color: lightgrey;
-  text-decoration: none;
-}
-
-a:hover {
-	color: black;
-}
-
-.nav .sel {
-  color: darkgrey;
-}
-
-#container {
-	margin: 10px auto 10px auto;
-	width: 750px;
-	background: white;
-}
-
-.header, .date {
-	/* color: black; */
-}
-
-.header h1 {
-	display: none;
-}
-
-.header {
-  margin-top: 12px !important;
-  background-image: url(head.jpg);
-  height: 134px;
-}
-
-.map {
-   text-align: left;
-   padding-bottom: 20px;
-}
-
-
-.date {
-  width: 160px;
-  float: left;
-  margin: 0px;
-}
-
-.title {
-  float: left;
-  margin: 0px;
-}
-
-.text {
-  clear: both;
-  padding: 10px 0px 10px 160px;
-  text-align: justify;
-  width: 532px;
-}
-
-.footer, .entry, .map, .header, .nav {
-  width: 694px;
-  margin: 0px auto 0px auto;
-}
-
-.entry {
-  margin-top: 10px;
-}
-
-.footer {
-  padding-top: 30px;
-}
-
-.content {
-	margin-top: 20px;
-}
-
-#copy {
-  font-size: smaller;
+@media screen {
+  .guatemala #header {
+    background: url(head.jpg) no-repeat;
+    background-size: cover;
+    margin-bottom: 0;
+  }
   
-}
-
-.photos {
-  margin-left: 160px;
-  padding: 0px 0px 10px 0px;
-}
-
-.photos img {
-  border: none;
-/*
-  margin-right: 2px;
-  margin-bottom: 2px;
-*/
-}
-
-#zoom {
-  display: none;
-  cursor: pointer;
-  margin: 0px auto;
-}
-
-#zoomdiv {
-  display: none;
-  text-align: center;
-  border-bottom: 1px solid lightgrey;
-  margin: 10px 0px 10px 0px;
-}
-
-#zoomcap {
-  height: 1pc;
-  padding: 2px;
+  .guatemala #titlebox h1 {
+    background: url(icon.svg) no-repeat;
+    background-position: center 138px;
+    background-size: 5.5rem;
+  }
+  
+  #datebox {
+    position: absolute;
+    top: 550px;
+    width: 200px;
+    z-index: 20;
+  }
+  
+  .datelabel {
+    line-height: 2.2rem;
+    background: black;
+    color: white;
+    margin: 0 0 4px 0;
+    padding: 5px 20px;
+    white-space: nowrap;
+    letter-spacing: 0.1rem;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 1.1rem;
+  }
+  
+  
+  img#map {
+    width: 90%;
+    max-width: 750px;
+    margin: -10px auto 40px auto;
+    z-index: -10;
+  }
+  
+  
+  @media (max-width: 800px) {
+    .datelabel {
+      display: none;
+    }
+    #titlebox {
+      height: 200px;
+      margin: 0px auto -200px 0;
+      text-align: center;
+      top: -30px;
+      color: white;
+      border: 0;
+    }
+  }
 }
