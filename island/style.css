@@ -1,0 +1,58 @@
+@import url(/world/style16.css);
+
+@media screen {
+  .island #header {
+    background: url(hero_ws.jpg) no-repeat;
+    background-position: 50% 20%;
+    background-size: cover;
+    margin-bottom: 0;
+  }
+  
+  .island #titlebox h1 {
+    background: url(icon.svg) no-repeat;
+    background-position: center 115px;
+    background-size: 5rem;
+  }
+  
+  #datebox {
+    position: absolute;
+    top: 550px;
+    width: 200px;
+    z-index: 20;
+  }
+  
+  .datelabel {
+    line-height: 2.2rem;
+    background: black;
+    color: white;
+    margin: 0 0 4px 0;
+    padding: 5px 20px;
+    white-space: nowrap;
+    letter-spacing: 0.1rem;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 1.1rem;
+  }
+  
+  
+  img#map {
+    width: 90%;
+    max-width: 800px;
+    margin: 30px auto 40px auto;
+    z-index: -10;
+  }
+  
+  
+  @media (max-width: 800px) {
+    .datelabel {
+      display: none;
+    }
+    #titlebox {
+      height: 200px;
+      margin: 0px auto -200px 0;
+      text-align: center;
+      top: -30px;
+      color: white;
+      border: 0;
+    }
+  }
+}

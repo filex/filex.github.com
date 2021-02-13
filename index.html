@@ -227,7 +227,7 @@ main#pages {
   margin: 0 auto;
   /* bottom: 58px; */
   top: -72px;
-  background-position: center bottom !important;
+  background-position: center bottom ;
 }
 
 .journey#j-slowenien h3::before {
@@ -281,11 +281,19 @@ main#pages {
 
 .journey#j-srilanka h3::before {
   background: url(srilanka/icon.svg) no-repeat;
+  background-position: 0 13px;
   width: 58px;
 }
 
 .journey#j-myanmar h3::before {
   background: url(myanmar/icon.svg) no-repeat;
+  background-position: 0 -10px;
+  height: 65px;
+}
+
+.journey#j-island h3::before {
+  background: url(island/icon.svg) no-repeat;
+  background-position: 0 5px;
   height: 65px;
 }
 
@@ -296,6 +304,7 @@ main#pages {
 
 .journey#j-thailand h3::before {
   background: url(world/thailand.svg) no-repeat;
+  background-position: 0 11px;
   width: 66px;
 }
 
@@ -636,6 +645,12 @@ footer {
     <h4 class="date">14/12/2013 – 06/01/2014</h4>
   </a></div>
 
+  <div class="journey" id="j-island"><a href="island/">
+    <img loading=lazy src="island/hero_ws.jpg" style="filter: brightness(97%)">
+    <h3>Island</h3>
+    <h4 class="date">04/07/2013 – 28/07/2014</h4>
+  </a></div>
+
   <div class="journey" id="j-brasilien"><a href="brasilien/">
     <img loading=lazy src="brasilien/fotos/AF_20121211_2860.jpg">
     <h3>Brasilien</h3>
@@ -804,6 +819,7 @@ footer {
 <div>
 <h3>Europa</h3>
 <ul>
+  <li><a href="island/">Island</a></li>
   <li><a href="slowenien/">Slowenien</a></li>
   <li><a href="venedig/">Venedig</a></li>
 </ul>
