@@ -3,7 +3,7 @@
 @media screen {
   .montenegro #header {
     background: url(hero_ws.jpg) no-repeat;
-    background-position: 50% 60%;
+    background-position: 50% 30%;
     background-size: cover;
     margin-bottom: 0;
   }
@@ -49,7 +49,7 @@
       position: relative;
       background: url(hero_qs.jpg) no-repeat;
       background-size: cover;
-      background-position: center 60%
+      background-position: center 30%
     }
 
     .datelabel {
