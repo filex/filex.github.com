@@ -230,6 +230,12 @@ main#pages {
   background-position: center bottom ;
 }
 
+.journey#j-australien h3::before {
+  background: url(australien/icon.svg) no-repeat;
+  width: 58px;
+  height: 58px;
+}
+
 .journey#j-montenegro h3::before {
   background: url(montenegro/icon.svg) no-repeat;
 }
@@ -587,14 +593,19 @@ footer {
 </header>
 
 <main id="pages">
-  <!--
 
+  <div class="journey" id="j-australien"><a href="australien/">
+    <img loading=lazy src="australien/hero_qs.jpg" style="object-position: center 30%; filter: brightness(95%);">
+    <h3>Australien</h3>
+    <h4 class="date">23/05/2022 – 25/06/2022</h4>
+  </a></div>
+
+  <!--
   <div class="journey" id="j-montenegro"><a href="montenegro/">
     <img loading=lazy src="montenegro/hero_qs.jpg" style="object-position: center 30%; filter: brightness(95%);">
     <h3>Montenegro</h3>
     <h4 class="date">17/07/2021 – 30/07/2021</h4>
   </a></div>
-
   -->
 
   <div class="journey" id="j-slowenien"><a href="slowenien/">
@@ -852,6 +863,13 @@ footer {
   <li><a href="tibet/">Tibet</a></li>
   <li><a href="thailand/">Thailand</a></li>
   <li><a href="vietnam/">Vietnam</a></li>
+</ul>
+</div>
+
+<div>
+<h3>Australien</h3>
+<ul>
+  <li><a href="australien/">Australien</a></li>
 </ul>
 </div>
 
