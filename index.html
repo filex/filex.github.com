@@ -430,13 +430,17 @@ footer {
   display: block;
 }
 
+.filler-xl {
+  display: none;
+}
+
 /* l-view 3 column */
 @media (min-width: 1400px) {
   .journey {
     width: 32.2%;
   }
   .filler {
-    display: block;
+    display: none;
   }
 }
 
@@ -455,49 +459,13 @@ footer {
     font-size: 4.5rem;
     letter-spacing: 1.2rem;
   }
-  .filler {
+  .filler-xl {
     display: block;
-  }
-}
-
-/* s-view 1 column */
-@media (max-width: 800px) {
-  html {
-    font-size: 90%;
-  }
-
-  header, header::before {
-    height: 300px;
-  }
-  #titlebox h1 {
-    padding-top: 130px;
-  }
-  h1 {
-    font-size: 2.3rem;
-    letter-spacing: 0.6rem;
-  }
-  .journey h3 {
-    font-size: 2rem;
-    letter-spacing: 0.5rem;
-  }
-
-  .journey {
-    width: 95%;
-    height: 20rem;
-    margin-top: 30px;
-
-    position: relative;
-    filter: none;
-  }
-  #copy {
-    float: left;
   }
   .filler {
     display: none;
   }
 }
-
-
 
 #index {
   color: black;
@@ -570,9 +538,54 @@ footer {
   text-decoration: underline;
 }
 
+/* s-view 1 column */
+@media (max-width: 800px) {
+  html {
+    font-size: 90%;
+  }
 
+  header, header::before {
+    height: 300px;
+  }
+  #titlebox h1 {
+    padding-top: 130px;
+  }
+  h1 {
+    font-size: 2.3rem;
+    letter-spacing: 0.6rem;
+  }
+  .journey h3 {
+    font-size: 2rem;
+    letter-spacing: 0.5rem;
+  }
 
+  .journey {
+    width: 95%;
+    height: 20rem;
+    margin-top: 30px;
+
+    position: relative;
+    filter: none;
+  }
+  #copy {
+    float: left;
+  }
+  .filler {
+    display: none;
+  }
+
+  #index div {
+    width: 40%;
+    padding-left: 20px;
+  }
+
+  #index {
+    flex-wrap: wrap;
+    justify-content: left;
+  }
 }
+
+
 </style>
 </head>
 
@@ -803,6 +816,9 @@ footer {
   <!--
   -->
     <div class="journey filler"></div>
+    <div class="journey filler-xl"></div>
+    <div class="journey filler-xl"></div>
+    <div class="journey filler-xl"></div>
 </main>
 
 <aside id="index">
