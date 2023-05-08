@@ -2,7 +2,8 @@
 
 @media screen {
   .israel #header {
-    background: url(hero_ws.jpg) no-repeat;
+    /* background: url(hero_ws.jpg) no-repeat; */
+    background: url(../jordanien/img/AF_20160921_0171.jpg) no-repeat;
     background-position: 50% 70%;
     background-size: cover;
     margin-bottom: 0;
@@ -10,8 +11,8 @@
   
   .israel #titlebox h1 {
     background: url(icon.svg) no-repeat;
-    background-position: center 110px;
-    background-size: 3.4rem;
+    background-position: center 120px;
+    background-size: 6.0rem;
   }
   
   #datebox {
@@ -35,6 +36,7 @@
   
   
   img#map {
+    display: none;
     max-width: 900px;
     margin: -20px auto 70px auto;
     z-index: -10;
@@ -45,7 +47,8 @@
     .israel #header {
       margin-bottom: 0;
       position: relative;
-      background: url(hero_qs.jpg) no-repeat;
+      /* background: url(hero_qs.jpg) no-repeat; */
+      background: url(../jordanien/img/AF_20160921_0171.jpg) no-repeat;
       background-size: cover;
       background-position: center 50%
     }
