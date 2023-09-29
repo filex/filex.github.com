@@ -231,6 +231,12 @@ main#pages {
   background-position: center bottom ;
 }
 
+.journey#j-okinawa h3::before {
+  background: url(world/home.svg) no-repeat;
+  background-position: 0 0.7rem;
+  width: 55px;
+}
+
 .journey#j-israel h3::before {
   background: url(israel/icon.svg) no-repeat;
   background-position: 0 0.5rem;
@@ -620,9 +626,14 @@ footer {
 
 <main id="pages">
 
+  <div class="journey" id="j-okinawa"><a href="okinawa/">
+  <img src="okinawa/hero_qs.jpg" style="object-position: center 05%; filter: brightness(95%);">
+    <h3>Okinawa</h3>
+    <h4 class="date">02/10/2023 – 24/10/2023</h4>
+  </a></div>
+
   <div class="journey" id="j-israel"><a href="israel/">
   <img src="israel/hero_qs.jpg" style="object-position: center 05%; filter: brightness(95%);">
-  <!-- <img src="jordanien/img/AF_20160921_0171.jpg" style="filter: brightness(90%)"> -->
     <h3>Israel</h3>
     <h4 class="date">11/05/2023 – 21/05/2023</h4>
   </a></div>
@@ -899,6 +910,7 @@ footer {
   <li><a href="vietnam/">Kambodscha</a></li>
   <li><a href="thailand/">Laos</a></li>
   <li><a href="myanmar/">Myanmar</a></li>
+  <li><a href="okinawa/">Okinawa</a></li>
   <li><a href="peking/">Peking</a></li>
   <li><a href="philippinen/">Philippinen</a></li>
   <li><a href="srilanka/">Sri&nbsp;Lanka</a></li>
