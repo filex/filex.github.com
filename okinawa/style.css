@@ -1,0 +1,66 @@
+@import url(/world/style16.css);
+
+@media screen {
+  .okinawa #header {
+    background: url(hero_ws.jpg) no-repeat;
+    background-position: 10% 40%;
+    background-size: cover;
+    margin-bottom: 0;
+  }
+  
+  .okinawa #titlebox h1 {
+    background: url(../world/home.svg) no-repeat;
+    background-position: center 120px;
+    background-size: 6.0rem;
+  }
+  
+  #datebox {
+    position: absolute;
+    top: 550px;
+    width: 200px;
+    z-index: 20;
+  }
+  
+  .datelabel {
+    line-height: 2.2rem;
+    background: black;
+    color: white;
+    margin: 0 0 4px 0;
+    padding: 5px 20px;
+    white-space: nowrap;
+    letter-spacing: 0.1rem;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 1.1rem;
+  }
+  
+  
+  img#map {
+    display: none;
+    max-width: 900px;
+    margin: -20px auto 70px auto;
+    z-index: -10;
+  }
+  
+  
+  @media (max-width: 800px) {
+    .okinawa #header {
+      margin-bottom: 0;
+      position: relative;
+      background: url(hero_qs.jpg) no-repeat;
+      background-size: cover;
+      background-position: 50% 30%
+    }
+
+    .datelabel {
+      display: none;
+    }
+    #titlebox {
+      height: 200px;
+      margin: 0px auto -200px 0;
+      text-align: center;
+      top: -30px;
+      color: white;
+      border: 0;
+    }
+  }
+}
