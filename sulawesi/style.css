@@ -35,9 +35,8 @@
   
   
   img#map {
-    display: none;
     max-width: 900px;
-    margin: -20px auto 70px auto;
+    margin: 30px auto 0px auto;
     z-index: -10;
   }
   
