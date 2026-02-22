@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Israel on ferndrang</title>
+    <link>http://localhost:1313/israel/</link>
+    <description>Recent content in Israel on ferndrang</description>
+    <generator>Hugo</generator>
+    <language>de</language>
+    <lastBuildDate>Thu, 11 May 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/israel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jerusalem</title>
+      <link>http://localhost:1313/israel/jerusalem/</link>
+      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/israel/jerusalem/</guid>
+      <description>&lt;p&gt;Die Reise nach Jerusalem war erstaunlich unproblematisch. Die Einreise war entgegen unseren Befürchtungen schnell und einfach. Am Flughafen haben wir auch noch eine SIM-Karte, Bargeld und ein Zugticket bekommen - die Zutaten für einen erfolgreichen Start in ein neues Land. Die Fahrt durch die sanften Hügel war gerade kurz genug, um nicht langweilig zu werden. Durch einen Tunnel fährt man in die Stadt hinein. Der Bahnhof scheint irgendwo in der Nähe des Erdkerns zu liegen, gemessen an den endlosen Rolltreppen, die hinauf ins Licht der Heiligen Stadt führen.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
