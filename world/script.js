@@ -13,6 +13,13 @@ function scrollShowTargetHeading() {
 
 window.addEventListener('scroll', scrollShowTargetHeading);
 
+/* close menu with Escape key */
+window.addEventListener('keydown', function(e) {
+	if (e.key === 'Escape' && menuOpen) {
+		toggleMenu();
+	}
+});
+
 /* close menu after click for in-page navigation (comments) */
 window.addEventListener('click', function(e) {
 	var pid = e.target.parentElement.id;

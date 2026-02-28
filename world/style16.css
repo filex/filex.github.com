@@ -198,6 +198,24 @@ h1 {
   margin: 40px 0 20px 0;
 }
 
+.subdate + .title {
+  margin-top: 0;
+}
+
+.subdate:has(+ .title) {
+  margin-bottom: 0;
+}
+
+/* title-raw: output immediately for same-day sub-entries (no ## date follows).
+   Hidden by CSS when ## date immediately follows (buffered output handles that case). */
+.title-raw:has(+ h2.subdate) {
+  display: none;
+}
+
+.title-raw:not(:has(+ h2.subdate)) {
+  margin-top: 40px;
+}
+
 .title {
   display: block;
   margin: 0 0 1rem 0;
