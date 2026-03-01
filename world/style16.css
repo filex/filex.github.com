@@ -269,9 +269,13 @@ h1 {
     margin: 10px auto 0 auto;
   }
   }
+  .entry p:has(> img.portrait) {
+    text-align: center;
+  }
   .entry img.portrait {
     width: 49%;
-    display: inline;
+    display: inline-block;
+    vertical-align: top;
     margin-right: 10px;
   }
   img.portrait + img.portrait {
