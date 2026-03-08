@@ -16,6 +16,8 @@ Von unserem kleinen Innenhof aus konnten wir so gerade die „Spitze" des Tafelb
 
 Der Blick auf die Innenstadt mit ihren hässlichen Hochhäusern erinnert an Bogota, wo man genauso vom Hausberg auf die endlose Stadt blickt. Aber in Kapstadt gibt es noch die andere Seite, wo die Bergkette der Zwölf Apostel majestätisch die Küste entlang Richtung Kap verläuft. Davor blenden weiße Sandstrände in den Buchten der schicken Vororte. Eine Wolkendecke legte sich sanft auf die Tafelberge und es wurde fast noch schöner dadurch. Fast, weil es dann anfing zu regnen.
 
+![](AF_20221213_4449.jpg)
+
 Den Rest des Nachmittags haben wir daher im tollen Zeitz Museum verbracht. Das Gebäude ist ein umgebautes, ehemaliges Hafensilo und mutet sehr industriell-futuristisch an. Die Ausstellungen zeitgenössischer afrikanischer Künstler waren wirklich sehenswert. Die in der Nähe liegende Waterfront dagegen war weniger sehenswert, hier reihen sich nur langweilige Restaurants aneinander.
 
 ## 12/12/2022
