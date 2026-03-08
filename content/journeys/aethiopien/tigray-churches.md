@@ -1,0 +1,66 @@
+---
+title: "Kirchen in Tigray"
+slug: "aethiopien/tigray-churches"
+aliases: ["/aethiopien/tigray-churches.html"]
+date: 2016-12-31
+---
+
+Nach einem erholsamen Tag geht unser Programm weiter. Wir haben die geplante Strecke nach Mekele mit einer Tour abgedeckt. Leider ist der erste Tag nicht gut angelaufen. Der Fahrer hat uns zwei Stunden sitzen lassen, dann ist ihm aufgefallen, dass er nicht mehr genug Benzin hat, und dann hatten die Tankstellen auch kein Benzin mehr. Wir haben dann Benzin von einer Baumaschine abgezweigt. Die Männer waren nicht sehr behende im Umgang mit dem Benzinschlauch. Nachdem alle reichlich gekostet haben, hat auch unser Tank etwas abbekommen.
+
+![](AF_20161231_3251.jpg)
+
+Mit so viel Verspätung konnten wir dann nicht mehr nach Debre Damo sondern nur noch zu langweiligeren Kirchen fahren, die auch noch alle zu waren, weil die Priester angeblich krank oder schon im Pyjama waren.
+
+Die Landschaft wird hier im Norden immer trockener. Es wird überall Ackerbau betrieben, aber die natürliche Flora besteht hauptsächlich aus Kakteen, die hier baumhoch werden. Viele der kleinen Kirchen auf dem Land verstecken sich in Kakteenhainen, was recht hübsch aussieht. Mit mehr großen Hüten würde ich mir Mexiko so vorstellen.
+
+![](AF_20161231_3266.jpg)
+
+Sieht man von Stromleitungen, Wellblech und Plastikschuhen ab, könnte man im Mittelalter sein. Hier hat die Moderne noch so wenig Fuß gefasst, dass es nicht mal Müll gibt. Die Erntezeit ist fast vorüber und auf den Feldern wird gedroschen. Kinder führen ein Gespann Esel oder Maultiere im Kreis über die ausgelegten Strohballen. Danach wird das Getreide mit Heugabeln hochgeworfen, um es zu trennen. Wir haben im ganzen Land nicht einen Traktor oder eine landwirtschaftliche Maschine gesehen.
+
+Für die Nacht sind wir in **Hawzien** untergekommen, ein Baustellen-Nest mitten im Nirgendwo. Wir spazieren zwei der vier Straßen entlang und sammeln dabei eine Kinderschar um uns. In einem einfachen Lokal trinken wir frisch gerösteten Kaffee und versöhnen uns langsam mit dem Tag.
+
+![](AF_20161231_3295.jpg)
+![](AF_20161231_3300.jpg)
+
+## 01/01/2017
+
+Heute sehen wir endlich die berühmten, aus dem Fels gehauenen Kirchen Tigrays. Unser Fahrer ist eine echte Hilfe uns in der äthiopischen Küche zurecht zu finden. Wir haben Foul (würzige Bohnenpampe) mit leckerem Brot gefrühstückt - das erste toast- und enjira-freie Frühstück.
+
+Von Hawzien aus fährt man nicht lange zu den senkrecht aufragenden Bergen, in denen sich die Kirchen verstecken sollen. Zuerst besuchen wir **Maryam Korkor**. Von unten sieht man schon mal nichts, auch keinen Weg, der hoch führen könnte. Wir folgen dem Führer in einen schmalen Schnitt im Fels, knapp einen Meter breit, und schieben uns hindurch nach oben. Auf der Rückseite ist der Berg nicht ganz senkrecht. Dort geht es über den nackten Fels bis wir vor einem kleinen Häuschen stehen.
+
+![](AF_20170101_3317.jpg)
+![](AF_20170101_3325.jpg)
+
+Von außen sieht man von Maryam Korkor nur eine kleine Frontfassade. Ähnlich wie bei den Höhle von [Dambullah (Sri Lanka)](/srilanka/02_dambulla.html) liegt dahinter die Kirche in einer ausgebauten Höhle. Der quadratischen Raum bekommt von vier mächtigen Säulen eine kirchliche Anmutung, auch wenn sie hier keine tragende Funktion haben. Die Wände sind mit heiligen Figuren und biblischen Szenen bemalt. Das Allerheiligste wird von einem Bild der Gottesmutter und allerlei Texten verdeckt, die auf reflektierende Lastwagenplane gedruckt wurde. Obwohl der Aufstieg über eine Stunde dauert und schon weit über 2000m startet, sagt man uns, sei die Kirche sonntags voll.
+
+![](AF_20170101_3341.jpg)
+![](AF_20170101_3356.jpg)
+
+Ein schmaler Weg führt hinter dem in Tigray üblichen Kaktus-Friedhof zur senkrechten Seite des Bergs. Hier liegt **Daniel Korkor** : Ursprünglich eine Gebetshöhle, später zur Kirche geweiht. Auf der Außenseite gehen wir über einen Felsvorsprung, der einen guten Meter breit ist. Von dort geht es mehrere hundert Meter senkrecht hinunter. Der Blick in die vorindustrielle Landschaft Tigrays ist endlos. Ein Priester begleitet uns und schließt eine winzige Tür im glatten Fels auf. Durch die knapp schulterbreite Öffnung kriechen wir in einen leeren, runden Raum. Die Kuppeldecke ist mit Heiligen und Märtyrern bemalt. Ein guter Raum zum Beten, mit einer fantastischen Aussicht.
+
+![](AF_20170101_3367.jpg)
+![](AF_20170101_3393.jpg)
+![portrait](AF_20170101_3392.jpg)
+![portrait](AF_20170101_3378.jpg)
+![](AF_20170101_3382.jpg)
+
+Am Nachmittag fahren wir einen Berg weiter, um zu **Abuna Yemata Guh** zu kraxeln. Der Berg hat einen Kamm aus Steinsäulen, die wie Orgelpfeifen aneinander gereiht sind. Der Aufstieg ist ziemlich steil und geht schon nicht mehr als Wandern durch. Uns kommt eine Gruppe junger Einheimischer entgegen, die sich mit ihren Plastikschuhen ziemlich abmüht. Die gefährlichste Stelle ist eine senkrechte, etwa zehn Meter hohe Wand. Unzählige Hände und vermutlich auch ein paar Meißel haben hier Tritte und Griffe hinterlassen. Aber es bleiben zehn Meter mit einem sehr steilen Fels darunter. Daher lungert hier eine fröhliche Schar Greise herum, die den Besuchern hinauf helfen. Unser Führer hat Seil und Gurtzeug mitgebracht, so ist die Stelle schnell und sicher überwunden.
+
+![](AF_20170101_3405.jpg)
+![portrait](AF_20170101_3413.jpg)
+![portrait](AF_20170101_3420.jpg)
+
+Danach kraxeln wir noch etwas weiter und gelangen umwuselt von den alten Herren zu einem Durchgang zwischen den Orgelpfeifen. Zu beiden Seiten geht es steil hinab. In einem Loch im Fels liegt wenig motivierend ein menschliches Skelett. Immerhin liegt es nicht unten im Tal. Über einen noch schmaleren Vorsprung bewegen wir uns vorsichtig über den Abhang auf eine kleine Höhe zu. Dahinter streicht der Blick bis zum Horizont über Kakteenland und geerntete Felder. Der Wind weht kräftig und will uns vom Felsen zerren. Vor der Höhle wartet schon ein Priester, der die dicke, alte Holztür zur Kirche aufschließt.
+
+![](AF_20170101_3423.jpg)
+![](AF_20170101_3430.jpg)
+
+Das Innere der aus dem Fels gehauenen Kirche ist ein besonders stimmungsvoller Ort. Die Deckenmalereien sind wunderschön. Heilige wechseln sich mit Kreuzen und Mustern ab. Die Gläubigen werden frontal mit zwei Augen dargestellt, die Ungläubigen von der Seite mit nur einem Auge. Hier finden sich auch die verschnörkelten Kreuzsymbole aus den drei verschiedenen Stilen des Landes: Gondar, Aksum und Lalibela. Der junge Priester ist den Umgang mit Touristen gewohnt und handelt professionell sein Trinkgeld aus.
+
+![](AF_20170101_3434.jpg)
+![](AF_20170101_3435.jpg)
+![portrait](AF_20170101_3455.jpg)
+![portrait](AF_20170101_3459.jpg)
+![](AF_20170101_3461.jpg)
+
+Nach dem Abstieg werden wir nach **Mekele** gefahren. Die Stadt wirkt, besonders nach dem Kaff Hawzien, recht urban und ist ein krasser Kontrast zu den aus der Zeit gefallenen Landstrichen Tigrays. Im Gegensatz zum deutlich jüngeren Addis Abeba gibt es ein ganz nett aussehendes Zentrum mit erträglicher Bauruinen-Quote. Wir beziehen eine fast schon luxuriöse Suite im "Yordanos" Hotel. Im Bett könnte man deutlich mehr als zwei Gäste unterbringen. Toll ist auch die riesige Doppelbadewanne mit "Whirlpool". Wenn aus dem Wasserhahn mehr als zwei Tropfen gleichzeitig kommen würden, könnte das vielleicht sogar Spaß machen.

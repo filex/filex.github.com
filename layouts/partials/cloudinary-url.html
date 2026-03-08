@@ -1,0 +1,51 @@
+{{- /*
+  Builds an image URL: local first, Cloudinary as fallback.
+
+  Parameters (dict):
+    - filename:         e.g. "hero_ws.jpg"
+    - journeySlug:      e.g. "slowenien"
+    - cloudinaryFolder: e.g. "ferndrang/slowenien" (empty string = no Cloudinary)
+    - cloudinaryBase:   e.g. "https://res.cloudinary.com/ferndrang/image/upload"
+    - subdir:           optional subdirectory, e.g. "img" (default: "")
+    - imageClass:       optional CSS class, e.g. "portrait", "alone" (default: "" = regular)
+    - width:            optional override, e.g. "w_1200" (takes precedence over imageClass)
+
+  Cloudinary width by image class (when no width override):
+    portrait  → w_800  (49% of ~780px container, covers 2x retina)
+    alone     → w_1600 (height-constrained on desktop, full-width on mobile)
+    (default) → w_1600 (100% container width, covers 2x retina)
+*/ -}}
+{{- $slug := .journeySlug -}}
+{{- $file := .filename -}}
+{{- $subdir := .subdir | default "" -}}
+
+{{- /* Determine Cloudinary width transform: explicit override > imageClass > default */ -}}
+{{- $width := "w_1600" -}}
+{{- if .width -}}
+  {{- $width = .width -}}
+{{- else if eq .imageClass "portrait" -}}
+  {{- $width = "w_800" -}}
+{{- end -}}
+
+{{- /* 1. Check static/{slug}/{filename} */ -}}
+{{- $directPath := printf "static/%s/%s" $slug $file -}}
+{{- if fileExists $directPath -}}
+  {{- printf "/%s/%s" $slug $file -}}
+{{- else -}}
+  {{- /* 2. Check static/{slug}/img/{filename} */ -}}
+  {{- $imgPath := printf "static/%s/img/%s" $slug $file -}}
+  {{- if fileExists $imgPath -}}
+    {{- printf "/%s/img/%s" $slug $file -}}
+  {{- else if .cloudinaryFolder -}}
+    {{- /* 3. Cloudinary fallback */ -}}
+    {{- $name := strings.TrimSuffix (path.Ext $file) $file -}}
+    {{- printf "%s/%s,c_limit,q_auto/%s/%s.webp" .cloudinaryBase $width .cloudinaryFolder $name -}}
+  {{- else -}}
+    {{- /* 4. Final fallback: local path with subdir if provided */ -}}
+    {{- if $subdir -}}
+      {{- printf "/%s/%s/%s" $slug $subdir $file -}}
+    {{- else -}}
+      {{- printf "/%s/%s" $slug $file -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}

@@ -1,0 +1,49 @@
+{{- /*
+  Image Render Hook
+
+  Syntax:
+    ![](photo.jpg)           → /slowenien/img/photo.jpg (local) or Cloudinary
+    ![portrait](photo.jpg)   → <img class="portrait" src="...">
+    ![alone](photo.jpg)      → <img class="alone" src="...">
+    ![Description](photo.jpg) → normales Bild mit alt-text
+
+  Cloudinary Integration:
+    If cloudinary_folder is set in journey front matter, images are loaded from Cloudinary.
+    Example: cloudinary_folder: "ferndrang/slowenien"
+    Result: https://res.cloudinary.com/ferndrang/image/upload/ferndrang/slowenien/AF_20200913_6001.avif
+*/ -}}
+
+{{- $destination := .Destination -}}
+{{- $alt := .Text -}}
+{{- $class := "" -}}
+
+{{- /* Prüfe ob Alt-Text eine CSS-Klasse ist */ -}}
+{{- if or (eq $alt "portrait") (eq $alt "alone") -}}
+  {{- $class = $alt -}}
+  {{- $alt = "" -}}
+{{- end -}}
+
+{{- /* Baue absoluten Pfad wenn relativer Pfad */ -}}
+{{- if not (hasPrefix $destination "/") -}}
+  {{- if not (hasPrefix $destination "http") -}}
+    {{- /* Hole Journey-Slug und Cloudinary-Folder vom Parent */ -}}
+    {{- $journeySlug := "" -}}
+    {{- $cloudinaryFolder := "" -}}
+    {{- if .Page.Parent -}}
+      {{- $journeySlug = .Page.Parent.Params.slug -}}
+      {{- $cloudinaryFolder = .Page.Parent.Params.cloudinary_folder -}}
+    {{- end -}}
+
+    {{- if $journeySlug -}}
+      {{- $cloudinaryBase := .Page.Site.Params.cloudinaryBaseURL | default "https://res.cloudinary.com/ferndrang/image/upload" -}}
+      {{- $destination = partial "cloudinary-url" (dict "filename" $destination "journeySlug" $journeySlug "cloudinaryFolder" ($cloudinaryFolder | default "") "cloudinaryBase" $cloudinaryBase "subdir" "img" "imageClass" $class) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* Generiere HTML */ -}}
+{{- if $class -}}
+<img class="{{ $class }}" src="{{ $destination }}"{{- with $alt }} alt="{{ . }}"{{ end }} loading="lazy">
+{{- else -}}
+<img src="{{ $destination }}" alt="{{ $alt }}" loading="lazy">
+{{- end -}}

@@ -1,0 +1,7 @@
+{{- $url := .Destination -}}
+{{- $text := .Text -}}
+{{- if hasPrefix $url "http" -}}
+<a href="{{ $url }}" target="_blank">{{ $text }}</a>
+{{- else -}}
+<a href="{{ $url }}">{{ $text }}</a>
+{{- end -}}

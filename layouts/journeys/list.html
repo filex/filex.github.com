@@ -1,0 +1,50 @@
+{{ define "css" }}
+<link rel="stylesheet" href="/world/style16.css">
+<link rel="stylesheet" href="/world/menu.css">
+<script async src="/world/script.js"></script>
+{{- $cloudinaryFolder := .Params.cloudinary_folder | default "" -}}
+{{- $cloudinaryBase := .Site.Params.cloudinaryBaseURL | default "https://res.cloudinary.com/ferndrang/image/upload" -}}
+{{- $journeySlug := .Params.slug -}}
+{{- $urlArgs := dict "journeySlug" $journeySlug "cloudinaryFolder" $cloudinaryFolder "cloudinaryBase" $cloudinaryBase -}}
+
+{{- $heroWSURL := partial "cloudinary-url" (merge $urlArgs (dict "filename" .Params.hero_image_ws)) -}}
+{{- $heroQSURL := "" -}}
+{{- with .Params.hero_image_qs -}}
+  {{- $heroQSURL = partial "cloudinary-url" (merge $urlArgs (dict "filename" .)) -}}
+{{- end -}}
+{{- $heroBgWS := printf "url(%s) no-repeat" $heroWSURL | safeCSS -}}
+{{- $heroBgQS := "" -}}
+{{- if $heroQSURL -}}
+  {{- $heroBgQS = printf "url(%s) no-repeat" $heroQSURL | safeCSS -}}
+{{- end -}}
+<style>
+.{{ .Params.body_class }} #header {
+  background: {{ $heroBgWS }};
+  background-position: {{ .Params.image_position | default "50% 50%" }};
+  background-size: cover;
+}
+
+.{{ .Params.body_class }} #titlebox h1 {
+  background: url({{ if hasPrefix .Params.icon "/" }}{{ .Params.icon }}{{ else }}/{{ .Params.slug }}/{{ .Params.icon }}{{ end }}) no-repeat;
+  background-position: {{ .Params.icon_position | default "center 115px" }};
+  background-size: {{ .Params.icon_size | default "5rem" }};
+}
+
+{{ if $heroBgQS }}
+@media (max-width: 800px) {
+  .{{ .Params.body_class }} #header {
+    background: {{ $heroBgQS }};
+    background-position: {{ .Params.image_position | default "50% 50%" }};
+    background-size: cover;
+  }
+}
+{{ end }}
+</style>
+{{ end }}
+
+{{ define "main" }}
+{{ $firstPlace := index (.Pages.ByDate) 0 }}
+{{ if $firstPlace }}
+<meta http-equiv="refresh" content="0;url={{ $firstPlace.RelPermalink }}">
+{{ end }}
+{{ end }}
