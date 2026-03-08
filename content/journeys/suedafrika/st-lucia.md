@@ -14,8 +14,20 @@ Für einen Strandort ist der Strand relativ schlecht zugänglich - man muss erst
 
 Für den Nachmittag hatte uns die Managerin eine Empfehlung für einen Bootsausflug ins Ohr geschrien, der wir gefolgt sind. St. Lucia liegt an einem Zipfel des großen iSimangaliso Wetlands Nationalparks. Auf der Bootsfahrt haben wir ein paar Vögel verscheucht, aber vor allem Flusspferde beobachtet. Wenn man nur konzentriert genug aufs Wasser guckt, taucht irgendwann ein Hippo auf. Tausende von ihnen machen es sich in der großen, flachen Lagune gemütlich. Die Jungen unter ihnen balgen sich heftig und trainieren für den Ernstfall. Später fing es an zu regnen, was mit dem starken Wind in dem offenen Boot ein bisschen ungemütlich wurde. Da hatten es die Hippos im Wasser besser.
 
+![](AF_20221225_5716.jpg)
+![](AF_20221225_5743.jpg)
+![](AF_20221225_5748.jpg)
+
+
 ## 25/12/2022
 
 Am Cape Vidal, etwa eine Stunde nördlich von St. Lucia im Nationalpark, sollte es einen noch schöneren Strand geben. Vor allem ist dort aber der Weg das Ziel. Denn die Straße führt durch flaches, gut einsichtiges Gebiet, in dem es viele Tiere zu sehen gibt. Kleine „Loop Roads" ermöglichen es auch mal vorsichtig durch kleine Wälder zu fahren. Überall trifft man auf Kudus, Zebras, Büffel und Antilopen. In größerer Entfernung haben wir sogar Nashörner gesehen.
+
+![](AF_20221225_5584.jpg)
+![](AF_20221225_5600.jpg)
+![](AF_20221225_5617.jpg)
+![](AF_20221225_5626.jpg)
+![](AF_20221225_5636.jpg)
+![](AF_20221225_5664.jpg)
 
 Am Strand war viel Betrieb. An Weihnachten muss ein Braai gemacht werden: Grillen auf südafrikanisch. (Das ist so ähnlich wie bei uns …nur ohne Beilagen). Da die Sonne normalerweise gnadenlos und ohne Schatten herunterbrennt, werden gerne Zelte vermietet. Etwas hässlich ist nur, dass sie die Gerüste davon stehen lassen. Vielleicht sind auch nur die Zeltplanen vom Wind weggerissen worden. Wir haben wieder eine Delle gesucht und versucht nicht zu viel Sand in Augen, Ohren und Taschen zu sammeln.
