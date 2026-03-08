@@ -4,7 +4,7 @@ title = "ferndrang"
 disableKinds = ["RSS"]
 
 [params]
-  author = "F. Hassert & A. Zeisler"
+  author = "A. Zeisler & F. Hassert"
 
   # Cloudinary Configuration
   cloudinaryBaseURL = "https://res.cloudinary.com/ferndrang/image/upload"
