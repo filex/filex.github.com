@@ -1,0 +1,453 @@
+{{ define "css" }}
+<script async src="/world/script.js"></script>
+<style>
+@import url(https://fonts.googleapis.com/css?family=Montserrat:600,700);
+
+@media screen {
+
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  font-size: 1.0em;
+  color: white;
+  overflow-x: hidden;
+}
+
+h2, h1, div, body {
+  margin: 0;
+}
+
+a {
+ text-decoration: none;
+ color: inherit;
+}
+
+html {
+  font-size: 90%;
+  overflow-x: hidden;
+}
+
+#nav {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 70px;
+  background: black;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.2rem;
+}
+
+#navhead {
+  display: block;
+  position: absolute;
+  left: 20px;
+  margin: 0 0;
+  max-width: 40%;
+}
+
+#home {
+  display: block;
+  width: 52px;
+  height: 38px;
+  background: url(/world/home.svg) no-repeat;
+  background-size: cover;
+  margin: 0 auto;
+}
+
+#home > span {
+  display: none;
+}
+
+#menu {
+  position: absolute;
+  margin: 0;
+  right: 20px;
+}
+
+header {
+  position: relative;
+  margin-top: 70px;
+  border: 0 solid black;
+  height: 450px;
+}
+
+header::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  z-index: -1;
+  height: 450px;
+  background: url(https://res.cloudinary.com/ferndrang/image/upload/c_crop,g_north,h_0.70,w_1.00/ferndrang/world/hero) no-repeat;
+  background-size: cover;
+  background-position: 50% 35%;
+  filter: brightness(80%);
+}
+
+#titlebox {
+  position: relative;
+  height: 300px;
+  margin: 0 auto;
+  text-align: center;
+  color: white;
+}
+
+h1 {
+  width: 100%;
+  letter-spacing: 1.0rem;
+  font-size: 4.0rem;
+  text-transform: uppercase;
+}
+
+#titlebox h1 {
+  padding-top: 190px;
+  margin-bottom: 1rem;
+}
+
+#titlebox #spruechle {
+  font-size: 1.0rem;
+  font-family: "Times New Roman", Times, serif;
+  line-height: 1.6rem;
+}
+
+#titlebox #wir {
+  font-size: 1.0rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1rem;
+}
+
+main#pages {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  padding: 20px 15px 0;
+}
+
+.journey {
+  height: 20rem;
+  position: relative;
+  filter: none;
+}
+
+.journey a {
+  border: 1px solid transparent;
+  display: block;
+}
+
+.journey h3 {
+  position: relative;
+  top: 8rem;
+  margin: 0 auto 0 auto;
+  width: 100%;
+  text-align: center;
+}
+
+#index h2, h3, .journey h3 {
+  text-transform: uppercase;
+  letter-spacing: 0.6rem;
+  font-size: 2.5rem;
+  line-height: 2.5rem;
+}
+
+.journey .date {
+  position: relative;
+  top: .7rem;
+  margin: 8rem auto;
+  width: 100%;
+  text-align: center;
+  letter-spacing: 1pt;
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+  font-size: 1rem;
+}
+
+.journey img {
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  object-fit: cover;
+  position: absolute;
+  filter: brightness(80%);
+  margin: 0;
+  left: 0;
+  right: 0;
+}
+
+.journey::after {
+  content: "Bericht lesen";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 1.7rem;
+  z-index: -1;
+  width: 10rem;
+  margin: 0 auto;
+  border: 1px solid white;
+  padding: 0.5rem 0.5rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1rem;
+  text-align: center;
+  font-size: 0.8rem;
+}
+
+/* icon */
+.journey h3::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  z-index: -1;
+  width: 55px;
+  height: 50px;
+  margin: 0 auto;
+  top: -72px;
+  background-position: center bottom;
+}
+
+{{ range where .Site.Pages "Type" "journeys" }}
+{{ if and .Params.slug (eq .Kind "section") }}
+{{ $iconUrl := printf "/%s/icon.svg" .Params.slug }}
+.journey#j-{{ .Params.slug }} h3::before {
+  background: url({{ $iconUrl }}) no-repeat;
+  {{ with .Params.tile_icon_css }}{{ . | safeCSS }}{{ end }}
+}
+{{ end }}
+{{ end }}
+
+footer {
+  background: black;
+  height: 20px;
+  margin-top: 30px;
+  padding: 27px;
+  color: white;
+  text-transform: uppercase;
+  font-size: 0.9rem;
+  letter-spacing: 0.12rem;
+}
+
+#footerhome {
+  float: left;
+}
+
+#copy {
+  float: right;
+}
+
+
+/* l-view 3 column */
+@media (min-width: 1400px) {
+  main#pages {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+/* xl-view 4 column */
+@media (min-width: 2000px) {
+  main#pages {
+    grid-template-columns: repeat(4, 1fr);
+  }
+  header, header::before {
+    height: 650px;
+  }
+  #titlebox h1 {
+    padding-top: 300px;
+  }
+  h1 {
+    font-size: 4.5rem;
+    letter-spacing: 1.2rem;
+  }
+}
+
+#index {
+  color: black;
+  padding-top: 60px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+#index h2::before {
+  content: "";
+  display: block;
+  width: auto;
+  height: 67px;
+  margin: 10px auto;
+  background: url(/world/reisen.svg) no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+
+#index h2 {
+  width: 100%;
+  line-height: 4rem;
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+#index h3::before {
+  content: "";
+  display: block;
+  width: 40px;
+  height: 4px;
+  margin-bottom: 7px;
+  background: black;
+}
+
+#index h3 {
+  text-align: left;
+  text-transform: uppercase;
+  font-size: 1.5rem;
+  letter-spacing: 0.3rem;
+}
+
+#index div {
+  margin-bottom: 30px;
+  font-size: 1.5rem;
+  padding: 0 10px;
+}
+
+#index ul {
+  list-style: none;
+  list-style-position: inside;
+  padding-left: 0;
+  font-family: "Times New Roman", Times, sans-serif;
+  font-style: italic;
+  font-weight: 300;
+}
+
+#index li {
+  text-align: left;
+  width: 100px;
+  display: block;
+  margin: 10px 0;
+}
+
+#index a:hover {
+  text-decoration: underline;
+}
+
+/* s-view 1 column */
+@media (max-width: 800px) {
+  html {
+    font-size: 90%;
+  }
+  header, header::before {
+    height: 300px;
+  }
+  #titlebox h1 {
+    padding-top: 130px;
+  }
+  h1 {
+    font-size: clamp(1.4rem, 6.5vw, 2.3rem);
+    letter-spacing: clamp(0.2rem, 1.5vw, 0.6rem);
+  }
+  .journey h3 {
+    font-size: 2rem;
+    letter-spacing: 0.5rem;
+  }
+  main#pages {
+    grid-template-columns: 1fr;
+  }
+  .journey {
+    width: 100%;
+    height: 20rem;
+    margin-top: 0;
+    position: relative;
+    filter: none;
+  }
+  #copy {
+    float: left;
+  }
+  #index div {
+    width: 40%;
+    padding-left: 20px;
+  }
+  #index {
+    flex-wrap: wrap;
+    justify-content: left;
+  }
+}
+
+}
+</style>
+{{ end }}
+
+{{ define "main" }}
+<body>
+
+<div id="nav">
+  <a id="home" href="#top"><span>Home</span></a>
+  <a id="navhead" href="#top"><span>Ferndrang</span></a>
+  <a id="menu" href="#index">Reisen</a>
+</div>
+
+<header>
+  <div id="titlebox">
+    <h1>Ferndrang</h1>
+    <h2 id="spruechle"><i>posted by</i></h2>
+    <h2 id="wir">Ali &amp; Felix</h2>
+  </div>
+</header>
+
+<main id="pages">
+  {{ range where .Site.Pages "Type" "journeys" }}
+  {{ if and .Params.slug (eq .Kind "section") }}
+  <div class="journey" id="j-{{ .Params.slug }}">
+    <a href="/{{ .Params.slug }}/">
+      {{- $tileImage := .Params.hero_image_tile | default .Params.hero_image_ws -}}
+      {{- $heroURL := partial "cloudinary-url" (dict "filename" $tileImage "journeySlug" .Params.slug "cloudinaryFolder" (.Params.cloudinary_folder | default "") "cloudinaryBase" (site.Params.cloudinaryBaseURL | default "https://res.cloudinary.com/ferndrang/image/upload")) -}}
+      <img src="{{ $heroURL }}"
+           style="object-position: {{ .Params.tile_image_position | default (.Params.image_position | default "center center") }};
+                  filter: brightness({{ .Params.image_brightness | default 80 }}%);">
+      <h3>{{ .Title }}</h3>
+      <h4 class="date">
+        {{ (time .Params.start_date).Format "02/01/2006" }} – {{ (time .Params.end_date).Format "02/01/2006" }}
+      </h4>
+    </a>
+  </div>
+  {{ end }}
+  {{ end }}
+
+</main>
+
+<aside id="index">
+  <h2>Reisen</h2>
+  {{ $journeys := where .Site.Pages "Kind" "section" }}
+  {{ $journeys = where $journeys "Type" "journeys" }}
+  {{ $byContinent := $journeys.GroupByParam "continent" }}
+  {{ range $byContinent }}
+  <div>
+    <h3>{{ .Key }}</h3>
+    <ul>
+      {{ $entries := slice }}
+      {{ range .Pages }}
+        {{ if .Params.slug }}
+          {{ $slug := .Params.slug }}
+          {{ $title := .Params.index_title | default .Title }}
+          {{ $entries = $entries | append (dict "title" $title "link" (printf "/%s/" $slug)) }}
+          {{ range .Params.index_additions }}
+            {{ $entries = $entries | append (dict "title" .title "link" (printf "/%s%s" $slug .link)) }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+      {{ range sort $entries "title" }}
+      <li><a href="{{ .link }}">{{ .title }}</a></li>
+      {{ end }}
+    </ul>
+  </div>
+  {{ end }}
+</aside>
+
+<footer>
+  <div id="footerhome"><a href="#top">TOP</a></div>
+  <div id="copy">&copy; {{ now.Year }} {{ .Site.Params.author }}</div>
+</footer>
+
+</body>
+{{ end }}

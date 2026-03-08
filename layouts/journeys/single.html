@@ -1,0 +1,178 @@
+{{ define "css" }}
+<link rel="stylesheet" href="/world/style16.css">
+<link rel="stylesheet" href="/world/menu.css">
+<script async src="/world/script.js"></script>
+
+{{- $cloudinaryFolder := .Parent.Params.cloudinary_folder | default "" -}}
+{{- $cloudinaryBase := .Site.Params.cloudinaryBaseURL | default "https://res.cloudinary.com/ferndrang/image/upload" -}}
+{{- $journeySlug := .Parent.Params.slug -}}
+{{- $urlArgs := dict "journeySlug" $journeySlug "cloudinaryFolder" $cloudinaryFolder "cloudinaryBase" $cloudinaryBase -}}
+
+{{- $heroWSURL := partial "cloudinary-url" (merge $urlArgs (dict "filename" .Parent.Params.hero_image_ws)) -}}
+{{- $heroBgWS := printf "url(%s) no-repeat" $heroWSURL | safeCSS -}}
+
+{{- $heroQS := .Parent.Params.hero_image_qs -}}
+{{- $heroBgQS := "" -}}
+{{- if $heroQS -}}
+  {{- $heroQSURL := partial "cloudinary-url" (merge $urlArgs (dict "filename" $heroQS "width" "w_1200")) -}}
+  {{- $heroBgQS = printf "url(%s) no-repeat" $heroQSURL | safeCSS -}}
+{{- end -}}
+
+{{- /* Icon - always local (SVG, no Cloudinary) */ -}}
+{{- $icon := .Parent.Params.icon -}}
+{{- $iconURL := "" -}}
+{{- if hasPrefix $icon "/" -}}
+  {{- $iconURL = $icon -}}
+{{- else -}}
+  {{- $iconURL = printf "/%s/%s" $journeySlug $icon -}}
+{{- end -}}
+
+{{- /* Map - always local (SVG) */ -}}
+{{- $map := .Parent.Params.map -}}
+{{- $mapURL := "" -}}
+{{- if $map -}}
+  {{- $mapURL = printf "/%s/%s" $journeySlug $map -}}
+{{- end -}}
+
+{{- $bodyClass := .Params.body_class | default .Parent.Params.body_class -}}
+
+<style>
+.{{ $bodyClass }} #header {
+  background: {{ $heroBgWS }};
+  background-position: {{ .Parent.Params.image_position | default "50% 50%" }};
+  background-size: cover;
+  margin-bottom: {{ .Parent.Params.header_margin_bottom | default "0" }};
+}
+
+.{{ $bodyClass }} #titlebox h1 {
+  background: url({{ $iconURL }}) no-repeat;
+  background-position: {{ .Parent.Params.icon_position | default "center 115px" }};
+  background-size: {{ .Parent.Params.icon_size | default "5rem" }};
+}
+
+#datebox {
+  position: absolute;
+  top: 550px;
+  width: 200px;
+  z-index: 20;
+}
+
+.datelabel {
+  line-height: 2.2rem;
+  background: black;
+  color: white;
+  margin: 0 0 4px 0;
+  padding: 5px 20px;
+  white-space: nowrap;
+  letter-spacing: 0.1rem;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.1rem;
+}
+
+img#map {
+  width: 90%;
+  max-width: {{ .Parent.Params.map_width | default "1000px" }};
+  {{ if .Parent.Params.map_margin }}
+  margin: {{ .Parent.Params.map_margin }};
+  {{ else }}
+  margin: 50px auto;
+  {{ end }}
+  z-index: -10;
+  {{ with .Parent.Params.map_style }}{{ . | safeCSS }}{{ end }}
+}
+
+.{{ $bodyClass }} #container {
+  margin-top: 40px;
+}
+
+{{ if $heroBgQS }}
+@media (max-width: 800px) {
+  .{{ $bodyClass }} #header {
+    background: {{ $heroBgQS }};
+    background-position: {{ .Parent.Params.image_position_mobile | default (.Parent.Params.image_position | default "50% 50%") }};
+    background-size: cover;
+  }
+
+  .datelabel {
+    display: none;
+  }
+}
+{{ end }}
+
+{{ with .Parent.Params.additional_css }}{{ . | safeCSS }}{{ end }}
+</style>
+{{ end }}
+
+{{ define "main" }}
+{{- $bodyClass := .Params.body_class | default .Parent.Params.body_class -}}
+<body class="{{ $bodyClass }}">
+<h1 id="printhead">{{ .Parent.Title }} {{ .Parent.Date.Format "2006" }}</h1>
+
+{{ partial "nav.html" . }}
+{{ partial "menu.html" . }}
+
+<div id="header">
+  <div id="titlebox">
+    <h1>{{ .Parent.Title }}</h1>
+    <h2 id="spruechle"><i>posted by</i></h2>
+    <h2 id="wir">Ali &amp; Felix</h2>
+  </div>
+</div>
+
+<div id="datebox">
+  <span class="datelabel"><i>{{ (time .Parent.Params.start_date).Format "02/01/2006" }}</i></span>
+  <span class="datelabel"><i>bis {{ (time .Parent.Params.end_date).Format "02/01/2006" }}</i></span>
+</div>
+
+{{- $hideMap := .Params.hide_map | default .Parent.Params.hide_map -}}
+{{ if and .Parent.Params.map (not $hideMap) }}
+{{- $journeySlug := .Parent.Params.slug -}}
+{{- $map := .Parent.Params.map -}}
+{{- $mapURL := printf "/%s/%s" $journeySlug $map -}}
+<img id="map" src="{{ $mapURL }}">
+{{ end }}
+
+<div id="container">
+  {{ $currentDate := .Date }}
+  {{ $allPlaces := .Parent.Pages.ByDate }}
+
+  <!-- Previous entries as stubs -->
+  {{ range $allPlaces }}
+    {{ if lt .Date $currentDate }}
+    <div class="entry">
+      <a href="{{ .RelPermalink }}#main">
+        {{ if not .Params.hide_date }}<h2 class="date">{{ .Date.Format "02/01/2006" }}</h2>{{ end }}
+        <h3 class="title">{{ .Title }}</h3>
+      </a>
+    </div>
+    {{ end }}
+  {{ end }}
+
+  <!-- Current entry with full content -->
+  <div class="entry">
+    <a id="main"></a>
+    {{ if not .Params.hide_date }}<h2 class="date">{{ .Date.Format "02/01/2006" }}</h2>{{ end }}
+    <h3 class="title">{{ .Title }}</h3>
+    <div class="text">{{ .Content }}</div>
+  </div>
+
+  <!-- Following entries as stubs -->
+  {{ range $allPlaces }}
+    {{ if gt .Date $currentDate }}
+    <div class="entry">
+      <a href="{{ .RelPermalink }}#main">
+        {{ if not .Params.hide_date }}<h2 class="date">{{ .Date.Format "02/01/2006" }}</h2>{{ end }}
+        <h3 class="title">{{ .Title }}</h3>
+      </a>
+    </div>
+    {{ end }}
+  {{ end }}
+</div>
+
+<div class="footer">
+  <div id="footerhome"><a href="/">ferndrang.de</a></div>
+  <div id="copy">&copy; by {{ .Site.Params.author }}</div>
+</div>
+
+</body>
+{{ end }}

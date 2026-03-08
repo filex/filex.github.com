@@ -1,0 +1,10 @@
+<aside id="menu">
+  {{ $parent := . }}
+  {{ if .Parent }}
+    {{ $parent = .Parent }}
+  {{ end }}
+
+  {{ range $parent.Pages.ByDate }}
+    <a href="{{ .RelPermalink }}#main">{{ .Title }}</a>
+  {{ end }}
+</aside>

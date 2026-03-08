@@ -1,0 +1,39 @@
+{{- /*
+  Heading Render Hook
+
+  # Title       → first per file: suppressed (title from front matter)
+                → subsequent: immediately output as h3.title.title-raw
+                  CSS hides title-raw when immediately followed by h2.subdate.date,
+                  and outputs it again (in correct order) via the ## handler.
+                  For same-day entries (# Ort with no following ##), title-raw stays visible.
+  ## Date       → outputs date h2, then flushes buffered title as h3.title (correct order)
+                → without buffered title: just outputs date
+  ### and below → flush any pending title first, then normal heading
+*/ -}}
+
+{{- if eq .Level 1 -}}
+  {{- $count := .Page.Store.Get "h1count" | default 0 -}}
+  {{- $count = add $count 1 -}}
+  {{- .Page.Store.Set "h1count" $count -}}
+  {{- if gt $count 1 -}}
+    {{- .Page.Store.Set "pending_title" .Text -}}
+<h3 class="title title-raw">{{ .Text }}</h3>
+  {{- end -}}
+
+{{- else if eq .Level 2 -}}
+  {{- $pendingTitle := .Page.Store.Get "pending_title" -}}
+<h2 class="subdate date">{{ .Text }}</h2>
+  {{- with $pendingTitle -}}
+<h3 class="title">{{ . }}</h3>
+  {{- end -}}
+  {{- .Page.Store.Delete "pending_title" -}}
+
+{{- else -}}
+  {{- $pendingTitle := .Page.Store.Get "pending_title" -}}
+  {{- with $pendingTitle -}}
+<h3 class="title">{{ . }}</h3>
+  {{- end -}}
+  {{- .Page.Store.Delete "pending_title" -}}
+<h{{ .Level }}>{{ .Text }}</h{{ .Level }}>
+
+{{- end -}}

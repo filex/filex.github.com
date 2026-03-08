@@ -1,0 +1,25 @@
+baseURL = "https://www.ferndrang.de/"
+languageCode = "de"
+title = "ferndrang"
+disableKinds = ["RSS"]
+
+[params]
+  author = "F. Hassert & A. Zeisler"
+
+  # Cloudinary Configuration
+  cloudinaryBaseURL = "https://res.cloudinary.com/ferndrang/image/upload"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # Allow HTML in markdown
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
+        title = true
+
+[permalinks]
+  [permalinks.section]
+    journeys = "/:slug/"
+  [permalinks.page]
+    journeys = "/:slug/"
