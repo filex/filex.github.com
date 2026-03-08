@@ -10,6 +10,11 @@ Unsere zwei Nächte an der Sodwana Bay waren unser Versuch, der Reise noch ein e
 
 Wir haben einen modernen, blitzsauberen Bungalow bezogen, haben unsere Badesachen geschnappt und sind direkt zum Strand heruntergegangen. Ein kleiner Weg führte durch den dichten Wald, der das steile Ufer bedeckt. Der Strand war wirklich unglaublich. Er lief endlos bis in den Dunst des Horizonts. Außer einer Handvoll Leute, die mehr zum Angeln gekommen waren, war nichts los. Wir konnten es uns herrlich gemütlich machen und mussten uns um nichts außer regelmäßigem Wenden kümmern.
 
+![portrait](AF_20221228_5869.jpg)
+
 ## 29/12/2022
 
 Über den Strand sind wir zum Hauptstrand von Sodwana Bay spaziert. Dort wurde klar, wohin die endlose Autoschlange vom Vortag verschwunden war. Die Bucht glich einer Zeltstadt aus hässlichen, blauen Planen. Bizarrerweise standen überall Traktoren auf dem Strand. Damit werden in Ermangelung einer Rampe die Bootsanhänger ins Wasser geschoben. Wir sind schnell wieder in unsere friedliche Einöde zurückgekehrt und haben uns vom aufkommenden Wind sandstrahlen lassen.
+
+![](AF_20221229_5892.jpg)
+![](AF_20221229_5886.jpg)

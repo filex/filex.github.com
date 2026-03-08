@@ -10,32 +10,73 @@ Wir waren noch gar nicht richtig wach nach dem langen Flug und den endlosen Schl
 
 Die Schnellstraße schlängelt sich am Fuß des Tafelbergs entlang und gibt nach einer Weile den Blick auf den Lion's Head frei – der markante kleinere Gipfel wacht über der Stadt und ist von überall aus zu sehen. Unsere private Unterkunft liegt im ruhigen und schicken Tamboerskloof, wo sich alte viktorianische mit modernen Häusern abwechseln.
 
+![portrait](AF_20221212_6580.jpg)
+
 Das erste, was unsere Gastgeberin uns erklärt hat, war die App, mit der man über die Stromzuteilung in Kapstadt informiert wird. Es gibt nämlich in jedem Bezirk täglich mehrere geplante Stromausfälle. Anscheinend ist die Infrastruktur schlecht gewartet und kann nicht durchgehend genug Strom für alle erzeugen. Mit der App kann man also planen, wann man warm duschen oder wann ein Café auch Milchschaum machen kann.
 
 Von unserem kleinen Innenhof aus konnten wir so gerade die „Spitze" des Tafelbergs sehen – und zwar ohne Wolken. Daher sind wir direkt zur Seilbahn gefahren um Kapstadt von oben zu bewundern. Der Boden der Gondel dreht sich während der Fahrt, damit alle etwas zu sehen bekommen. Besonders die mächtigen Steilwände am oberen Rand des Bergs sind beeindruckend. Oben verläuft sich die sonntägliche Besucherschar auf den vielen mit Heidekräutern bestandenen Spazierwegen.
 
+![](AF_20221211_4099.jpg)
+![](AF_20221211_4048.jpg)
+![](AF_20221211_4064.jpg)
+![](AF_20221211_4074.jpg)
+
 Der Blick auf die Innenstadt mit ihren hässlichen Hochhäusern erinnert an Bogota, wo man genauso vom Hausberg auf die endlose Stadt blickt. Aber in Kapstadt gibt es noch die andere Seite, wo die Bergkette der Zwölf Apostel majestätisch die Küste entlang Richtung Kap verläuft. Davor blenden weiße Sandstrände in den Buchten der schicken Vororte. Eine Wolkendecke legte sich sanft auf die Tafelberge und es wurde fast noch schöner dadurch. Fast, weil es dann anfing zu regnen.
+
+![](AF_20221211_4079.jpg)
 
 ![](AF_20221213_4449.jpg)
 
 Den Rest des Nachmittags haben wir daher im tollen Zeitz Museum verbracht. Das Gebäude ist ein umgebautes, ehemaliges Hafensilo und mutet sehr industriell-futuristisch an. Die Ausstellungen zeitgenössischer afrikanischer Künstler waren wirklich sehenswert. Die in der Nähe liegende Waterfront dagegen war weniger sehenswert, hier reihen sich nur langweilige Restaurants aneinander.
 
+![](AF_20221211_.jpg)
+
+![](AF_20221211_4113.jpg)
+![](AF_20221211_4146.jpg)
+
 ## 12/12/2022
 
-Wir sind früh aufgestanden, um vor der ersten Stromabschaltung warm duschen und im Café um die Ecke einen Cappuccino (mit Milchschaum!) trinken zu können. Ein guter Start in einen schönen Tag für einen Ausflug ans Kap.
+Wir sind früh aufgestanden, um vor der ersten Stromabschaltung warm duschen zu können und im Café um die Ecke noch einen Cappuccino (mit Milchschaum!) zu bekommen - ein guter Start in einen schönen Tag für einen Ausflug ans Kap.
 
 Über den Sattel zwischen den Stadtbergen sind wir zu den Strandvororten Camps Bay und Hout Bay gefahren. Camps erinnert an Sidneys Bondi Beach und Hout liegt so hübsch von steilen Klippen umsäumt, dass es die Riviera sein könnte – nur ohne schöne, alte Häuser. Dahinter beginnt der Chapman's Peak Drive, eine wunderschöne Küstenstraße, die sich hoch über dem Meer an die Klippen schmiegt.
 
-Weiter südlich und auf der anderen, östlichen Seite des Kaps liegt Boulder Bay. Dort hat sich zwischen den mächtigen Felsbrocken auf dem Strand eine kleine Pinguin-Kolonie angesiedelt. In einem abgesperrten Bereich kann die kleinen Stinker aus nächster Nähe beobachten. Am benachbarten Badestrand mischen sich die Pinguine auch unauffällig unters Volk und stellen sich so arglos zu den Menschen, dass sie fast einen störenden Schatten aufs Handtuch werfen.
+![](AF_20221212_4184.jpg)
+![](AF_20221212_4189.jpg)
+![](AF_20221212_4198.jpg)
+![](AF_20221212_4155.jpg)
+
+Weiter südlich und auf der anderen, östlichen Seite des Kaps liegt Boulder Bay. Dort hat sich zwischen den mächtigen Felsbrocken auf dem Strand eine kleine Pinguin-Kolonie angesiedelt. In einem abgesperrten Bereich kann die kleinen Stinker aus nächster Nähe beobachten. Am benachbarten Badestrand mischen sich die Pinguine auch unauffällig unters Badevolk und stellen sich so arglos neben Menschen, dass sie fast einen störenden Schatten aufs Handtuch werfen.
+
+![](AF_20221212_4205.jpg)
+![](AF_20221212_4210.jpg)
+![](AF_20221212_4232.jpg)
+![](AF_20221212_4279.jpg)
+![](AF_20221212_6611.jpg)
 
 Das Ziel des Ausflugs ist quasi das Ende Afrikas. Das Kap ist - wie so einiges hier - in einen Nationalpark gewickelt. Wir waren überrascht, wie groß und landschaftlich schön die Spitze des Kaps ist. Am hintersten Zipfel thront ein Leuchtturm hoch über schroffen, senkrechten Felsen, an deren Ufer sowohl der Atlantische als auch der Indische Ozean seine Wellen schickt. Mit dem über Kapstadt aufziehenden Gewitter wird es wild am Kap. Wir sind aber noch losgelaufen, weil es vor der Spitze mit dem Leuchtturm noch einen Pfad zu einer kleineren Spitze mit einem kleineren Leuchtturm gibt. Noch wildere Stimmung dort unten, aber der Regen hat uns erwischt.
 
+
+![](AF_20221212_4339.jpg)
+![](AF_20221212_4362.jpg)
+![](AF_20221212_4375.jpg)
+![](AF_20221212_4385.jpg)
+![](AF_20221212_6655.jpg)
+![portrait](AF_20221212_4329.jpg)
+
 Das eigentliche Kap der Guten Hoffnung ist kaum der Rede wert. Das ist ein flach am Ufer liegendes Fleckchen, das man nur an der Tafel, die seine Wichtigkeit erklärt, erkennt. Wir sind noch nicht mal ausgestiegen. Leider hat uns der Regen weitere Spaziergänge dort unten verdorben.
+
+Zurück in Kapstadt haben wir einen Abstecher ins bunte Viertel _Bo Kaap_ gemacht. Die Häuser sind alle in knallbunten Farben gestrichen und es gibt eine Menge Streetart. Außer einigen Touristen mit Kameras war in dem verschlafenen Viertel nicht viel los.
+
+![](AF_20221212_4400.jpg)
+![](AF_20221212_4406.jpg)
+![portrait](AF_20221212_4404.jpg)
+![](AF_20221213_4413.jpg)
 
 ## 13/12/2022
 
-Der erste frühmorgendliche Blick aus dem Fenster hat unseren Plan zunichte gemacht, den Lion's Peak zu besteigen. Normalerweise hat man die runde Bergspitze immer im Blick, aber an diesem Morgen war es so wolkenverhangen, dass wir weitergeschlafen haben. Stattdessen sind wir durch die Stadt spaziert. Von unserem Viertel aus zieht sich die Kloof Street mit ihren vielen Bars und Restaurants bis in die Innenstadt („City Bowl"), wo sie zur ebenso belebten Long Street wird. In der Nähe gibt es viele schöne Cafés und Geschäfte.
+Der erste frühmorgendliche Blick aus dem Fenster hat unseren Plan zunichte gemacht, den Lion's Peak zu besteigen. Normalerweise hat man die runde Bergspitze immer im Blick, aber an diesem Morgen war es so wolkenverhangen, dass wir weitergeschlafen haben. Stattdessen sind wir durch die Stadt spaziert. Von unserem Viertel aus zieht sich die Kloof Street mit ihren vielen Bars und Restaurants bis in die Innenstadt („City Bowl"), wo sie zur ebenso belebten Long Street wird. In der Nähe gibt es viele nette Cafés und Geschäfte.
 
-Der Stadtpark „Company's Garden" ist eigentlich ganz schön angelegt, aber bis auf Scharen von Eichhörnchen ziemlich ausgestorben. Es scheint sich für ein Nickerchen auf Parkbänken zu eignen. Mittendrin liegt die National Gallery, die mit ihren wirr vollgehangenen Wänden am Rekord in Kunst-pro-Quadratmeter arbeitet. Hier hängt jede Menge afrikanische Kunst, und dazwischen hier ein kleiner Miro, da ein Kandinsky und alles von Dürer (auch dabei) bis heute.
+Der Stadtpark „Company's Garden" ist eigentlich ganz schön angelegt, aber bis auf Scharen von Eichhörnchen ziemlich ausgestorben. Er scheint sich für ein Nickerchen auf Parkbänken zu eignen. Mittendrin liegt die National Gallery, die mit ihren wirr vollgehangenen Wänden am Rekord in Kunst-pro-Quadratmeter arbeitet. Hier hängt jede Menge afrikanische Kunst, und dazwischen hier ein kleiner Miro, da ein Kandinsky und alles von Dürer (auch dabei) bis heute.
 
 Weil sich der Lion's Head weiterhin nicht zeigen wollte, haben wir den Nachmittag am langen Strand von Camps Bay verbracht. Hier genießen jede Menge Familien den Anfang der Sommerferien und planschen stundenlang im gar nicht so warmen Wasser. Eine Bucht weiter liegt das schicke Clifton. Der Strand ist nur über steile Treppen erreichbar und von großen Felsen segmentiert, dass man meint, auf den Seychellen gelandet zu sein. Es muss schon toll sein, nach der Arbeit für ein Stündchen hierher kommen zu können. Zehn Minuten mit dem Auto wartet die Großstadt.
+

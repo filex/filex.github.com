@@ -274,6 +274,9 @@ h1 {
   }
   .entry img.portrait {
     width: 49%;
+    aspect-ratio: 2/3;
+    object-fit: cover;
+    object-position: center center;
     display: inline-block;
     vertical-align: top;
     margin-right: 10px;

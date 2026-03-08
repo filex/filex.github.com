@@ -10,13 +10,24 @@ In Port Elizabeth haben wir unseren Mietwagen abgegeben und sind nach Durban gef
 
 Der Weg ins Inland zu den Drakensbergen wurde schnell langweilig: Felder, Weiden, Stauseen, noch mehr Felder. Wir mussten wieder einen Riesenumweg fahren, dieses Mal aber aus leichter akzeptierbaren geographischen Gründen. Die Witsieshoek Lodge liegt an der Kante eines Hochplateaus, das fast tausend Meter über der restlichen Landschaft aufragt. Das konnten wir auf unserem Umweg aber alles nicht sehen.
 
+
 Stattdessen sind wir eine endlose Zeit durch die Stadt Phuthaditjhaba gefahren. Dort konnten wir schon ein paar Tafelberge am Horizont aufragen sehen. Aber die meiste Zeit waren wir damit beschäftigt im Gewusel auf der Hauptstraße unser Auto nicht an eine brutale Verkehrsberuhigung oder einen plötzlich bremsenden Minibus zu verlieren. Außerdem ist es eine empfehlenswerte Strecke, um die undurchsichtigen Vorfahrtsregeln zu trainieren. Im Gegensatz zur Garden Route, liegt Phuthaditjhaba ziemlich sicher in Afrika. Der Ort ist lose bebaut und zieht sich durch mehrere Täler und Hügel. Trotzdem sind überall Fußgänger. Das größte Business scheint Autowäsche zu sein (vier Holzstöcke, eine Zeltplane, ein Schwamm, viel Schaum). Die Häuser sind aus einfachen Ziegeln gebaut, haben Wellblech, aber meistens genug Platz für einen Gemüsegarten.
 
+![](AF_20221221_5204.jpg)
+
 Hinter dem Ortsende hat sich die Straße immer weiter die Hügel hochgeschraubt. Die Sicht wurde schlechter, weil wir schon mitten in den Wolken fuhren. Irgendwann tauchte eine Schranke aus dem Nichts auf – wieder eine Nationalparkgrenze. Dahinter ging es noch einsamer weiter, bis sich in kaum 20 Metern Entfernung unser Hotel aus den Wolken schälte.
+
+![](AF_20221221_5210.jpg)
 
 Der Reiseführer hat das Hotel als „elegant" beschrieben. Das ist schon stark, da wackelt „abwechslungsreich" als Lieblingswort. Wir konnten den abgehalfterten Aufenthaltsraum schon anfangs eine zeitlang genießen, als wir auf unser Zimmer gewartet haben. Aber letztlich ist es das einzige Hotel in der Gegend und versprüht auf über 2000m Höhe doch deutlich mehr Charme als eine Berghütte. Zumindest hatten wir unser eigenes Zimmer und warmes Wasser.
 
 Den Nachmittag haben wir dafür genutzt, unsere Regenkleidung auszuführen. Mit Regenhosen und -jacke wandert es sich auch durch Wolken, leichten Regen und nasses Gras ganz bequem, vorausgesetzt man hat wie wir das Glück, dass es nicht zu warm ist. Wir haben einen Weg hinab ins Tal eingeschlagen, der zu einem Wasserfall führt. Aber so trocken eingepackt war das alles viel reizvoller als gedacht. Die satten Wiesen standen voller Wildblumen und auf dem Weg zum kleinen Wasserfall sind wir an einigen noch kleineren Wasserfällen vorbeigekommen. Der Pfad führte uns immer weiter bergab ins Tal, bis wir schließlich unter der Wolkendecke angekommen waren. Da erschien plötzlich ein märchenhaftes, grünes Land mit Bächen und Vögeln unter dem Nebel – nur Einhörner fehlten, und der Blick auf die umliegenden senkrechten Felswände, die eigentlich da sein sollten. Leider konnten wir die Runde nicht vollständig gehen, weil es schon langsam dämmerte.
+
+![](AF_20221221_5254.jpg)
+![portrait](AF_20221221_5246.jpg)
+![](AF_20221221_.jpg)
+![portrait](AF_20221221_5228.jpg)
+![portrait](AF_20221221_5229.jpg)
 
 ## 22/12/2022
 
@@ -24,14 +35,46 @@ Eine der spannendsten Wanderungen in den Drakensbergen führt zu den Tugela-Fall
 
 Dagegen ist die Wanderung ein Spaziergang. Anfangs ging es etwas bergauf, aber der Ausblick vom Fuße des Sentinel Peaks - ein großer, flacher Felsgipfel - war schon überwältigend: Das Hochplateau fällt in einem großen Bogen fast einen Kilometer steil ins Tal ab. Wir konnten ungefähr die ersten 10m davon sehen, da eine geschlossene Wolkendecke knapp unter uns den Kessel abdeckte. Aber das sah mindestens genauso gut aus, wie bei klarem Wetter.
 
+![](AF_20221222_.jpg)
+![](AF_20221222_5304.jpg)
+![portrait](AF_20221222_5281.jpg)
+
 Danach sind wir bequem auf einer Höhe bleibend um den Sentinel Peak herumgelaufen, oben blauer Himmel, unten dichte Wolkendecke. Der Pfad endete an einem Spalt zwischen zwei Bergen, wo wir eine 20m hohe, senkrechte Passage (natürlich ungesichert) mit Kettenleitern erklimmen mussten. Das war aufregend. Dahinter gelangten wir schnell auf eine Hochebene auf etwa 3000m. Leider waren wir ein paar Minuten zu spät am Ziel. Die Wolkendecke war schon bis zum Rand hochgezogen. Von den knapp 950m des Wasserfalls konnten wir noch etwa 95,0cm bewundern. Auch hartnäckiges Pausieren an der Klippe hat uns keine tieferen Einsichten beschert.
+
+![portrait](AF_20221222_5330.jpg)
+![portrait](AF_20221222_5336.jpg)
+![](AF_20221222_5343.jpg)
+![](AF_20221222_5345.jpg)
+![portrait](AF_20221222_5349.jpg)
+![portrait](AF_20221222_6899.jpg)
 
 ## 23/12/2022
 
-Die Drakensberge ziehen sich an der ganzen Ostgrenze von Lesoto entlang. In einem über drei Stunden langen Bogen sind wir nur 50km Luftlinie südlich in einem Abschnitt mit dem vielversprechenden Namen „Champagne Castle" angekommen. Der „Monks Cowl" ist ein weiterer kleiner Nationalpark. Südafrika ist voll von diesen hübschen Naturinseln, die in der landwirtschaftlichen Einöde schwimmen. Obwohl es dieselben Berge waren wie gestern, und auch gar nicht so weit davon entfernt, wirkte es wie in einem anderen Land. Bei 32º und strahlendem Sonnenschein haben wir uns den Bergen diesmal von unten genähert. Obwohl es hier nur halb so hoch war wie am Vortag, hat uns die Hitze doch zu schaffen gemacht. Aber das sattgrüne Bergland mit vielen (kleinen) Wasserfällen und Pfaden, die durch Proteen-Wäldchen führen, war einfach zu schön, um es nicht zu genießen. Die meisten Spaziergänger sind beim Aussichtspunkt „Sphinx" umgekehrt. Wir sind eine fast fünfstündige Runde gegangen. Auf dem Rückweg war der überwucherte Pfad gerade einen Fuß breit und führte durch steile Hänge. Während hinter uns in den Bergen wildes Donnergrollen den nächsten Regenguss ankündigte, lagen vor uns noch wunderbare Talansichten.
+Die Drakensberge ziehen sich an der ganzen Ostgrenze von Lesoto entlang. In einem über drei Stunden langen Bogen sind wir nur 50km Luftlinie südlich in einem Abschnitt mit dem vielversprechenden Namen „Champagne Castle" angekommen. Der „Monks Cowl" ist ein weiterer kleiner Nationalpark. Südafrika ist voll von diesen hübschen Naturinseln, die in der landwirtschaftlichen Einöde schwimmen.
+
+Obwohl es dieselben Berge waren wie gestern, und auch gar nicht so weit davon entfernt, wirkte es wie in einem anderen Land. Bei 32º und strahlendem Sonnenschein haben wir uns den Bergen diesmal von unten genähert. Obwohl es hier nur halb so hoch war wie am Vortag, hat uns die Hitze doch zu schaffen gemacht. Aber das sattgrüne Bergland mit vielen (kleinen) Wasserfällen und Pfaden, die durch Proteen-Wäldchen führen, war einfach zu schön, um es nicht zu genießen.
+
+![](AF_20221223_5365.jpg)
+![](AF_20221223_5385.jpg)
+![](AF_20221223_5409.jpg)
+
+Die meisten Spaziergänger sind beim Aussichtspunkt „Sphinx" umgekehrt. Wir sind eine fast fünfstündige Runde gegangen. Auf dem Rückweg war der überwucherte Pfad gerade einen Fuß breit und führte durch steile Hänge. Während hinter uns in den Bergen wildes Donnergrollen den nächsten Regenguss ankündigte, lagen vor uns noch wunderbare Talansichten.
+
+![portrait](AF_20221223_5430.jpg)
+![](AF_20221223_5461.jpg)
+![](AF_20221223_6934.jpg)
+
 
 Der Tag hatte aber noch ein paar mehr Überraschungen für uns. Unsere nächste Unterkunft wirkte auf den Bildern wie ein Ferienhaus. Den Schlüssel sollten wir in einem Restaurant „in der Nähe" abholen. Dort wurde gerade ein Weihnachtsmarkt veranstaltet. Die Unterkunft läge nur 10km die Straße entlang, nach der zweiten Brücke den Hügel herunter und dann käme links das Tor. Der Asphalt reichte gerade lang genug um arglose Reisende auf die Straße zu locken und hörte dann abrupt auf, um der zweitschlechtesten Straße Südafrikas Platz zu machen: Als sei eine Welle aus Schlamm mitten in der Bewegung fest geworden; perfide Muster aus Schlaglöchern, höchste Konzentration. (Gottseidank war es trocken). Wir wollten nur kurz duschen und dann zum Abendessen zurück kommen. Dadurch hatten wir das Glück diese furchtbare Piste mit unserem armen Mietwagen viermal hintereinander fahren zu können, dreieinhalbmal im Dunkeln - absolut empfehlenswert.
 
 Überraschend war jedoch die Unterkunft. Wir wurden am Tor abgeholt, das nicht etwa zum Haus führte sondern in ein privates Wildreservat. In einem großen Bogen führte die Schotterpiste unter Akazien entlang an friedlich grasenden Impala- und Zebra-Familien vorbei, bis in gebührendem Abstand fünf Villen auftauchten. Unser Gastgeber hatte am Telefon etwas von Giraffen erwähnt, was wir für einen Scherz gehalten haben. Aber da waren sie, und haben im Vorgarten an den Zitronenbäumen genascht.
 
+![](AF_20221224_5538.jpg)
+![](AF_20221224_5547.jpg)
+![portrait](AF_20221224_5467.jpg)
+![portrait](AF_20221224_5487.jpg)
+
 Um das unerwartete Game Reserve wenigstens ein bisschen nutzen zu können, haben wir am nächsten Morgen noch vor dem Frühstück einen Spaziergang durch das Gelände gemacht. Unser Gastgeber hat von der Terrasse aus einen groben Kreis durchs Gelände beschrieben, wo er immer gerne gelaufen sei. Das muss schon eine Weile her gewesen sein, da wir die Pfade kaum noch gefunden haben. Dafür konnten wir eine Giraffenfamilie in allen Größen - von haushoch runter bis zum Nesthäkchen - aus nächster Nähe beobachten und fast zwischen ihren Beinen hergehen. Falls es hier Kinder gibt, könnten sie eine Giraffe als Fußballtor nehmen. Im feuchten Schilf rund um einen kleinen Fluss gab es viele Vögel, die in großer Hektik ihrer Brutpflege nachgegangen sind.
+
+![](AF_20221224_5511.jpg)
+![](AF_20221224_5534.jpg)

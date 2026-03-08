@@ -6,7 +6,12 @@ date: 2022-12-30
 
 #
 
-Unser Ausflug nach Eswatini (Swaziland) kann man schon als Rückweg bezeichnen. Das ist natürlich etwas unfair - selbst für ein so kleines Land. An der Grenze arbeiteten die Beamten beider Seiten kräftig daran, nicht versehentlich als freundlich missverstanden zu werden. Die Tankstelle hinter der Grenze hatte kein Benzin mehr. Durch den Regen, der leider wieder eingesetzt hatte, wirkte alles etwas trist und schlammig. Die potentielle landschaftliche Schönheit blieb in den tief hängenden Wolken verborgen. Anfangs kamen wir zwar durch eine Zuckerrohr-Region, die recht eintönig war. Aber danach schien das Land sehr viel ursprünglicher als der große Nachbar. Weniger Verkehr, viel weniger bebaut, die Städtchen etwas chaotischer. In der Nähe von Manzini (ziemlich genau die Mitte des Landes) wurde die Straße mit ein paar Autobahn-Schildern dekoriert und hat sich kurz danach in irrsinnig großen Schlaglöchern aufgelöst. Die größte Herausforderung bestand darin nicht wie beim Autoscooter seitlich von jemandem gerammt zu werden, der gerade hektisch versucht seine Achsen zu retten.
+Unser Ausflug nach Eswatini (Swaziland) kann man schon als Rückweg bezeichnen. Das ist natürlich etwas unfair - selbst für ein so kleines Land. An der Grenze arbeiteten die Beamten beider Seiten kräftig daran, nicht versehentlich als freundlich missverstanden zu werden. Die Tankstelle hinter der Grenze hatte kein Benzin mehr. Durch den Regen, der leider wieder eingesetzt hatte, wirkte alles etwas trist und schlammig. Die potentielle landschaftliche Schönheit blieb in den tief hängenden Wolken verborgen. Anfangs kamen wir zwar durch eine Zuckerrohr-Region, die recht eintönig war. Aber danach schien das Land sehr viel ursprünglicher als der große Nachbar.
+
+![](AF_20221230_5909.jpg)
+
+Weniger Verkehr, viel weniger bebaut, die Städtchen etwas chaotischer. In der Nähe von Manzini (ziemlich genau die Mitte des Landes) wurde die Straße mit ein paar Autobahn-Schildern dekoriert und hat sich kurz danach in irrsinnig großen Schlaglöchern aufgelöst. Die größte Herausforderung bestand darin nicht wie beim Autoscooter seitlich von jemandem gerammt zu werden, der gerade hektisch versucht seine Achsen zu retten.
+
 
 In Ezulwini sind wir in der Matenga Lodge abgestiegen, die am Rande eines ruhigen Wohngebiets liegt. Die letzten 500 Meter des Wegs waren nicht mehr asphaltiert und durch den Regen in Auflösung begriffen. Das hat unserem Suzuki fast den Rest gegeben und das Gefühl vermittelt man wäre weit weg von jeder Zivilisation. Das Hotel war wunderschön gestaltet. Leider hatte das Regenwetter alle möglichen Ausflugsoptionen ertränkt.
 
@@ -22,4 +27,9 @@ Dann wurde eine langwierige Choreographie aus Gesang und Tanz begonnen. Der Gesa
 
 Der letzte Tag des Jahres war auch der letzte Tag unserer Reise. Wir bereuten es ein bisschen, so wenig Zeit für Swaziland gehabt zu haben. Daher haben wir unser kleines Auto noch vor dem Frühstück über eine fiese Buckelpiste getrieben, um noch eine Wanderung zu einem hübschen Wasserfall zu machen. Die freundlichen Menschen und vor allem das tolle Incwala-Fest haben Lust gemacht irgendwann wiederzukommen.
 
+![](AF_20221231_5925.jpg)
+![](AF_20221231_5936.jpg)
+![portrait](AF_20221231_5924.jpg)
+
 Zurück in Südafrika hatten wir den Eindruck uns in eine Plantage verfahren zu haben. Der Weg nach Johannesburg war so langweilig wie eine Tour durch die Kappesfelder von Erftstadt. Nur gelegentliche Abschnitte mit alptraumhaften Schlaglöchern haben uns wachgehalten bevor wir uns für die Rückreise in die ungelenken Hände von Condor in eine triste Silvesternacht im Flugzeug begeben haben.
+
