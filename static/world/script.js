@@ -50,19 +50,33 @@ window.addEventListener('click', function(e) {
     overlay.querySelector('#gallery-close').addEventListener('click', close);
     overlay.querySelector('#gallery-prev').addEventListener('click', function(e) { e.stopPropagation(); navigate(-1); });
     overlay.querySelector('#gallery-next').addEventListener('click', function(e) { e.stopPropagation(); navigate(1); });
-    // click on left/right half of overlay to navigate
+    // click on left/right half of overlay to navigate (suppressed after pinch-to-zoom or when zoomed)
     overlay.addEventListener('click', function(e) {
+      if (suppressClick) { suppressClick = false; return; }
       if (e.target.closest('#gallery-close')) return;
       navigate(e.clientX < window.innerWidth / 2 ? -1 : 1);
     });
 
-    // touch swipe: left/right navigate, down close
-    var touchStartX = 0, touchStartY = 0;
+    // touch swipe: left/right navigate, down close; pinch-to-zoom must not trigger navigation
+    var touchStartX = 0, touchStartY = 0, wasPinch = false, suppressClick = false;
     overlay.addEventListener('touchstart', function(e) {
+      if (e.touches.length > 1) { wasPinch = true; return; }
+      wasPinch = false;
       touchStartX = e.changedTouches[0].screenX;
       touchStartY = e.changedTouches[0].screenY;
     }, {passive: true});
+    overlay.addEventListener('touchmove', function(e) {
+      if (e.touches.length > 1) wasPinch = true;
+    }, {passive: true});
     overlay.addEventListener('touchend', function(e) {
+      if (wasPinch) {
+        if (e.touches.length === 0) {
+          wasPinch = false;
+          suppressClick = true;
+          setTimeout(function() { suppressClick = false; }, 400);
+        }
+        return;
+      }
       var dx = e.changedTouches[0].screenX - touchStartX;
       var dy = e.changedTouches[0].screenY - touchStartY;
       var dominated = Math.abs(dy) > Math.abs(dx);
