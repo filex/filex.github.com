@@ -247,13 +247,28 @@ h1 {
 }
 
 
-.entry img {
-  width: 100%;
-  aspect-ratio: 3/2;
-  margin: 13px 0 0 0;
-  display: block;
+@keyframes img-shimmer {
+  0%   { background-position: 200% center; }
+  100% { background-position: -200% center; }
 }
 
+.entry img {
+  width: 100%;
+  margin: 13px 0 0 0;
+  display: block;
+  background: linear-gradient(90deg, #e8e8e8 25%, #d8d8d8 50%, #e8e8e8 75%);
+  background-size: 200% 100%;
+  animation: img-shimmer 1.8s ease-in-out infinite;
+}
+
+.entry img:not(.portrait):not(.alone) {
+  aspect-ratio: 3/2;
+}
+
+.entry img.portrait,
+.entry img.alone {
+  aspect-ratio: 2/3;
+}
 
 @media (min-width: 768px) {
   .entry img.alone {
@@ -277,7 +292,6 @@ h1 {
   }
   .entry img.portrait {
     width: 49%;
-    aspect-ratio: 2/3;
     object-fit: cover;
     object-position: center center;
     display: inline-block;
