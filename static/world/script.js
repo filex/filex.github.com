@@ -66,8 +66,9 @@ window.addEventListener('click', function(e) {
       touchStartY = e.changedTouches[0].screenY;
     }, {passive: true});
     overlay.addEventListener('touchmove', function(e) {
-      if (e.touches.length > 1) wasPinch = true;
-    }, {passive: true});
+      if (e.touches.length > 1) { wasPinch = true; return; }
+      e.preventDefault(); // prevent page scroll behind overlay on iOS
+    }, {passive: false});
     overlay.addEventListener('touchend', function(e) {
       if (wasPinch) {
         if (e.touches.length === 0) {
