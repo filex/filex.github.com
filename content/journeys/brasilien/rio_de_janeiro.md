@@ -20,7 +20,7 @@ Neben Bikinis und BBQ herrscht hier große Begeisterung für schlechte Tätowier
 
 Unser sonntäglicher Ausflug ins "Centro" war weniger reizvoll. Hässliche Hochhäuser, ausgestorbene Straßen, Obdachlose und ein angeblich "quirliger" Straßenmarkt, auf dem wir die einzigen Kunden waren. Aber dennoch hat Rio hier eine besondere Überraschung zu bieten: Die Kathedrale! Eine Anti-Sehenswürdigkeit, die sich weltweit messen kann. Die Kirche sieht aus, als hätte man ein dutzend evangelischer Nachkriegskirchen abgerissen, um daraus einen Vulkan zu bauen. Wikipedia sagt, sie sei einer Maya-Pyramide nachempfunden, wobei ich einen Tempel mit Menschenopfern für etwas zu multi-kulti für ein Kirchenvorbild halte. Der düstere Innenraum mit seinen riesigen Buntglasfenstern wirkt nicht weniger gruselig. Die kath. Weltjugend, die sich 2013 nach Rio aufmacht, sei hiermit gewarnt. Das Museu de Arte Moderna ist vor allem als Zeitzeuge aus der Beton-Ära sehenswert.
 
-![alone](AF_20121209_2563.jpg)
+![portrait](AF_20121209_2563.jpg)
 ![](AF_20121209_2574.jpg)
 
 Wesentlich interessanter war der Ausflug nach Rocinha, der größten Favela von Rio. Sie liegt wie ein Flickenteppich in einem Tal hinter Leblon. Die Häuser sind fast organisch zusammengewachsen. Es gibt nur wenige Straßen, die sich den steilen Hang hoch schlängeln. Über eine sind wir mit durchgedrehten Mototaxis hoch geschossen. Unser Führer hat uns dann durch kleine Gassen und Treppen, die zwischen den Häusern frei geblieben sind, gelotst. Das Viertel ist seit einigen Jahren erfolgreich von der Polizei befriedet worden. Seitdem gibt es viele Anstrengungen, hier Infrastruktur von außen unterzubringen. Es gibt Supermärkte, Grundschulen, ärztl. Versorgung und einen Kinderhort. Für 120 tausend Einwohner aber von Allem zu wenig. Strom und Wasser werden irgendwo angezapft und der Rest selbst gebaut. Am Fuße des Viertels schließt sich eine der teuersten Gegenden Rios direkt am Strand an.
@@ -34,7 +34,7 @@ Mit einer netten Gruppe sind wir in einem alten VW-Bus zum Cristo Redentor gefah
 ![](AF_20121211_2860.jpg)
 ![](AF_20121211_2832.jpg)
 ![](AF_20121211_2821.jpg)
-![alone](AF_20121211_2897.jpg)
+![portrait](AF_20121211_2897.jpg)
 
 Das erste Stück auf den kleineren Hügel des Zuckerhuts kann man auch zu Fuß hoch wandern. Der Pfad führt durch ein tropisches Wäldchen, in dem man Äffchen sehen kann. Auf den Zuckerhut selbst kommt man nur mit der Seilbahn, die über einen gähnenden Abgrund führt. Der Sonnenuntergang hinter den Bergen Rios ist atemberaubend, wenn der Cristo angestrahlt wird, in der Stadt die Lichter angehen und man auf die landenden Flugzeuge in der Bucht herunter gucken kann.
 
@@ -43,4 +43,4 @@ Das erste Stück auf den kleineren Hügel des Zuckerhuts kann man auch zu Fuß h
 
 Den Sonnenuntergang am Ipanema Beach darf man sich auch nicht entgehen lassen. Hier bleibt die Sonne am längsten und taucht die Surfer in gleißendes Licht. Der Wellengang ist hier oft zu stark zum Schwimmen, was die Heerscharen am Strand aber nicht von einer kurzen Abkühlung abhält.
 
-![alone](AF_20121210_2782.jpg)
+![portrait](AF_20121210_2782.jpg)

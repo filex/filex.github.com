@@ -13,7 +13,7 @@ Nach einer Weile nahm die Dichte der Felder zum ersten Mal seit Tana ab. Zwische
 
 Gegen Ende der fast sechsstündigen Fahrt hat sich das Landschaftsbild schleichend aber letztlich komplett geändert. Der Ranomafana Park ist ein dichter, tropischer Regenwald. In dem ansonsten recht baumlosen Hochland sind die überwucherten Hänge der Schlucht eine Augenweide. Ein Wasserfall liegt in der Nähe des Parkeingangs und bildet das Tor zu dieser tollen Gegend.
 
-![alone](AF_20190906_2477.jpg)
+![portrait](AF_20190906_2477.jpg)
 
 Am Abend hat unser Fahrer schon die Führerin Chantelle für uns aufgetrieben, mit der wir einen Nachtspaziergang unternommen haben. Leider finden die seit einiger Zeit nicht mehr im Park selbst sondern entlang der Landstraße statt. Das klang nicht sehr abenteuerlich, hat sich aber dennoch wirklich gelohnt.
 

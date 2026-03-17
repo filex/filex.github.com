@@ -25,7 +25,7 @@ Die Hauptattraktion Khajurahos und der Grund, weshalb viele Touristen dieses abg
 ![](2761.jpg)
 ![](2740.jpg)
 ![](2757.jpg)
-![alone](2758.jpg)
+![portrait](2758.jpg)
 ![](2802.jpg)
 ![](2824.jpg)
 ![portrait](2845.jpg)
@@ -33,7 +33,7 @@ Die Hauptattraktion Khajurahos und der Grund, weshalb viele Touristen dieses abg
 
 Mit einer klapprigen Fahrradrikscha und einem noch klapprigeren, alten Rikschafahrer haben wir einen Ausflug zu einer weiteren Tempelgruppe unternommen. Die Tempel unterschieden sich überhaupt nicht von den anderen, weshalb dieser Teil schnell abgehakt war. Die anschließende Tour durchs alte Dorf brachte noch ein paar mehr verfallene Tempel hervor. Wenn es bergauf ging mussten wir absteigen, weil das Männchen sonst nicht weiterkam.
 
-![alone](2834.jpg)
+![portrait](2834.jpg)
 ![](2853.jpg)
 ![](2842.jpg)
 

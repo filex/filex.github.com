@@ -19,4 +19,4 @@ Heute habe ich zusammen mit Gerd, einem Holländer, den ich auf der Fähre kenne
 
 Morgen früh werde ich die letzte Etappe meiner Reise antreten und mit der Fähre nach Sanur übersetzen.
 
-![alone](AF_20090916_6019.jpg)
+![portrait](AF_20090916_6019.jpg)

@@ -22,4 +22,4 @@ Der eigentliche Grund unseres Kommens war der besagte Nationalpark. Dorthin habe
 
 ![](272.jpg)
 ![](293.jpg)
-![alone](267.jpg)
+![portrait](267.jpg)

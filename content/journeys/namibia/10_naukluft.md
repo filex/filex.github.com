@@ -13,4 +13,4 @@ Namib abgehakt. Aber in die andere Richtung liegt das *Naukluft-Gebirge*, das wi
 
 Danach mussten wir uns schon auf den unerfreulichen Rückweg machen. Nach hunderten Kilometern Schotterpiste bis Windhoek mussten wir uns weiteren Quälereien von Air Namibia stellen. In den dreckigen, engen Flugzeuge, wird man zwischen 1000-Taschen-Westen, Lederhüten und Abenteuerpantoletten in die touristische Geriatrie eingewiesen. Bis zum Start wurden wir (wirklich!) mit deutscher Volksmusik beschallt. Bei “Herzilein” beneidet man die zahlreichen Mitreisenden, die einfach ihre Hörgeräte abschalten können.
 
-![alone](img_20100915_2473.jpg)
+![portrait](img_20100915_2473.jpg)

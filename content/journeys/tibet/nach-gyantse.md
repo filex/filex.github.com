@@ -20,4 +20,4 @@ Das Hotel (laut Schild 1986 errichtet) wirkte wie eine Kaserne mit 50er-Jahre-In
 Wir haben noch einen lohnenswerten Spaziergang durch die Altstadt gemacht, die ein gutes Bild davon gibt, wie es hier die letzten paar hundert Jahre vor den Chinesen aussah. Die Häuser werden von Mauern aus Jakmist umgeben und haben wunderschöne Verzierungen um Türen und Fenster.
 
 ![](AF_20070620_0452.jpg)
-![alone](AF_20070620_0457.jpg)
+![portrait](AF_20070620_0457.jpg)

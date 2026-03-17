@@ -32,7 +32,7 @@ Hier spielt sich das ganze Leben ab. Mit dem Sonnenaufgang beginnen die ersten W
 ![portrait](2990.jpg)
 ![](3016.jpg)
 ![](3033.jpg)
-![alone](3049.jpg)
+![portrait](3049.jpg)
 ![](3058.jpg)
 ![](3267.jpg)
 ![](3258.jpg)

@@ -17,6 +17,6 @@ Alis Geburtstag haben wir standesgemäß auf einem luxeriösen Hausboot verbrach
 ![](3703.jpg)
 ![](3684.jpg)
 ![](3690.jpg)
-![alone](3669.jpg)
+![portrait](3669.jpg)
 
 Unseren letzten Tag in Aleppy hat Indian Airlines uns gründlich verdorben, indem sie unseren Flug nach Madras gecancelt haben. So haben wir den halben Tag damit verplempert, ihnen hinterher zu telefonieren und uns einen neuen Flug zu besorgen. Eine weitere Tour zum wunderbaren Mahari Beach mit unserem Gästebuch-Rikschafahrer hat uns getröstet.

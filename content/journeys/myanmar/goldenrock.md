@@ -15,10 +15,10 @@ Kyaikto wirkt sehr freundlich mit seinen kleinen Straßen und vielen Ständen un
 
 Dann geht es hoch über die steile Straße, die sich in wilden Serpentinen den Berg hoch windet. Die Landschaft ist hier sehr schön. Die Hänge sind wild mit Bäumen und Sträuchern überwuchert und laden zum Wandern ein. Mit etwas mehr Zeit und einer Nacht in Kyaikto kann man den Besuch mit einem schönen Trekking-Ausflug verbinden, was sich sehr gelohnt hätte.
 
-![alone](AF_20131229_3850.jpg)
+![portrait](AF_20131229_3850.jpg)
 
 Oben angekommen ist von Heiligkeit nichts zu spüren. Um den Goldenen Fels herum ist eine große Plattform gebaut worden, die Mengen von Pilgern aufnehmen soll. Die Anlage gleicht einer improvisierten Zeltstadt, da viele die Nacht hier verbringen. Mit Decken und Schnüren werden Nachtlager gebaut. Mittendrin, fast unscheinbar hockt der Golden Rock – gehalten nur von Buddhas Haar – auf seinem schiefen Sockel. Tief würde er nicht mehr fallen, da mittlerweile eine weitere Terrasse direkt darunter gebaut wurde.
 
 Auch hier sind die Gläubigen eifrig dabei, Blattgold anzubringen. Der Stein ist schon ganz knubbelig an der Seite. Aber auch dieses Privileg ist Männern vorbehalten.
 
-![alone](AF_20131229_3883.jpg)
+![portrait](AF_20131229_3883.jpg)

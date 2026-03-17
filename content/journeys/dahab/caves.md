@@ -6,7 +6,7 @@ date: 2005-05-15
 hide_date: true
 ---
 
-![alone](caves_1.jpg)
+![portrait](caves_1.jpg)
 ![](caves_2.jpg)
 ![](caves_3.jpg)
 ![](caves_4.jpg)

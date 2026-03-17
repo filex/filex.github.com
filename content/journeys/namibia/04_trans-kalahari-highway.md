@@ -16,4 +16,4 @@ Unsere Hütte hat sich als sehr komfortabel erwiesen. Hier wird die nächtliche 
 ![](img_20100904_0368.jpg)
 ![](img_20100904_0395.jpg)
 ![](img_20100905_0437.jpg)
-![alone](img_20100905_0448.jpg)
+![portrait](img_20100905_0448.jpg)

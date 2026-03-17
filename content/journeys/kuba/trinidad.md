@@ -26,4 +26,4 @@ Da wir hier wieder näher an Havanna und Varadero und damit in den Touristengür
 ![portrait](AF_20111226_0424.jpg)
 ![portrait](AF_20111226_0428.jpg)
 ![](AF_20111227_0429.jpg)
-![alone](AF_20111226_0383.jpg)
+![portrait](AF_20111226_0383.jpg)

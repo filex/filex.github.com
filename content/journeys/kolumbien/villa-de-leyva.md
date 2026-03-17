@@ -27,7 +27,7 @@ Wir wollten zumindest mal einen Blick von oben auf die Stadt werfen und haben un
 
 Nach ein paar Stunden auf den Beinen kann man sich im Ort in einer kleinen, französischen Bäckerei mit leckerem Kaffee und kleinen Sünden wieder stärken. Danach haben wir uns faul durch die zahlreichen Poncho- und Tinnefläden dem nächsten köstlichen Abendessen entgegen geschoben. Ein sehr guter Ort dafür ist die "Casa Quintero", ein Komplex aus Innenhöfen, direkt an der Plaza. Hier gibt es zu jeder Tageszeit etwas zu schlemmen – sogar Apfelkuchen.
 
-![alone](AF_20151229_8581.jpg)
+![portrait](AF_20151229_8581.jpg)
 
 ## 31/12/2015
 

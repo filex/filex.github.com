@@ -6,7 +6,7 @@ date: 2005-05-15T23:00:00
 hide_date: true
 ---
 
-![alone](lighthouse_2.jpg)
+![portrait](lighthouse_2.jpg)
 ![](lighthouse_1.jpg)
 ![](lighthouse_3.jpg)
 ![](lighthouse_4.jpg)

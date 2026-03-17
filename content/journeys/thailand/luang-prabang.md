@@ -21,7 +21,7 @@ Eigentlich sollte es jetzt nur noch zurueck nach Luang Prabang gehen. Doch da de
 ![portrait](AZ_20120618_1609.jpg)
 ![portrait](AZ_20120618_1719.jpg)
 ![portrait](AZ_20120619_1779.jpg)
-![alone](AZ_20120618_1553.jpg)
+![portrait](AZ_20120618_1553.jpg)
 ![](AZ_20120618_1639.jpg)
 ![](AZ_20120619_1765.jpg)
 ![](AZ_20120619_1780.jpg)

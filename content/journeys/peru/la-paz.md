@@ -35,4 +35,4 @@ Heute Abend werden wir uns nach Süden in Richtung Uyuni aufmachen. Wir freuen u
 ![](AF_20081213_0222.jpg)
 ![](AF_20081213_0244.jpg)
 ![](AF_20081213_0214.jpg)
-![alone](AF_20081213_0251.jpg)
+![portrait](AF_20081213_0251.jpg)

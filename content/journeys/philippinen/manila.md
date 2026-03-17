@@ -22,6 +22,6 @@ Guatemala* mit seinen patinierten Häusern und Patios erinnert. Am Nordende zwis
 
 Müll wird am Stadtstrand von Manila auch anstelle von Sand verwendet, was die Einheimischen weder vom Schwimmen abhält, noch ihre Laune beim Sonnenuntergang am Baywalk trübt. Wenn es so dunkel geworden ist, dass man den Müll ausblenden kann, wirkt die Abendstimmung neben der palastähnlichen US-Botschaft tatsächlich malerisch.
 
-![alone](18.jpg)
+![portrait](18.jpg)
 
 Abends haben wir in einem sehr eleganten indischen Restaurant gegessen. Da der Reiseführer nur vom Essen und nicht vom Ambiente schwärmte, waren wir die einzigen Gäste in kurzen Hosen und Sandalen. Vom letzten indischen Restaurant in Hong Kong, das in einem geschlossenen Einkaufszentrum Köstlichkeiten auf Plastikgeschirr lieferte, hatten wir uns wohl beeinflussen lassen.

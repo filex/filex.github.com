@@ -35,7 +35,7 @@ Galeries Lafayette:
 Arc de Triomphe:
 
 ![](AF_20100405_7787.jpg)
-![alone](AF_20100405_7774.jpg)
+![portrait](AF_20100405_7774.jpg)
 
 Centre Pompidou:
 

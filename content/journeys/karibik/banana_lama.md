@@ -15,6 +15,6 @@ Unsere erste Unterkunft ist die wundervolle [Banana Lama Eco Villa](https://www.
 
 In der Umgebung gibt es einen Fluss, den man entlangwandern kann. Schon beim ersten Ausflug mussten wir lernen, dass man auf Dominica niemals trocken bleibt. Alle Wanderwege scheinen früher oder später durch einen Fluss zu führen. Unsere Wanderschuhe sollten erst auf der nächsten Insel wieder trocken werden.
 
-![alone](AF_20191228_4958.jpg)
+![portrait](AF_20191228_4958.jpg)
 ![](AF_20191228_4993.jpg)
 ![](AF_20191229_5042.jpg)

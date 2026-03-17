@@ -26,13 +26,13 @@ Den Wecker haben wir natürlich auf 2:45 Uhr nachts gestellt. Denn das Deutschla
 ![](AF_20060617_4412.jpg)
 ![](AF_20060617_4409.jpg)
 ![](AF_20060618_4534.jpg)
-![alone](AF_20060618_4501.jpg)
+![portrait](AF_20060618_4501.jpg)
 
 ## 17/06/2008
 
 Einen vollen Tag noch konnten wir unseren Überraschungsurlaub in Singapur fortsetzen. In alter Gewohnheit nutzen wir die Zeit, um uns erst Sohlen dann Hacken abzulaufen. Die Diaspora aus China Town kann ihrer Heimat im Tempelbauen nicht das Wasser reichen. Dafür stehen hier noch viele der alten Kolonialstraßen mit ihren zweigeschossigen Häusern, was dem Viertel in Kombination mit dem chinesischen Straßenmarkt und stinkenden Läden voller getrockneter Dinge, die lieber nicht getrocknet worden wären (z.B. Seepferdchen und Schlangen) etwas Eigenes verleiht.
 
-![alone](AF_20060618_4491.jpg)
+![portrait](AF_20060618_4491.jpg)
 ![](AF_20060618_4475.jpg)
 ![](AF_20060618_4466.jpg)
 ![](AF_20060618_4515.jpg)
@@ -44,7 +44,7 @@ Nächster Halt - Little India. Auch hier haben die alten Singapurer Häuschen un
 ![](AF_20060618_4460.jpg)
 ![](AF_20060618_4463.jpg)
 ![](AF_20060618_4502.jpg)
-![alone](AF_20060618_4505.jpg)
+![portrait](AF_20060618_4505.jpg)
 
 Nach einem kulturellen Abstecher ins Singapore Art Museum wurden wir von einer wilden Flugshow überrascht. Fünf Kampfjets sind im Tiefflug über die Stadt gedonnert, um grauenhafte Formationen vorzuführen und dabei Kondensherzen, -kreise und -streifen herzustellen. Offenbar kam Ramstein nur in den Lokalnachrichten.
 

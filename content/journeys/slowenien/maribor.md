@@ -16,4 +16,4 @@ Maribor selbst hat eine kleine Altstadt, durch die man ganz nett spazieren kann.
 Etwas südlich von Maribor ist der kleine Ort Ptuj. Dort liegt die Burg auf einem Hügel. Das kleine Städtchen darunter hat sich augenscheinlich in den letzten hundert Jahren wenig verändert. Leider hat uns dort dann auch der unausweichliche Regen wieder eingeholt. Wir haben schon so langsam Kaffee getrunken, dass darüber fast der Winter eingebrochen wäre, mussten aber trotzdem noch durch den Regen zurück.
 
 ![](AF_20200925_7088.jpg)
-![alone](AF_20200925_7091.jpg)
+![portrait](AF_20200925_7091.jpg)

@@ -44,7 +44,7 @@ Die Nacht im Zelt auf fast 4000m Meter war deutlich kälter als die vorige. Die 
 
 Der Weg zum "Paso del Cusirí" führt zunächst an einigen großen Lagunen vorbei. Eine schön, etwa achtförmig geschwungene heißt "Laguna Quadrada". Naja. An den Lagunen trifft man auf eine Menge Spaziergänger, die sich vermutlich auch auf höhere Wanderungen vorbereiten.
 
-![alone](AF_20160105_8956.jpg)
+![portrait](AF_20160105_8956.jpg)
 ![](AF_20160105_8987.jpg)
 ![](AF_20160105_9000.jpg)
 
@@ -57,7 +57,7 @@ In mäßiger Steigung geht es auf einem kleinen Pfad einer Lücke im schroffen G
 
 Auf dem Rückweg haben wir ordentlich Gas gegeben, weil es angefangen hatte zu regnen und zu hageln. Am Nachmittag ist es hier immer regnerisch. Wir haben die Akklimatisierung gut überstanden und uns mit weiteren Mahlzeiten und viel Schlaf auf den morgigen Aufstieg vorbereitet.
 
-![alone](AF_20160105_9037.jpg)
+![portrait](AF_20160105_9037.jpg)
 
 ## 06/01/2016
 
@@ -87,7 +87,7 @@ Zum windumtobten Gipfel führt ein schmaler, steiler Grat. Die Eispickel, die wi
 ![](AF_20160106_9113.jpg)
 ![](AF_20160106_9123.jpg)
 ![](AF_20160106_9127.jpg)
-![alone](AF_20160106_9121.jpg)
+![portrait](AF_20160106_9121.jpg)
 
 Dann hat der Führer uns von der Kuppe gescheucht und wir haben uns an den Abstieg gemacht. An den steilen Treppen gab es Stau beim abseilen, danach war es wieder unsere eigene Lunge, die die Geschwindigkeit, oder besser die Langsamkeit bestimmten. Über drei Stunden hat uns der Auf- und Abstieg über das Schneefeld gekostet. Dass wir nur so langsam an Höhe verloren, hat an den Kräften gezehrt. Das freigelegte Gletscherplateau war zwar leicht zu gehen, ging aber mit seiner permanenten Neigung schon sehr in die Knie. Das Geröllfeld hat uns dann den Rest gegeben. Wobei es erstaunlich war, wie viele Menschen hier waren. Ganze Familien, die "nur" bis zum Rand des Gletschers spaziert sind, kämpften sich die Steine hinab, die vom Plateau aus senkrecht abzufallen scheinen. Nach weiteren zwei Stunden und ingesamt etwas unter 10 Stunden hatten wir endlich unser Zelt erreicht.
 
@@ -95,7 +95,7 @@ Dann hat der Führer uns von der Kuppe gescheucht und wir haben uns an den Absti
 
 Mit viel Schlaf hatten wir uns schnell von den grenzwertigen Strapazen des Gipfelsturms erholt. Der letzte Tag der Wanderung ging glücklicher Weise fast nur bergab. Nachdem wir das Valle de Lagunillas recht schnell durchwandert hatten, sind wir auf einen kleinen Trampelpfad abgebogen, der uns durch ein ganz anderes Terrain führte: Ein Wald aus knorrigen Bäumen mit rot-orangenen Stämmen, die in einem fort abzublättern scheinen. Dazwischen lagen vermooste, sumpfige Wiesen, in denen man bei einem falschen Tritt auch mal bis zur Wade einsinken kann. So haben wir uns langsam wieder ins Reich der Kühe und Schafe begeben, bis wir schließlich in einem tristen Kaff mit dem vielleicht höchstgelegenen Basketballplatz der Welt aufgegabelt wurden. Von dort sind wir mit einem Pickup die erstaunlich lange Strecke Biegung für Biegung zurück nach Güican gefahren, wo wir endlich die lang ersehnte, heiße Dusche bekamen.
 
-![alone](AF_20160107_9173.jpg)
+![portrait](AF_20160107_9173.jpg)
 ![](AF_20160107_9159.jpg)
 ![](AF_20160107_9177.jpg)
 

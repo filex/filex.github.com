@@ -7,7 +7,7 @@ date: 2019-12-24
 
 Barbados ist berühmt für seine weißen Strände und das türkisene Meer. Das konnten wir beim Anflug schon bewundern. Wir sind in einem AirBnB Apartment untergekommen, das in der Nähe vom *Maxwell Beach* lag. Die Gegend ist (wie fast alles außerhalb der großen Hotelanlagen) ziemlich tot. Der Zugang zum Meer ist an den meisten Stellen durch Privatgrundstücke versperrt. Obwohl wir keine 50m Luftlinie vom Strand wohnten, mussten wir eine Viertelstunde zum Strand laufen. Wenn man nicht gerade einen Abschnitt mit einem der großen Hotels erwischt, wo Liege und Sonnenschirm in den verrückten Zimmerpreisen enthalten sind, ist es geradezu einsam am Strand. Auf der Südseite von Barbabados gelegen, findet man kaum eine schattenspendenden Palme. Das Meer war aber herrlich erfrischend.
 
-![alone](AF_20191224_4857.jpg)
+![portrait](AF_20191224_4857.jpg)
 ![](AF_20191225_4872.jpg)
 
 Ein 20 minütiger Fußmarsch entlang der Uferstraße nach Osten führt zum *Welches Beach*. Dort gibt es keine Hotels sondern nur Ferienwohnungen. Der Strand liegt zwar direkt an der Straße, aber er ist herrlich lang und menschenleer. Noch etwas weiter gelangt man nach *Oistins*, wo es einen großen Supermarkt und ein nettes Café gibt.

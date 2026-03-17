@@ -21,7 +21,7 @@ Die Stadt war das wichtigste kulturelle Zentrum, als der Buddhismus nach Sri Lan
 Bei dem schönen Wetter lässt sich die Radtour gut aushalten, so dass wir jedes alte Mauerwerk der Umgebung abgeklappert haben. Westlich der Stadt gibt es noch einen alten Tempel, der um einen Felsen herum gebaut ist. Eine Treppe führt hinauf, von wo aus man einen schönen Blick über den See hat.
 
 ![](AF_20141219_4922.jpg)
-![alone](AF_20141219_4909.jpg)
+![portrait](AF_20141219_4909.jpg)
 
 Am nächsten Tag hat der Regen eingesetzt, der leider ziemlich lange anhalten sollte. Wir haben alles wasserdicht verpackt und sind nach Mihintale gefahren. Dort gab es eine Tempelanlage auf einem Berg. Wieder viele Mauerreste. Aber die langen Treppen, die den Berg hinauf führen, sind noch da. Durch den Regen haben sie sich in kleine Katarakte verwandelt. Der Aufstieg durch das warme Wasser war eigentlich sehr angenehm. Oben gibt es einen glitschigen, steilen Felsen, in den ein paar Stufen geschlagen sind. Trotzdem hangeln sich Greise, Familien mit Kleinkindern und überhaupt jeder dort hoch. Die Wolken hingen so tief, dass man die 100m weiter liegende Dagoba nicht sehen konnte. Ein Abzweig von der Treppe führt in den Wald hinein und über dutzende weitere Treppen zu einer verwitterten Dagoba. Dort steht man auf einem fast senkrecht abfallenden Felsen und hat einen tollen Blick aufs Umland, das im Moment ziemlich viele Seen aufweist, die da vermutlich nicht hingehören.
 

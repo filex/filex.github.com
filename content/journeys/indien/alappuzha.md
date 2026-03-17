@@ -11,7 +11,7 @@ Das Hotel war leider schon voll, so dass wir kurzerhand in das Haus der Eigentü
 
 Die Beschreibung des Orts im Reiseführer als "zauberhafte Stadt" ist derart unzutreffend, dass wir es kaum fassen konnten. Statt der erhofften von Palmen beschatteten, von alten Handelshäusern gesäumten Wege sind wir bei Bullenhitze durch dicksten Verkehr gestiefelt. Aber die zwei Kanäle, die die Stadt parallel durchfließen, lassen zumindest die Nähe der Backwaters erahnen.
 
-![alone](3423.jpg)
+![portrait](3423.jpg)
 ![](3425.jpg)
 ![](3427.jpg)
 ![](3711.jpg)

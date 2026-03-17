@@ -16,6 +16,6 @@ Den naechsten Tag auf dem Boot, diesmal mit verkaterten, stinkenden Angelsachsen
 ![](AZ_20120615_1468.jpg)
 ![portrait](AZ_20120615_1471.jpg)
 ![portrait](AZ_20120616_1492.jpg)
-![alone](AZ_20120616_1474.jpg)
+![portrait](AZ_20120616_1474.jpg)
 ![](AZ_20120617_1517.jpg)
 ![](AZ_20120617_1536.jpg)

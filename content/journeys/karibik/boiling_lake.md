@@ -7,7 +7,7 @@ date: 2020-01-01
 
 Die wahrscheinlich anstrengenste Wanderung auf Dominica führt zum *Boiling Lake*.
 
-![alone](AF_20200101_5497.jpg)
+![portrait](AF_20200101_5497.jpg)
 
 Dieses vulkanische Naturphänomen ist ein kleiner See, der sich auf einer Fulmerole gebildet hat und bei etwa 90 Grad vor sich hinkocht. Aber schon der Weg war höllisch. Der Pfad führte überflüssigerweise über mehrere Grade und Gipfel, damit man besonders viele Höhenmeter machen kann. Dahinter ging es auf schlammigen Pfaden steil bergab ins treffend benannte *Valley of Devastation*. Dort ist nur karger Bewuchs, weil die Flüsse schwefelhaltig und heiß sind. Das Wasser ist mal schlierig schwarz, schlammig grau oder sprudelnd gelb.
 

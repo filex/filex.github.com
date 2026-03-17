@@ -22,4 +22,4 @@ Abends mussten wir feststellen, dass unsere Busfahrt in den Dschungel von Rurren
 ![](AF_20081219_1190.jpg)
 ![](AF_20081219_1225.jpg)
 ![](AF_20081220_1285.jpg)
-![alone](AF_20081220_1315.jpg)
+![portrait](AF_20081220_1315.jpg)

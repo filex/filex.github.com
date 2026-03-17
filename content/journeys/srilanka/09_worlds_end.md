@@ -11,7 +11,7 @@ Ein weiteres Highlight in den Highlands ist ein Ausflug zu den "Horton Plains". 
 
 Die Wanderung zum Aussichtspunkt "World's End" führt durch eine schöne Heidelandschaft mit Rhododendren und Farnen. Die Morgensonne schaffte es kaum uns aufzuwärmen. Obwohl man so hoch ist, sehen die sanften Hügel fast nach Flachland aus. Sobald man aber an die Ränder kommt, hat man einen phänomenalen Blick auf die Wolken hunderte Meter unter einem. Der Blick vom Ella Rock kann zwar gut mithalten, aber die Wanderung lohnt sich sehr.
 
-![alone](AF_20150104_6073.jpg)
+![portrait](AF_20150104_6073.jpg)
 ![](AF_20150104_6048.jpg)
 
 Zurück in Haputale haben wir am Nachmittag eine kurze Busfahrt durch die steilen Teefelder der Umgebung nach Dambattene gemacht. Dort steht eine alte Teefabrik, die Sir Thomas Lipton 1890 gebaut hat. Leider wird am Sonntag Nachmittag nicht gearbeitet, daher war die Führung (in extrem schlechtem Englisch) leider mehr Theorie als Praxis. Dennoch beeindruckend, dass die Pflückerinnen täglich zehntausend Kilo Tee allein in dieser Fabrik abgeben - zumal wir bisher noch in keinem Feld jemanden haben arbeiten sehen.

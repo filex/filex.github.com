@@ -9,7 +9,7 @@ Der Zug nach Colombo hält auch in Ahangama und wir sind rechtzeitig kampfbereit
 
 Nach zähen Verhandlungen mit Rikschafahrern sind wir ins Botschaftsviertel gefahren. Dort lag unsere Unterkunft "Decoco Guesthouse", das sich als Bed&Breakfast bei einer japanischen Familie entpuppte. Die Gegend ist schick und weit abseits vom lauten und dreckigen Colombo. Die japanische Botschaft ist direkt gegenüber und in ein paar Minuten kann man zum Viharamahadevi Park gehen.
 
-![alone](AF_20150110_6275.jpg)
+![portrait](AF_20150110_6275.jpg)
 
 Abends sind wir ins schicke Gallery Cafe gegangen, um Alis Geburtstag zu feiern. Da der neue Präsident kurz vorher bei uns um die Ecke auf dem Independence Square eine Rede gehalten hat, war die ganze Gegend voll mit Polizeistreifen. Zwei Tage rund um die Wahl war im ganzen Land der Alkoholausschank verboten. Deshalb konnten wir nur mit Sprudelwasser anstoßen, aber das Essen war köstlich und nach vier Wochen Rice&Curry eine schöne Abwechslung.
 
@@ -26,7 +26,7 @@ Nördlich vom Bahnhof liegt das wuselige Viertel Pettah, das frühere Herz von C
 
 Parallel zur Küste zieht sich südlich vom Fort die Galle Road, die geradeaus bis Galle und Matara führt. Dort zeigt sich Colombo fast amerikanisch mit vielen Shopping Malls, Geschäften und Restaurants. Der Glanz verfliegt aber bei näherem Hinsehen.
 
-![alone](AF_20150110_6337.jpg)
+![portrait](AF_20150110_6337.jpg)
 
 Am Abend hatten wir Probleme den schwarzen Dreck von den Füßen zu waschen. Wir durften das Zimmer netterweise bis Abends behalten, da unser Flug erst in der Nacht ging. Die Fahrt zum 30km entfernten Flughafen sollte bis zu anderthalb Stunden dauern, andere Reisende hatten von zwei gesprochen. Umso erstaunter waren wir, als wir über die dank Maut vollkommen leere Autobahn nach 30 Minuten dort waren. Das hat die Wartezeit unerträglich lang gemacht, zumal wir es kaum geschafft haben, in den Ramschläden unsere letzten Rupien auszugeben.
 

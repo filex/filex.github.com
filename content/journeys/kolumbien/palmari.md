@@ -42,7 +42,7 @@ Im Waldrausch haben wir am nächsten Morgen dem höchsten und nach Ansicht einig
 
 Hier sind die anderen Bäume auch nicht gerade klein. Die Ceiba könnte man mit ihrer gewaltig breiten Krone auch gleich für einen ganzen Hain halten. Tatsächlich soll man 28 Mann brauchen, um ihn zu umfassen. Das wirft natürlich Fragen nach der Methode auf, die man als zwangsbegeisterter Tourist natürlich nicht stellen sollte. Aber wenn man zwischen den Hochwurzeln steht und nach oben guckt, hat man schon einen beeindruckenden Anblick. Die Flanke sieht aus wie eine Straße aus Holz, auf der sich vermutlich zwei Autos überholen könnten.
 
-![alone](AF_20151227_8533.jpg)
+![portrait](AF_20151227_8533.jpg)
 
 Auf dem Rückweg haben wir einen Halt in einer "Community" gemacht. Santa Rita liegt auf der anderen Seite des Javaris und ist daher nicht mehr brasilianisch sondern liegt in Peru, zu dem auch ein Stück von diesem seltsamen Dreiländereck gehört. Trotzdem wird hier mit kolumbianischen Pesos bezahlt. Und natürlich gibt es auch keine Grenzkontrollen. Das Gebiet ist eine extrem Grüne Grenze und für Pässe und Stempel interessiert sich hier niemand. Die 40 Einwohner von Santa Rita haben es auch so offensichtlich nicht leicht. Die armen Behausungen liegen ein einer langen Reihe am Fluß und zählen die örtliche Telefonzelle zu ihren fortschrittlichsten Errungenschaften. Immerhin gibt es seit kurzen eine Stromleitung hierher (aus Brasilien).
 

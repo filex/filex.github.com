@@ -21,7 +21,7 @@ Morgens früh sind wir über endlose Stadtautobahnen zwischen Favelas und hässl
 
 Lençóis ist ein niedliches Dorf, das idyllisch zwischen Wäldern und Hügeln an einem Fluss liegt. Die Stadt ist im Diamantenfieber entstanden, das der Gegend Chapada Diamantina den Namen gegeben hat. Bis auf die Autos und unvermeidlichen gelben Plastikstühle sieht hier vieles noch aus wie vor 100 Jahren. In den schönen alten Häusern reiht sich ein Restaurant ans nächste, von denen viele sehr schön aufgemacht sind und manche sogar lecker kochen.
 
-![alone](AF_20121222_4240.jpg)
+![portrait](AF_20121222_4240.jpg)
 ![](AF_20121222_4230.jpg)
 
 Wir sind in der Pousada Vila Serrano untergekommen. Das Hotel ist liebevoll angelegt und liegt in einem tropischen Garten. Die Gästezimmer sind wie eine kleine Straße aus dem Dorf alle mit unterschiedlichen Fassaden ausgestattet. Das Frühstück ist exzellent, insbesondere das selbst gebackene Brot.

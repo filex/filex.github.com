@@ -53,7 +53,7 @@ Daher haben wir eine extra lange Busfahrt ins alte Viertel „La Boca“ gemacht
 ![](AF_20190101_1099.jpg)
 ![](AF_20190101_1102.jpg)
 ![](AF_20190101_1106.jpg)
-![alone](AF_20190101_1117.jpg)
+![portrait](AF_20190101_1117.jpg)
 
 Abends haben wir das neue Jahr mit leckerem Hummus bei einen Israeli begonnen. Eine wohltuende Abwechslung. Der Wirt hat uns erklärt, dass alle Touristen am dritten Abend herkommen würden, weil sie kein Fleisch mehr sehen könnten.
 

@@ -19,7 +19,7 @@ Yala ist eigentlich riesig, aber die Jeeps fahren oft in Kolonne. Um Elefanten z
 ![](AF_20141229_5436.jpg)
 ![](AF_20141229_5425.jpg)
 ![](AF_20141229_5446.jpg)
-![alone](AF_20141229_5458.jpg)
+![portrait](AF_20141229_5458.jpg)
 
 Die nächste Zerstreuung war ein Rollerausflug zum Tempel von Mulgirigala. Zum ersten Mal konnten wir uns eigenhändig in den Straßenverkehr stürzen. So lang die Straßen nicht leer sind, ist auch Linksverkehr nicht so schlimm. Und mit viel Hupen und Blinken fällt man gar nicht als Fremdkörper auf. Unser Weg führte uns durch Reisfelder und Palmen weg von der Küste ins Inland, wo dann eher Kühe als Busse die Verkehrshindernisse waren. Die Landschaft wird hinter Biatella etwas hügliger bis man irgendwann vor dem senkrecht aufragenden Felsen von Mulgirigala ankommt. Über halsbrecherischen Treppen, die M.C. Escher sicher gefallen hätten, gelangt man zu toll bemalten Höhlen mit zahllosen Buddha-Statuen. Es ist nicht ganz so toll wie in Dambulla, aber trotzdem sehr sehenswert. Die Ausstaffierung der Höhlen ist etwas jünger und wirkt irgendwie europäisch beeinflusst. Von der Spitze aus hat man einen Rundumblick auf den endlosen Palmenwald.
 
@@ -33,7 +33,7 @@ Die nächste Zerstreuung war ein Rollerausflug zum Tempel von Mulgirigala. Zum e
 Auf dem Rückweg haben wir uns Dank Handy mit GPS-Karten durch winzige Wege durchs Nirgendwo zum "Blow Hole" an der Küste durchgeschlagen. Für dieses langweilige "Naturschauspiel" wird sogar horrender Eintritt verlangt. Aus einer Felsritze schießt ab und zu Wasser in die Höhe, das von den Wellen unterirdisch hochgepresst wird. Die Anwesenden waren wenig beeindruckt.
 
 ![](AF_20141230_5582.jpg)
-![alone](AF_20141230_5597.jpg)
+![portrait](AF_20141230_5597.jpg)
 
 Der Rückweg hat sich aber extrem gelohnt. Als wir gerade in der Dämmerung an der Mawalla Lagoon vorbeifuhren, haben sich Tausende von Flughunden aus den umliegenden Wäldern erhoben um auf ihren abendlichen Beutezug zu gehen. Vor dem wilden Abendrot haben sich die majestätischen Scharen wie Batmans Hilfsstaffel ausgemacht.
 

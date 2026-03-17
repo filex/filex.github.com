@@ -16,7 +16,7 @@ Wieder in Delhi konnten wir den Vormittag nutzen, ein weiteres Versäumnis nachz
 Die Qutb Minar ist ein gigantisches Minarett aus dem 13. Jahrhundert. Der über 70 Meter hohe Turm aus roten Steinen ist reich mit Arabesken verziert und sehr eindrucksvoll. Heute steht das Minarett, das der aufgestellten Tafel nach bescheiden als das "perfekte Vorbild für alle Minarette der Welt" beschrieben wird, in einer mit Ruinen geschmückten Parklandschaft.
 
 ![](3317.jpg)
-![alone](3322.jpg)
+![portrait](3322.jpg)
 ![](3316.jpg)
 ![](3340.jpg)
 

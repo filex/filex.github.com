@@ -20,7 +20,7 @@ Das Kloster war den Weg allerdings wert. Es wurde von Tsong Khapa, dem Gründer 
 
 Neben einer 11m hohen Silber-Stupa, die natürlich dem Gründer gewidmet ist, sind prachtvolle Jak-Butter-Schaustücke der Blickfang des Klosters. In einer klimatisierten Vitrine stehen die mannshohen Buddha-Skulpturen in einem Meer von Blumen, umgeben von umfangreichem Zierwerk — alles aus Butter und hübsch bemalt.  Damit die Mönche sich nicht langweilen, wird das Werk jährlich erneuert.
 
-![alone](AF_20070701_1379.jpg)
+![portrait](AF_20070701_1379.jpg)
 ![](AF_20070701_1392.jpg)
 
 In einem riesigen Hotel haben wir ein geräumiges Zimmer im 17.  Stock, das einen gigantischen Ausblick auf die Stadt bietet. Wir sind direkt eingeschlafen. Später hatten wir Gelegnheit das trostlose Bild von Xining etwas zu revidieren. Mit einem immerhin zweisprachigen Stadtplan ausgerüstet haben wir die Stadt dem üblichen Ritual unterzogen, einen Supermarkt zu finden.  Tatsächlich sind wir nach einer Weile in ein belebtes Viertel gekommen, das nicht nur Supermärkte, sondern auch einen schönen Straßenmarkt zu bieten hatte. Zwischen den vielen kleinen Geschäften machten sich Baustaub und Ruinenstaub weniger bemerkbar.

@@ -20,5 +20,5 @@ In Shanghai sind wir natürlich den Bund entlang geschlendert und haben die vers
 
 In der Altstadt haben wir uns durch einen Gang über die von Menschen überfuellte Zickzack-Brücke von bösen Geistern befreit. Direkt nebenan liegt der alte Yu-Garten, der "Wald und Berge in der Stadt" sein soll. Die vielen verwinkelten Bereiche mit unzähligen Teichen, Tümpeln, Brückchen und anderem Inventar, das man von alten, chinesischen Gärten erwartet, werden dem Ruf gerecht.
 
-![alone](AF_20070617_0157.jpg)
+![portrait](AF_20070617_0157.jpg)
 ![](AF_20070617_0205.jpg)

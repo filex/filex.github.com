@@ -29,7 +29,7 @@ Durch den Park, den man mit einer Spende beliebiger Höhe betreten kann, führt 
 Dazwischen haben wir erstaunlich viele Tiere beobachten können. Allen voran die Brüllaffen, deren seltsames Geheul über unsere Köpfe hallte. Ein späteres Stück Weg wird von Kapuzieneräffchen belagert. Die faulen Faultiere hielten jeweils nur einen Baum unter Beschlag. Rastlos zwischen den Stationen flatterte Morpho Azul, ein blau schimmernder Schmetterling in Handgröße.
 
 ![](340.jpg)
-![alone](351.jpg)
+![portrait](351.jpg)
 
 Klein aber fein ist die Königin des Parks, der winzige Nachwuchs der giftigen Eyelash Viper (Bothriechis schlegelii). Die Schlange ist knallgelb und sehr giftig. Dieses Exemplar hatte die beruhigende Größe eines Regenwurms.
 

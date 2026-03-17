@@ -15,7 +15,7 @@ Der Weg zu unserer Unterkunft „Planinski Dom Savica" führte am See entlang. A
 
 Der „Slap Savica" (Savica-Wasserfall) ist ein beliebtes Ausflugsziel und unser Hotel war bis vor kurzem auch nur ein Restaurant. Jetzt gibt es auch ein paar Zimmer. Das Restaurant macht schon um 17:30 Uhr zu. Aber nach fast 5 Stunden wandern waren wir früh genug hungrig und müde, um uns daran nicht zu stören.
 
-![alone](AF_20200915_6194.jpg)
+![portrait](AF_20200915_6194.jpg)
 
 Am nächsten Morgen sind wir nach einem guten Frühstück wieder zum See aufgebrochen. Mit dem Mietwagen wird schnell klar, was die slowenische Wirtschaft wirklich antreibt: Parkplätze. Jeder Flecken am See, auf dem man ein Auto abstellen könnte, hat eine Schranke bekommen. Die Parkuhr dreht sich fast so schnell wie in der Kölner Innenstadt.
 

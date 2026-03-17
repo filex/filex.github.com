@@ -18,6 +18,6 @@ Wir haben uns mit den weiter unten liegenden Pagoden getröstet, von denen die u
 
 ![portrait](AF_20110220_4140.jpg)
 ![portrait](AF_20110220_4143.jpg)
-![alone](AF_20110220_4152.jpg)
+![portrait](AF_20110220_4152.jpg)
 ![](AF_20110220_4173.jpg)
 ![](AF_20110220_4224.jpg)

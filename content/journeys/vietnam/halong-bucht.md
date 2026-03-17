@@ -26,4 +26,4 @@ Die Fahrt führte zu einem kleinen Dorf in einem Tal voller Reisfelder. Wir wurd
 Am dritten Tag ging es wieder zurück durch die Bucht zum Hafen und anschließend wieder nach Hanoi. Dort sind wir wieder bei dem empfehlenswerten Reisebüro Ocean Tours abgesetzt worden, die uns gleich in den Nachtbus nach Hue umgetopft haben. Wir verlassen Hanoi mit seinem sympathischen Durcheinander wehmütig. Wenn das Wetter nicht so ungemütlich wäre, hätten wir gerne noch mehr Zeit hier verbracht.
 
 ![](AF_20110221_4364.jpg)
-![alone](AF_20110223_4703.jpg)
+![portrait](AF_20110223_4703.jpg)

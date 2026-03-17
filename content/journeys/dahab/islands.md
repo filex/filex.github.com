@@ -12,7 +12,7 @@ hide_date: true
 ![](islands_4.jpg)
 ![](islands_5.jpg)
 ![](islands_6.jpg)
-![alone](islands_7.jpg)
+![portrait](islands_7.jpg)
 ![](islands_8.jpg)
 ![](islands_9.jpg)
 ![](islands_10.jpg)

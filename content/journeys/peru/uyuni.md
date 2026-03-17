@@ -19,7 +19,7 @@ Die erste Nacht haben wir in einem Bau von landestypischer Trostlosigkeit verbra
 ![](AF_20081215_0454.jpg)
 ![](AF_20081215_0482.jpg)
 ![](AF_20081215_0486.jpg)
-![alone](AF_20081215_0611.jpg)
+![portrait](AF_20081215_0611.jpg)
 ![](AF_20081215_0500.jpg)
 ![](AF_20081215_0546.jpg)
 ![portrait](AF_20081215_0498.jpg)
@@ -53,7 +53,7 @@ Später sind wir die chilenische Grenze entlang zur Laguna Verde gefahren. Bei r
 Zurück in Uyuni wurden wir erstmal von dem Busunternehmen geschockt, die offenbar unsere Buchung nicht erhalten hatten. Glücklicherweise haben sie uns doch noch mitgenommen, so dass wir wieder eine Nacht im Bus verbringen durften.
 
 ![](AF_20081217_0997.jpg)
-![alone](AF_20081217_0975.jpg)
+![portrait](AF_20081217_0975.jpg)
 ![](AF_20081217_1008.jpg)
 ![](AF_20081217_1037.jpg)
 ![](AF_20081217_1066.jpg)

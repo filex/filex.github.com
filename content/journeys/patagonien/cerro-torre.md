@@ -7,7 +7,7 @@ date: 2018-12-28
 
 Der zweite Pflichtausflug von El Chalten ist die Wanderung zum Cerro Torre. Der Weg ist sehr einfach, da er nicht viel mehr als 250 Höhenmeter hat, auch wenn sich Hin- und Rückweg auf sechs Stunden ziehen. Die Wege sind wieder sehr schön und sehr voll. Die Landschaft ist wie am Vortag heidig, moorig und lieblich. Kein Wunder, es sind ja nur ein paar Kilometer weiter.
 
-![alone](AF_20181228_0933.jpg)
+![portrait](AF_20181228_0933.jpg)
 
 Obwohl Regen angesagt war, ist es heiter geblieben und ein leichter Regen fiel aus blauem Himmel. Nur über dem Berg war schlechtes Wetter. Eigentlich sollten wir die markanten Spitzen des Cerro Torre schon auf dem Weg sehen können. Doch da waren nur Wolken und Uneinigkeit, wo überhaupt der Berg sei.
 

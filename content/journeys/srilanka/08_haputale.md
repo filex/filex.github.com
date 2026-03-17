@@ -19,11 +19,11 @@ Hinter diesem skurrilen Zwischenstopp beginnt ein Trampelpfad durch einen verwun
 
 ![](AF_20150103_5941.jpg)
 ![](AF_20150103_5956.jpg)
-![alone](AF_20150103_5951.jpg)
+![portrait](AF_20150103_5951.jpg)
 
 Unser Plan im nächsten Ort den Bus zurück zu nehmen wurde von einer entweder frisch zerstörten oder immer schon schlechten Straße vereitelt, über die wohl kein Verkehr geht (was echt etwas heißen soll). Der einzige Rückweg, der nicht wieder durch den Wald führt, war die Schiene. Das wurde im Reiseführer eigens erwähnt und empfohlen, was die Zurechnungsfähigkeit der Autoren vollends in Zweifel stellt. 8km in Trippelschritten über glitschige, unregelmäßige Schwellen zu laufen zerstören Körper und Geist.
 
 ![](AF_20150103_5964.jpg)
 ![](AF_20150103_6013.jpg)
 ![](AF_20150103_6022.jpg)
-![alone](AF_20150103_5978.jpg)
+![portrait](AF_20150103_5978.jpg)

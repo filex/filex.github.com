@@ -11,7 +11,7 @@ Vielleicht ist es der sagenhafte Name Mandalay, der Erwartungen schürt? Leider 
 
 Es gehört zum Pflichtprogramm, abends auf den Hügel zu steigen. Eine überdachte Treppe führt in vielen Etappen hinauf, vorbei an geräumigen Zwischenstationen, wo sich Familien mit ihren Ständen eingerichtet haben. Es gibt auch immer mal wieder einen Buddha zum Beten, weshalb man die Treppe barfuß hochsteigen muss. Nach dutzenden Stationen, die durch ihre Fliesen etwas von sakralen Haltestellen haben, wird man mit einem überwältigenden Blick belohnt.
 
-![alone](AF_20131218_2203.jpg)
+![portrait](AF_20131218_2203.jpg)
 
 Man blickt über den Wald aus 700 weißen Stupas der Kuthodaw-Pagode, von denen jede eine marmorne Buchseite enthält; über die kilometerlange Palastmauer, die von einem breiten Wassergraben umgeben ist; über das hässliche, große Hotel, das direkt am Fuß des Mandalay Hills steht; über erstaunlich viel Grün und die Häuser der Stadt, die von hier aus viel zu weit weg erscheinen. Bei Sonnenuntergang tauchen überall Rauch- und Nebelschwaden wie aus dem Nichts auf und verwandeln die Szenerie in ein Märchenland. Die Sonne taucht den Irrawaddy in flüssiges Gold. Wenn das Schauspiel vorbei ist, wird es schnell feucht und kalt. Wir haben schnell gelernt, dass winterliche Kleidung hier sehr praktisch ist.
 
@@ -25,4 +25,4 @@ Am nächsten Morgen haben wir uns klapprige Fahrräder geliehen, um nach Amarapu
 An der völlig überlaufenen Ausfallstraße nach Süden liegt die Mahamuni-Pagode. Wie viele Pagoden hier ist sie nur durch eine Art überdachten Tunnel zugänglich, der von mageren Ständen für religiöses Zubehör oder Snacks vollgestopft ist. In den Galerien um das Heiligtum tummeln sich jede Menge Betenden, die sich daran machen den großen Buddha mit Blattgold zu überziehen. Das ist an sich nichts besonderes, aber hier wird das mit solchem Eifer betrieben, dass der Buddha wie mit Geschwüren mit dicken goldenen Wülsten überzogen ist. Das ist übrigens ein Spaß, den die so harmonischen Buddhisten ihren weiblichen Gläubigen verbieten.
 
 ![](AF_20131219_2353.jpg)
-![alone](AF_20131219_2347.jpg)
+![portrait](AF_20131219_2347.jpg)

@@ -9,4 +9,4 @@ Mit einem Tag Verspätung sind wir in Richtung Cocuy aufgebrochen. Entgegen unse
 
 Dementsprechend zerstört sind wir in Güican angekommen. Der Ort ist klein und reizlos und wird nur von Wanderern besucht, die von hier in den Nationalpark "El Cocuy" starten. Die ausgewachsene Kirche besticht mit aufgesprühtem "Graffiti-Marmor". Unser Hotel "Brisas del Nevado" hat nicht zum Wohlbefinden beigetragen, da wir nur ein Zimmer mit Stockbetten und einem versifften Gemeinschaftsklo bekommen hatten. Der Laden verdankt seine Existenz vermutlich der fehlenden Alternativen. Im Nachbarort Cocuy hätte es mehr Unterkünfte gegeben, und auch der Ort sah etwas netter aus.
 
-![alone](AF_20160103_8756.jpg)
+![portrait](AF_20160103_8756.jpg)

@@ -15,6 +15,6 @@ Die Hauptattraktion ist aber das Frauenkloster Santa Catalina. Hinter einen hohe
 Guten Rutsch ins Neue Jahr!
 
 ![](AF_20081230_2287.jpg)
-![alone](AF_20081230_2293.jpg)
+![portrait](AF_20081230_2293.jpg)
 ![](AF_20081230_2297.jpg)
 ![](AF_20081230_2324.jpg)

@@ -7,7 +7,7 @@ date: 2020-09-26
 
 Wieder hatte das Wetter unsere Reiseroute beeinflusst. Statt direkt nach Norden über Graz nach Klagenfurt zurück zu fahren, haben wir einen großen Umweg über Ljubljana an die Nordwestgrenze gemacht. Wir wollten den Besuch im Soča-Tal auf der Rückreise nachholen. Tatsächlich hatte das Wetter mitgespielt und sogar Anflüge blauen Himmels im Repertoire.
 
-![alone](AF_20200926_7138.jpg)
+![portrait](AF_20200926_7138.jpg)
 
 Überraschender aber war wie steil die Straße hinter Kranjska Gora hochführte. In 50 durchnummerierten Serpentinen haben wir uns auf über 1700m herauf- und wieder herunter geschraubt. In der Nacht war Schnee gefallen und die Berge schlummerten friedlich unter einer Decke aus Puderzucker. Die Berge, in denen wir noch vor einer Woche geschwitzt hatten, waren nicht wiederzuerkennen.
 

@@ -19,7 +19,7 @@ Von einer Unmenge kleiner Buden abgesehen, die Dinge zubereiten und verkaufen, d
 Es gibt viele, meist taoistische Tempel in Taipeh, die sich einer regen Nutzung erfreuen und in den Alltag der Menschen integriert zu sein scheinen. Die Tempel verströmen trotz der düsteren, drachenbeladenen Gebäuden ein fröhliches Durcheinander von Opfergaben (Lebensmittel), Spenden (Münzgeld) und Rauch-Opfern (alles, was brennt). Über diesem Treiben ragt das 500m hohe Rekordhochhaus 101 auf und zeigt Festlandchina seine lange Antenne.
 
 ![](AF_20090830_4741.jpg)
-![alone](AF_20090830_4773.jpg)
+![portrait](AF_20090830_4773.jpg)
 ![](AF_20090830_4782.jpg)
 ![](AF_20090830_4853.jpg)
 ![](AF_20090830_4855.jpg)

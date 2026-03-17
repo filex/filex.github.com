@@ -68,5 +68,5 @@ Die Elefanten haben dann zwar leider nicht "trainiert", sondern nur rumgestanden
 
 Bis an die Ohren mit köstlichem Seafood vollgestopft haben wir uns auf einer tuckernden Fähre in Zeitlupe nach Port Blair aufgemacht, von wo aus wir nach Chennai geflogen sind. Die Stadt zeigte sich deutlich belebter, als wir sie in Erinnerung hatten, was an den beginnenden Feierlichkeiten zum Unabhängigkeitstag liegen könnte.
 
-![alone](4093.jpg)
+![portrait](4093.jpg)
 ![](4124.jpg)

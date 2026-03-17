@@ -9,7 +9,7 @@ Für das ganze Land waren mehrere Tage Dauerregen angesagt. Das hat uns unseren 
 
 Auf dem Weg dorthin haben wir einen Halt bei der Höhlenburg Predjama gemacht. Die Festung klebt hübsch in einer ausgehöhlten Felswand und war Schauplatz mittelalterlicher Heldengeschichten.
 
-![alone](AF_20200922_6888.jpg)
+![portrait](AF_20200922_6888.jpg)
 
 Nicht weit davon liegt die gewaltige Höhle Postojna. Sie ist so lang, dass eine Schmalspurbahn hineingelegt wurde. An die zehn Minuten sind wir nicht gerade langsam hineingefahren, was einen ersten Eindruck der enormen Ausmaße vermittelte. Danach wurden wir fast eine Stunde über sehr gut angelegte und beleuchtete Wege durch eine Welt aus versteinertem Blumenkohl geführt. Eigentlich sind wir Höhlenmuffel. Vor allem, wenn zu befürchten steht, dass man in jeder zweiten Stalaktite die Jungfrau Maria oder einen Elefantenrüssel sehen soll. Aber Postojna war wirklich beeindruckend.
 

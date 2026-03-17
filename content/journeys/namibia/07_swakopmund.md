@@ -13,7 +13,7 @@ An diesem seltsamen Ort könnte keine seltsamere Stadt liegen. Das kann unmögli
 
 Die Touristen sind vorwiegend alt und deutsch, und die meisten scheinen sich im Cafe Anton beim Apfelstrudel wieder nach Hause zu träumen. Der Rest dieser anämischen Stadt wirkt verlassen und geisterhaft - die Einheimischen sind vor der Trostlosigkeit ins “Kunsthandwerk” geflohen und verkaufen ihren Tinnef an der toten Promenade.
 
-![alone](img_20100910_1669.jpg)
+![portrait](img_20100910_1669.jpg)
 ![](img_20100910_1610.jpg)
 ![](img_20100910_1627.jpg)
 ![](img_20100910_1636.jpg)

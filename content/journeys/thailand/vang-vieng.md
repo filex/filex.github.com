@@ -14,6 +14,6 @@ Heute habe ich mir wieder einmal ein Fahrrad ausgeliehen um die Umgebung zu erku
 Aber die Umgebung ist einfach fantastisch: Kegelkarstberge, die wie riesige Dinosaurierruecken aus der Landschaft ragen und mit tropischem Wald bewachsen sind. Dazwischen befinden sich Reisfelder und man kann den Bauern bei der Arbeit zugucken. Einen dieser Berge habe ich muehselig bestiegen und von oben konnte ich die atemberaubende Aussicht geniessen. Ein weiteres Highlight war die "Blaue Lagune", ein herrlicher tuerkisfarbener Fluss, der sich in einen Pool ergiesst.
 
 ![](AZ_20120621_1973.jpg)
-![alone](AZ_20120621_1984.jpg)
+![portrait](AZ_20120621_1984.jpg)
 ![](AZ_20120621_2012.jpg)
 ![](AZ_20120621_2049.jpg)

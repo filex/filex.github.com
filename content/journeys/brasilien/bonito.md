@@ -23,7 +23,7 @@ Wie die meisten anderen Ziele ist auch dieser Abschnitt des Rio da Prata in Priv
 
 Auf dem Rückweg nach Bonito haben wir am Buraco das Araras Halt gemacht. Hier ragt ein 100m tiefes Loch im Land, das zur richtigen Zeit von hunderten Paaren Roter Aras zum Nisten genutzt wird. Es war nicht die richtige Zeit, daher haben wir nur zwei gesehen. Aber der Ausblick auf den senkrecht ausgeschnittenen Zylinder lohnt sich auch so. Auf dem Grund gibt es einen kleinen Grützesee, den kinderfressende Kaimane bewohnen. Da die Jungtiere hier nicht weg können, wechseln sie eben bei nächster Gelegenheit ins Lager der Beutetiere. Böse Zungen behaupten, dass hier in wilderen Zeiten auch gerne mal Menschen entsorgt wurden.
 
-![alone](AF_20121217_3706.jpg)
+![portrait](AF_20121217_3706.jpg)
 ![](AF_20121217_3749.jpg)
 
 Die Restaurants in Bonito sind so fair, Kunden schon von außen durch Abbildungen ihres Speiseangebots zu warnen. Daher haben wir uns auf den Genuss einer köstlichen Papaya beschränkt. An der Hauptstraße war es ohnehin kaum auszuhalten, weil sich die Dorfbeschaller mit ihren Lautsprechern auf der Ladefläche offensichtlich nicht auf Samstage beschränken, und alle anderen auch hupend ausgerastet sind, um ihre Genugtuung kund zu tun, dass hochrangige Politiker wegen Korruption verknackt wurden.

@@ -22,7 +22,7 @@ Mit den guten OpenStreetMaps-Karten haben wir direkt den Trampelpfad gefunden, d
 
 ![](AF_20180706_8010.jpg)
 ![](AF_20180706_8039.jpg)
-![alone](AF_20180706_8027.jpg)
+![portrait](AF_20180706_8027.jpg)
 ![](AF_20180706_8045.jpg)
 
 ## 07/07/2018

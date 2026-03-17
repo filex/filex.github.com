@@ -16,5 +16,5 @@ Auch Golden Mount, ein Tempel der auf einem kuenstlich aufgehaeuften Huegel steh
 ![](AZ_20120610_1015.jpg)
 ![](AZ_20120610_1024.jpg)
 ![](AZ_20120610_1035.jpg)
-![alone](AZ_20120610_1098.jpg)
+![portrait](AZ_20120610_1098.jpg)
 ![](AZ_20120610_1103.jpg)

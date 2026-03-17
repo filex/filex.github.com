@@ -51,7 +51,7 @@ Hinter ein paar Hügeln tauchte der große Lago Nordenskjöld auf, der vermutlic
 
 Mit dem ganzen Gepäck auf dem Rücken haben wir unsere Wanderstöcke dann doch noch lieben gelernt. Allerdings wirft es neue Probleme auf, wenn man immer beide Hände „zum Gehen“ braucht. In den kommenden Tagen haben wir Dutzende Varianten eine Kamera zu tragen entwickelt (und verworfen).
 
-![alone](AF_20181221_9943.jpg)
+![portrait](AF_20181221_9943.jpg)
 
 Das Los Cuernos ist deutlich kleiner als die vorige Hütte, aber durchaus gemütlich und schön gelegen. Die Zelte duckten sich zwischen dichten Büschen, so dass es eine gewisse Hoffnung gab, nur die Schnarcher aus der unmittelbaren Umgebung hören zu müssen. Für die zwei Nächte, die wir dort blieben (auch wegen mangelnder Kapazität im besser gelegenen „Refugio Frances“), hatten wir eine „Plataforma“: Das Zelt stand nicht auf der Erde sondern auf einer Holzplattform. Das war deutlich besser - keine Steine im Rücken, keine Schieflage, bei der man von der Isomatte rutscht. So ein Ding sollte man beim Zelten immer dabei haben.
 

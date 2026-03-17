@@ -40,4 +40,4 @@ Der Vorgeschmack, den wir beim Schnorcheln bekommen haben, hat sich durchweg bes
 Am Nachmittag haben wir Verstärkung durch einen weiteren Gast bekommen. Er kam vom anderen Murex Resort in Manado. Wir haben erfahren, dass man nach Belieben zwischen den Hotels wechseln kann, was von der Crew auch gerne empfohlen wird.
 
 ![](AF_20080624_4641.jpg)
-![alone](AF_20080629_4705.jpg)
+![portrait](AF_20080629_4705.jpg)

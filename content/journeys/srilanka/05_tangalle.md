@@ -11,7 +11,7 @@ Nachdem sich die steile Straße zu unserem Guesthouse in einen knöcheltiefen Fl
 
 Die Fahrt nach Colombo ging durch das malerische Hochland, das leider fast gänzlich in Wolken (und Regen) versunken war. In Colombo war der Bahnhof genauso stressig. Die Fahrt weiter bis Weligama mussten wir auch stehen, so dass wir es insgesamt auf stolze 7 Stunden Stehplatz geschafft haben.
 
-![alone](AF_20141224_2718.jpg)
+![portrait](AF_20141224_2718.jpg)
 
 Die Nacht in Mirissa hat sich als schwerer Fehler erwiesen (weil der nicht empfehlenswerte Stefan Lohse sich nicht klar ausdrücken kann). Das ist Kirmes am Strand und Party bis in den Morgen. "Ein Ort um die Seele baumeln zu lassen" war keine so gute Beschreibung von dieser Touri-Hölle.
 

@@ -39,4 +39,4 @@ Sp√§ter konnten wir endlich einen Blick auf das Delta werfen, der uns in den St√
 
 ![](AF_20110308_6883.jpg)
 ![](AF_20110308_6913.jpg)
-![alone](AF_20110308_6927.jpg)
+![portrait](AF_20110308_6927.jpg)

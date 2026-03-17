@@ -17,7 +17,7 @@ Den nächsten Tag haben wir ganz auf dem See verbracht. In der Frühe ist es eis
 
 Der Inle-See ist berühmt für seine Fischer, die durch ihre eigenwillige Rudertechnik auffallen. Sie balancieren auf einem Bein auf dem Ende ihres Einbaums und Wickeln das zweite ums Paddel, mit dem sie in artistischen Bewegungen rudern und lenken. Wie ausgerechnet ein Volk, das Röcke trägt, auf so etwas kommt? Die meisten Fischer stürzen sich auf die Touristenboote, um gegen Trinkgeld ihre kleine Show darzubieten.
 
-![alone](AF_20131225_3346.jpg)
+![portrait](AF_20131225_3346.jpg)
 
 Am Rand des Sees sind ausgewachsene Dörfer auf Stelzen entstanden, die nur per Boot zu erreichen sind. Hier geht es mit dem Einbaum zur Pagode oder zur Teestube. Durch lange, von Wasserhyazinthen zugewachsenen Kanäle führt der Weg nach Intein. Der Ort ist wieder auf festem Boden erbaut und berühmt für seinen bunten Markt, wo Frauen aus dem Umland in bunten Trachten ihre Waren verkaufen, und seine schönen Stupas. Letztere sind älter und schöner verziert als alle, die wir bisher gesehen haben. Einige sind halb verfallen und bewachsen, was dem Ort einen morbiden Charme verleiht.
 

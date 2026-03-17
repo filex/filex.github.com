@@ -11,6 +11,6 @@ Die Bootstour am nächsten Morgen hat sich allerdings wirklich gelohnt. Eine Stu
 
 ![](6.jpg)
 ![](7.jpg)
-![alone](8.jpg)
+![portrait](8.jpg)
 
 Mit nassen Klamotten haben wir anschließend den Weg nach Mindoro zum Big La Laguna Beach angetreten. Dabei sind wir in den Genuss gekommen, jedes nur erdenkliche öffentliche Verkehrsmittel benutzen zu können: Tricycle, Jeepney, Bus und Boot.

@@ -18,7 +18,7 @@ Die Kambodschaner sind sehr freundlich und zuvorkommend. Allen voran die Besetzu
 ![portrait](AF_20110301_5534.jpg)
 ![](AF_20110301_5593.jpg)
 ![](AF_20110301_5547.jpg)
-![alone](AF_20110302_5888.jpg)
+![portrait](AF_20110302_5888.jpg)
 
 ## 02/03/2011
 

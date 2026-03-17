@@ -17,4 +17,4 @@ Der Rest des Ausflugs bestand aus einer anstrengenden Wanderung über den Grat d
 ![](AF_20081223_1434.jpg)
 ![](AF_20081223_1435.jpg)
 ![](AF_20081223_1441.jpg)
-![alone](AF_20081223_1443.jpg)
+![portrait](AF_20081223_1443.jpg)

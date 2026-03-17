@@ -12,7 +12,7 @@ In einem alten Taxi mit einem noch viel älteren Taxifahrer haben wir auf Umwege
 
 Zum Buddha selbst haben wir es nur knapp vor Torschluss geschafft. Dennoch blieb uns Zeit, ein Blick in das Kloster zu werfen und die lange Treppe zur großen Lotusblüte hochzusteigen, in der der Erleuchtete Platz genommen hat. Von dort aus hat man einen schönen Blick auf die umliegenden Hügel und das Meer, in das der wolkenverhangene Himmel nahtlos überzugehen schien.
 
-![alone](35.jpg)
+![portrait](35.jpg)
 ![](37.jpg)
 ![](36.jpg)
 

@@ -9,7 +9,7 @@ Der erholsame Teil der Reise hat begonnen. Wir haben Borneo verlassen und sind i
 
 Auf der kleineren Insel (kecil) gibt es ein Dorf, das am Ostufer klebt. In der Mitte steht eine seltsame Moschee-Jetty-Kombination. Daneben kleben noch ein paar Häuser. Die größere Insel (besar) ist unsere und sieht auf der Karte aus wie Australien. An der Südwest-Küste wurde ein überproportionierter Steg gebaut, an dem wir rausgeworfen wurden. Auf den ersten Blick schien die Insel sehr viel geschäftiger zu sein als wir erwarteten. Das lag aber wohl am Nationalfeiertag, den viele Einheimische für einen Strandausflug genutzt hatten. Letzten Endes geht es in Abdul's Chalet recht beschaulich zu. Unsere Hütte steht nur zehn Meter vom Wasser entfernt und hat eine schöne, schattige Terrasse.
 
-![alone](AF_20150831_7979.jpg)
+![portrait](AF_20150831_7979.jpg)
 ![](AF_20150831_7981.jpg)
 
 Das Meer lädt hier zum Schnorcheln ein (eigentlich auch zum Tauchen, aber wir sind wieder zu faul). Direkt vor der Tür sind kleine Korallenplacken im flach abfallenden Sand. Unter Wasser tummeln sich erstaunlich viele Rifffische. Rund um den Anleger sind vor einigen Jahren künstliche Riffe angelegt worden, die schon eifrig bewachsen wurden. Unter anderem wurden als großzügige Spende einer Bank drei Geldautomaten versenkt. Leider sind es die einzigen auf der Insel geblieben. Eine Bucht weiter gibt es Anemonen im Überfluss, und auch Baby-Haie und Tintenfische kann man sehen.

@@ -9,7 +9,7 @@ MINGALABA!! Myanmar kann sich der nettesten Begrüßungsformel der Welt rühmen.
 
 ![](AF_20131220_2563.jpg)
 ![](AF_20131220_2760.jpg)
-![alone](AF_20131225_3531.jpg)
+![portrait](AF_20131225_3531.jpg)
 
 Auch in der Stadt, wo manches moderner zugeht, trifft man auf viel Herzlichkeit und Hilfsbereitschaft. Wenn der Reifen mal lehr ist, hilft die Werkstatt gerne aus und will auch kein Trinkgeld, sondern freut sich über ein holpriges “Dschesutschinbahde” (Danke). In Yangon hatten wir gerade unseren Mut an einem der vielen Fressstände bewiesen, als uns ein alter Herr direkt Taschentücher angeboten hat, weil er gesehen hat, dass wir bei der Verköstigung der klebrigen Speise etwas ungeschickt zugange waren.
 
@@ -24,7 +24,7 @@ Die Regierung hat den Straßenverkehr vor einigen Jahren gehörig aufgepeppt, al
 
 Der Norden Myanmars wirkt gar nicht südostasiatisch sondern eher zentralasiatisch. Die Menschen sind wegen der kalten Nächte oft in Pullover, Anoraks und Mäntel gehüllt. Die dunklen Gesichter und dreckigen Kinder könnten indisch oder sogar tibetisch sein. Vor allem der Entwicklungsstand ist nicht mit dem Nachbarn Thailand zu vergleichen.
 
-![alone](AF_20131225_3390.jpg)
+![portrait](AF_20131225_3390.jpg)
 ![](AF_20131224_3242.jpg)
 
 Hier wird zwar auch viel Curry gekocht, aber weder indisch noch thailändisch, sondern nach eigener Art, die relativ dünn, sehr ölig und in der Regel nicht scharf ist. Es gibt viel heimisches Gemüse, das in vielen kleinen Schälchen zu Reis aufgetischt wird. Kellner mit Blickkontakt oder Winken auf sich aufmerksam machen zu wollen, ist oft ein Zeit raubendes Unterfangen. Der lokale Trick ist lautes Schmatzen – das bringt jeden Kellner in der Umgebung sofort auf die Beine. Auf der Straße werden in kleinen Öfen Samusas frittiert, die als Snack oder zum Tee gegessen werden.

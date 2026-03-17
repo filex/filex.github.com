@@ -18,4 +18,4 @@ Heute frueh hab ich mich mit einem Sammeltaxi, das unterwegs die ganzen Schulkin
 ![](AZ_20120612_1289.jpg)
 ![](AZ_20120612_1300.jpg)
 ![](AZ_20120612_1317.jpg)
-![alone](AZ_20120612_1266.jpg)
+![portrait](AZ_20120612_1266.jpg)

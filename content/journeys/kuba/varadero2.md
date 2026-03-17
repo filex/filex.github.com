@@ -7,5 +7,5 @@ date: 2011-12-30
 
 Um unseren Rückflug zu bekommen, kehren wir für eine letzte Nacht in unsere erste Casa Particular nach Varadero zurück.
 
-![alone](AF_20111231_0530.jpg)
+![portrait](AF_20111231_0530.jpg)
 ![](AF_20111231_0535.jpg)

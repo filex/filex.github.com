@@ -14,4 +14,4 @@ Fuer den naechsten Tag hab ich mir auch direkt eine Trekking-Tour in der maleris
 ![](AZ_20120613_1329.jpg)
 ![](AZ_20120613_1364.jpg)
 ![](AZ_20120614_1422.jpg)
-![alone](AZ_20120613_1346.jpg)
+![portrait](AZ_20120613_1346.jpg)

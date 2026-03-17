@@ -31,5 +31,5 @@ Weil die längeren Wege in entlegenere Bereiche gesperrt waren, sind wir zum Mit
 
 ![](AF_20150819_6995.jpg)
 ![](AF_20150820_7028.jpg)
-![alone](AF_20150820_7036.jpg)
+![portrait](AF_20150820_7036.jpg)
 ![](AF_20150820_7057.jpg)

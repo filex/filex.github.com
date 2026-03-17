@@ -13,7 +13,7 @@ Die an der Westküste gelegen *Hauptstadt Roseau* ist der einzige nennenswerte O
 Die vielleicht bekannteste Sehenswürdigkeit der Insel sind die *Trafalgar Falls*. Der Zwillingswasserfall wird fast als Weltwunder angepriesen und gehört zur Shortlist der Kreuzfahrtschiff-Touristen, die hier ab und zu mal landen. Der Ausblick ist nett, aber der eigentliche Grund für die Berühmtheit ist eher die rollstuhlgerechte Zugänglichkeit auf dem fünfminütigen Spaziergang vom Parkplatz aus.
 
 ![](AF_20191231_5306.jpg)
-![alone](AF_20191231_5309.jpg)
+![portrait](AF_20191231_5309.jpg)
 ![](AF_20200101_5444.jpg)
 
 Deutlich spannender war unser Ausflug zu den *Middleham Falls*. Die verstecken sich tief im Wald und geben sich dem Wanderer erst nach anderthalb Stunden preis. Erst führte der Weg immer höher durch den Wald, danach in einen runden, zugewucherten Talkessel. Das Rauschen des Wassers wurde immer lauter, doch durch das grüne Dickicht war bis zum letzten Moment nichts zu sehen. Erst auf einer kleinen Aussichtsplatform zeigt sich der hohe Wasserfall. Egal wie schweißtreibend der Weg war, die Abkühlung im Pool war definitiv viel zu kalt.

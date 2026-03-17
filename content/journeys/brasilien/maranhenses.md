@@ -7,7 +7,7 @@ date: 2012-12-27
 
 Die nächsten Tage waren dem Weg nach Jeri gewidmet. Entlang der Strecke gibt es einige interessante Sehenswürdigkeiten. Die erste ist Lençóis Maranhenses, eine endlose Dünenlandschaft, die zur Regenzeit halb unter Wasser steht. Da wir zur Trockenzeit da waren, fehlte der letzte Kick, um einen Weltklasse-Ausflug daraus zu machen. Aber die strahlend weißen Dünen waren auch so wunderschön. Wir wurden von einem Monstrum von Truck querfeldein dort hingefahren. Eine brasilianische Familie von unglaublichem Format (vgl. Essgewohnheiten) hat uns die nötige Bodenhaftung verliehen. Die Großmutter mit den Stimmbändern eines Piraten war am besten drauf und hat trotz Fahrtwind der ganzen Truppe mit ihrem Gegröle einen Tinnitus beschert.
 
-![alone](AF_20121227_4828.jpg)
+![portrait](AF_20121227_4828.jpg)
 ![](AF_20121227_4861.jpg)
 
 Der nächste Tag stand unter dem Motto "Nase im Wind". Beim Bootsausflug zum winzigen Fischerdorf Carubé hat der Kapitän derart Gas gegeben, dass die Mangroven zu grünen Schlieren wurden. Nach zwei überflüssigen Stopps, die eher für betrunkene einheimische Ausflügler konzipiert waren, konnten wir unsere ausgeleierten Mundwinkel am Meer ausruhen lassen. Der Strand ist Hunderte Meter breit und fällt flach ins Meer ab. Mit großem Behagen konnten wir feststellen, dass es mind. 10 Grad wärmer als in Rio ist (wo es mind. 10 Grad zu kalt war).

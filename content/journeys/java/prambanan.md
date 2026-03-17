@@ -14,7 +14,7 @@ Der Weg wurde immer schöner, zwischen Reisfeldern und durch kleine Dörfer. Mit
 Der richtige Prambanan lag dann doch recht einfach zu erreichen an einer achtspurigen Straße. Die Hauptgruppe besteht aus sechs Tempeln, die von einer recht kleinen quadratischen Grundfläche steil aufragen und sich oben zu einer Spitze verjüngen. Der größte ist fast 50m hoch und recht eindrucksvoll. Von allen vier Seiten führen Treppen in kleine Kapellen hinauf, wo jeweils ein Gott aus Stein auf Besuch wartete. Hier war es deutlich ruhiger als beim Borobudur.
 
 ![](AF_20180711_8972.jpg)
-![alone](AF_20180711_8921.jpg)
+![portrait](AF_20180711_8921.jpg)
 
 Ein paar Schritte weiter hatten die Neider der buddhistischen Fraktion später auch wieder einen Tempel hingesetzt, der interessanterweise ganz ähnlich wie die hinduistischen aussieht.
 

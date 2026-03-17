@@ -21,4 +21,4 @@ Ein erschöpfender Spaziergang hat uns durch das historische Inventar Saigons ge
 
 Den Sonnenuntergang haben wir uns von der Dachterrasse des Sheratons aus angesehen. Vom 23. Stock aus hat man einen tollen Ausblick über die Stadt. Obwohl es schon recht weit nach unten geht stehen nebenan noch Hochhäuser, die noch viel weiter in den Himmel ragen. Und überall werden noch höhere gebaut. Die Cocktails im Sheraton sind die teuersten und schlechtesten der Reise gewesen.
 
-![alone](AF_20110309_7132.jpg)
+![portrait](AF_20110309_7132.jpg)

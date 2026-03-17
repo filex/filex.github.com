@@ -26,7 +26,7 @@ In den nächsten Tagen haben wir jede Menge Ausflüge in die Umgebung unternomme
 
 ![](AF_20111219_9939.jpg)
 ![](AF_20111219_9947.jpg)
-![alone](AF_20111219_9963.jpg)
+![portrait](AF_20111219_9963.jpg)
 ![](AF_20111221_0011.jpg)
 ![](AF_20111221_0025.jpg)
 ![](AF_20111222_0089.jpg)

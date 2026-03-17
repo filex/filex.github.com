@@ -23,4 +23,4 @@ Bevor es am nächsten Tag mit der Wanderung los gehen konnte, mussten wir noch u
 
 Im Restaurant Aldea auf der anderen Straßenseite haben wir uns ein letztes, exzellentes Abendessen gegönnt. Eigentlich wollten wir einfach nur nicht weit gehen. Aber das Essen war derart köstlich, dass man meinen könnte ein Sternekoch sei hierher in die Verbannung geschickt worden.
 
-![alone](AF_20181218_9681.jpg)
+![portrait](AF_20181218_9681.jpg)

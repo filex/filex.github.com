@@ -17,7 +17,7 @@ Auf den ersten Blick ist Hanoi eine typische asiatische Großstadt. Die Bürgers
 In der schönen Altstadt und dem Viertel westlich vom Hoan-Kiem-See sind die Straßen nach Gewerbe aufgeteilt. Korb-Straße, Trommel-Straße, Opfergeld-Straße, Plastik-Straße, Küchenkram-Straße, Asia-Nippes-Straße. Die Straße, in der unser etwas verwirrtes Hotel Especen liegt, ist zu klein für Autos und steht voll mit Mikro-Hockern, von denen eine hartnäckige Fischsaucenwolke ausgeht. Um die Ecke ist die gruselige St-Joseph-Kathedrale, ein neugotischer Prototyp, der wirkt als wäre er aus einem einzigen Stein gemeißelt und hätte danach 100 Jahre im Regen gestanden (letzteres stimmt vermutlich auch).
 
 ![](AF_20110218_3702.jpg)
-![alone](AF_20110218_3805.jpg)
+![portrait](AF_20110218_3805.jpg)
 
 Die dort anschließende Straße ist die Café-Straße und trägt viel zum Charme Hanois bei. Denn neben der ganzen asiatischen Hektik bietet die Stadt überall nette, kleine Cafés, in den man verschnaufen kann. Neben Baguettes ein weiteres Vermächtnis der Franzosen. Die Vietnamesen mögen ihren Kaffee sehr stark und süß. Sie tarnen diese Kombination als "Milch" - Kondensmilchsirup würde der Wahrheit näher kommen. Jeder Schluck erzeugt fünf Minuten Gänsehaut.
 

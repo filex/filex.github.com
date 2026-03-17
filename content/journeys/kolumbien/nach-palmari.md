@@ -15,11 +15,11 @@ Als die brasilianische Polizei endlich wieder offen hatte, sind wir mit einer Ri
 
 Der Fluss ist ja der eigentliche Grund, weshalb wir hier sind. Weder bei unserer Brasilien- noch bei der Peru-Reise haben wir es in diese Gegend geschafft. Also jetzt. Am Ableger ist er noch enttäuschend normal. Nach der nächsten Kurve stellt er sich allerdings als Seitenärmchen heraus. Der eigentliche Amazonas ist hier schon fast einen stolzen Kilometer breit. Allerdings ist das viele Wasser von soviel eintönigem Grün eingerahmt, dass es nicht schmerzt nach einer halben Stunde anzukommen. Benjamin Constant ist aus zivilisatorischer Perspektive die Fortführung des Ablegers. Der Ort ist in ernsthaft desolatem Zustand. Betrunkene schlafen auf den Gehwegen (Weihnachten?) und alles ist verrostet oder vergammelt. Von hier fahren wir mit einem Taxi in die nächste Stadt. Bei Zebras kann man überlegen ob es schwarze Streifen auf weißem Grund sind, oder umgekehrt. Bei der Straße gibt es nichts zu streiten. Es sind Asphaltstückchen in Schlaglöchern, nicht umgekehrt. Die Slalomstrecke endet in Atalia do Norte am Rio Javari, ein Amazonas-Zufluss, an dessen Ufer die Palmarí-Lodge liegt.
 
-![alone](AF_20151224_8327.jpg)
+![portrait](AF_20151224_8327.jpg)
 
 Mit einem Langboot tuckern wir immer weiter in den Dschungel hinein. Schnell haben wir die letzten Zeichen der Zivilisation (Autos, Betrunkene und Müll) hinter uns gelassen. Die Sonne neigt sich schon langsam dem Abend zu und taucht das rechte Ufer in goldenes Licht. Der Fluss liegt in großen Schleifen im flachen Urwald. Hin und wieder können wir Abkürzungen zwischen zwei Kehren nehmen, die über schmale Wasserwege mitten durch den Wald gehen. Dann kommt endlich ein Dach in Sicht - wir sind angekommen.
 
-![alone](AF_20151224_8347.jpg)
+![portrait](AF_20151224_8347.jpg)
 
 Die Lodge besteht aus einem großen Holzhaus, in dem die Gemeinschaftsräume untergebracht sind. Auf der Terrasse kann man in Hängematten liegen und den Kolibris an den Zuckertränken zusehen. Wir schlafen in der "Maloka", einer großen, runden Hütte, in der Matratzen und Moskitonetze bereitgemacht wurden. Noch vor dem Abendessen werden wir wieder aufs Boot gescheucht, um Kaimane zu fangen. Natürlich macht man das nicht selbst, sondern guckt den Guides dabei zu. Die haben es aber auch nicht hingekriegt. Danach gab es ein großes Weihnachtsessen mit ganzen Hühnchen.
 
