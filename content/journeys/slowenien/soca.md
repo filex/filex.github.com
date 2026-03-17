@@ -16,7 +16,7 @@ Wieder hatte das Wetter unsere Reiseroute beeinflusst. Statt direkt nach Norden 
 
 Die kleine Soča entspringt in diesen Bergen und schießt in eisigem Blau durch die schmalen Täler. Die Straße führt kilometerlang am Fluss entlang. Alle paar Minuten mussten wir anhalten und Fotos machen und staunen. Schade, dass wir hier keine längeren Wanderungen mehr machen konnten.
 
-![alone](AF_20200926_7290.jpg)
+![portrait](AF_20200926_7290.jpg)
 ![portrait](AF_20200926_7234.jpg)
 ![portrait](AF_20200926_7270.jpg)
 
