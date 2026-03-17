@@ -58,33 +58,41 @@ window.addEventListener('click', function(e) {
     });
 
     // touch swipe: left/right navigate, down close; pinch-to-zoom must not trigger navigation
+    // clientX used throughout so tap position can be compared with window.innerWidth
     var touchStartX = 0, touchStartY = 0, wasPinch = false, suppressClick = false;
     overlay.addEventListener('touchstart', function(e) {
       if (e.touches.length > 1) { wasPinch = true; return; }
       wasPinch = false;
-      touchStartX = e.changedTouches[0].screenX;
-      touchStartY = e.changedTouches[0].screenY;
+      touchStartX = e.changedTouches[0].clientX;
+      touchStartY = e.changedTouches[0].clientY;
     }, {passive: true});
     overlay.addEventListener('touchmove', function(e) {
       if (e.touches.length > 1) { wasPinch = true; return; }
       e.preventDefault(); // prevent page scroll behind overlay on iOS
     }, {passive: false});
     overlay.addEventListener('touchend', function(e) {
+      // preventDefault in touchmove suppresses the synthetic click; handle all touch
+      // navigation here and block the click event to avoid double-firing on desktop
+      suppressClick = true;
+      setTimeout(function() { suppressClick = false; }, 400);
       if (wasPinch) {
-        if (e.touches.length === 0) {
-          wasPinch = false;
-          suppressClick = true;
-          setTimeout(function() { suppressClick = false; }, 400);
-        }
+        if (e.touches.length === 0) wasPinch = false;
         return;
       }
-      var dx = e.changedTouches[0].screenX - touchStartX;
-      var dy = e.changedTouches[0].screenY - touchStartY;
+      var touch = e.changedTouches[0];
+      var dx = touch.clientX - touchStartX;
+      var dy = touch.clientY - touchStartY;
       var dominated = Math.abs(dy) > Math.abs(dx);
       if (dominated && dy > 80) {
         close();
       } else if (Math.abs(dx) > 50 && !dominated) {
         navigate(dx < 0 ? 1 : -1);
+      } else if (Math.abs(dx) < 20 && Math.abs(dy) < 20) {
+        // tap: navigate by position, close button and nav bar have their own handlers
+        if (touch.target.closest('#gallery-close')) { close(); }
+        else if (!touch.target.closest('#gallery-bar')) {
+          navigate(touchStartX < window.innerWidth / 2 ? -1 : 1);
+        }
       }
     });
   }
