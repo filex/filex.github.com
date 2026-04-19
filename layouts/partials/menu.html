@@ -5,6 +5,6 @@
   {{ end }}
 
   {{ range $parent.Pages.ByDate }}
-    <a href="{{ .RelPermalink }}#main">{{ .Title }}</a>
+    <a href="{{ .RelPermalink }}#main"{{ if eq .RelPermalink $.RelPermalink }} class="active"{{ end }}>{{ .Title }}</a>
   {{ end }}
 </aside>

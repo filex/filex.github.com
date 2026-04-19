@@ -133,41 +133,44 @@ img#map {
 {{ end }}
 
 <div id="container">
-  {{ $currentDate := .Date }}
-  {{ $allPlaces := .Parent.Pages.ByDate }}
-
-  <!-- Previous entries as stubs -->
-  {{ range $allPlaces }}
-    {{ if lt .Date $currentDate }}
-    <div class="entry">
-      <a href="{{ .RelPermalink }}#main">
-        {{ if not .Params.hide_date }}<h2 class="date">{{ .Date.Format "02/01/2006" }}</h2>{{ end }}
-        <h3 class="title">{{ .Title }}</h3>
-      </a>
-    </div>
-    {{ end }}
-  {{ end }}
-
-  <!-- Current entry with full content -->
+  <a id="main"></a>
   <div class="entry">
-    <a id="main"></a>
     {{ if not .Params.hide_date }}<h2 class="date">{{ .Date.Format "02/01/2006" }}</h2>{{ end }}
     <h3 class="title">{{ .Title }}</h3>
     <div class="text">{{ .Content }}</div>
   </div>
-
-  <!-- Following entries as stubs -->
-  {{ range $allPlaces }}
-    {{ if gt .Date $currentDate }}
-    <div class="entry">
-      <a href="{{ .RelPermalink }}#main">
-        {{ if not .Params.hide_date }}<h2 class="date">{{ .Date.Format "02/01/2006" }}</h2>{{ end }}
-        <h3 class="title">{{ .Title }}</h3>
-      </a>
-    </div>
-    {{ end }}
-  {{ end }}
 </div>
+
+{{- $allPlaces := .Parent.Pages.ByDate -}}
+{{- $prev := false -}}
+{{- $next := false -}}
+{{- range $i, $p := $allPlaces -}}
+  {{- if eq $p.RelPermalink $.RelPermalink -}}
+    {{- if gt $i 0 -}}
+      {{- $prev = index $allPlaces (sub $i 1) -}}
+    {{- end -}}
+    {{- if lt $i (sub (len $allPlaces) 1) -}}
+      {{- $next = index $allPlaces (add $i 1) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{ if or $prev $next }}
+<nav class="place-nav">
+  {{ with $prev }}
+  <a class="place-nav-prev" href="{{ .RelPermalink }}#main">
+    <span class="place-nav-label">← zurück</span>
+    <span class="place-nav-title">{{ .Title }}</span>
+  </a>
+  {{ end }}
+  {{ with $next }}
+  <a class="place-nav-next" href="{{ .RelPermalink }}#main">
+    <span class="place-nav-label">weiter →</span>
+    <span class="place-nav-title">{{ .Title }}</span>
+  </a>
+  {{ end }}
+</nav>
+{{ end }}
 
 <div class="footer">
   <div id="footerhome"><a href="/">ferndrang.de</a></div>

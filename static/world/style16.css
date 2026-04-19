@@ -288,6 +288,54 @@ h1 {
     display: none;
   }
 }
+
+.place-nav {
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 30px 10px;
+  border-top: 2px solid black;
+}
+
+.place-nav a {
+  text-decoration: none;
+  color: black;
+}
+
+.place-nav a:hover .place-nav-title {
+  border-bottom: 2px solid black;
+}
+
+.place-nav-prev {
+  text-align: left;
+}
+
+.place-nav-next {
+  text-align: right;
+  margin-left: auto;
+}
+
+.place-nav-label {
+  display: block;
+  /* text-transform: uppercase; */
+  /* font-style: italic; */
+  /* font-family: "Times New Roman", Times, serif; */
+  /* font-size: 1.2rem; */
+  letter-spacing: 1.0pt;
+  line-height: 1.9rem;
+}
+
+.place-nav-title {
+  display: block;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 1.3rem;
+  letter-spacing: 0.3rem;
+  border-bottom: 2px solid transparent;
+}
+
 .footer {
   background: black;
   height: 20px;
@@ -341,6 +389,15 @@ h1 {
 
   #copy {
     float: left;
+  }
+
+  .place-nav-title {
+    display: none;
+  }
+
+  .place-nav-label {
+    font-size: 1.2rem;
+    padding: 10px 0;
   }
 }
 
