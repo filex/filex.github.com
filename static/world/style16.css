@@ -30,6 +30,7 @@ a {
 
 html {
   font-size: 90%;
+  scroll-padding-top: 90px;
 }
 
 body {

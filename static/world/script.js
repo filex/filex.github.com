@@ -2,16 +2,6 @@
 function b(){return'@';}
 function a(){u=document.location;p=u.host.split('.');return"mailto:felix"+b()+p[p.length-2]+"."+p[p.length-1]+",az"+(9-1)+b()+"gmx."+p[p.length-1];}
 
-/* fixed header verdeckt sprungmarke */
-function scrollShowTargetHeading() {
-	if (document.location.hash == "#main") {
-		window.scrollTo(0, window.scrollY - 90);
-	}
-	/* only once */
-	window.removeEventListener('scroll', scrollShowTargetHeading);
-}
-
-window.addEventListener('scroll', scrollShowTargetHeading);
 
 /* close menu with Escape key */
 window.addEventListener('keydown', function(e) {
