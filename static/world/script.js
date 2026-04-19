@@ -20,12 +20,12 @@ window.addEventListener('keydown', function(e) {
 	}
 });
 
-/* close menu after click for in-page navigation (comments) */
+/* close menu on click: in-page nav links or clicking outside */
 window.addEventListener('click', function(e) {
-	var pid = e.target.parentElement.id;
-	if (pid == 'menu' || pid == 'menuScroller') {
-		toggleMenu();
-	}
+	if (!menuOpen) return;
+	var t = e.target;
+	if (t.closest('#nav')) return;
+	toggleMenu();
 });
 
 /* Fullscreen image gallery */
