@@ -5,17 +5,18 @@ function a(){u=document.location;p=u.host.split('.');return"mailto:felix"+b()+p[
 
 /* close menu with Escape key */
 window.addEventListener('keydown', function(e) {
-	if (e.key === 'Escape' && menuOpen) {
-		toggleMenu();
+	if (e.key === 'Escape') {
+		if (menuOpen) toggleMenu();
+		if (bottomMenuOpen) toggleBottomMenu();
 	}
 });
 
 /* close menu on click: in-page nav links or clicking outside */
 window.addEventListener('click', function(e) {
-	if (!menuOpen) return;
 	var t = e.target;
-	if (t.closest('#nav')) return;
-	toggleMenu();
+	if (menuOpen && !t.closest('#nav')) {
+		toggleMenu();
+	}
 });
 
 /* Fullscreen image gallery */
@@ -155,4 +156,18 @@ function toggleMenu() {
   }
 
   menuOpen = !menuOpen;
+}
+
+var bottomMenuOpen = false;
+
+function toggleBottomMenu() {
+  var button = document.querySelector(".place-nav-menu");
+  var menu = document.getElementById("bottom-menu");
+  var backdrop = document.getElementById("bottom-menu-backdrop");
+  if (!button || !menu) return;
+
+  bottomMenuOpen = !bottomMenuOpen;
+  menu.classList.toggle("open", bottomMenuOpen);
+  if (backdrop) backdrop.classList.toggle("visible", bottomMenuOpen);
+
 }

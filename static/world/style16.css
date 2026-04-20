@@ -292,7 +292,7 @@ h1 {
 
 .place-nav {
   display: flex;
-  justify-content: space-between;
+  align-items: center;
   width: 90%;
   max-width: 800px;
   margin: 0 auto;
@@ -310,12 +310,13 @@ h1 {
 }
 
 .place-nav-prev {
+  flex: 1;
   text-align: left;
 }
 
 .place-nav-next {
+  flex: 1;
   text-align: right;
-  margin-left: auto;
 }
 
 .place-nav-label {
@@ -330,11 +331,16 @@ h1 {
 
 .place-nav-title {
   display: block;
+  width: fit-content;
   text-transform: uppercase;
   font-weight: bold;
   font-size: 1.3rem;
   letter-spacing: 0.3rem;
   border-bottom: 2px solid transparent;
+}
+
+.place-nav-next .place-nav-title {
+  margin-left: auto;
 }
 
 .footer {

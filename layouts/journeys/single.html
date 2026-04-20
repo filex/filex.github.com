@@ -157,19 +157,34 @@ img#map {
 
 {{ if or $prev $next }}
 <nav class="place-nav">
-  {{ with $prev }}
-  <a class="place-nav-prev" href="{{ .RelPermalink }}#main">
+  {{ if $prev }}
+  <a class="place-nav-prev" href="{{ $prev.RelPermalink }}#main">
     <span class="place-nav-label">← zurück</span>
-    <span class="place-nav-title">{{ .Title }}</span>
+    <span class="place-nav-title">{{ $prev.Title }}</span>
   </a>
+  {{ else }}
+  <span class="place-nav-prev"></span>
   {{ end }}
-  {{ with $next }}
-  <a class="place-nav-next" href="{{ .RelPermalink }}#main">
+  <button class="place-nav-menu" onclick="toggleBottomMenu()" aria-label="Menu">
+    <span></span><span></span><span></span>
+  </button>
+  {{ if $next }}
+  <a class="place-nav-next" href="{{ $next.RelPermalink }}#main">
     <span class="place-nav-label">weiter →</span>
-    <span class="place-nav-title">{{ .Title }}</span>
+    <span class="place-nav-title">{{ $next.Title }}</span>
   </a>
+  {{ else }}
+  <span class="place-nav-next"></span>
   {{ end }}
 </nav>
+<div id="bottom-menu-backdrop" onclick="toggleBottomMenu()"></div>
+<aside id="bottom-menu">
+  <button id="bottom-menu-close" onclick="toggleBottomMenu()" aria-label="Menu schließen"></button>
+  {{- $parent := .Parent -}}
+  {{- range $parent.Pages.ByDate -}}
+    <a href="{{ .RelPermalink }}#main"{{ if eq .RelPermalink $.RelPermalink }} class="active"{{ end }}>{{ .Title }}</a>
+  {{- end -}}
+</aside>
 {{ end }}
 
 <div class="footer">
