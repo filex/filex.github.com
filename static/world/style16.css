@@ -161,7 +161,7 @@ h1 {
   position: relative;
   margin: 0 auto 0 auto ;
   width: 90%;
-  max-width: 800px;
+  max-width: 960px;
   padding: 10px;
 }
 
@@ -242,9 +242,9 @@ h1 {
   -moz-hyphens: auto;
   hyphens: auto;
 
-  line-height: 1.9rem;
+  line-height: 2.0rem;
   font-family: "Times New Roman", Times, serif;
-  font-size: 1.4rem;
+  font-size: 1.5rem;
 }
 
 
@@ -285,6 +285,10 @@ h1 {
   img.portrait + img.portrait {
     margin-right: 0;
   }
+  .entry img.portrait:not(:has(+ img.portrait)):not(img.portrait + img.portrait) {
+    width: 65%;
+    margin-right: 0;
+  }
   .entry img.mobonly {
     display: none;
   }
@@ -294,7 +298,7 @@ h1 {
   display: flex;
   align-items: center;
   width: 90%;
-  max-width: 800px;
+  max-width: 960px;
   margin: 0 auto;
   padding: 30px 10px;
   border-top: 2px solid black;
