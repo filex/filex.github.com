@@ -11,6 +11,9 @@
 {{- $heroWSURL := partial "cloudinary-url" (merge $urlArgs (dict "filename" .Parent.Params.hero_image_ws)) -}}
 {{- $heroBgWS := printf "url(%s) no-repeat" $heroWSURL | safeCSS -}}
 
+{{- $heroWSURLWide := partial "cloudinary-url" (merge $urlArgs (dict "filename" .Parent.Params.hero_image_ws "width" "w_2200")) -}}
+{{- $heroBgWSWide := printf "url(%s) no-repeat" $heroWSURLWide | safeCSS -}}
+
 {{- $heroQS := .Parent.Params.hero_image_qs -}}
 {{- $heroBgQS := "" -}}
 {{- if $heroQS -}}
@@ -98,6 +101,14 @@ img#map {
   }
 }
 {{ end }}
+
+@media (min-width: 1400px) {
+  .{{ $bodyClass }} #header {
+    background: {{ $heroBgWSWide }};
+    background-position: {{ .Parent.Params.image_position | default "50% 50%" }};
+    background-size: cover;
+  }
+}
 
 {{ with .Parent.Params.additional_css }}{{ . | safeCSS }}{{ end }}
 </style>
