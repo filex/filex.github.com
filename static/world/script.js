@@ -90,8 +90,8 @@ window.addEventListener('click', function(e) {
 
   function show(index) {
     currentIndex = index;
-    var src = images[index].src;
-    galleryImg.src = src;
+    var img = images[index];
+    galleryImg.src = img.dataset.gallerySrc || img.src;
     counter.textContent = (index + 1) + ' / ' + images.length;
     // try to collapse Safari toolbar before showing overlay
     if (document.activeElement) document.activeElement.blur();

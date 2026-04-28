@@ -23,6 +23,8 @@
   {{- $alt = "" -}}
 {{- end -}}
 
+{{- $galleryDest := "" -}}
+
 {{- /* Baue absoluten Pfad wenn relativer Pfad */ -}}
 {{- if not (hasPrefix $destination "/") -}}
   {{- if not (hasPrefix $destination "http") -}}
@@ -36,6 +38,10 @@
 
     {{- if $journeySlug -}}
       {{- $cloudinaryBase := .Page.Site.Params.cloudinaryBaseURL | default "https://res.cloudinary.com/ferndrang/image/upload" -}}
+      {{- if $cloudinaryFolder -}}
+        {{- $name := strings.TrimSuffix (path.Ext $destination) $destination -}}
+        {{- $galleryDest = printf "%s/w_2500,c_limit,q_auto,f_auto/%s/%s" $cloudinaryBase $cloudinaryFolder $name -}}
+      {{- end -}}
       {{- $destination = partial "cloudinary-url" (dict "filename" $destination "journeySlug" $journeySlug "cloudinaryFolder" ($cloudinaryFolder | default "") "cloudinaryBase" $cloudinaryBase "subdir" "img" "imageClass" $class) -}}
     {{- end -}}
   {{- end -}}
@@ -43,7 +49,7 @@
 
 {{- /* Generiere HTML */ -}}
 {{- if $class -}}
-<img class="{{ $class }}" src="{{ $destination }}"{{- with $alt }} alt="{{ . }}"{{ end }} loading="lazy">
+<img class="{{ $class }}" src="{{ $destination }}"{{- with $galleryDest }} data-gallery-src="{{ . }}"{{ end }}{{- with $alt }} alt="{{ . }}"{{ end }} loading="lazy">
 {{- else -}}
-<img src="{{ $destination }}" alt="{{ $alt }}" loading="lazy">
+<img src="{{ $destination }}"{{- with $galleryDest }} data-gallery-src="{{ . }}"{{ end }} alt="{{ $alt }}" loading="lazy">
 {{- end -}}
