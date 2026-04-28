@@ -8,9 +8,12 @@ continent: "Asien"
 
 cloudinary_folder: ferndrang/israel
 
-hero_image_tile: "hero_qs.jpg"
-hero_image_ws: "hero_ws.jpg"
-hero_image_qs: "hero_qs.jpg"
+# hero_image_tile: "hero_qs.jpg"
+hero_image_tile: AF_20230511_6052-2.jpg
+# hero_image_ws: "hero_ws.jpg"
+hero_image_ws: AF_20230511_6052-2.jpg
+# hero_image_qs: "hero_qs.jpg"
+hero_image_qs: AF_20230511_6052-2.jpg
 image_position: "10% 10%"
 image_position_mobile: "50% 10%"
 tile_image_position: "center 5%"
