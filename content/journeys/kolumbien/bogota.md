@@ -16,7 +16,7 @@ Die Hangseite des Viertels ist weniger schick, aber interessanter. Hier versteck
 ![](AF_20151222_8170.jpg)
 ![](AF_20151222_8293.jpg)
 ![](AF_20151222_8220.jpg)
-![](AF_20151222_8237.jpg)
+![](AF_20151222_8234.jpg)
 
 Wir marschieren erstmal ans Ostende des Viertels, wo eine Seilbahn auf den Monserrate heraufführt. Die Kirche dort oben ist nicht der Rede wert und die Stände ebensowenig. Aber der Blick über Bogota ist fantastisch. Die Stadt erstreckt sich bis an den Horizont. Auf dem Rückweg war plötzlich eine lange Schlange vor der Seilbahn und ganz viele Leute noch dorthin unterwegs. Der Sonnenuntergang auf dem Berg scheint eine beliebte Attraktion zu sein.
 
