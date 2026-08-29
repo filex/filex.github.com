@@ -2,6 +2,7 @@ baseURL = "https://www.ferndrang.de/"
 languageCode = "de"
 title = "ferndrang"
 disableKinds = ["RSS"]
+buildFuture = true
 
 [params]
   author = "A. Zeisler & F. Hassert"
