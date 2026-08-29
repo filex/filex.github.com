@@ -1,5 +1,5 @@
 ---
-title: "Luanda"
+title: "Angola"
 slug: "angola/luanda"
 date: 2026-09-06
 ---
