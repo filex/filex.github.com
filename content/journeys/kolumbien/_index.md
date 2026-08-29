@@ -7,6 +7,7 @@ end_date: 2016-01-18
 continent: "Amerika"
 
 cloudinary_folder: ferndrang/kolumbien
+image_max_edge: 2500
 
 hero_image_tile: "hero_ws.jpg"
 hero_image_ws: "hero_ws.jpg"

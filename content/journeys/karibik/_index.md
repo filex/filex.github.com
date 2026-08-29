@@ -11,6 +11,7 @@ index_additions:
     link: /banana_lama
 
 cloudinary_folder: ferndrang/dominica
+image_max_edge: 2500
 
 hero_image_ws: "hero_ws.jpg"
 hero_image_qs: "hero_qs.jpg"

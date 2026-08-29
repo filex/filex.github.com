@@ -7,6 +7,7 @@ end_date: 2022-12-31
 continent: "Afrika"
 
 cloudinary_folder: ferndrang/suedafrika
+image_max_edge: 2500
 
 hero_image_tile: "hero_qs.jpg"
 hero_image_ws: "hero_ws.jpg"

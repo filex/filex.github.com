@@ -27,4 +27,5 @@ map_margin: "0 auto"
 
 # Cloudinary Integration
 cloudinary_folder: "ferndrang/slowenien"
+image_max_edge: 2500
 ---

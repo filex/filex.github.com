@@ -91,7 +91,14 @@ window.addEventListener('click', function(e) {
   function show(index) {
     currentIndex = index;
     var img = images[index];
-    galleryImg.src = img.dataset.gallerySrc || img.src;
+    // data-gallery-src is emitted only where the original is larger than the thumbnail
+    // request, so the remaining question is whether this screen can show more pixels.
+    var match = img.src.match(/\/w_(\d+)[,/]/);
+    var thumbWidth = match ? parseInt(match[1], 10) : 0;
+    var screenWidth = window.innerWidth * (window.devicePixelRatio || 1);
+    galleryImg.src = (img.dataset.gallerySrc && thumbWidth < screenWidth)
+      ? img.dataset.gallerySrc
+      : img.src;
     counter.textContent = (index + 1) + ' / ' + images.length;
     // try to collapse Safari toolbar before showing overlay
     if (document.activeElement) document.activeElement.blur();

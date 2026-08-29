@@ -7,6 +7,7 @@ end_date: 2023-05-21
 continent: "Asien"
 
 cloudinary_folder: ferndrang/israel
+image_max_edge: 2500
 
 # hero_image_tile: "hero_qs.jpg"
 hero_image_tile: AF_20230511_6052-2.jpg

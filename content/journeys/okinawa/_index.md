@@ -8,6 +8,7 @@ continent: "Asien"
 index_title: Okinawa (Japan)
 
 cloudinary_folder: ferndrang/okinawa
+image_max_edge: 2500
 
 hero_image_tile: "hero_qs.jpg"
 hero_image_ws: "hero_ws.jpg"

@@ -31,16 +31,21 @@
     {{- /* Hole Journey-Slug und Cloudinary-Folder vom Parent */ -}}
     {{- $journeySlug := "" -}}
     {{- $cloudinaryFolder := "" -}}
+    {{- $maxEdge := 0 -}}
     {{- if .Page.Parent -}}
       {{- $journeySlug = .Page.Parent.Params.slug -}}
       {{- $cloudinaryFolder = .Page.Parent.Params.cloudinary_folder -}}
+      {{- $maxEdge = int (.Page.Parent.Params.image_max_edge | default 0) -}}
     {{- end -}}
 
     {{- if $journeySlug -}}
       {{- $cloudinaryBase := .Page.Site.Params.cloudinaryBaseURL | default "https://res.cloudinary.com/ferndrang/image/upload" -}}
-      {{- if $cloudinaryFolder -}}
+      {{- /* A gallery URL only helps if the original is larger than the thumbnail request. */ -}}
+      {{- $thumbWidth := cond (eq $class "portrait") 800 1600 -}}
+      {{- if and $cloudinaryFolder (gt $maxEdge $thumbWidth) -}}
         {{- $name := strings.TrimSuffix (path.Ext $destination) $destination -}}
-        {{- $galleryDest = printf "%s/w_2500,c_limit,q_auto,f_auto/%s/%s" $cloudinaryBase $cloudinaryFolder $name -}}
+        {{- $galleryDim := cond (eq $class "portrait") "h" "w" -}}
+        {{- $galleryDest = printf "%s/%s_%d,c_limit,q_auto,f_auto/%s/%s" $cloudinaryBase $galleryDim $maxEdge $cloudinaryFolder $name -}}
       {{- end -}}
       {{- $destination = partial "cloudinary-url" (dict "filename" $destination "journeySlug" $journeySlug "cloudinaryFolder" ($cloudinaryFolder | default "") "cloudinaryBase" $cloudinaryBase "subdir" "img" "imageClass" $class) -}}
     {{- end -}}
