@@ -1,9 +1,31 @@
 ---
-title: "Angola"
-slug: "angola/luanda"
-date: 2026-09-06
+title: Angola
+slug: angola/luanda
+date: 2026-09-05
 ---
 
 #
 
 Es ist Zeit für ein Abenteuer! *Angola* – ein riesiges Land zwischen Kongo und Namibia – scheint sich hervorragend zu eignen: Der Tourismus steckt noch in seinen Anfängen, was wir bei unseren holprigen Vorbereitungen gemerkt haben. Aber es gibt jede Menge tolle Ziele, die wir ansteuern wollen.
+
+## 05/09/2026
+
+In Luanda ist seit kurzem der riesige, neue Flughafen NBJ in Betrieb. Alles wirkte nagelneu und ziemlich überdimensioniert. Auffällig viele Schilder waren auch auf Chinesisch beschriftet und verrieten die Entstehung des Flughafens. Angola hat seit einiger Zeit die Visumspflicht für Touristen aufgehoben, so dass wir einfach durch die Passkontrolle gehen konnten. Es hat trotzdem ewig gedauert, und als wir endlich unser Gepäck hatten, war es schon dunkel. Wir haben uns vom Hotel _Art House_ abholen lassen und der Fahrer wartete schon.
+
+Der Weg vom Flughafen in die Stadt dauerte fast eine Stunde. Die Straße führt schnurgerade Richtung Stadt. Wir kamen an vielen chinesischen Fabriken vorbei. Die Autos wirkten insgesamt gar nicht so alt, aber die Abgase der Busse und Lastwagen haben gereicht, um immer wieder lokale Smog-Inseln zu erzeugen, die uns fast den Atem raubten. Die nächtliche Fahrt erinnerte uns an [Indien](/indien/). Die Vorstädte waren erwartungsgemäß trist und bestanden aus kilometerlangen Siedlungen aus selbstgebauten Hütten. Erst weit im Stadtkern wurde es urbaner, wenn auch nicht weniger trist.
+
+An der großen Uferstraße wirkte es dann fast schön. Der imposante Kolonialbau der Nationalbank war in der Nacht schön angestrahlt und man konnte eine Reihe von Hochhäusern erahnen. Der natürliche Hafen von Luanda wird von einer dünnen, langen Landzunge beschützt, der _Ilha de Luanda_, die als flache Lichterkette hinter der Bucht glitzerte. Dorthin mussten wir. Die Halbinsel hat einige belebte Ecken, wo es Bars und Restaurants gibt.
+
+## 06/09/2026
+
+Von unserem Fenster aus hatten wir direkten Blick aufs offene Meer. Das klingt romantischer als es war. An dem dünnen Strandstreifen biwakten Fischer und waren schon mit ihren Booten und Netzen beschäftigt. Unseren Spaziergang durch Luanda haben wir vom _Art House_ in Richtung Ende der Ilha begonnen. Ein paar Blocks weiter lagen die großen Grundstücke von einigen bekannten Beach Clubs mit verheißungsvollen Namen wie Miami Beach, Malibu Beach und Cafe del Mar. Morgens war dort noch nichts los. Dafür wurde die Straße intensiv von Locals und Expats zum Rennradfahren und Joggen benutzt. Das ergab eine interessante Mischung mit den abgerissenen Gestalten, die die Nacht draußen am Strand verbracht hatten.
+
+Einer der lokalen Fahrdienste in Angola ist _Heetch_. Man muss zwar Cash bezahlen, aber man kann Abholung und Ziel gut über die App bestimmen. Für umgerechnet 1,50 € haben wir uns in die Stadt zur Zitadelle fahren lassen. Im Winkel der Bucht gelegen, hat man von dort einen schönen Blick auf die Uferpromenade und „Skyline“ von Luanda. Von dort aus wirkt die Stadt fast wie eine moderne Metropole. Im Uferpark war ein Hüpfburg-Festival aufgebaut, Hochhäuser und Kräne für noch mehr Hochhäuser flankierten die riesige Uferstraße, und adrette Kolonialbauten gaben dem Ensemble einen edlen Touch. In der Festung gab es allerlei Kriegsgerät zu sehen. Ein Gebäude ist innen mit hübschen Azulejos – blauen Kacheln – mit verträumten Motiven aus dem ländlichen Angola geschmückt. Das ist ein Fake aus den 30er Jahren, der den viel älteren, portugiesischen Kachelstil nachahmt.
+
+Luanda wächst und verfällt in Wellen, die vom Ufer ausgehen. Die Uferpromenade _Marginal_ ist sehr modern, und auch hier wird sonntags gejoggt und flaniert. Schon die andere Straßenseite mit den neuen Hochhäusern wirkte (zumindest sonntags) komplett ausgestorben. Wahrscheinlich waren es Bürogebäude, aber es gab auch in den Erdgeschossen keinerlei Geschäfte oder Cafes, die etwas Leben angezogen hätten. Es gibt ein paar Lichtblicke, wie das ikonische Denkmal der Kriegsgefallenen oder den top modern gestalteten Platz vom Museu da Moeda, der auch in Lissabon sein könnte. Aber auch hier fehlt ein Kiosko mit Kaffee oder Snacks.
+
+In den dahinter liegenden Straßen fühlt man sich schon weniger wohl. Die ehemals repräsentativen Gebäude aus der Kolonialzeit sind fast alle verlassen, verfallen und voller Müll. Diese Blocks gehören den Obdachlosen, die Luft riecht nach Urin. Wir sind noch ein bisschen durch die dahinter liegende Innenstadt spaziert. Die Häuser waren etwas neuer, aber meist in keinem guten Zustand. Auf Google Maps schien es dort viele Cafes und Hotels zu geben. Vielleicht lag es am Sonntag, aber uns kam es nicht besonders lebendig vor. Nur bei den Geldautomaten herrschte Betrieb.
+
+Wir haben uns noch eine Weile an die Marginal gesetzt und dem Treiben zugeschaut. Ein paar hartnäckige Straßenkinder haben gegen uns im Warten-wer-zuerst-geht verloren. Dann haben wir ein Heetch gerufen und sind ins _Cafe del Mar_ auf der Ilha gefahren. Der Laden war sehr hübsch gemacht, der perfekte Ort für einen Sundowner. Die lokalen Gäste haben sich aufgetakelt und die Kellner herablassend behandelt – verstärkt vielleicht das Gefühl von Luxus. Wir waren nach dem Stadtspaziergang in kurzen Hosen fast underdressed, haben uns das lokale Bier _Cuca_ und gegrillten Fisch aber trotzdem gut schmecken lassen.
+
+Weil wir kein Taxi bekommen haben, sind wir zu Fuß ins Hotel gelaufen. Trotz der Warnungen im Reiseführer, niemals im dunkeln zu gehen, schien uns das nicht besonders verrückt. Jedes zweite Grundstück hatte ohnehin einen verschlafenen Wachmann auf einem Plastikstuhl vor dem Zaun sitzen.
