@@ -12,7 +12,7 @@ In der Lodge war zuerst kein Mensch zu sehen. Aber die Sonne schien endlich mal 
 
 Nach den aufregenden Tagen haben wir es uns einfach am Strand gemütlich gemacht. Obwohl es nur um die 20°C war, hatte die Sonne viel Kraft. Die Temperaturen werden hier eher von der kalten Luft bestimmt, die vom Meer kommt. Abends haben wir das erste Mal gefroren und alles angezogen, was wir dabei hatten.
 
-# 20/09/2026
+## 20/09/2026
 
 Am Vormittag haben wir eine kleine Wanderung zum (verlassenen) Leuchtturm gemacht, der gut sichtbar auf einem höheren Plateau stand. Der Wanderweg ging durch ein ausgetrocknetes Flussbett. Obwohl es weit aussah, waren wir bald am Fuß des Hügels. Die Flanken waren ausgewaschene, erodierte Schutthalden. Hyänen patrouillieren dort und haben gut sichtbare Trampelpfade hinterlassen. (Natürlich haben wir keine gesehen). Vom Leuchtturm aus hat man einen tollen Blick über die leere Landschaft und das Meer. Wir konnten die Flamingo Lodge beruhigend in der Ferne sehen.
 
