@@ -7,7 +7,7 @@ date: 2017-11-12
 
 Kyoto ist die Stadt der Tempel, Gärten und Geishas. Wer in diesen Bereichen mehr als nur einen oberflächlichen Eindruck gewinnen will, sollte am besten gleich hierhin umziehen. Wir haben es bei ein paar Tagen belassen, die damit begannen verschiedene Varianten zu testen, den verrückt großen Bahnhof zu verlassen.
 
-Die Stadt liegt in einer flachen Pfanne, die ringsum von Hügeln eingeschlossen ist. Die meisten Sehenswürdigkeiten liegen an den Stadträndern, weil die Adligen ihre Gärten gerne vor der unverbauten Kulisse der bewaldeten Hänge anlegten. Das hat uns einige zähe Busfahrten beschert. Unser kleines Hotel [Rak Kyimizu](http://rak-kyoto-hostel.com/en/) ist in der interessanten Gegend von Higashiyama super gelegen, weil man von dort aus auch einiges zu Fuß erreichen kann.
+Die Stadt liegt in einer flachen Pfanne, die ringsum von Hügeln eingeschlossen ist. Die meisten Sehenswürdigkeiten liegen an den Stadträndern, weil die Adligen ihre Gärten gerne vor der unverbauten Kulisse der bewaldeten Hänge anlegten. Das hat uns einige zähe Busfahrten beschert. Unser kleines Hotel [Rak Kyimizu](https://rak-kyoto-hostel.com/en/) ist in der interessanten Gegend von Higashiyama super gelegen, weil man von dort aus auch einiges zu Fuß erreichen kann.
 
 ![](AF_20171115_7292.jpg)
 ![](AF_20171115_7306.jpg)

@@ -31,7 +31,7 @@ Von Hawzien aus fährt man nicht lange zu den senkrecht aufragenden Bergen, in d
 ![](AF_20170101_3317.jpg)
 ![](AF_20170101_3325.jpg)
 
-Von außen sieht man von Maryam Korkor nur eine kleine Frontfassade. Ähnlich wie bei den Höhle von [Dambullah (Sri Lanka)](/srilanka/02_dambulla.html) liegt dahinter die Kirche in einer ausgebauten Höhle. Der quadratischen Raum bekommt von vier mächtigen Säulen eine kirchliche Anmutung, auch wenn sie hier keine tragende Funktion haben. Die Wände sind mit heiligen Figuren und biblischen Szenen bemalt. Das Allerheiligste wird von einem Bild der Gottesmutter und allerlei Texten verdeckt, die auf reflektierende Lastwagenplane gedruckt wurde. Obwohl der Aufstieg über eine Stunde dauert und schon weit über 2000m startet, sagt man uns, sei die Kirche sonntags voll.
+Von außen sieht man von Maryam Korkor nur eine kleine Frontfassade. Ähnlich wie bei den Höhle von [Dambullah (Sri Lanka)](/srilanka/03_dambulla/) liegt dahinter die Kirche in einer ausgebauten Höhle. Der quadratischen Raum bekommt von vier mächtigen Säulen eine kirchliche Anmutung, auch wenn sie hier keine tragende Funktion haben. Die Wände sind mit heiligen Figuren und biblischen Szenen bemalt. Das Allerheiligste wird von einem Bild der Gottesmutter und allerlei Texten verdeckt, die auf reflektierende Lastwagenplane gedruckt wurde. Obwohl der Aufstieg über eine Stunde dauert und schon weit über 2000m startet, sagt man uns, sei die Kirche sonntags voll.
 
 ![](AF_20170101_3341.jpg)
 ![](AF_20170101_3356.jpg)

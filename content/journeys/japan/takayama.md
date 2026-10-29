@@ -14,7 +14,7 @@ In Toyama gibt es nichts zu sehen. Daher sind wir nach Takayama gefahren. Der kl
 
 # Fukuji Onsen
 
-Der Erholungseffekt der Reise ließ bisher etwas zu wünschen übrig. Daher sind wir mittags in das kleine Onsen-Kaff Fukuji-Onsen in den Bergen gefahren, wo wir uns einen Tag im Ryokan [Yumoto Choza](http://www.cyouza.com/eng/) gegönnt haben. Der Ryokan ist etwas rustikaler, denn vor 70 Jahren war das noch ein Bauernhaus. In der Zwischenzeit ist aber ordentlich aufgemöbelt worden. Wir hatten von unserem geräumigen Tatami-Zimmer einen schönen Blick auf die bemoosten Gänge, die das Haus mit seinem wichtigsten Feature verbindet - den Onsen-Bädern.
+Der Erholungseffekt der Reise ließ bisher etwas zu wünschen übrig. Daher sind wir mittags in das kleine Onsen-Kaff Fukuji-Onsen in den Bergen gefahren, wo wir uns einen Tag im Ryokan [Yumoto Choza](https://www.cyouza.com/eng/) gegönnt haben. Der Ryokan ist etwas rustikaler, denn vor 70 Jahren war das noch ein Bauernhaus. In der Zwischenzeit ist aber ordentlich aufgemöbelt worden. Wir hatten von unserem geräumigen Tatami-Zimmer einen schönen Blick auf die bemoosten Gänge, die das Haus mit seinem wichtigsten Feature verbindet - den Onsen-Bädern.
 
 ![](AF_20171111_6847.jpg)
 

@@ -9,7 +9,7 @@ Eigentlich dachten wir, dass es nach Yunishigawa-Onsen, 20km Luftlinie von Nikko
 
 ![](AF_20171108_6467.jpg)
 
-Nach einer Sammel- und Umtauschaktion unter den Fahrgästen, weil wir ausgerechnet hier kein Kleingeld für den Bus hatten, kamen wir endlich beim Ryokan [Honke Bankyu](https://www.bankyu.co.jp/english/) an. Das traditionelle, japanische Gasthaus empfängt schon seit über 300 Jahren Gäste. In Ryokans wird alles traditionsgemäß erledigt. Als Gast bekommt man dafür alles Nötige gestellt: Erstmal Schuhe aus und rein in die Zehensocken und Sandalen. Im riesigen Tatami-Zimmer mit „Papierwänden“ bekamen wir dann das Fitting für den kleidsamen Haus-Kimono (Yukata), in dem alle Gäste umherwandeln.
+Nach einer Sammel- und Umtauschaktion unter den Fahrgästen, weil wir ausgerechnet hier kein Kleingeld für den Bus hatten, kamen wir endlich beim Ryokan [Honke Bankyu](https://bankyu.net/) an. Das traditionelle, japanische Gasthaus empfängt schon seit über 300 Jahren Gäste. In Ryokans wird alles traditionsgemäß erledigt. Als Gast bekommt man dafür alles Nötige gestellt: Erstmal Schuhe aus und rein in die Zehensocken und Sandalen. Im riesigen Tatami-Zimmer mit „Papierwänden“ bekamen wir dann das Fitting für den kleidsamen Haus-Kimono (Yukata), in dem alle Gäste umherwandeln.
 
 ![](AF_20171107_6413.jpg)
 

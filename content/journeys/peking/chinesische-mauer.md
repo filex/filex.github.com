@@ -26,4 +26,4 @@ Auf dem Rückweg haben wir uns im Kunstbezirk 798 absetzen lassen. Obwohl er auf
 ![](AF_20171101_5463.jpg)
 ![](AF_20171101_5492.jpg)
 
-Leider war es nach 18 Uhr schnell ausgestorben, so dass wir wieder die abendliche Metro-Wallfahrt nach Hause angetreten sind. Wir mussten früh ins Bett, weil wir mitten in der Nacht schon wieder zum Flughafen mussten, um nach [Japan](//live.ferndrang.de/japan/) weiter zu reisen.
+Leider war es nach 18 Uhr schnell ausgestorben, so dass wir wieder die abendliche Metro-Wallfahrt nach Hause angetreten sind. Wir mussten früh ins Bett, weil wir mitten in der Nacht schon wieder zum Flughafen mussten, um nach [Japan](/japan/) weiter zu reisen.
