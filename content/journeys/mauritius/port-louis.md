@@ -10,7 +10,7 @@ Am Nachmittag haben wir einen Abstecher nach _Port Louis_ gemacht. Über die Kre
 
 ![](AF_20231230_9621.jpg)
 
-Wir sind zu Fuß in die Stadt gelaufen. Die Straßen waren vermüllt und verstopft. Überall war viel los. Der Markt war leider schon am Abbau. Aber es war noch genug Gewusel in den Hallen, das man sich einen Eindruck von seiner Geschäftigkeit machen konnte.
+Wir sind zu Fuß in die Stadt gelaufen. Die Straßen waren vermüllt und verstopft. Überall war viel los. Der Markt war leider schon am Abbauen. Aber es war noch genug Gewusel in den Hallen, dass man sich einen Eindruck von seiner Geschäftigkeit machen konnte.
 
 ![portrait](AF_20231230_9569.jpg)
 
