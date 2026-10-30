@@ -4,7 +4,7 @@ slug: "mauritius/grand-bassin"
 date: 2023-12-26
 ---
 
-Nach der Rückkehr von unserer Wanderung sind wir zum nahegelegenen _Grand Bassin_ gefahren. Überraschenderweise liegt dort das einzige den Hindus heilige Gewässer außerhalb Indiens. (Der Sage nach handelt es sich sogar um ein Schippchen Ganges, der da versehentlich gelandet ist!) Und daher gibt's am Grand Bassin auch ein Großer Hindu-Tempel.
+Nach der Rückkehr von unserer Wanderung sind wir zum nahegelegenen _Grand Bassin_ gefahren. Überraschenderweise liegt dort das einzige den Hindus heilige Gewässer außerhalb Indiens. (Der Sage nach handelt es sich sogar um ein Schippchen Ganges, der da versehentlich gelandet ist!) Und daher gibt's am Grand Bassin auch einen Großen Hindu-Tempel.
 
 ![](AF_20231226_9376.jpg)
 
