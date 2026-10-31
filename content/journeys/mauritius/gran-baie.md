@@ -16,6 +16,7 @@ Ein Stückchen weiter südlich öffnet sich die prächtige Bucht von _Mon Choisy
 
 Im Hinterland liegt ein wichtiger Hindu-Tempel, aber als wir am späten Nachmittag dort waren, war überhaupt nichts los.
 
+![portrait](AF_20231228_9523.jpg)
 ![portrait](IMG_9900.jpg)
 
 Abends konnten wir uns auch nicht so recht für die mittelprächtigen Schuppen in Gran Baie begeistern. Da hätte man auch mit dem Auto hinfahren müssen. Daher sind wir zu Picknickern geworden. Wir haben uns in einem gigantischen Supermarkt (regelrechter Megamarkt!) mit Baguette, Käse, Schinken und Rotwein eingedeckt. Abends haben wir ein paar Hundert Meter von unserem Hotel entfernt auf einem kleinen Grasstreifen, der eine Lücke zwischen den Mauern erobert hat und Blick auf die Bucht bot, gemütlich im Schein der Stirnlampe gevespert.

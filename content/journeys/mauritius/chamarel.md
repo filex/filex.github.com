@@ -29,3 +29,5 @@ Am Nachmittag sind wir die Westküste ein Stück nach Norden hochgefahren, um de
 Weiter in Fliq en Flac sah es schon anders aus. Der Strand selbst ist endlos und wäre sehr schön, wenn man eine Zeitreise in die Vergangenheit machen könnte. Bei uns war es knallvoll mit Einheimischen und Touristen, die den Feiertag mit ihren Familien und Freunden am Strand verbrachten. So weit das Auge reichte, lagen die Touristen unten im Sand, während es sich die Einheimischen ein paar Meter darüber im Gras oder zwischen den Bäumen gemütlich gemacht haben. Im Wasser tummelten sich alle gemeinsam. Ausgelassene Atmosphäre, aber eher Kirmes als Traumstrand.
 
 Auf dem Rückweg haben wir uns einer hausgroßen Werbetafel anvertraut und sind indisch Essen gegangen. Das ist überall auf der Welt ein guter kulinarischer Plan B, und insbesondere hier überhaupt nicht abwegig. Sehr angenehm war, dass es trotz Weihnachten keinerlei Heckmeck wegen Reservierung gab. Das Restaurant und vor allem die Kellnerinnen waren ziemlich weihnachtlich dekoriert.
+
+![](AF_20231225_9280.jpg)

@@ -22,11 +22,3 @@ Um den See herum stehen kleine Altäre für die unterschiedlichsten Gottheiten �
 ![portrait](AF_20231226_9377.jpg)
 ![](AF_20231226_9393.jpg)
 ![](AF_20231226_9395.jpg)
-
-## Indische Kultur in Mauritius
-
-Nicht nur am Grand Bassin sondern überall auf Mauritius begnete uns die indische Kultur. Das war für den unvorbereiteten Reisenden eine kleine Überraschung.
-
-![](AF_20231223_9146.jpg)
-![portrait](AF_20231228_9523.jpg)
-![](AF_20231225_9280.jpg)
