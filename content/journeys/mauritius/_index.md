@@ -14,7 +14,7 @@ image_brightness: 90
 
 # Icon
 icon: "icon.svg"
-icon_position: "center 105px"
+icon_position: "center 115px"
 icon_size: "4.5rem"
 tile_icon_css: "width: 60px;"
 
