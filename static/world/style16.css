@@ -266,6 +266,11 @@ h1 {
   aspect-ratio: 3/2;
 }
 
+.entry p:has(> img) + p:not(:has(> img)),
+.entry p:not(:has(> img)) + p:has(> img) {
+  margin-top: 40px;
+}
+
 .entry img.portrait {
   aspect-ratio: 2/3;
 }
