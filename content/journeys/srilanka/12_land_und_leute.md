@@ -2,7 +2,7 @@
 title: "Land und Leute"
 slug: "srilanka/12_land_und_leute"
 aliases: ["/srilanka/12_land_und_leute.html"]
-date: 2014-12-13
+date: 2015-01-10
 ---
 
 Überall im Land hängen Plakate von President Mahinda, der aussieht wie Eddy Murphy als Messdiener. Da er, wie uns gesagt wurde, mit einem beträchtlichen Teil seines Kabinetts verwandt sein soll, ist unter den Bürgern der Gedanken entstanden, dass er das Wohl des Volkes unter Umständen nur an zweiter Stelle im Auge hat. Die Wahlen im Januar könnten dazu interessantes Feedback geben. Aber er hat mir zum Neujahr eine SMS geschrieben, was ich sehr nett fand.
