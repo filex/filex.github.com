@@ -20,6 +20,9 @@ tile_icon_css: "width: 60px;"
 
 # Layout
 body_class: "mauritius"
+map: "map.svg"
+map_width: "600px"
+map_margin: "50px auto 80px auto"
 
 additional_css: |
   .mauritius #header::before {
