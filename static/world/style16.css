@@ -305,8 +305,7 @@ h1 {
   width: 90%;
   max-width: 960px;
   margin: 0 auto;
-  padding: 30px 10px;
-  border-top: 2px solid black;
+  padding: 10px 10px;
 }
 
 .place-nav a {
@@ -412,7 +411,7 @@ h1 {
   }
 
   .place-nav-label {
-    font-size: 1.2rem;
+    font-size: 1.4rem;
     padding: 10px 0;
   }
 }
@@ -518,6 +517,3 @@ h1 {
 }
 
 }
-
-
-
